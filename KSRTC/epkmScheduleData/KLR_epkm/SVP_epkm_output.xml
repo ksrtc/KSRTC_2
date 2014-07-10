@@ -1,0 +1,3480 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> SVP-1
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 275 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8525 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 121648 </revenue>
+
+
+<epkm> 1427.0 </epkm>
+
+
+<passengers> 18942 </passengers>
+
+
+<cost> 182938 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-2
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 296 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9036 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 198282 </revenue>
+
+
+<epkm> 2194.4 </epkm>
+
+
+<passengers> 17400 </passengers>
+
+
+<cost> 193904 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-3
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 282 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8652 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 155410 </revenue>
+
+
+<epkm> 1796.2 </epkm>
+
+
+<passengers> 17817 </passengers>
+
+
+<cost> 185663 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-4
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PTR </end_station>
+
+
+<schkms> 700 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21700 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 373859 </revenue>
+
+
+<epkm> 1722.9 </epkm>
+
+
+<passengers> 9604 </passengers>
+
+
+<cost> 465660 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-5
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KGP </end_station>
+
+
+<schkms> 302 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9086 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 130077 </revenue>
+
+
+<epkm> 1431.6 </epkm>
+
+
+<passengers> 15569 </passengers>
+
+
+<cost> 194976 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-6
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 481 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14473 </effkms>
+
+
+<expected_revenue> 279000 </expected_revenue>
+
+
+<revenue> 233075 </revenue>
+
+
+<epkm> 1610.4 </epkm>
+
+
+<passengers> 10941 </passengers>
+
+
+<cost> 310576 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-7
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 280 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7734 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 117546 </revenue>
+
+
+<epkm> 1519.9 </epkm>
+
+
+<passengers> 13722 </passengers>
+
+
+<cost> 165964 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-8
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PKT </end_station>
+
+
+<schkms> 354 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10668 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 116948 </revenue>
+
+
+<epkm> 1096.3 </epkm>
+
+
+<passengers> 15117 </passengers>
+
+
+<cost> 228925 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-9
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 504 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15624 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 305655 </revenue>
+
+
+<epkm> 1956.3 </epkm>
+
+
+<passengers> 10950 </passengers>
+
+
+<cost> 335275 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-11
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> NMK </end_station>
+
+
+<schkms> 325 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9555 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 122191 </revenue>
+
+
+<epkm> 1278.8 </epkm>
+
+
+<passengers> 14401 </passengers>
+
+
+<cost> 205041 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-12
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 294 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8818 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 128542 </revenue>
+
+
+<epkm> 1457.7 </epkm>
+
+
+<passengers> 16569 </passengers>
+
+
+<cost> 189225 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-13
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PKT </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9142 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 103335 </revenue>
+
+
+<epkm> 1130.3 </epkm>
+
+
+<passengers> 12873 </passengers>
+
+
+<cost> 196178 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-14
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> HDP </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10514 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 208120 </revenue>
+
+
+<epkm> 1979.5 </epkm>
+
+
+<passengers> 11836 </passengers>
+
+
+<cost> 225620 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-15
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 484 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14456 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 262380 </revenue>
+
+
+<epkm> 1815.0 </epkm>
+
+
+<passengers> 7332 </passengers>
+
+
+<cost> 310211 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-16
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 570 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 17480 </effkms>
+
+
+<expected_revenue> 372000 </expected_revenue>
+
+
+<revenue> 355053 </revenue>
+
+
+<epkm> 2031.2 </epkm>
+
+
+<passengers> 8806 </passengers>
+
+
+<cost> 375103 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-17
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 478 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14340 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 339080 </revenue>
+
+
+<epkm> 2364.6 </epkm>
+
+
+<passengers> 9609 </passengers>
+
+
+<cost> 307722 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-18
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CTR </end_station>
+
+
+<schkms> 572 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 17707 </effkms>
+
+
+<expected_revenue> 372000 </expected_revenue>
+
+
+<revenue> 326739 </revenue>
+
+
+<epkm> 1845.3 </epkm>
+
+
+<passengers> 8064 </passengers>
+
+
+<cost> 379975 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-19
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 322 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8969 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 86058 </revenue>
+
+
+<epkm> 959.5 </epkm>
+
+
+<passengers> 11486 </passengers>
+
+
+<cost> 192466 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-21
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 310 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9370 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 104356 </revenue>
+
+
+<epkm> 1113.7 </epkm>
+
+
+<passengers> 12575 </passengers>
+
+
+<cost> 201071 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-22
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 314 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9636 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 148570 </revenue>
+
+
+<epkm> 1541.8 </epkm>
+
+
+<passengers> 17396 </passengers>
+
+
+<cost> 206779 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-23
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> HSD </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9498 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 112963 </revenue>
+
+
+<epkm> 1189.3 </epkm>
+
+
+<passengers> 11438 </passengers>
+
+
+<cost> 203818 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-24
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> YLD </end_station>
+
+
+<schkms> 314 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9644 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 121867 </revenue>
+
+
+<epkm> 1263.7 </epkm>
+
+
+<passengers> 17621 </passengers>
+
+
+<cost> 206951 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-25
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PTR </end_station>
+
+
+<schkms> 698 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21468 </effkms>
+
+
+<expected_revenue> 418500 </expected_revenue>
+
+
+<revenue> 379785 </revenue>
+
+
+<epkm> 1769.1 </epkm>
+
+
+<passengers> 8914 </passengers>
+
+
+<cost> 460682 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-27
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 340 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10302 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 271153 </revenue>
+
+
+<epkm> 2632.0 </epkm>
+
+
+<passengers> 9553 </passengers>
+
+
+<cost> 221071 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-29
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 300 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9166 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 164536 </revenue>
+
+
+<epkm> 1795.1 </epkm>
+
+
+<passengers> 19043 </passengers>
+
+
+<cost> 196693 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-30
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9946 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 152829 </revenue>
+
+
+<epkm> 1536.6 </epkm>
+
+
+<passengers> 17311 </passengers>
+
+
+<cost> 213431 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-31
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 328 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9976 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 181363 </revenue>
+
+
+<epkm> 1818.0 </epkm>
+
+
+<passengers> 18349 </passengers>
+
+
+<cost> 214075 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-32
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> DDR </end_station>
+
+
+<schkms> 302 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9160 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 116635 </revenue>
+
+
+<epkm> 1273.3 </epkm>
+
+
+<passengers> 25504 </passengers>
+
+
+<cost> 196564 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-33
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<schkms> 320 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9570 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 109544 </revenue>
+
+
+<epkm> 1144.7 </epkm>
+
+
+<passengers> 19336 </passengers>
+
+
+<cost> 205363 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-34
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 395 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 12145 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 153699 </revenue>
+
+
+<epkm> 1265.5 </epkm>
+
+
+<passengers> 12463 </passengers>
+
+
+<cost> 260620 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-37
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9870 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 115804 </revenue>
+
+
+<epkm> 1173.3 </epkm>
+
+
+<passengers> 14543 </passengers>
+
+
+<cost> 211800 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-38
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 272 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8220 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 153855 </revenue>
+
+
+<epkm> 1871.7 </epkm>
+
+
+<passengers> 13652 </passengers>
+
+
+<cost> 176393 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-39
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> SJP </end_station>
+
+
+<schkms> 282 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8478 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 103180 </revenue>
+
+
+<epkm> 1217.0 </epkm>
+
+
+<passengers> 13533 </passengers>
+
+
+<cost> 181929 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-40
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 334 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9662 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 199032 </revenue>
+
+
+<epkm> 2059.9 </epkm>
+
+
+<passengers> 7251 </passengers>
+
+
+<cost> 207337 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-42
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 348 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10350 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 171282 </revenue>
+
+
+<epkm> 1654.9 </epkm>
+
+
+<passengers> 16557 </passengers>
+
+
+<cost> 222101 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-43
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> JNP </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10527 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 122538 </revenue>
+
+
+<epkm> 1164.0 </epkm>
+
+
+<passengers> 14336 </passengers>
+
+
+<cost> 225899 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-44
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KSN </end_station>
+
+
+<schkms> 349 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10819 </effkms>
+
+
+<expected_revenue> 265000 </expected_revenue>
+
+
+<revenue> 231083 </revenue>
+
+
+<epkm> 2135.9 </epkm>
+
+
+<passengers> 8048 </passengers>
+
+
+<cost> 232165 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-45
+
+</id><start_station> KSN </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 347 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10349 </effkms>
+
+
+<expected_revenue> 138000 </expected_revenue>
+
+
+<revenue> 195776 </revenue>
+
+
+<epkm> 1891.7 </epkm>
+
+
+<passengers> 6299 </passengers>
+
+
+<cost> 222079 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-46
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<schkms> 408 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12648 </effkms>
+
+
+<expected_revenue> 288500 </expected_revenue>
+
+
+<revenue> 266561 </revenue>
+
+
+<epkm> 2107.5 </epkm>
+
+
+<passengers> 5160 </passengers>
+
+
+<cost> 271413 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-47
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 406 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12586 </effkms>
+
+
+<expected_revenue> 285000 </expected_revenue>
+
+
+<revenue> 187350 </revenue>
+
+
+<epkm> 1488.6 </epkm>
+
+
+<passengers> 4830 </passengers>
+
+
+<cost> 270083 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-48
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 376 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11294 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 119183 </revenue>
+
+
+<epkm> 1055.3 </epkm>
+
+
+<passengers> 12917 </passengers>
+
+
+<cost> 242358 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-49
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> RYL </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9956 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 118387 </revenue>
+
+
+<epkm> 1189.1 </epkm>
+
+
+<passengers> 12858 </passengers>
+
+
+<cost> 213646 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-50
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 327 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10077 </effkms>
+
+
+<expected_revenue> 174000 </expected_revenue>
+
+
+<revenue> 199096 </revenue>
+
+
+<epkm> 1975.7 </epkm>
+
+
+<passengers> 6908 </passengers>
+
+
+<cost> 216242 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-51
+
+</id><start_station> BKT </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 327 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10137 </effkms>
+
+
+<expected_revenue> 198000 </expected_revenue>
+
+
+<revenue> 201975 </revenue>
+
+
+<epkm> 1992.5 </epkm>
+
+
+<passengers> 6504 </passengers>
+
+
+<cost> 217530 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-52
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 384 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11078 </effkms>
+
+
+<expected_revenue> 246000 </expected_revenue>
+
+
+<revenue> 237668 </revenue>
+
+
+<epkm> 2145.4 </epkm>
+
+
+<passengers> 6351 </passengers>
+
+
+<cost> 237723 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-53
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 382 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11842 </effkms>
+
+
+<expected_revenue> 218000 </expected_revenue>
+
+
+<revenue> 194871 </revenue>
+
+
+<epkm> 1645.6 </epkm>
+
+
+<passengers> 5252 </passengers>
+
+
+<cost> 254117 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-54
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> HUB </end_station>
+
+
+<schkms> 521 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16151 </effkms>
+
+
+<expected_revenue> 327000 </expected_revenue>
+
+
+<revenue> 411270 </revenue>
+
+
+<epkm> 2546.4 </epkm>
+
+
+<passengers> 5772 </passengers>
+
+
+<cost> 346584 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-55
+
+</id><start_station> HUB </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 519 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16089 </effkms>
+
+
+<expected_revenue> 386000 </expected_revenue>
+
+
+<revenue> 309388 </revenue>
+
+
+<epkm> 1923.0 </epkm>
+
+
+<passengers> 4504 </passengers>
+
+
+<cost> 345254 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-56
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> NMP </end_station>
+
+
+<schkms> 278 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7744 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 87027 </revenue>
+
+
+<epkm> 1123.8 </epkm>
+
+
+<passengers> 10212 </passengers>
+
+
+<cost> 166178 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-57
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BMD </end_station>
+
+
+<schkms> 410 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12710 </effkms>
+
+
+<expected_revenue> 225500 </expected_revenue>
+
+
+<revenue> 283397 </revenue>
+
+
+<epkm> 2229.7 </epkm>
+
+
+<passengers> 7502 </passengers>
+
+
+<cost> 272744 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-58
+
+</id><start_station> BMD </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 408 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12648 </effkms>
+
+
+<expected_revenue> 286000 </expected_revenue>
+
+
+<revenue> 206202 </revenue>
+
+
+<epkm> 1630.3 </epkm>
+
+
+<passengers> 5692 </passengers>
+
+
+<cost> 271413 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-59
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 377 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11687 </effkms>
+
+
+<expected_revenue> 275000 </expected_revenue>
+
+
+<revenue> 180643 </revenue>
+
+
+<epkm> 1545.7 </epkm>
+
+
+<passengers> 7339 </passengers>
+
+
+<cost> 250791 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-60
+
+</id><start_station> MDP </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 377 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10937 </effkms>
+
+
+<expected_revenue> 314000 </expected_revenue>
+
+
+<revenue> 163735 </revenue>
+
+
+<epkm> 1497.1 </epkm>
+
+
+<passengers> 6697 </passengers>
+
+
+<cost> 234697 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-61
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> HRD </end_station>
+
+
+<schkms> 449 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13919 </effkms>
+
+
+<expected_revenue> 243400 </expected_revenue>
+
+
+<revenue> 282048 </revenue>
+
+
+<epkm> 2026.4 </epkm>
+
+
+<passengers> 9618 </passengers>
+
+
+<cost> 298688 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-62
+
+</id><start_station> HRD </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 449 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13919 </effkms>
+
+
+<expected_revenue> 345600 </expected_revenue>
+
+
+<revenue> 269492 </revenue>
+
+
+<epkm> 1936.1 </epkm>
+
+
+<passengers> 8490 </passengers>
+
+
+<cost> 298688 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-63
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 322 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9982 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 309435 </revenue>
+
+
+<epkm> 3099.9 </epkm>
+
+
+<passengers> 10444 </passengers>
+
+
+<cost> 214204 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-65
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 324 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9692 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 195816 </revenue>
+
+
+<epkm> 2020.4 </epkm>
+
+
+<passengers> 17166 </passengers>
+
+
+<cost> 207981 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-66
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MTM </end_station>
+
+
+<schkms> 514 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15934 </effkms>
+
+
+<expected_revenue> 368000 </expected_revenue>
+
+
+<revenue> 412394 </revenue>
+
+
+<epkm> 2588.1 </epkm>
+
+
+<passengers> 3476 </passengers>
+
+
+<cost> 341928 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-67
+
+</id><start_station> MTM </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 514 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15874 </effkms>
+
+
+<expected_revenue> 345000 </expected_revenue>
+
+
+<revenue> 399297 </revenue>
+
+
+<epkm> 2515.4 </epkm>
+
+
+<passengers> 3512 </passengers>
+
+
+<cost> 340640 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-72
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PCH </end_station>
+
+
+<schkms> 304 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8998 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 122120 </revenue>
+
+
+<epkm> 1357.2 </epkm>
+
+
+<passengers> 11491 </passengers>
+
+
+<cost> 193088 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-73
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> GPH </end_station>
+
+
+<schkms> 300 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9000 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 129298 </revenue>
+
+
+<epkm> 1436.6 </epkm>
+
+
+<passengers> 16416 </passengers>
+
+
+<cost> 193131 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-74
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 375 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11170 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 261216 </revenue>
+
+
+<epkm> 2338.5 </epkm>
+
+
+<passengers> 8577 </passengers>
+
+
+<cost> 239697 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-75
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 300 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9135 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 115603 </revenue>
+
+
+<epkm> 1265.5 </epkm>
+
+
+<passengers> 13548 </passengers>
+
+
+<cost> 196028 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-77
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 298 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6724 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 101010 </revenue>
+
+
+<epkm> 1502.2 </epkm>
+
+
+<passengers> 8039 </passengers>
+
+
+<cost> 144290 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-78
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<schkms> 408 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12648 </effkms>
+
+
+<expected_revenue> 241000 </expected_revenue>
+
+
+<revenue> 248559 </revenue>
+
+
+<epkm> 1965.2 </epkm>
+
+
+<passengers> 3500 </passengers>
+
+
+<cost> 271413 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-79
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 406 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12586 </effkms>
+
+
+<expected_revenue> 286000 </expected_revenue>
+
+
+<revenue> 251247 </revenue>
+
+
+<epkm> 1996.2 </epkm>
+
+
+<passengers> 3819 </passengers>
+
+
+<cost> 270083 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-80
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> RMS </end_station>
+
+
+<schkms> 458 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14198 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 279935 </revenue>
+
+
+<epkm> 1971.7 </epkm>
+
+
+<passengers> 9855 </passengers>
+
+
+<cost> 304675 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-82
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 722 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 22382 </effkms>
+
+
+<expected_revenue> 449500 </expected_revenue>
+
+
+<revenue> 394324 </revenue>
+
+
+<epkm> 1761.8 </epkm>
+
+
+<passengers> 9250 </passengers>
+
+
+<cost> 480295 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-84
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 380 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11780 </effkms>
+
+
+<expected_revenue> 279000 </expected_revenue>
+
+
+<revenue> 250628 </revenue>
+
+
+<epkm> 2127.6 </epkm>
+
+
+<passengers> 7640 </passengers>
+
+
+<cost> 252787 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-85
+
+</id><start_station> VJP </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 378 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11718 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 262404 </revenue>
+
+
+<epkm> 2239.3 </epkm>
+
+
+<passengers> 8274 </passengers>
+
+
+<cost> 251457 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-92
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BRN </end_station>
+
+
+<schkms> 371 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11501 </effkms>
+
+
+<expected_revenue> 292000 </expected_revenue>
+
+
+<revenue> 215910 </revenue>
+
+
+<epkm> 1877.3 </epkm>
+
+
+<passengers> 7353 </passengers>
+
+
+<cost> 246800 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-93
+
+</id><start_station> BRN </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 371 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11351 </effkms>
+
+
+<expected_revenue> 235000 </expected_revenue>
+
+
+<revenue> 253491 </revenue>
+
+
+<epkm> 2233.2 </epkm>
+
+
+<passengers> 7942 </passengers>
+
+
+<cost> 243581 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-94
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 488 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14854 </effkms>
+
+
+<expected_revenue> 269700 </expected_revenue>
+
+
+<revenue> 288573 </revenue>
+
+
+<epkm> 1942.7 </epkm>
+
+
+<passengers> 8155 </passengers>
+
+
+<cost> 318752 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-99
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> VDN </end_station>
+
+
+<schkms> 449 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13919 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 321472 </revenue>
+
+
+<epkm> 2309.6 </epkm>
+
+
+<passengers> 3936 </passengers>
+
+
+<cost> 298688 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-100
+
+</id><start_station> VDN </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 447 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13857 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 287742 </revenue>
+
+
+<epkm> 2076.5 </epkm>
+
+
+<passengers> 4041 </passengers>
+
+
+<cost> 297357 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-101
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 354 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10088 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 190372 </revenue>
+
+
+<epkm> 1887.1 </epkm>
+
+
+<passengers> 7216 </passengers>
+
+
+<cost> 216478 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-102
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> HUB </end_station>
+
+
+<schkms> 521 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16151 </effkms>
+
+
+<expected_revenue> 337000 </expected_revenue>
+
+
+<revenue> 355174 </revenue>
+
+
+<epkm> 2199.1 </epkm>
+
+
+<passengers> 4946 </passengers>
+
+
+<cost> 346584 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-103
+
+</id><start_station> HUB </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 519 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16089 </effkms>
+
+
+<expected_revenue> 345000 </expected_revenue>
+
+
+<revenue> 346202 </revenue>
+
+
+<epkm> 2151.8 </epkm>
+
+
+<passengers> 5385 </passengers>
+
+
+<cost> 345254 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-104
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> GDB </end_station>
+
+
+<schkms> 294 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 7758 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 136502 </revenue>
+
+
+<epkm> 1759.5 </epkm>
+
+
+<passengers> 11217 </passengers>
+
+
+<cost> 166479 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-106
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 372 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10764 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 179512 </revenue>
+
+
+<epkm> 1667.7 </epkm>
+
+
+<passengers> 8266 </passengers>
+
+
+<cost> 230985 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-108
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8980 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 122243 </revenue>
+
+
+<epkm> 1361.3 </epkm>
+
+
+<passengers> 10390 </passengers>
+
+
+<cost> 192702 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-109
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 278 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6500 </effkms>
+
+
+<expected_revenue> 1705000 </expected_revenue>
+
+
+<revenue> 119803 </revenue>
+
+
+<epkm> 1843.1 </epkm>
+
+
+<passengers> 10167 </passengers>
+
+
+<cost> 139484 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-110
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> TTP </end_station>
+
+
+<schkms> 329 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9497 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 122530 </revenue>
+
+
+<epkm> 1290.2 </epkm>
+
+
+<passengers> 14508 </passengers>
+
+
+<cost> 203796 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-111
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> PGT </end_station>
+
+
+<schkms> 334 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9485 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 119519 </revenue>
+
+
+<epkm> 1260.1 </epkm>
+
+
+<passengers> 17731 </passengers>
+
+
+<cost> 203539 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-112
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> MYL </end_station>
+
+
+<schkms> 454 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9988 </effkms>
+
+
+<expected_revenue> 267000 </expected_revenue>
+
+
+<revenue> 176951 </revenue>
+
+
+<epkm> 1771.6 </epkm>
+
+
+<passengers> 3536 </passengers>
+
+
+<cost> 214332 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-113
+
+</id><start_station> MYL </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 452 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9744 </effkms>
+
+
+<expected_revenue> 260000 </expected_revenue>
+
+
+<revenue> 189529 </revenue>
+
+
+<epkm> 1945.1 </epkm>
+
+
+<passengers> 3281 </passengers>
+
+
+<cost> 209096 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-114
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<schkms> 539 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16709 </effkms>
+
+
+<expected_revenue> 366000 </expected_revenue>
+
+
+<revenue> 315178 </revenue>
+
+
+<epkm> 1886.3 </epkm>
+
+
+<passengers> 6751 </passengers>
+
+
+<cost> 358558 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-115
+
+</id><start_station> GDG </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 537 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16507 </effkms>
+
+
+<expected_revenue> 316000 </expected_revenue>
+
+
+<revenue> 257954 </revenue>
+
+
+<epkm> 1562.7 </epkm>
+
+
+<passengers> 6920 </passengers>
+
+
+<cost> 354224 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> SVP-116
+
+</id><start_station> SVP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 290 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7362 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 141078 </revenue>
+
+
+<epkm> 1916.3 </epkm>
+
+
+<passengers> 10185 </passengers>
+
+
+<cost> 157981 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+</buses>
+

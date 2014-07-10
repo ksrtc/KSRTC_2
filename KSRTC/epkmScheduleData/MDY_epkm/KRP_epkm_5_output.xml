@@ -1,0 +1,2067 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> KRP-1
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MLH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6474 </schkms>
+
+
+<effkms> 6474 </effkms>
+
+
+<revenue> 141000 </revenue>
+
+
+<epkm> 2177.9 </epkm>
+
+
+<load_factor> 61.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10415 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-2
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11974 </schkms>
+
+
+<effkms> 11974 </effkms>
+
+
+<revenue> 353775 </revenue>
+
+
+<epkm> 2954.5 </epkm>
+
+
+<load_factor> 83.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12592 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-3
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10962 </schkms>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 229647 </revenue>
+
+
+<epkm> 2094.9 </epkm>
+
+
+<load_factor> 59.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10181 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-4
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5639 </schkms>
+
+
+<effkms> 5639 </effkms>
+
+
+<revenue> 78304 </revenue>
+
+
+<epkm> 1388.6 </epkm>
+
+
+<load_factor> 39.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 9025 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-6
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SBH </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7610 </schkms>
+
+
+<effkms> 7610 </effkms>
+
+
+<revenue> 120057 </revenue>
+
+
+<epkm> 1577.6 </epkm>
+
+
+<load_factor> 67.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 10096 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-7
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7339 </schkms>
+
+
+<effkms> 7339 </effkms>
+
+
+<revenue> 121440 </revenue>
+
+
+<epkm> 1654.7 </epkm>
+
+
+<load_factor> 71.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14248 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-8
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SBG </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7366 </schkms>
+
+
+<effkms> 7366 </effkms>
+
+
+<revenue> 109898 </revenue>
+
+
+<epkm> 1492.0 </epkm>
+
+
+<load_factor> 64.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12702 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-9
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> SYT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 3579 </schkms>
+
+
+<effkms> 3579 </effkms>
+
+
+<revenue> 88303 </revenue>
+
+
+<epkm> 2467.3 </epkm>
+
+
+<load_factor> 69.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4566 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-10
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 2844 </schkms>
+
+
+<effkms> 2844 </effkms>
+
+
+<revenue> 50343 </revenue>
+
+
+<epkm> 1770.1 </epkm>
+
+
+<load_factor> 49.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 2297 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-12
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10752 </schkms>
+
+
+<effkms> 10752 </effkms>
+
+
+<revenue> 310127 </revenue>
+
+
+<epkm> 2884.4 </epkm>
+
+
+<load_factor> 124.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12018 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-13
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10846 </schkms>
+
+
+<effkms> 10846 </effkms>
+
+
+<revenue> 231387 </revenue>
+
+
+<epkm> 2133.4 </epkm>
+
+
+<load_factor> 91.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10978 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-14
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> CBS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6026 </schkms>
+
+
+<effkms> 6026 </effkms>
+
+
+<revenue> 110234 </revenue>
+
+
+<epkm> 1829.3 </epkm>
+
+
+<load_factor> 78.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9011 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-15
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> YLD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7748 </schkms>
+
+
+<effkms> 7748 </effkms>
+
+
+<revenue> 151419 </revenue>
+
+
+<epkm> 1954.3 </epkm>
+
+
+<load_factor> 84.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16368 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-16
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> CDS </start_station>
+
+
+<end_station> YLD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8354 </schkms>
+
+
+<effkms> 8354 </effkms>
+
+
+<revenue> 126331 </revenue>
+
+
+<epkm> 1512.2 </epkm>
+
+
+<load_factor> 65.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15663 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-17
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> TND </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6736 </schkms>
+
+
+<effkms> 6736 </effkms>
+
+
+<revenue> 155303 </revenue>
+
+
+<epkm> 2305.6 </epkm>
+
+
+<load_factor> 99.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10372 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-18
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> CBS </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6804 </schkms>
+
+
+<effkms> 6804 </effkms>
+
+
+<revenue> 131379 </revenue>
+
+
+<epkm> 1930.9 </epkm>
+
+
+<load_factor> 83.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10172 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-19
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> NGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7443 </schkms>
+
+
+<effkms> 7443 </effkms>
+
+
+<revenue> 114784 </revenue>
+
+
+<epkm> 1542.2 </epkm>
+
+
+<load_factor> 66.4 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12729 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-20
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> TND </start_station>
+
+
+<end_station> SBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 7692 </effkms>
+
+
+<revenue> 122021 </revenue>
+
+
+<epkm> 1586.3 </epkm>
+
+
+<load_factor> 68.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12903 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-21
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7797 </schkms>
+
+
+<effkms> 7797 </effkms>
+
+
+<revenue> 166262 </revenue>
+
+
+<epkm> 2132.4 </epkm>
+
+
+<load_factor> 60.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12681 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-23
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6028 </schkms>
+
+
+<effkms> 6028 </effkms>
+
+
+<revenue> 156431 </revenue>
+
+
+<epkm> 2595.1 </epkm>
+
+
+<load_factor> 111.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9107 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-24
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> SMP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9280 </schkms>
+
+
+<effkms> 9280 </effkms>
+
+
+<revenue> 154831 </revenue>
+
+
+<epkm> 1668.4 </epkm>
+
+
+<load_factor> 47.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 6220 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-28
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 9881 </effkms>
+
+
+<revenue> 230043 </revenue>
+
+
+<epkm> 2328.1 </epkm>
+
+
+<load_factor> 65.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8068 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-29
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12060  </schkms>
+
+
+<effkms> 12060 </effkms>
+
+
+<revenue> 376155 </revenue>
+
+
+<epkm> 3119.0 </epkm>
+
+
+<load_factor> 87.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 17854 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-30
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11874 </schkms>
+
+
+<effkms> 11874 </effkms>
+
+
+<revenue> 296845 </revenue>
+
+
+<epkm> 2500.0 </epkm>
+
+
+<load_factor> 70.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15465 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-32
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6640 </schkms>
+
+
+<effkms> 6640 </effkms>
+
+
+<revenue> 150342 </revenue>
+
+
+<epkm> 2264.2 </epkm>
+
+
+<load_factor> 63.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4525 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-34
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11330 </schkms>
+
+
+<effkms> 11330 </effkms>
+
+
+<revenue> 292503 </revenue>
+
+
+<epkm> 2581.7 </epkm>
+
+
+<load_factor> 72.77 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10399 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-35
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11394 </effkms>
+
+
+<revenue> 291602 </revenue>
+
+
+<epkm> 2559.3 </epkm>
+
+
+<load_factor> 110.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10436 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-38
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7075 </schkms>
+
+
+<effkms> 7075 </effkms>
+
+
+<revenue> 168345 </revenue>
+
+
+<epkm> 2379.4 </epkm>
+
+
+<load_factor> 102.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 18072 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-42
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> DINKA </start_station>
+
+
+<end_station> MLH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 7131 </schkms>
+
+
+<effkms> 7131 </effkms>
+
+
+<revenue> 144064 </revenue>
+
+
+<epkm> 2020.2 </epkm>
+
+
+<load_factor> 87.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9896 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-44
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> SGP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6930 </schkms>
+
+
+<effkms> 6930 </effkms>
+
+
+<revenue> 124078 </revenue>
+
+
+<epkm> 1790.4 </epkm>
+
+
+<load_factor> 50.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11258 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-45
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> RYS </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6675 </schkms>
+
+
+<effkms> 6675 </effkms>
+
+
+<revenue> 128800 </revenue>
+
+
+<epkm> 1929.6 </epkm>
+
+
+<load_factor> 83.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9427 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-46
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> ALN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5366 </schkms>
+
+
+<effkms> 5366 </effkms>
+
+
+<revenue> 76858 </revenue>
+
+
+<epkm> 1432.3 </epkm>
+
+
+<load_factor> 61.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 9498 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-49
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> HLN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3132 </schkms>
+
+
+<effkms> 3132 </effkms>
+
+
+<revenue> 42459 </revenue>
+
+
+<epkm> 1355.7 </epkm>
+
+
+<load_factor> 58.4 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 4679 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-63
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 8364 </schkms>
+
+
+<effkms> 8364 </effkms>
+
+
+<revenue> 202148 </revenue>
+
+
+<epkm> 2416.9 </epkm>
+
+
+<load_factor> 104.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8874 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-64
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 7902 </schkms>
+
+
+<effkms> 7902 </effkms>
+
+
+<revenue> 160257 </revenue>
+
+
+<epkm> 2028.1 </epkm>
+
+
+<load_factor> 87.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7974 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-65
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9195 </schkms>
+
+
+<effkms> 9195 </effkms>
+
+
+<revenue> 193188 </revenue>
+
+
+<epkm> 2101.0 </epkm>
+
+
+<load_factor> 59.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7299 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-70
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 3684 </effkms>
+
+
+<revenue> 47273 </revenue>
+
+
+<epkm> 1283.2 </epkm>
+
+
+<load_factor> 36.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 6119 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-71
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 3842 </effkms>
+
+
+<revenue> 63292 </revenue>
+
+
+<epkm> 1647.4 </epkm>
+
+
+<load_factor> 46.4 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 7177 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-80
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 9240 </effkms>
+
+
+<revenue> 210905 </revenue>
+
+
+<epkm> 2282.5 </epkm>
+
+
+<load_factor> 98.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 24361 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-82
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 7832 </effkms>
+
+
+<revenue> 190381 </revenue>
+
+
+<epkm> 2430.8 </epkm>
+
+
+<load_factor> 104.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 22523 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-83
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 5890 </effkms>
+
+
+<revenue> 134432 </revenue>
+
+
+<epkm> 2282.4 </epkm>
+
+
+<load_factor> 98.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14779 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-85
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 6560 </effkms>
+
+
+<revenue> 153340 </revenue>
+
+
+<epkm> 2337.5 </epkm>
+
+
+<load_factor> 100.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 17553 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-86
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 8220 </effkms>
+
+
+<revenue> 178628 </revenue>
+
+
+<epkm> 2173.1 </epkm>
+
+
+<load_factor> 93.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21468 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-87
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 6300 </effkms>
+
+
+<revenue> 149494 </revenue>
+
+
+<epkm> 2372.9 </epkm>
+
+
+<load_factor> 102.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16963 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-88
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 6933 </effkms>
+
+
+<revenue> 135381 </revenue>
+
+
+<epkm> 1952.7 </epkm>
+
+
+<load_factor> 84.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14972 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-26AB
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> AP </schkms>
+
+
+<effkms> 23896 </effkms>
+
+
+<revenue> 515478 </revenue>
+
+
+<epkm> 2157.2 </epkm>
+
+
+<load_factor> 60.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9491 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-84
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 4972 </effkms>
+
+
+<revenue> 110531 </revenue>
+
+
+<epkm> 2223.1 </epkm>
+
+
+<load_factor> 95.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13946 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-38
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> KRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 3915 </effkms>
+
+
+<revenue> 113703 </revenue>
+
+
+<epkm> 2904.3 </epkm>
+
+
+<load_factor> 81.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5285 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> KRP-37
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 4326 </effkms>
+
+
+<revenue> 103085 </revenue>
+
+
+<epkm> 2382.9 </epkm>
+
+
+<load_factor> 67.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4857 </passengers>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,2115 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> SGR 1
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 8178 </effkms>
+
+
+<revenue> 165551 </revenue>
+
+
+<passengers> 2945 </passengers>
+
+
+<epkm> 2024.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 2
+
+
+
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 8178 </effkms>
+
+
+<revenue> 165551 </revenue>
+
+
+<passengers> 2945 </passengers>
+
+
+<epkm> 2024.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 3A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 626 </schkms>
+
+
+<effkms> 18154 </effkms>
+
+
+<revenue> 323532 </revenue>
+
+
+<passengers> 9267 </passengers>
+
+
+<epkm> 1782.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 48.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 3B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 626 </schkms>
+
+
+<effkms> 18154 </effkms>
+
+
+<revenue> 323532 </revenue>
+
+
+<passengers> 9267 </passengers>
+
+
+<epkm> 1782.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 48.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 4
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 349 </schkms>
+
+
+<effkms> 9795 </effkms>
+
+
+<revenue> 149609 </revenue>
+
+
+<passengers> 3196 </passengers>
+
+
+<epkm> 1527.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 41.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 5
+
+
+
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 349 </schkms>
+
+
+<effkms> 9795 </effkms>
+
+
+<revenue> 149609 </revenue>
+
+
+<passengers> 3196 </passengers>
+
+
+<epkm> 1527.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 41.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 7A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 698 </schkms>
+
+
+<effkms> 20940 </effkms>
+
+
+<revenue> 369472 </revenue>
+
+
+<passengers> 13227 </passengers>
+
+
+<epkm> 1764.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 7B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 698 </schkms>
+
+
+<effkms> 20940 </effkms>
+
+
+<revenue> 369472 </revenue>
+
+
+<passengers> 13227 </passengers>
+
+
+<epkm> 1764.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 8
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> TVML </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 555 </schkms>
+
+
+<effkms> 17205 </effkms>
+
+
+<revenue> 362626 </revenue>
+
+
+<passengers> 3569 </passengers>
+
+
+<epkm> 2107.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 9
+
+
+
+
+</id><start_station> TVML </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 555 </schkms>
+
+
+<effkms> 17205 </effkms>
+
+
+<revenue> 362626 </revenue>
+
+
+<passengers> 3569 </passengers>
+
+
+<epkm> 2107.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 10
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> VLR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 565 </schkms>
+
+
+<effkms> 17515 </effkms>
+
+
+<revenue> 364924 </revenue>
+
+
+<passengers> 4435 </passengers>
+
+
+<epkm> 2083.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 56.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 11
+
+
+
+
+</id><start_station> VLR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 565 </schkms>
+
+
+<effkms> 17515 </effkms>
+
+
+<revenue> 364924 </revenue>
+
+
+<passengers> 4435 </passengers>
+
+
+<epkm> 2083.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 56.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 12
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> MSDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 242 </schkms>
+
+
+<effkms> 7139 </effkms>
+
+
+<revenue> 110085 </revenue>
+
+
+<passengers> 9395 </passengers>
+
+
+<epkm> 1542.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 13
+
+
+
+
+</id><start_station> MSDP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 242 </schkms>
+
+
+<effkms> 7139 </effkms>
+
+
+<revenue> 110085 </revenue>
+
+
+<passengers> 9395 </passengers>
+
+
+<epkm> 1542.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 15
+
+
+
+
+</id><start_station> PNA </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 617 </schkms>
+
+
+<effkms> 19127 </effkms>
+
+
+<revenue> 376991 </revenue>
+
+
+<passengers> 4348 </passengers>
+
+
+<epkm> 1971.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 16
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> PNJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 9920 </effkms>
+
+
+<revenue> 169993 </revenue>
+
+
+<passengers> 3418 </passengers>
+
+
+<epkm> 1713.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 17
+
+
+
+
+</id><start_station> PNJ </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 9920 </effkms>
+
+
+<revenue> 169993 </revenue>
+
+
+<passengers> 3418 </passengers>
+
+
+<epkm> 1713.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 18
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SIRSI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 432 </schkms>
+
+
+<effkms> 13292 </effkms>
+
+
+<revenue> 271091 </revenue>
+
+
+<passengers> 13795 </passengers>
+
+
+<epkm> 2039.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 19
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SIRSI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 432 </schkms>
+
+
+<effkms> 12824 </effkms>
+
+
+<revenue> 262991 </revenue>
+
+
+<passengers> 11810 </passengers>
+
+
+<epkm> 2050.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 21
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> HBL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 429 </schkms>
+
+
+<effkms> 12271 </effkms>
+
+
+<revenue> 239617 </revenue>
+
+
+<passengers> 6739 </passengers>
+
+
+<epkm> 1952.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 22
+
+
+
+
+</id><start_station> BJP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 429 </schkms>
+
+
+<effkms> 12271 </effkms>
+
+
+<revenue> 239617 </revenue>
+
+
+<passengers> 6739 </passengers>
+
+
+<epkm> 1952.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 23
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> RCH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14384 </effkms>
+
+
+<revenue> 291706 </revenue>
+
+
+<passengers> 8848 </passengers>
+
+
+<epkm> 2028.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 24
+
+
+
+
+</id><start_station> RCH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14384 </effkms>
+
+
+<revenue> 291706 </revenue>
+
+
+<passengers> 8848 </passengers>
+
+
+<epkm> 2028.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 26
+
+
+
+
+</id><start_station> SKTN </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> VH </type_of_bus>
+
+
+<schkms> 488 </schkms>
+
+
+<effkms> 15128 </effkms>
+
+
+<revenue> 354529 </revenue>
+
+
+<passengers> 5475 </passengers>
+
+
+<epkm> 2343.5 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 62.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 30
+
+
+
+
+</id><start_station> SKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 284 </schkms>
+
+
+<effkms> 7464 </effkms>
+
+
+<revenue> 125284 </revenue>
+
+
+<passengers> 8724 </passengers>
+
+
+<epkm> 1678.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 31
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 269 </schkms>
+
+
+<effkms> 6637 </effkms>
+
+
+<revenue> 101188 </revenue>
+
+
+<passengers> 6658 </passengers>
+
+
+<epkm> 1524.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 32
+
+
+
+
+</id><start_station> AVT </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 269 </schkms>
+
+
+<effkms> 6637 </effkms>
+
+
+<revenue> 101188 </revenue>
+
+
+<passengers> 6658 </passengers>
+
+
+<epkm> 1524.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 33A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> HNVR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 416 </schkms>
+
+
+<effkms> 12896 </effkms>
+
+
+<revenue> 230700 </revenue>
+
+
+<passengers> 8514 </passengers>
+
+
+<epkm> 1788.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 48.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 34A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> HSGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 11098 </effkms>
+
+
+<revenue> 218579 </revenue>
+
+
+<passengers> 16399 </passengers>
+
+
+<epkm> 1969.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 91.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 35A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 314 </schkms>
+
+
+<effkms> 9208 </effkms>
+
+
+<revenue> 99702 </revenue>
+
+
+<passengers> 12349 </passengers>
+
+
+<epkm> 1082.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 36A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> NDI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8966 </effkms>
+
+
+<revenue> 104965 </revenue>
+
+
+<passengers> 15118 </passengers>
+
+
+<epkm> 1170.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 33B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> HNVR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 416 </schkms>
+
+
+<effkms> 12896 </effkms>
+
+
+<revenue> 230700 </revenue>
+
+
+<passengers> 8514 </passengers>
+
+
+<epkm> 1788.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 48.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 34B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> HSGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 11098 </effkms>
+
+
+<revenue> 218579 </revenue>
+
+
+<passengers> 16399 </passengers>
+
+
+<epkm> 1969.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 91.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 35B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 314 </schkms>
+
+
+<effkms> 9208 </effkms>
+
+
+<revenue> 99702 </revenue>
+
+
+<passengers> 12349 </passengers>
+
+
+<epkm> 1082.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 36B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> NDI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8966 </effkms>
+
+
+<revenue> 104965 </revenue>
+
+
+<passengers> 15118 </passengers>
+
+
+<epkm> 1170.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 37
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SLLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 9113 </effkms>
+
+
+<revenue> 132192 </revenue>
+
+
+<passengers> 16613 </passengers>
+
+
+<epkm> 1450.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 38
+
+
+
+
+</id><start_station> SLLR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 9113 </effkms>
+
+
+<revenue> 132192 </revenue>
+
+
+<passengers> 16613 </passengers>
+
+
+<epkm> 1450.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 39A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9472 </effkms>
+
+
+<revenue> 161435 </revenue>
+
+
+<passengers> 17042 </passengers>
+
+
+<epkm> 1704.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 39B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9472 </effkms>
+
+
+<revenue> 161435 </revenue>
+
+
+<passengers> 17042 </passengers>
+
+
+<epkm> 1704.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 40
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 494 </schkms>
+
+
+<effkms> 15314 </effkms>
+
+
+<revenue> 351920 </revenue>
+
+
+<passengers> 4457 </passengers>
+
+
+<epkm> 2298.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 62.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 41
+
+
+
+
+</id><start_station> KLP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 494 </schkms>
+
+
+<effkms> 15314 </effkms>
+
+
+<revenue> 351920 </revenue>
+
+
+<passengers> 4457 </passengers>
+
+
+<epkm> 2298.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 62.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 42A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 698 </schkms>
+
+
+<effkms> 20606 </effkms>
+
+
+<revenue> 373545 </revenue>
+
+
+<passengers> 8207 </passengers>
+
+
+<epkm> 1812.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 49.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 42B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 698 </schkms>
+
+
+<effkms> 20606 </effkms>
+
+
+<revenue> 373545 </revenue>
+
+
+<passengers> 8207 </passengers>
+
+
+<epkm> 1812.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 49.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 43
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 387 </schkms>
+
+
+<effkms> 10908 </effkms>
+
+
+<revenue> 168862 </revenue>
+
+
+<passengers> 5727 </passengers>
+
+
+<epkm> 1548.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 44
+
+
+
+
+</id><start_station> CDG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 387 </schkms>
+
+
+<effkms> 10908 </effkms>
+
+
+<revenue> 168862 </revenue>
+
+
+<passengers> 5727 </passengers>
+
+
+<epkm> 1548.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 48
+
+
+
+
+</id><start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 300 </schkms>
+
+
+<effkms> 8975 </effkms>
+
+
+<revenue> 121575 </revenue>
+
+
+<passengers> 14105 </passengers>
+
+
+<epkm> 1354.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 50
+
+
+
+
+</id><start_station> HBD </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 276 </schkms>
+
+
+<effkms> 8420 </effkms>
+
+
+<revenue> 110198 </revenue>
+
+
+<passengers> 8887 </passengers>
+
+
+<epkm> 1308.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 53A
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 472 </schkms>
+
+
+<effkms> 13016 </effkms>
+
+
+<revenue> 187414 </revenue>
+
+
+<passengers> 10681 </passengers>
+
+
+<epkm> 1439.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 53B
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 472 </schkms>
+
+
+<effkms> 13016 </effkms>
+
+
+<revenue> 187414 </revenue>
+
+
+<passengers> 10681 </passengers>
+
+
+<epkm> 1439.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 54
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 333 </schkms>
+
+
+<effkms> 9902 </effkms>
+
+
+<revenue> 152841 </revenue>
+
+
+<passengers> 9227 </passengers>
+
+
+<epkm> 1543.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 55
+
+
+
+
+</id><start_station> DVG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 333 </schkms>
+
+
+<effkms> 9902 </effkms>
+
+
+<revenue> 152841 </revenue>
+
+
+<passengers> 9227 </passengers>
+
+
+<epkm> 1543.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 57
+
+
+
+
+</id><start_station> BLR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 338 </schkms>
+
+
+<effkms> 9677 </effkms>
+
+
+<revenue> 174430 </revenue>
+
+
+<passengers> 6699 </passengers>
+
+
+<epkm> 1802.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 49.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 61
+
+
+
+
+</id><start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 349 </schkms>
+
+
+<effkms> 10819 </effkms>
+
+
+<revenue> 186708 </revenue>
+
+
+<passengers> 981 </passengers>
+
+
+<epkm> 1725.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 37.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 62
+
+
+
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 349 </schkms>
+
+
+<effkms> 10819 </effkms>
+
+
+<revenue> 186708 </revenue>
+
+
+<passengers> 981 </passengers>
+
+
+<epkm> 1725.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 37.6 </load_factor>
+
+</schedule>
+
+
+</buses>
+

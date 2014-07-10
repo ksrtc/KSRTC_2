@@ -1,0 +1,4260 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> KGF-1
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> HUB </end_station>
+
+
+<schkms> 526 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16306 </effkms>
+
+
+<expected_revenue> 403000 </expected_revenue>
+
+
+<revenue> 312565 </revenue>
+
+
+<epkm> 1916.9 </epkm>
+
+
+<passengers> 8624 </passengers>
+
+
+<cost> 366591 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-2
+
+</id><start_station> HUB </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 531 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16461 </effkms>
+
+
+<expected_revenue> 403000 </expected_revenue>
+
+
+<revenue> 291019 </revenue>
+
+
+<epkm> 1767.9 </epkm>
+
+
+<passengers> 8364 </passengers>
+
+
+<cost> 370076 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-3
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 256 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7544 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 141755 </revenue>
+
+
+<epkm> 1879.0 </epkm>
+
+
+<passengers> 15874 </passengers>
+
+
+<cost> 169604 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-4
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 287 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7099 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 100626 </revenue>
+
+
+<epkm> 1417.5 </epkm>
+
+
+<passengers> 13012 </passengers>
+
+
+<cost> 159600 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-5
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 387 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11411 </effkms>
+
+
+<expected_revenue> 300000 </expected_revenue>
+
+
+<revenue> 233855 </revenue>
+
+
+<epkm> 2049.4 </epkm>
+
+
+<passengers> 6480 </passengers>
+
+
+<cost> 256542 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-6
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 390 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11501 </effkms>
+
+
+<expected_revenue> 300000 </expected_revenue>
+
+
+<revenue> 197510 </revenue>
+
+
+<epkm> 1717.3 </epkm>
+
+
+<passengers> 6267 </passengers>
+
+
+<cost> 258565 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-8
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 247 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7465 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 121420 </revenue>
+
+
+<epkm> 1626.5 </epkm>
+
+
+<passengers> 12361 </passengers>
+
+
+<cost> 167828 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-9
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 253 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7196 </effkms>
+
+
+<expected_revenue> 144000 </expected_revenue>
+
+
+<revenue> 116658 </revenue>
+
+
+<epkm> 1621.2 </epkm>
+
+
+<passengers> 11536 </passengers>
+
+
+<cost> 161780 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-13
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 318 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 6497 </effkms>
+
+
+<expected_revenue> 168000 </expected_revenue>
+
+
+<revenue> 123331 </revenue>
+
+
+<epkm> 1898.3 </epkm>
+
+
+<passengers> 5628 </passengers>
+
+
+<cost> 146066 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-15
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BTM </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9166 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 199197 </revenue>
+
+
+<epkm> 2173.2 </epkm>
+
+
+<passengers> 13486 </passengers>
+
+
+<cost> 206070 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-42
+
+</id><start_station> BTM </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 293 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8828 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 140952 </revenue>
+
+
+<epkm> 1596.6 </epkm>
+
+
+<passengers> 11218 </passengers>
+
+
+<cost> 198471 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-16
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 256 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7680 </effkms>
+
+
+<expected_revenue> 180000 </expected_revenue>
+
+
+<revenue> 137808 </revenue>
+
+
+<epkm> 1794.4 </epkm>
+
+
+<passengers> 11160 </passengers>
+
+
+<cost> 172662 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-17
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> NYH </end_station>
+
+
+<schkms> 268 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7440 </effkms>
+
+
+<expected_revenue> 164300 </expected_revenue>
+
+
+<revenue> 102188 </revenue>
+
+
+<epkm> 1373.5 </epkm>
+
+
+<passengers> 9621 </passengers>
+
+
+<cost> 167266 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-18
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 264 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7168 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 112063 </revenue>
+
+
+<epkm> 1563.4 </epkm>
+
+
+<passengers> 10075 </passengers>
+
+
+<cost> 161151 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-19
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 320 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9920 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 220965 </revenue>
+
+
+<epkm> 2227.5 </epkm>
+
+
+<passengers> 18556 </passengers>
+
+
+<cost> 223021 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-22
+
+</id><start_station> CITY </start_station>
+
+
+<end_station> SERVICE </end_station>
+
+
+<schkms> 298 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6068 </effkms>
+
+
+<expected_revenue> 108500 </expected_revenue>
+
+
+<revenue> 95387 </revenue>
+
+
+<epkm> 1572.0 </epkm>
+
+
+<passengers> 9567 </passengers>
+
+
+<cost> 136421 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-23
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 424 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13144 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 224908 </revenue>
+
+
+<epkm> 1711.1 </epkm>
+
+
+<passengers> 10516 </passengers>
+
+
+<cost> 295503 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-24
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 424 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13144 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 241516 </revenue>
+
+
+<epkm> 1837.5 </epkm>
+
+
+<passengers> 9876 </passengers>
+
+
+<cost> 295503 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-25
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 320 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9920 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 208571 </revenue>
+
+
+<epkm> 2102.5 </epkm>
+
+
+<passengers> 17504 </passengers>
+
+
+<cost> 223021 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-28
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 328 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10168 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 227242 </revenue>
+
+
+<epkm> 2234.9 </epkm>
+
+
+<passengers> 18318 </passengers>
+
+
+<cost> 228597 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-29
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 229 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6850 </effkms>
+
+
+<expected_revenue> 148800 </expected_revenue>
+
+
+<revenue> 151091 </revenue>
+
+
+<epkm> 2205.7 </epkm>
+
+
+<passengers> 12884 </passengers>
+
+
+<cost> 154002 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-30
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 318 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 6496 </effkms>
+
+
+<expected_revenue> 168000 </expected_revenue>
+
+
+<revenue> 122796 </revenue>
+
+
+<epkm> 1890.3 </epkm>
+
+
+<passengers> 5446 </passengers>
+
+
+<cost> 146043 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-35
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 318 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 7713 </effkms>
+
+
+<expected_revenue> 200000 </expected_revenue>
+
+
+<revenue> 127263 </revenue>
+
+
+<epkm> 1650.0 </epkm>
+
+
+<passengers> 65110 </passengers>
+
+
+<cost> 173404 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-36
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 318 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 7712 </effkms>
+
+
+<expected_revenue> 200000 </expected_revenue>
+
+
+<revenue> 125150 </revenue>
+
+
+<epkm> 1622.8 </epkm>
+
+
+<passengers> 6606 </passengers>
+
+
+<cost> 173381 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-37
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 328 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8968 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 121894 </revenue>
+
+
+<epkm> 1359.2 </epkm>
+
+
+<passengers> 11884 </passengers>
+
+
+<cost> 201619 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-38
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 264 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7947 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 129181 </revenue>
+
+
+<epkm> 1625.5 </epkm>
+
+
+<passengers> 11281 </passengers>
+
+
+<cost> 178664 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-40
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 260 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7975 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 119158 </revenue>
+
+
+<epkm> 1494.1 </epkm>
+
+
+<passengers> 12986 </passengers>
+
+
+<cost> 179294 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-41
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 303 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7834 </effkms>
+
+
+<expected_revenue> 156000 </expected_revenue>
+
+
+<revenue> 125142 </revenue>
+
+
+<epkm> 1597.4 </epkm>
+
+
+<passengers> 13140 </passengers>
+
+
+<cost> 176124 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-45
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 278 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8423 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 162665 </revenue>
+
+
+<epkm> 1931.2 </epkm>
+
+
+<passengers> 14454 </passengers>
+
+
+<cost> 189366 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-46
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MST </end_station>
+
+
+<schkms> 296 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8972 </effkms>
+
+
+<expected_revenue> 192200 </expected_revenue>
+
+
+<revenue> 130679 </revenue>
+
+
+<epkm> 1456.5 </epkm>
+
+
+<passengers> 16518 </passengers>
+
+
+<cost> 201709 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-49
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 268 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 4533 </effkms>
+
+
+<expected_revenue> 159500 </expected_revenue>
+
+
+<revenue> 80799 </revenue>
+
+
+<epkm> 1782.5 </epkm>
+
+
+<passengers> 11176 </passengers>
+
+
+<cost> 101911 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-50
+
+</id><start_station> BKT </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 272 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7536 </effkms>
+
+
+<expected_revenue> 159500 </expected_revenue>
+
+
+<revenue> 127196 </revenue>
+
+
+<epkm> 1687.8 </epkm>
+
+
+<passengers> 12940 </passengers>
+
+
+<cost> 169424 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-54
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> PRG </end_station>
+
+
+<schkms> 283 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7404 </effkms>
+
+
+<expected_revenue> 150000 </expected_revenue>
+
+
+<revenue> 110865 </revenue>
+
+
+<epkm> 1497.4 </epkm>
+
+
+<passengers> 11667 </passengers>
+
+
+<cost> 166457 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-55
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BLY </end_station>
+
+
+<schkms> 414 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12834 </effkms>
+
+
+<expected_revenue> 325500 </expected_revenue>
+
+
+<revenue> 325760 </revenue>
+
+
+<epkm> 2538.3 </epkm>
+
+
+<passengers> 6824 </passengers>
+
+
+<cost> 288534 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-56
+
+</id><start_station> BLY </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 417 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12927 </effkms>
+
+
+<expected_revenue> 325500 </expected_revenue>
+
+
+<revenue> 297199 </revenue>
+
+
+<epkm> 2299.1 </epkm>
+
+
+<passengers> 6796 </passengers>
+
+
+<cost> 290625 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-58
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 424 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13066 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 242771 </revenue>
+
+
+<epkm> 1858.0 </epkm>
+
+
+<passengers> 7657 </passengers>
+
+
+<cost> 293750 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-59
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 495 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15345 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 287441 </revenue>
+
+
+<epkm> 1873.2 </epkm>
+
+
+<passengers> 8184 </passengers>
+
+
+<cost> 344986 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-60
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 426 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 13206 </effkms>
+
+
+<expected_revenue> 279000 </expected_revenue>
+
+
+<revenue> 220463 </revenue>
+
+
+<epkm> 1669.4 </epkm>
+
+
+<passengers> 13061 </passengers>
+
+
+<cost> 296897 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-61
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> GDY </end_station>
+
+
+<schkms> 372 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11392 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 242030 </revenue>
+
+
+<epkm> 2124.6 </epkm>
+
+
+<passengers> 9951 </passengers>
+
+
+<cost> 256115 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-63
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MST </end_station>
+
+
+<schkms> 310 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9310 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 139999 </revenue>
+
+
+<epkm> 1503.7 </epkm>
+
+
+<passengers> 13086 </passengers>
+
+
+<cost> 209307 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-64
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8112 </effkms>
+
+
+<expected_revenue> 156000 </expected_revenue>
+
+
+<revenue> 132381 </revenue>
+
+
+<epkm> 1631.9 </epkm>
+
+
+<passengers> 13598 </passengers>
+
+
+<cost> 182374 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-65
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BKT </end_station>
+
+
+<schkms> 262 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6649 </effkms>
+
+
+<expected_revenue> 135000 </expected_revenue>
+
+
+<revenue> 111512 </revenue>
+
+
+<epkm> 1677.1 </epkm>
+
+
+<passengers> 7931 </passengers>
+
+
+<cost> 149483 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-66
+
+</id><start_station> MYH </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 284 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8375 </effkms>
+
+
+<expected_revenue> 165000 </expected_revenue>
+
+
+<revenue> 107434 </revenue>
+
+
+<epkm> 1282.8 </epkm>
+
+
+<passengers> 7596 </passengers>
+
+
+<cost> 188287 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-67
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MNG </end_station>
+
+
+<schkms> 463 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 14353 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 248541 </revenue>
+
+
+<epkm> 1731.6 </epkm>
+
+
+<passengers> 3204 </passengers>
+
+
+<cost> 322684 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-68
+
+</id><start_station> MNG </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 469 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 14539 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 264744 </revenue>
+
+
+<epkm> 1820.9 </epkm>
+
+
+<passengers> 3317 </passengers>
+
+
+<cost> 326866 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-69
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 470 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14570 </effkms>
+
+
+<expected_revenue> 372000 </expected_revenue>
+
+
+<revenue> 288794 </revenue>
+
+
+<epkm> 1982.1 </epkm>
+
+
+<passengers> 12059 </passengers>
+
+
+<cost> 327563 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-70
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> CHN </end_station>
+
+
+<schkms> 546 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 16926 </effkms>
+
+
+<expected_revenue> 403000 </expected_revenue>
+
+
+<revenue> 390567 </revenue>
+
+
+<epkm> 2307.5 </epkm>
+
+
+<passengers> 11560 </passengers>
+
+
+<cost> 380530 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-71
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> CHN </end_station>
+
+
+<schkms> 482 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15384 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 283948 </revenue>
+
+
+<epkm> 1845.7 </epkm>
+
+
+<passengers> 8024 </passengers>
+
+
+<cost> 345863 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-72
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> DNR </end_station>
+
+
+<schkms> 279 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7637 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 123384 </revenue>
+
+
+<epkm> 1615.6 </epkm>
+
+
+<passengers> 11756 </passengers>
+
+
+<cost> 171695 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-73
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<schkms> 347 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10757 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 270284 </revenue>
+
+
+<epkm> 2512.6 </epkm>
+
+
+<passengers> 8967 </passengers>
+
+
+<cost> 241839 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-74
+
+</id><start_station> CKM </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 350 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10850 </effkms>
+
+
+<expected_revenue> 263500 </expected_revenue>
+
+
+<revenue> 248875 </revenue>
+
+
+<epkm> 2293.8 </epkm>
+
+
+<passengers> 8840 </passengers>
+
+
+<cost> 243930 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-75
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<schkms> 377 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11687 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 295309 </revenue>
+
+
+<epkm> 2526.8 </epkm>
+
+
+<passengers> 8674 </passengers>
+
+
+<cost> 262747 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-76
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 380 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11780 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 282821 </revenue>
+
+
+<epkm> 2400.9 </epkm>
+
+
+<passengers> 8704 </passengers>
+
+
+<cost> 264838 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-77
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 454 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14074 </effkms>
+
+
+<expected_revenue> 372000 </expected_revenue>
+
+
+<revenue> 311501 </revenue>
+
+
+<epkm> 2213.3 </epkm>
+
+
+<passengers> 16120 </passengers>
+
+
+<cost> 316412 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-78
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> GWB </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10883 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 227490 </revenue>
+
+
+<epkm> 2090.3 </epkm>
+
+
+<passengers> 12336 </passengers>
+
+
+<cost> 244672 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-81
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> HDP </end_station>
+
+
+<schkms> 333 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10161 </effkms>
+
+
+<expected_revenue> 232500 </expected_revenue>
+
+
+<revenue> 190806 </revenue>
+
+
+<epkm> 1877.8 </epkm>
+
+
+<passengers> 8680 </passengers>
+
+
+<cost> 228440 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-82
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> HDP </end_station>
+
+
+<schkms> 323 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 8406 </effkms>
+
+
+<expected_revenue> 202500 </expected_revenue>
+
+
+<revenue> 163111 </revenue>
+
+
+<epkm> 1940.4 </epkm>
+
+
+<passengers> 8532 </passengers>
+
+
+<cost> 188984 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-85
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 285 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8600 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 135150 </revenue>
+
+
+<epkm> 1571.5 </epkm>
+
+
+<passengers> 12011 </passengers>
+
+
+<cost> 193345 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-86
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 424 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13144 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 247763 </revenue>
+
+
+<epkm> 1885.0 </epkm>
+
+
+<passengers> 8712 </passengers>
+
+
+<cost> 295503 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-87
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> DGS </end_station>
+
+
+<schkms> 476 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14756 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 373447 </revenue>
+
+
+<epkm> 2530.8 </epkm>
+
+
+<passengers> 6371 </passengers>
+
+
+<cost> 331744 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-88
+
+</id><start_station> DGS </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 479 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14849 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 379796 </revenue>
+
+
+<epkm> 2557.7 </epkm>
+
+
+<passengers> 6412 </passengers>
+
+
+<cost> 333835 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-89
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 393 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11920 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 194823 </revenue>
+
+
+<epkm> 1634.4 </epkm>
+
+
+<passengers> 8924 </passengers>
+
+
+<cost> 267985 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-90
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VLR </end_station>
+
+
+<schkms> 456 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14136 </effkms>
+
+
+<expected_revenue> 325500 </expected_revenue>
+
+
+<revenue> 305045 </revenue>
+
+
+<epkm> 2157.9 </epkm>
+
+
+<passengers> 10385 </passengers>
+
+
+<cost> 317806 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-91
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> GDY </end_station>
+
+
+<schkms> 380 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11656 </effkms>
+
+
+<expected_revenue> 254200 </expected_revenue>
+
+
+<revenue> 237469 </revenue>
+
+
+<epkm> 2037.3 </epkm>
+
+
+<passengers> 8959 </passengers>
+
+
+<cost> 262050 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-92
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KDP </end_station>
+
+
+<schkms> 405 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12555 </effkms>
+
+
+<expected_revenue> 325500 </expected_revenue>
+
+
+<revenue> 288231 </revenue>
+
+
+<epkm> 2295.7 </epkm>
+
+
+<passengers> 7502 </passengers>
+
+
+<cost> 282262 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-93
+
+</id><start_station> KDP </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 405 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12555 </effkms>
+
+
+<expected_revenue> 325500 </expected_revenue>
+
+
+<revenue> 276817 </revenue>
+
+
+<epkm> 2204.8 </epkm>
+
+
+<passengers> 7491 </passengers>
+
+
+<cost> 282262 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-96
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> SMP </end_station>
+
+
+<schkms> 371 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11501 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 282728 </revenue>
+
+
+<epkm> 2458.3 </epkm>
+
+
+<passengers> 9410 </passengers>
+
+
+<cost> 258565 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-97
+
+</id><start_station> SMP </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 374 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11594 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 264388 </revenue>
+
+
+<epkm> 2280.4 </epkm>
+
+
+<passengers> 9520 </passengers>
+
+
+<cost> 260656 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-98
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BJP </end_station>
+
+
+<schkms> 690 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21390 </effkms>
+
+
+<expected_revenue> 496000 </expected_revenue>
+
+
+<revenue> 395114 </revenue>
+
+
+<epkm> 1847.2 </epkm>
+
+
+<passengers> 5306 </passengers>
+
+
+<cost> 480890 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-99
+
+</id><start_station> BJP </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 693 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21483 </effkms>
+
+
+<expected_revenue> 496000 </expected_revenue>
+
+
+<revenue> 402471 </revenue>
+
+
+<epkm> 1873.4 </epkm>
+
+
+<passengers> 5124 </passengers>
+
+
+<cost> 482981 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-100
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BMD </end_station>
+
+
+<schkms> 413 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12683 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 344463 </revenue>
+
+
+<epkm> 2715.9 </epkm>
+
+
+<passengers> 10112 </passengers>
+
+
+<cost> 285139 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-101
+
+</id><start_station> BMD </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 416 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12775 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 296585 </revenue>
+
+
+<epkm> 2321.6 </epkm>
+
+
+<passengers> 9812 </passengers>
+
+
+<cost> 287208 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-102
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 509 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15714 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 249152 </revenue>
+
+
+<epkm> 1585.5 </epkm>
+
+
+<passengers> 8060 </passengers>
+
+
+<cost> 353282 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-103
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KATIL </end_station>
+
+
+<schkms> 485 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15035 </effkms>
+
+
+<expected_revenue> 356500 </expected_revenue>
+
+
+<revenue> 285832 </revenue>
+
+
+<epkm> 1901.1 </epkm>
+
+
+<passengers> 5710 </passengers>
+
+
+<cost> 338017 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-104
+
+</id><start_station> KATIL </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 488 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15128 </effkms>
+
+
+<expected_revenue> 356500 </expected_revenue>
+
+
+<revenue> 243542 </revenue>
+
+
+<epkm> 1609.9 </epkm>
+
+
+<passengers> 5802 </passengers>
+
+
+<cost> 340108 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-105
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 732 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21228 </effkms>
+
+
+<expected_revenue> 493000 </expected_revenue>
+
+
+<revenue> 384329 </revenue>
+
+
+<epkm> 1810.5 </epkm>
+
+
+<passengers> 7656 </passengers>
+
+
+<cost> 477248 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-106
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KPM </end_station>
+
+
+<schkms> 332 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10168 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 163968 </revenue>
+
+
+<epkm> 1612.6 </epkm>
+
+
+<passengers> 10509 </passengers>
+
+
+<cost> 228597 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-107
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 424 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13144 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 245792 </revenue>
+
+
+<epkm> 1870.0 </epkm>
+
+
+<passengers> 7920 </passengers>
+
+
+<cost> 295503 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-110
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<schkms> 418 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12958 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 249525 </revenue>
+
+
+<epkm> 1925.6 </epkm>
+
+
+<passengers> 5871 </passengers>
+
+
+<cost> 291322 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-111
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 418 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12958 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 240343 </revenue>
+
+
+<epkm> 1854.8 </epkm>
+
+
+<passengers> 5492 </passengers>
+
+
+<cost> 291322 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-115
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KNM </end_station>
+
+
+<schkms> 356 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9826 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 140980 </revenue>
+
+
+<epkm> 1434.8 </epkm>
+
+
+<passengers> 13941 </passengers>
+
+
+<cost> 220908 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-138
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 256 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7936 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 158758 </revenue>
+
+
+<epkm> 2000.5 </epkm>
+
+
+<passengers> 14671 </passengers>
+
+
+<cost> 178417 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-139
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 269 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7767 </effkms>
+
+
+<expected_revenue> 195000 </expected_revenue>
+
+
+<revenue> 136498 </revenue>
+
+
+<epkm> 1757.4 </epkm>
+
+
+<passengers> 13046 </passengers>
+
+
+<cost> 174618 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-142
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 287 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8413 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 113962 </revenue>
+
+
+<epkm> 1354.6 </epkm>
+
+
+<passengers> 12041 </passengers>
+
+
+<cost> 189141 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-143
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 288 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7276 </effkms>
+
+
+<expected_revenue> 188500 </expected_revenue>
+
+
+<revenue> 86602 </revenue>
+
+
+<epkm> 1190.2 </epkm>
+
+
+<passengers> 10720 </passengers>
+
+
+<cost> 163579 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-144
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 266 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8009 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 179787 </revenue>
+
+
+<epkm> 2244.8 </epkm>
+
+
+<passengers> 13632 </passengers>
+
+
+<cost> 180058 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-145
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> NDL </end_station>
+
+
+<schkms> 292 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7520 </effkms>
+
+
+<expected_revenue> 188500 </expected_revenue>
+
+
+<revenue> 97747 </revenue>
+
+
+<epkm> 1299.8 </epkm>
+
+
+<passengers> 10788 </passengers>
+
+
+<cost> 169065 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-153
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 322 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9445 </effkms>
+
+
+<expected_revenue> 195000 </expected_revenue>
+
+
+<revenue> 121138 </revenue>
+
+
+<epkm> 1282.6 </epkm>
+
+
+<passengers> 11340 </passengers>
+
+
+<cost> 212342 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-154
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> BTM </end_station>
+
+
+<schkms> 304 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8480 </effkms>
+
+
+<expected_revenue> 195000 </expected_revenue>
+
+
+<revenue> 132816 </revenue>
+
+
+<epkm> 1566.2 </epkm>
+
+
+<passengers> 13970 </passengers>
+
+
+<cost> 190647 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-155
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10658 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 190964 </revenue>
+
+
+<epkm> 1791.7 </epkm>
+
+
+<passengers> 14670 </passengers>
+
+
+<cost> 239613 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-156
+
+</id><start_station> CNT </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 278 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8618 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 173769 </revenue>
+
+
+<epkm> 2016.3 </epkm>
+
+
+<passengers> 15021 </passengers>
+
+
+<cost> 193750 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-161
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 732 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21886 </effkms>
+
+
+<expected_revenue> 527000 </expected_revenue>
+
+
+<revenue> 393339 </revenue>
+
+
+<epkm> 1797.2 </epkm>
+
+
+<passengers> 9672 </passengers>
+
+
+<cost> 492041 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-162
+
+</id><start_station> TPT </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 732 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 21304 </effkms>
+
+
+<expected_revenue> 527000 </expected_revenue>
+
+
+<revenue> 369885 </revenue>
+
+
+<epkm> 1736.2 </epkm>
+
+
+<passengers> 8161 </passengers>
+
+
+<cost> 478957 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-166
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> CHN </end_station>
+
+
+<schkms> 436 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 13516 </effkms>
+
+
+<expected_revenue> 465000 </expected_revenue>
+
+
+<revenue> 383533 </revenue>
+
+
+<epkm> 2837.6 </epkm>
+
+
+<passengers> 3041 </passengers>
+
+
+<cost> 303867 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-167
+
+</id><start_station> CHN </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 436 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 13516 </effkms>
+
+
+<expected_revenue> 465000 </expected_revenue>
+
+
+<revenue> 456045 </revenue>
+
+
+<epkm> 3374.1 </epkm>
+
+
+<passengers> 3196 </passengers>
+
+
+<cost> 303867 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-170
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> STP </end_station>
+
+
+<schkms> 250 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7750 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 142089 </revenue>
+
+
+<epkm> 1833.4 </epkm>
+
+
+<passengers> 14022 </passengers>
+
+
+<cost> 174236 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-171
+
+</id><start_station> KGS </start_station>
+
+
+<end_station> STP </end_station>
+
+
+<schkms> 275 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7089 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 136922 </revenue>
+
+
+<epkm> 1931.5 </epkm>
+
+
+<passengers> 12204 </passengers>
+
+
+<cost> 159375 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-172
+
+</id><start_station> SPT </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 277 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8372 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 151799 </revenue>
+
+
+<epkm> 1813.2 </epkm>
+
+
+<passengers> 11367 </passengers>
+
+
+<cost> 188219 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-175
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> RMS </end_station>
+
+
+<schkms> 250 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7078 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 134424 </revenue>
+
+
+<epkm> 1899.2 </epkm>
+
+
+<passengers> 12860 </passengers>
+
+
+<cost> 159128 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-176
+
+</id><start_station> RMS </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 287 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8897 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 130951 </revenue>
+
+
+<epkm> 1471.9 </epkm>
+
+
+<passengers> 11917 </passengers>
+
+
+<cost> 200022 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-178
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KPM </end_station>
+
+
+<schkms> 324 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 8684 </effkms>
+
+
+<expected_revenue> 216000 </expected_revenue>
+
+
+<revenue> 149884 </revenue>
+
+
+<epkm> 1726.0 </epkm>
+
+
+<passengers> 8424 </passengers>
+
+
+<cost> 195234 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-179
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> KPM </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9536 </effkms>
+
+
+<expected_revenue> 240000 </expected_revenue>
+
+
+<revenue> 174404 </revenue>
+
+
+<epkm> 1828.9 </epkm>
+
+
+<passengers> 9071 </passengers>
+
+
+<cost> 214388 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-185
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> VLR </end_station>
+
+
+<schkms> 356 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10908 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 187712 </revenue>
+
+
+<epkm> 1720.9 </epkm>
+
+
+<passengers> 9920 </passengers>
+
+
+<cost> 245234 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-186
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 352 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9692 </effkms>
+
+
+<expected_revenue> 182000 </expected_revenue>
+
+
+<revenue> 104000 </revenue>
+
+
+<epkm> 1073.0 </epkm>
+
+
+<passengers> 10941 </passengers>
+
+
+<cost> 217896 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-188
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> PDT </end_station>
+
+
+<schkms> 404 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12524 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 245793 </revenue>
+
+
+<epkm> 1962.6 </epkm>
+
+
+<passengers> 7621 </passengers>
+
+
+<cost> 281565 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-189
+
+</id><start_station> PDT </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 404 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12524 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 246369 </revenue>
+
+
+<epkm> 1967.2 </epkm>
+
+
+<passengers> 7704 </passengers>
+
+
+<cost> 281565 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-190
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> NPK </end_station>
+
+
+<schkms> 390 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12090 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 271692 </revenue>
+
+
+<epkm> 2247.2 </epkm>
+
+
+<passengers> 8711 </passengers>
+
+
+<cost> 271807 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-191
+
+</id><start_station> NPK </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 390 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12090 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 253598 </revenue>
+
+
+<epkm> 2097.6 </epkm>
+
+
+<passengers> 7611 </passengers>
+
+
+<cost> 271807 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KGF-193
+
+</id><start_station> KGF </start_station>
+
+
+<end_station> STP </end_station>
+
+
+<schkms> 300 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7302 </effkms>
+
+
+<expected_revenue> 190400 </expected_revenue>
+
+
+<revenue> 97920 </revenue>
+
+
+<epkm> 1341.0 </epkm>
+
+
+<passengers> 10080 </passengers>
+
+
+<cost> 164164 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+</buses>
+

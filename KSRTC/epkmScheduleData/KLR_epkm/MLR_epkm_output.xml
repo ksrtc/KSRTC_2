@@ -1,0 +1,3129 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> MLR-1
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 349 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10779 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 149632 </revenue>
+
+
+<epkm> 1388.2 </epkm>
+
+
+<passengers> 4548 </passengers>
+
+
+<cost> 234821 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-2
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TKL </end_station>
+
+
+<schkms> 306 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9430 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 160250 </revenue>
+
+
+<epkm> 1699.4 </epkm>
+
+
+<passengers> 4871 </passengers>
+
+
+<cost> 205433 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-4
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 384 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11794 </effkms>
+
+
+<expected_revenue> 6500 </expected_revenue>
+
+
+<revenue> 277545 </revenue>
+
+
+<epkm> 2353.3 </epkm>
+
+
+<passengers> 8437 </passengers>
+
+
+<cost> 256932 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-5
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MST </end_station>
+
+
+<schkms> 342 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9870 </effkms>
+
+
+<expected_revenue> 5500 </expected_revenue>
+
+
+<revenue> 105800 </revenue>
+
+
+<epkm> 1071.9 </epkm>
+
+
+<passengers> 3216 </passengers>
+
+
+<cost> 215018 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-7
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> DNH </end_station>
+
+
+<schkms> 319 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9416 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 150919 </revenue>
+
+
+<epkm> 1602.8 </epkm>
+
+
+<passengers> 4587 </passengers>
+
+
+<cost> 205128 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-9
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 382 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10544 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 162746 </revenue>
+
+
+<epkm> 1543.5 </epkm>
+
+
+<passengers> 4947 </passengers>
+
+
+<cost> 229701 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-10
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9020 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 177385 </revenue>
+
+
+<epkm> 1966.6 </epkm>
+
+
+<passengers> 5392 </passengers>
+
+
+<cost> 196501 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-11
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<schkms> 348 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10706 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 167747 </revenue>
+
+
+<epkm> 1566.9 </epkm>
+
+
+<passengers> 5099 </passengers>
+
+
+<cost> 233230 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-12
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BVH </end_station>
+
+
+<schkms> 324 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9792 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 133954 </revenue>
+
+
+<epkm> 1368.0 </epkm>
+
+
+<passengers> 4072 </passengers>
+
+
+<cost> 213319 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-13
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> USH </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9506 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 138196 </revenue>
+
+
+<epkm> 1453.8 </epkm>
+
+
+<passengers> 4201 </passengers>
+
+
+<cost> 207088 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-14
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 388 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11608 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 194524 </revenue>
+
+
+<epkm> 1675.8 </epkm>
+
+
+<passengers> 5913 </passengers>
+
+
+<cost> 252880 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-15
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 304 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8970 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 131983 </revenue>
+
+
+<epkm> 1471.4 </epkm>
+
+
+<passengers> 4012 </passengers>
+
+
+<cost> 195411 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-16
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10220 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 153599 </revenue>
+
+
+<epkm> 1502.9 </epkm>
+
+
+<passengers> 4669 </passengers>
+
+
+<cost> 222643 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-17
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 378 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11340 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 245218 </revenue>
+
+
+<epkm> 2162.4 </epkm>
+
+
+<passengers> 7454 </passengers>
+
+
+<cost> 247042 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-18
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BNT </end_station>
+
+
+<schkms> 276 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8418 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 162974 </revenue>
+
+
+<epkm> 1936.0 </epkm>
+
+
+<passengers> 4954 </passengers>
+
+
+<cost> 183386 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-20
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 400 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12120 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 242235 </revenue>
+
+
+<epkm> 1998.6 </epkm>
+
+
+<passengers> 7363 </passengers>
+
+
+<cost> 264034 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-21
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 266 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 5922 </effkms>
+
+
+<expected_revenue> 5500 </expected_revenue>
+
+
+<revenue> 99050 </revenue>
+
+
+<epkm> 1672.6 </epkm>
+
+
+<passengers> 3011 </passengers>
+
+
+<cost> 129011 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-23
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 359 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10827 </effkms>
+
+
+<expected_revenue> 5500 </expected_revenue>
+
+
+<revenue> 156012 </revenue>
+
+
+<epkm> 1441.0 </epkm>
+
+
+<passengers> 4742 </passengers>
+
+
+<cost> 235866 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-25
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> VGL </end_station>
+
+
+<schkms> 340 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8872 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 134953 </revenue>
+
+
+<epkm> 1521.1 </epkm>
+
+
+<passengers> 4102 </passengers>
+
+
+<cost> 193277 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-26
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 394 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11500 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 166211 </revenue>
+
+
+<epkm> 1445.3 </epkm>
+
+
+<passengers> 5052 </passengers>
+
+
+<cost> 250528 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-27
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HCR </end_station>
+
+
+<schkms> 280 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8200 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 117843 </revenue>
+
+
+<epkm> 1437.1 </epkm>
+
+
+<passengers> 3582 </passengers>
+
+
+<cost> 178637 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-28
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 320 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8056 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 119165 </revenue>
+
+
+<epkm> 1479.2 </epkm>
+
+
+<passengers> 3622 </passengers>
+
+
+<cost> 175500 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-33
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 333 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9930 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 133175 </revenue>
+
+
+<epkm> 1341.1 </epkm>
+
+
+<passengers> 4048 </passengers>
+
+
+<cost> 216325 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-35
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> OBT </end_station>
+
+
+<schkms> 284 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8704 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 157181 </revenue>
+
+
+<epkm> 1805.8 </epkm>
+
+
+<passengers> 4778 </passengers>
+
+
+<cost> 189617 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-36
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 396 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10658 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 204154 </revenue>
+
+
+<epkm> 1915.5 </epkm>
+
+
+<passengers> 6206 </passengers>
+
+
+<cost> 232185 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-37
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 396 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11088 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 218329 </revenue>
+
+
+<epkm> 1969.1 </epkm>
+
+
+<passengers> 6637 </passengers>
+
+
+<cost> 241552 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-38
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 396 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10448 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 192736 </revenue>
+
+
+<epkm> 1844.7 </epkm>
+
+
+<passengers> 5859 </passengers>
+
+
+<cost> 227610 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-39
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 396 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11024 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 209271 </revenue>
+
+
+<epkm> 1898.3 </epkm>
+
+
+<passengers> 6361 </passengers>
+
+
+<cost> 240158 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-42
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 364 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10844 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 206037 </revenue>
+
+
+<epkm> 1900.0 </epkm>
+
+
+<passengers> 6263 </passengers>
+
+
+<cost> 236237 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-43
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> SNP </end_station>
+
+
+<schkms> 336 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9348 </effkms>
+
+
+<expected_revenue> 7500 </expected_revenue>
+
+
+<revenue> 127557 </revenue>
+
+
+<epkm> 1364.5 </epkm>
+
+
+<passengers> 3877 </passengers>
+
+
+<cost> 203646 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-52
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 375 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11625 </effkms>
+
+
+<expected_revenue> 7500 </expected_revenue>
+
+
+<revenue> 259562 </revenue>
+
+
+<epkm> 2232.8 </epkm>
+
+
+<passengers> 7890 </passengers>
+
+
+<cost> 253251 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-53
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 375 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11625 </effkms>
+
+
+<expected_revenue> 7500 </expected_revenue>
+
+
+<revenue> 267349 </revenue>
+
+
+<epkm> 2299.8 </epkm>
+
+
+<passengers> 8127 </passengers>
+
+
+<cost> 253251 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-63
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 252 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7744 </effkms>
+
+
+<expected_revenue> 7500 </expected_revenue>
+
+
+<revenue> 165358 </revenue>
+
+
+<epkm> 2135.3 </epkm>
+
+
+<passengers> 5026 </passengers>
+
+
+<cost> 168703 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-64
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 274 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7654 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 160026 </revenue>
+
+
+<epkm> 2090.7 </epkm>
+
+
+<passengers> 4864 </passengers>
+
+
+<cost> 166742 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-68
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 284 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8440 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 137355 </revenue>
+
+
+<epkm> 1627.4 </epkm>
+
+
+<passengers> 4175 </passengers>
+
+
+<cost> 183865 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-69
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BGL </end_station>
+
+
+<schkms> 288 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8480 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 156436 </revenue>
+
+
+<epkm> 1844.8 </epkm>
+
+
+<passengers> 4755 </passengers>
+
+
+<cost> 184737 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-73
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 356 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10944 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 211622 </revenue>
+
+
+<epkm> 1933.7 </epkm>
+
+
+<passengers> 6433 </passengers>
+
+
+<cost> 238415 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-74
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 330 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8810 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 140910 </revenue>
+
+
+<epkm> 1599.4 </epkm>
+
+
+<passengers> 4283 </passengers>
+
+
+<cost> 191926 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-75
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 303 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8910 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 147074 </revenue>
+
+
+<epkm> 1650.7 </epkm>
+
+
+<passengers> 4471 </passengers>
+
+
+<cost> 194104 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-76
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10144 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 129662 </revenue>
+
+
+<epkm> 1278.2 </epkm>
+
+
+<passengers> 3941 </passengers>
+
+
+<cost> 220987 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-80
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 335 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10385 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 206566 </revenue>
+
+
+<epkm> 1989.1 </epkm>
+
+
+<passengers> 6279 </passengers>
+
+
+<cost> 226237 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-81
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 335 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10385 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 212887 </revenue>
+
+
+<epkm> 2049.9 </epkm>
+
+
+<passengers> 6471 </passengers>
+
+
+<cost> 226237 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-85
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> DGL </end_station>
+
+
+<schkms> 290 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8938 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 147755 </revenue>
+
+
+<epkm> 1653.1 </epkm>
+
+
+<passengers> 4491 </passengers>
+
+
+<cost> 194714 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-87
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BRG </end_station>
+
+
+<schkms> 337 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9996 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 147398 </revenue>
+
+
+<epkm> 1474.6 </epkm>
+
+
+<passengers> 4480 </passengers>
+
+
+<cost> 217763 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-88
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> DML </end_station>
+
+
+<schkms> 376 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10844 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 153860 </revenue>
+
+
+<epkm> 1418.8 </epkm>
+
+
+<passengers> 4677 </passengers>
+
+
+<cost> 236237 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-89
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 282 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8520 </effkms>
+
+
+<expected_revenue> 7500 </expected_revenue>
+
+
+<revenue> 127968 </revenue>
+
+
+<epkm> 1502.0 </epkm>
+
+
+<passengers> 3890 </passengers>
+
+
+<cost> 185608 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-90
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 382 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11078 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 241105 </revenue>
+
+
+<epkm> 2176.4 </epkm>
+
+
+<passengers> 7329 </passengers>
+
+
+<cost> 241334 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-91
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BPT </end_station>
+
+
+<schkms> 268 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7868 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 129191 </revenue>
+
+
+<epkm> 1642.0 </epkm>
+
+
+<passengers> 3927 </passengers>
+
+
+<cost> 171404 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-92
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 350 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9252 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 124168 </revenue>
+
+
+<epkm> 1342.1 </epkm>
+
+
+<passengers> 3774 </passengers>
+
+
+<cost> 201555 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-93
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9298 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 109893 </revenue>
+
+
+<epkm> 1181.9 </epkm>
+
+
+<passengers> 3340 </passengers>
+
+
+<cost> 202557 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-94
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9516 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 195549 </revenue>
+
+
+<epkm> 2054.9 </epkm>
+
+
+<passengers> 5944 </passengers>
+
+
+<cost> 207306 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-95
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8714 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 135434 </revenue>
+
+
+<epkm> 1554.2 </epkm>
+
+
+<passengers> 4117 </passengers>
+
+
+<cost> 189834 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-96
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 252 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7446 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 180373 </revenue>
+
+
+<epkm> 2422.4 </epkm>
+
+
+<passengers> 5483 </passengers>
+
+
+<cost> 162211 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-97
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 264 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8184 </effkms>
+
+
+<expected_revenue> 8000 </expected_revenue>
+
+
+<revenue> 198643 </revenue>
+
+
+<epkm> 2427.2 </epkm>
+
+
+<passengers> 6038 </passengers>
+
+
+<cost> 178288 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-98
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 364 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11284 </effkms>
+
+
+<expected_revenue> 8000 </expected_revenue>
+
+
+<revenue> 262018 </revenue>
+
+
+<epkm> 2322.0 </epkm>
+
+
+<passengers> 7965 </passengers>
+
+
+<cost> 245822 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-99
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 386 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11684 </effkms>
+
+
+<expected_revenue> 12000 </expected_revenue>
+
+
+<revenue> 234742 </revenue>
+
+
+<epkm> 2009.1 </epkm>
+
+
+<passengers> 7135 </passengers>
+
+
+<cost> 254536 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-100
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 620 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 19220 </effkms>
+
+
+<expected_revenue> 12000 </expected_revenue>
+
+
+<revenue> 360410 </revenue>
+
+
+<epkm> 1875.2 </epkm>
+
+
+<passengers> 10955 </passengers>
+
+
+<cost> 418708 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-101
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 620 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 18600 </effkms>
+
+
+<expected_revenue> 7200 </expected_revenue>
+
+
+<revenue> 317514 </revenue>
+
+
+<epkm> 1707.1 </epkm>
+
+
+<passengers> 9651 </passengers>
+
+
+<cost> 405201 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-102
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<schkms> 400 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12009 </effkms>
+
+
+<expected_revenue> 5600 </expected_revenue>
+
+
+<revenue> 249282 </revenue>
+
+
+<epkm> 2075.8 </epkm>
+
+
+<passengers> 7577 </passengers>
+
+
+<cost> 261616 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-103
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 282 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8178 </effkms>
+
+
+<expected_revenue> 12000 </expected_revenue>
+
+
+<revenue> 126526 </revenue>
+
+
+<epkm> 1547.2 </epkm>
+
+
+<passengers> 3846 </passengers>
+
+
+<cost> 178158 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-104
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KOT </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10100 </effkms>
+
+
+<expected_revenue> 9000 </expected_revenue>
+
+
+<revenue> 173487 </revenue>
+
+
+<epkm> 1717.7 </epkm>
+
+
+<passengers> 5273 </passengers>
+
+
+<cost> 220029 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-105
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> DMK </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7216 </effkms>
+
+
+<expected_revenue> 9000 </expected_revenue>
+
+
+<revenue> 96289 </revenue>
+
+
+<epkm> 1334.4 </epkm>
+
+
+<passengers> 2927 </passengers>
+
+
+<cost> 157201 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-108
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 620 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 18498 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 323449 </revenue>
+
+
+<epkm> 1748.6 </epkm>
+
+
+<passengers> 9832 </passengers>
+
+
+<cost> 402979 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-109
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 620 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 18040 </effkms>
+
+
+<expected_revenue> 6000 </expected_revenue>
+
+
+<revenue> 330138 </revenue>
+
+
+<epkm> 1830.0 </epkm>
+
+
+<passengers> 10035 </passengers>
+
+
+<cost> 393001 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-113
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MNT </end_station>
+
+
+<schkms> 466 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14446 </effkms>
+
+
+<expected_revenue> 7200 </expected_revenue>
+
+
+<revenue> 401661 </revenue>
+
+
+<epkm> 2780.4 </epkm>
+
+
+<passengers> 12209 </passengers>
+
+
+<cost> 314706 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-114
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MNT </end_station>
+
+
+<schkms> 468 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14508 </effkms>
+
+
+<expected_revenue> 5500 </expected_revenue>
+
+
+<revenue> 407107 </revenue>
+
+
+<epkm> 2806.1 </epkm>
+
+
+<passengers> 12375 </passengers>
+
+
+<cost> 316057 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-117
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 242 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6148 </effkms>
+
+
+<expected_revenue> 5500 </expected_revenue>
+
+
+<revenue> 98613 </revenue>
+
+
+<epkm> 1604.0 </epkm>
+
+
+<passengers> 2998 </passengers>
+
+
+<cost> 133934 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-118
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 324 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9580 </effkms>
+
+
+<expected_revenue> 5000 </expected_revenue>
+
+
+<revenue> 164234 </revenue>
+
+
+<epkm> 1714.3 </epkm>
+
+
+<passengers> 4992 </passengers>
+
+
+<cost> 208700 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-123
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<schkms> 292 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6486 </effkms>
+
+
+<expected_revenue> 4500 </expected_revenue>
+
+
+<revenue> 93444 </revenue>
+
+
+<epkm> 1440.7 </epkm>
+
+
+<passengers> 2840 </passengers>
+
+
+<cost> 141298 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-125
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> GWB </end_station>
+
+
+<schkms> 364 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9394 </effkms>
+
+
+<expected_revenue> 4500 </expected_revenue>
+
+
+<revenue> 173113 </revenue>
+
+
+<epkm> 1842.8 </epkm>
+
+
+<passengers> 5262 </passengers>
+
+
+<cost> 204648 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-126
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 336 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10416 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 237221 </revenue>
+
+
+<epkm> 2277.5 </epkm>
+
+
+<passengers> 7211 </passengers>
+
+
+<cost> 226913 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-127
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> MGG </end_station>
+
+
+<schkms> 364 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11284 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 218894 </revenue>
+
+
+<epkm> 1939.9 </epkm>
+
+
+<passengers> 6654 </passengers>
+
+
+<cost> 245822 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-128
+
+</id><start_station> MGG </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 366 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11346 </effkms>
+
+
+<expected_revenue> 8000 </expected_revenue>
+
+
+<revenue> 215605 </revenue>
+
+
+<epkm> 1900.3 </epkm>
+
+
+<passengers> 6554 </passengers>
+
+
+<cost> 247173 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-129
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HSR </end_station>
+
+
+<schkms> 348 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10788 </effkms>
+
+
+<expected_revenue> 8000 </expected_revenue>
+
+
+<revenue> 228358 </revenue>
+
+
+<epkm> 2116.8 </epkm>
+
+
+<passengers> 6941 </passengers>
+
+
+<cost> 235017 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-130
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 314 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8926 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 167149 </revenue>
+
+
+<epkm> 1872.6 </epkm>
+
+
+<passengers> 5085 </passengers>
+
+
+<cost> 194453 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-131
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HCM </end_station>
+
+
+<schkms> 422 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13082 </effkms>
+
+
+<expected_revenue> 7000 </expected_revenue>
+
+
+<revenue> 251477 </revenue>
+
+
+<epkm> 1922.3 </epkm>
+
+
+<passengers> 7644 </passengers>
+
+
+<cost> 284991 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-132
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HCM </end_station>
+
+
+<schkms> 422 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13082 </effkms>
+
+
+<expected_revenue> 8500 </expected_revenue>
+
+
+<revenue> 259021 </revenue>
+
+
+<epkm> 1980.0 </epkm>
+
+
+<passengers> 7873 </passengers>
+
+
+<cost> 284991 </cost>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-133
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> HRN </end_station>
+
+
+<schkms> 397 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12307 </effkms>
+
+
+<expected_revenue> 8500 </expected_revenue>
+
+
+<revenue> 273361 </revenue>
+
+
+<epkm> 2221.2 </epkm>
+
+
+<passengers> 8309 </passengers>
+
+
+<cost> 268108 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-134
+
+</id><start_station> HRN </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 397 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12307 </effkms>
+
+
+<expected_revenue> 8500 </expected_revenue>
+
+
+<revenue> 281561 </revenue>
+
+
+<epkm> 2287.8 </epkm>
+
+
+<passengers> 8559 </passengers>
+
+
+<cost> 268108 </cost>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> MLR-137
+
+</id><start_station> MLR </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 300 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8410 </effkms>
+
+
+<expected_revenue> 8502 </expected_revenue>
+
+
+<revenue> 132656 </revenue>
+
+
+<epkm> 1577.4 </epkm>
+
+
+<passengers> 4032 </passengers>
+
+
+<cost> 183212 </cost>
+
+
+<group> C </group>
+
+</schedule>
+
+
+</buses>
+

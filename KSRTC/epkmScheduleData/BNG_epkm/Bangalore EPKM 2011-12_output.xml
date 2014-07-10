@@ -1,0 +1,13764 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> BNG - I/3</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 345 </passengers>
+
+
+<effkms> 3150 </effkms>
+
+
+<revenue> 65691 </revenue>
+
+
+<epkm> 2085.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/4</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 290 </passengers>
+
+
+<effkms> 3150 </effkms>
+
+
+<revenue> 75983 </revenue>
+
+
+<epkm> 2412.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/5</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 301 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 296341 </revenue>
+
+
+<epkm> 3096.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/6</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 200 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 275511 </revenue>
+
+
+<epkm> 2878.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/8</id>
+
+<schkms> 530 </schkms>
+
+
+<passengers> 7067 </passengers>
+
+
+<effkms> 1060 </effkms>
+
+
+<revenue> 22026 </revenue>
+
+
+<epkm> 2077.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/9</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 985 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 381134 </revenue>
+
+
+<epkm> 2305.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/10</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 704 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 322931 </revenue>
+
+
+<epkm> 1953.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/12</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 1105 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 295842 </revenue>
+
+
+<epkm> 3091.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/13</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 1065 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 265587 </revenue>
+
+
+<epkm> 2775.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/14</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 1016 </passengers>
+
+
+<effkms> 10360 </effkms>
+
+
+<revenue> 244317 </revenue>
+
+
+<epkm> 2358.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/15</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 1009 </passengers>
+
+
+<effkms> 10360 </effkms>
+
+
+<revenue> 216387 </revenue>
+
+
+<epkm> 2088.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/16</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 1351 </passengers>
+
+
+<effkms> 8874 </effkms>
+
+
+<revenue> 353844 </revenue>
+
+
+<epkm> 3987.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/17</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 1129 </passengers>
+
+
+<effkms> 8874 </effkms>
+
+
+<revenue> 318779 </revenue>
+
+
+<epkm> 3592.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/18</id>
+
+<schkms> 364 </schkms>
+
+
+<passengers> 7067 </passengers>
+
+
+<effkms> 728 </effkms>
+
+
+<revenue> 13283 </revenue>
+
+
+<epkm> 1824.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/19</id>
+
+<schkms> 550 </schkms>
+
+
+<passengers> 5331 </passengers>
+
+
+<effkms> 1100 </effkms>
+
+
+<revenue> 25450 </revenue>
+
+
+<epkm> 2313.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/20</id>
+
+<schkms> 617 </schkms>
+
+
+<passengers> 795 </passengers>
+
+
+<effkms> 17879 </effkms>
+
+
+<revenue> 412674 </revenue>
+
+
+<epkm> 2308.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/21</id>
+
+<schkms> 617 </schkms>
+
+
+<passengers> 795 </passengers>
+
+
+<effkms> 17879 </effkms>
+
+
+<revenue> 357941 </revenue>
+
+
+<epkm> 2002.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/23</id>
+
+<schkms> 332 </schkms>
+
+
+<passengers> 1103 </passengers>
+
+
+<effkms> 9628 </effkms>
+
+
+<revenue> 300766 </revenue>
+
+
+<epkm> 3123.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/24</id>
+
+<schkms> 332 </schkms>
+
+
+<passengers> 1067 </passengers>
+
+
+<effkms> 9628 </effkms>
+
+
+<revenue> 331178 </revenue>
+
+
+<epkm> 3439.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/25</id>
+
+<schkms> 394 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 11426 </effkms>
+
+
+<revenue> 233214 </revenue>
+
+
+<epkm> 2041.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/26</id>
+
+<schkms> 394 </schkms>
+
+
+<passengers> 523 </passengers>
+
+
+<effkms> 11426 </effkms>
+
+
+<revenue> 174816 </revenue>
+
+
+<epkm> 1530.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/27</id>
+
+<schkms> 364 </schkms>
+
+
+<passengers> 4131 </passengers>
+
+
+<effkms> 728 </effkms>
+
+
+<revenue> 17001 </revenue>
+
+
+<epkm> 2335.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/28</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 368 </passengers>
+
+
+<effkms> 13253 </effkms>
+
+
+<revenue> 280674 </revenue>
+
+
+<epkm> 2117.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/29</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 270 </passengers>
+
+
+<effkms> 13258 </effkms>
+
+
+<revenue> 293273 </revenue>
+
+
+<epkm> 2212.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/30</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 808 </passengers>
+
+
+<effkms> 6600 </effkms>
+
+
+<revenue> 205112 </revenue>
+
+
+<epkm> 3107.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/31</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 907 </passengers>
+
+
+<effkms> 6600 </effkms>
+
+
+<revenue> 251402 </revenue>
+
+
+<epkm> 3809.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/32</id>
+
+<schkms> 525 </schkms>
+
+
+<passengers> 1314 </passengers>
+
+
+<effkms> 15225 </effkms>
+
+
+<revenue> 345730 </revenue>
+
+
+<epkm> 2270.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/33</id>
+
+<schkms> 525 </schkms>
+
+
+<passengers> 1011 </passengers>
+
+
+<effkms> 15225 </effkms>
+
+
+<revenue> 261226 </revenue>
+
+
+<epkm> 1715.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/34</id>
+
+<schkms> 563 </schkms>
+
+
+<passengers> 1151 </passengers>
+
+
+<effkms> 16327 </effkms>
+
+
+<revenue> 332651 </revenue>
+
+
+<epkm> 2037.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/35</id>
+
+<schkms> 563 </schkms>
+
+
+<passengers> 954 </passengers>
+
+
+<effkms> 16327 </effkms>
+
+
+<revenue> 309237 </revenue>
+
+
+<epkm> 1894.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/37</id>
+
+<schkms> 485 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 13830 </effkms>
+
+
+<revenue> 359322 </revenue>
+
+
+<epkm> 2598.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/38</id>
+
+<schkms> 485 </schkms>
+
+
+<passengers> 934 </passengers>
+
+
+<effkms> 13830 </effkms>
+
+
+<revenue> 307328 </revenue>
+
+
+<epkm> 2222.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/39</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 924 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 289391 </revenue>
+
+
+<epkm> 2851.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/40</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 874 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 270298 </revenue>
+
+
+<epkm> 2663.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/41</id>
+
+<schkms> 380 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 11020 </effkms>
+
+
+<revenue> 292371 </revenue>
+
+
+<epkm> 2653.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/42</id>
+
+<schkms> 380 </schkms>
+
+
+<passengers> 930 </passengers>
+
+
+<effkms> 11020 </effkms>
+
+
+<revenue> 226349 </revenue>
+
+
+<epkm> 2054.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/43</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 815 </passengers>
+
+
+<effkms> 14820 </effkms>
+
+
+<revenue> 315212 </revenue>
+
+
+<epkm> 2126.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/44</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 574 </passengers>
+
+
+<effkms> 14820 </effkms>
+
+
+<revenue> 230108 </revenue>
+
+
+<epkm> 1552.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/45</id>
+
+<schkms> 514 </schkms>
+
+
+<passengers> 981 </passengers>
+
+
+<effkms> 14392 </effkms>
+
+
+<revenue> 307655 </revenue>
+
+
+<epkm> 2137.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/46</id>
+
+<schkms> 514 </schkms>
+
+
+<passengers> 914 </passengers>
+
+
+<effkms> 14392 </effkms>
+
+
+<revenue> 249910 </revenue>
+
+
+<epkm> 1736.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/47</id>
+
+<schkms> 550 </schkms>
+
+
+<passengers> 6068 </passengers>
+
+
+<effkms> 1100 </effkms>
+
+
+<revenue> 20695 </revenue>
+
+
+<epkm> 1881.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/48</id>
+
+<schkms> 325 </schkms>
+
+
+<passengers> 1055 </passengers>
+
+
+<effkms> 9425 </effkms>
+
+
+<revenue> 249492 </revenue>
+
+
+<epkm> 2647.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/49</id>
+
+<schkms> 325 </schkms>
+
+
+<passengers> 840 </passengers>
+
+
+<effkms> 9425 </effkms>
+
+
+<revenue> 195311 </revenue>
+
+
+<epkm> 2072.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/50</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 925 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 297743 </revenue>
+
+
+<epkm> 2933.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/51</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 700 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 274512 </revenue>
+
+
+<epkm> 2704.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/52</id>
+
+<schkms> 409 </schkms>
+
+
+<passengers> 898 </passengers>
+
+
+<effkms> 11861 </effkms>
+
+
+<revenue> 264445 </revenue>
+
+
+<epkm> 2229.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/53</id>
+
+<schkms> 409 </schkms>
+
+
+<passengers> 789 </passengers>
+
+
+<effkms> 11861 </effkms>
+
+
+<revenue> 265514 </revenue>
+
+
+<epkm> 2238.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/58</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 1208 </passengers>
+
+
+<effkms> 10080 </effkms>
+
+
+<revenue> 255603 </revenue>
+
+
+<epkm> 2535.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/59</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 807 </passengers>
+
+
+<effkms> 10080 </effkms>
+
+
+<revenue> 174655 </revenue>
+
+
+<epkm> 1732.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/61</id>
+
+<schkms> 560 </schkms>
+
+
+<passengers> 1225 </passengers>
+
+
+<effkms> 15883 </effkms>
+
+
+<revenue> 321731 </revenue>
+
+
+<epkm> 2025.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/62</id>
+
+<schkms> 560 </schkms>
+
+
+<passengers> 1025 </passengers>
+
+
+<effkms> 15883 </effkms>
+
+
+<revenue> 282834 </revenue>
+
+
+<epkm> 1780.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/64</id>
+
+<schkms> 550 </schkms>
+
+
+<passengers> 5286 </passengers>
+
+
+<effkms> 1100 </effkms>
+
+
+<revenue> 16219 </revenue>
+
+
+<epkm> 1474.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/70</id>
+
+<schkms> 378 </schkms>
+
+
+<passengers> 961 </passengers>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 257820 </revenue>
+
+
+<epkm> 2351.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/71</id>
+
+<schkms> 378 </schkms>
+
+
+<passengers> 719 </passengers>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 201669 </revenue>
+
+
+<epkm> 1839.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/72</id>
+
+<schkms> 500 </schkms>
+
+
+<passengers> 1341 </passengers>
+
+
+<effkms> 14500 </effkms>
+
+
+<revenue> 321491 </revenue>
+
+
+<epkm> 2217.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/73</id>
+
+<schkms> 501 </schkms>
+
+
+<passengers> 747 </passengers>
+
+
+<effkms> 14529 </effkms>
+
+
+<revenue> 232350 </revenue>
+
+
+<epkm> 1599.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/76</id>
+
+<schkms> 400 </schkms>
+
+
+<passengers> 825 </passengers>
+
+
+<effkms> 11600 </effkms>
+
+
+<revenue> 249867 </revenue>
+
+
+<epkm> 2154.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/77</id>
+
+<schkms> 400 </schkms>
+
+
+<passengers> 780 </passengers>
+
+
+<effkms> 11600 </effkms>
+
+
+<revenue> 220742 </revenue>
+
+
+<epkm> 1902.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/86</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 1168 </passengers>
+
+
+<effkms> 9441 </effkms>
+
+
+<revenue> 207180 </revenue>
+
+
+<epkm> 2194.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/87</id>
+
+<schkms> 331 </schkms>
+
+
+<passengers> 791 </passengers>
+
+
+<effkms> 9442 </effkms>
+
+
+<revenue> 175395 </revenue>
+
+
+<epkm> 1857.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/88</id>
+
+<schkms> 358 </schkms>
+
+
+<passengers> 1215 </passengers>
+
+
+<effkms> 10382 </effkms>
+
+
+<revenue> 269945 </revenue>
+
+
+<epkm> 2600.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/89</id>
+
+<schkms> 358 </schkms>
+
+
+<passengers> 799 </passengers>
+
+
+<effkms> 10382 </effkms>
+
+
+<revenue> 164581 </revenue>
+
+
+<epkm> 1585.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/90</id>
+
+<schkms> 376 </schkms>
+
+
+<passengers> 1077 </passengers>
+
+
+<effkms> 10847 </effkms>
+
+
+<revenue> 223717 </revenue>
+
+
+<epkm> 2062.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/91</id>
+
+<schkms> 376 </schkms>
+
+
+<passengers> 1138 </passengers>
+
+
+<effkms> 10847 </effkms>
+
+
+<revenue> 286091 </revenue>
+
+
+<epkm> 2637.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/92</id>
+
+<schkms> 660 </schkms>
+
+
+<passengers> 1945 </passengers>
+
+
+<effkms> 18890 </effkms>
+
+
+<revenue> 553377 </revenue>
+
+
+<epkm> 2929.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/93</id>
+
+<schkms> 660 </schkms>
+
+
+<passengers> 1798 </passengers>
+
+
+<effkms> 19140 </effkms>
+
+
+<revenue> 429069 </revenue>
+
+
+<epkm> 2241.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/94</id>
+
+<schkms> 470 </schkms>
+
+
+<passengers> 1513 </passengers>
+
+
+<effkms> 13160 </effkms>
+
+
+<revenue> 346142 </revenue>
+
+
+<epkm> 2630.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/95</id>
+
+<schkms> 470 </schkms>
+
+
+<passengers> 1035 </passengers>
+
+
+<effkms> 13160 </effkms>
+
+
+<revenue> 270810 </revenue>
+
+
+<epkm> 2057.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/96</id>
+
+<schkms> 380 </schkms>
+
+
+<passengers> 1109 </passengers>
+
+
+<effkms> 11127 </effkms>
+
+
+<revenue> 258140 </revenue>
+
+
+<epkm> 2319.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/97</id>
+
+<schkms> 381 </schkms>
+
+
+<passengers> 1502 </passengers>
+
+
+<effkms> 11127 </effkms>
+
+
+<revenue> 277033 </revenue>
+
+
+<epkm> 2489.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/98</id>
+
+<schkms> 380 </schkms>
+
+
+<passengers> 267 </passengers>
+
+
+<effkms> 3575 </effkms>
+
+
+<revenue> 95170 </revenue>
+
+
+<epkm> 2662.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/99</id>
+
+<schkms> 381 </schkms>
+
+
+<passengers> 349 </passengers>
+
+
+<effkms> 3575 </effkms>
+
+
+<revenue> 91001 </revenue>
+
+
+<epkm> 2545.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/100</id>
+
+<schkms> 373 </schkms>
+
+
+<passengers> 965 </passengers>
+
+
+<effkms> 10817 </effkms>
+
+
+<revenue> 294752 </revenue>
+
+
+<epkm> 2724.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/101</id>
+
+<schkms> 373 </schkms>
+
+
+<passengers> 724 </passengers>
+
+
+<effkms> 10817 </effkms>
+
+
+<revenue> 225687 </revenue>
+
+
+<epkm> 2086.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/102</id>
+
+<schkms> 336 </schkms>
+
+
+<passengers> 954 </passengers>
+
+
+<effkms> 9744 </effkms>
+
+
+<revenue> 275255 </revenue>
+
+
+<epkm> 2824.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/103</id>
+
+<schkms> 336 </schkms>
+
+
+<passengers> 671 </passengers>
+
+
+<effkms> 9744 </effkms>
+
+
+<revenue> 223291 </revenue>
+
+
+<epkm> 2291.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/104</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 825 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 241142 </revenue>
+
+
+<epkm> 2309.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/105</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 759 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 238115 </revenue>
+
+
+<epkm> 2280.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/106</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 1759 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 373027 </revenue>
+
+
+<epkm> 2562.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/107</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 965 </passengers>
+
+
+<effkms> 11592 </effkms>
+
+
+<revenue> 299833 </revenue>
+
+
+<epkm> 2586.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/108</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 833 </passengers>
+
+
+<effkms> 11592 </effkms>
+
+
+<revenue> 259333 </revenue>
+
+
+<epkm> 2237.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/109</id>
+
+<schkms> 483 </schkms>
+
+
+<passengers> 988 </passengers>
+
+
+<effkms> 12558 </effkms>
+
+
+<revenue> 350600 </revenue>
+
+
+<epkm> 2791.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/110</id>
+
+<schkms> 483 </schkms>
+
+
+<passengers> 889 </passengers>
+
+
+<effkms> 12558 </effkms>
+
+
+<revenue> 213576 </revenue>
+
+
+<epkm> 1700.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/113</id>
+
+<schkms> 500 </schkms>
+
+
+<passengers> 1129 </passengers>
+
+
+<effkms> 14406 </effkms>
+
+
+<revenue> 257255 </revenue>
+
+
+<epkm> 1785.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - I/114</id>
+
+<schkms> 500 </schkms>
+
+
+<passengers> 882 </passengers>
+
+
+<effkms> 14406 </effkms>
+
+
+<revenue> 277763 </revenue>
+
+
+<epkm> 1928.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/1</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 2115 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 663331 </revenue>
+
+
+<epkm> 4556.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/2</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 2022 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 689535 </revenue>
+
+
+<epkm> 4736.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/3</id>
+
+<schkms> 666 </schkms>
+
+
+<passengers> 1392 </passengers>
+
+
+<effkms> 7992 </effkms>
+
+
+<revenue> 257605 </revenue>
+
+
+<epkm> 3223.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/4</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2000 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 712474 </revenue>
+
+
+<epkm> 4761.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/9</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 371 </passengers>
+
+
+<effkms> 1563 </effkms>
+
+
+<revenue> 52329 </revenue>
+
+
+<epkm> 3348.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/10</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 324 </passengers>
+
+
+<effkms> 1563 </effkms>
+
+
+<revenue> 35919 </revenue>
+
+
+<epkm> 2298.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/13</id>
+
+<schkms> 418 </schkms>
+
+
+<passengers> 975 </passengers>
+
+
+<effkms> 12122 </effkms>
+
+
+<revenue> 428211 </revenue>
+
+
+<epkm> 3532.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/14</id>
+
+<schkms> 418 </schkms>
+
+
+<passengers> 759 </passengers>
+
+
+<effkms> 12122 </effkms>
+
+
+<revenue> 307368 </revenue>
+
+
+<epkm> 2535.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/15</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 407 </passengers>
+
+
+<effkms> 6987 </effkms>
+
+
+<revenue> 223981 </revenue>
+
+
+<epkm> 3205.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/16</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 474 </passengers>
+
+
+<effkms> 6987 </effkms>
+
+
+<revenue> 234722 </revenue>
+
+
+<epkm> 3359.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/17</id>
+
+<schkms> 298 </schkms>
+
+
+<passengers> 886 </passengers>
+
+
+<effkms> 8642 </effkms>
+
+
+<revenue> 344527 </revenue>
+
+
+<epkm> 3986.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/18</id>
+
+<schkms> 298 </schkms>
+
+
+<passengers> 1076 </passengers>
+
+
+<effkms> 8642 </effkms>
+
+
+<revenue> 373903 </revenue>
+
+
+<epkm> 4326.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/21</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 744 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 343781 </revenue>
+
+
+<epkm> 3292.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/22</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 771 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 384206 </revenue>
+
+
+<epkm> 3680.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/24</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 711 </passengers>
+
+
+<effkms> 9024 </effkms>
+
+
+<revenue> 326400 </revenue>
+
+
+<epkm> 3617.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/25</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 629 </passengers>
+
+
+<effkms> 9024 </effkms>
+
+
+<revenue> 348198 </revenue>
+
+
+<epkm> 3858.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/26</id>
+
+<schkms> 696 </schkms>
+
+
+<passengers> 499 </passengers>
+
+
+<effkms> 20184 </effkms>
+
+
+<revenue> 421425 </revenue>
+
+
+<epkm> 2087.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/27</id>
+
+<schkms> 696 </schkms>
+
+
+<passengers> 424 </passengers>
+
+
+<effkms> 20184 </effkms>
+
+
+<revenue> 382586 </revenue>
+
+
+<epkm> 1895.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/30</id>
+
+<schkms> 367 </schkms>
+
+
+<passengers> 745 </passengers>
+
+
+<effkms> 10643 </effkms>
+
+
+<revenue> 315129 </revenue>
+
+
+<epkm> 2960.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/31</id>
+
+<schkms> 367 </schkms>
+
+
+<passengers> 753 </passengers>
+
+
+<effkms> 10643 </effkms>
+
+
+<revenue> 297906 </revenue>
+
+
+<epkm> 2799.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/32</id>
+
+<schkms> 424 </schkms>
+
+
+<passengers> 291 </passengers>
+
+
+<effkms> 12296 </effkms>
+
+
+<revenue> 294120 </revenue>
+
+
+<epkm> 2392.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/33</id>
+
+<schkms> 424 </schkms>
+
+
+<passengers> 206 </passengers>
+
+
+<effkms> 12296 </effkms>
+
+
+<revenue> 246482 </revenue>
+
+
+<epkm> 2004.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/34</id>
+
+<schkms> 464 </schkms>
+
+
+<passengers> 713 </passengers>
+
+
+<effkms> 13456 </effkms>
+
+
+<revenue> 341408 </revenue>
+
+
+<epkm> 2537.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/35</id>
+
+<schkms> 464 </schkms>
+
+
+<passengers> 696 </passengers>
+
+
+<effkms> 13456 </effkms>
+
+
+<revenue> 394664 </revenue>
+
+
+<epkm> 2933.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/36</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 423 </passengers>
+
+
+<effkms> 13110 </effkms>
+
+
+<revenue> 471715 </revenue>
+
+
+<epkm> 3598.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/37</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 500 </passengers>
+
+
+<effkms> 13110 </effkms>
+
+
+<revenue> 483336 </revenue>
+
+
+<epkm> 3686.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/38</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 533 </passengers>
+
+
+<effkms> 3672 </effkms>
+
+
+<revenue> 187348 </revenue>
+
+
+<epkm> 5102.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/39</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 469 </passengers>
+
+
+<effkms> 3672 </effkms>
+
+
+<revenue> 160231 </revenue>
+
+
+<epkm> 4363.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/40</id>
+
+<schkms> 298 </schkms>
+
+
+<passengers> 392 </passengers>
+
+
+<effkms> 3278 </effkms>
+
+
+<revenue> 157059 </revenue>
+
+
+<epkm> 4791.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/41</id>
+
+<schkms> 298 </schkms>
+
+
+<passengers> 426 </passengers>
+
+
+<effkms> 3278 </effkms>
+
+
+<revenue> 169115 </revenue>
+
+
+<epkm> 5159.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/43</id>
+
+<schkms> 391 </schkms>
+
+
+<passengers> 1151 </passengers>
+
+
+<effkms> 11339 </effkms>
+
+
+<revenue> 466963 </revenue>
+
+
+<epkm> 4118.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/44</id>
+
+<schkms> 391 </schkms>
+
+
+<passengers> 1125 </passengers>
+
+
+<effkms> 11339 </effkms>
+
+
+<revenue> 405192 </revenue>
+
+
+<epkm> 3573.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/45</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 873 </passengers>
+
+
+<effkms> 8874 </effkms>
+
+
+<revenue> 338654 </revenue>
+
+
+<epkm> 3816.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/46</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 639 </passengers>
+
+
+<effkms> 8874 </effkms>
+
+
+<revenue> 216693 </revenue>
+
+
+<epkm> 2441.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/47</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 371 </passengers>
+
+
+<effkms> 6270 </effkms>
+
+
+<revenue> 110559 </revenue>
+
+
+<epkm> 1763.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/48</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 380 </passengers>
+
+
+<effkms> 6270 </effkms>
+
+
+<revenue> 139420 </revenue>
+
+
+<epkm> 2223.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/49</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 668 </passengers>
+
+
+<effkms> 9856 </effkms>
+
+
+<revenue> 418282 </revenue>
+
+
+<epkm> 4243.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/50</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 636 </passengers>
+
+
+<effkms> 9856 </effkms>
+
+
+<revenue> 390176 </revenue>
+
+
+<epkm> 3958.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/51</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 732 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 491065 </revenue>
+
+
+<epkm> 4810.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/52</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 759 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 538266 </revenue>
+
+
+<epkm> 5273.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/55</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1251 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 796094 </revenue>
+
+
+<epkm> 5041.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/56</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1251 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 733674 </revenue>
+
+
+<epkm> 4645.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/58</id>
+
+<schkms> 317 </schkms>
+
+
+<passengers> 1043 </passengers>
+
+
+<effkms> 9193 </effkms>
+
+
+<revenue> 328741 </revenue>
+
+
+<epkm> 3576.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/59</id>
+
+<schkms> 317 </schkms>
+
+
+<passengers> 999 </passengers>
+
+
+<effkms> 9193 </effkms>
+
+
+<revenue> 339204 </revenue>
+
+
+<epkm> 3689.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/60</id>
+
+<schkms> 354 </schkms>
+
+
+<passengers> 849 </passengers>
+
+
+<effkms> 9912 </effkms>
+
+
+<revenue> 381489 </revenue>
+
+
+<epkm> 3848.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/61</id>
+
+<schkms> 354 </schkms>
+
+
+<passengers> 849 </passengers>
+
+
+<effkms> 9912 </effkms>
+
+
+<revenue> 394428 </revenue>
+
+
+<epkm> 3979.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/62</id>
+
+<schkms> 290 </schkms>
+
+
+<passengers> 763 </passengers>
+
+
+<effkms> 8410 </effkms>
+
+
+<revenue> 240589 </revenue>
+
+
+<epkm> 2860.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/63</id>
+
+<schkms> 290 </schkms>
+
+
+<passengers> 888 </passengers>
+
+
+<effkms> 8410 </effkms>
+
+
+<revenue> 251367 </revenue>
+
+
+<epkm> 2988.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/66</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 813 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 590195 </revenue>
+
+
+<epkm> 3570.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/67</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 846 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 615412 </revenue>
+
+
+<epkm> 3723.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/68</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 2053 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 689374 </revenue>
+
+
+<epkm> 4735.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/69</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1453 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 874818 </revenue>
+
+
+<epkm> 5539.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/70</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1226 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 789220 </revenue>
+
+
+<epkm> 4997.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/72</id>
+
+<schkms> 371 </schkms>
+
+
+<passengers> 752 </passengers>
+
+
+<effkms> 10288 </effkms>
+
+
+<revenue> 292064 </revenue>
+
+
+<epkm> 2838.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/73</id>
+
+<schkms> 371 </schkms>
+
+
+<passengers> 683 </passengers>
+
+
+<effkms> 10388 </effkms>
+
+
+<revenue> 252831 </revenue>
+
+
+<epkm> 2433.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/74</id>
+
+<schkms> 392 </schkms>
+
+
+<passengers> 857 </passengers>
+
+
+<effkms> 11020 </effkms>
+
+
+<revenue> 354768 </revenue>
+
+
+<epkm> 3219.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/75</id>
+
+<schkms> 392 </schkms>
+
+
+<passengers> 689 </passengers>
+
+
+<effkms> 11020 </effkms>
+
+
+<revenue> 306394 </revenue>
+
+
+<epkm> 2780.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/76</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 1600 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 525855 </revenue>
+
+
+<epkm> 3612.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/77</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 504 </passengers>
+
+
+<effkms> 13110 </effkms>
+
+
+<revenue> 404519 </revenue>
+
+
+<epkm> 3085.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/78</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 561 </passengers>
+
+
+<effkms> 13110 </effkms>
+
+
+<revenue> 534313 </revenue>
+
+
+<epkm> 4075.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/79</id>
+
+<schkms> 660 </schkms>
+
+
+<passengers> 1712 </passengers>
+
+
+<effkms> 19140 </effkms>
+
+
+<revenue> 1140407 </revenue>
+
+
+<epkm> 5958.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/80</id>
+
+<schkms> 474 </schkms>
+
+
+<passengers> 755 </passengers>
+
+
+<effkms> 13746 </effkms>
+
+
+<revenue> 367326 </revenue>
+
+
+<epkm> 2672.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/81</id>
+
+<schkms> 474 </schkms>
+
+
+<passengers> 963 </passengers>
+
+
+<effkms> 13746 </effkms>
+
+
+<revenue> 468903 </revenue>
+
+
+<epkm> 3411.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/82</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 637 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 478343 </revenue>
+
+
+<epkm> 4686.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/83</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 634 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 472370 </revenue>
+
+
+<epkm> 4627.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/84</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 357 </passengers>
+
+
+<effkms> 3960 </effkms>
+
+
+<revenue> 172448 </revenue>
+
+
+<epkm> 4354.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/85</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 248 </passengers>
+
+
+<effkms> 3960 </effkms>
+
+
+<revenue> 117657 </revenue>
+
+
+<epkm> 2971.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/88</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 595 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 486166 </revenue>
+
+
+<epkm> 5080.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/89</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 717 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 480705 </revenue>
+
+
+<epkm> 5023.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/92</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1181 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 566112 </revenue>
+
+
+<epkm> 3424.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/93</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 503168 </revenue>
+
+
+<epkm> 3044.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/97</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1511 </passengers>
+
+
+<effkms> 12384 </effkms>
+
+
+<revenue> 499324 </revenue>
+
+
+<epkm> 4032.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/98</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1508 </passengers>
+
+
+<effkms> 14448 </effkms>
+
+
+<revenue> 499063 </revenue>
+
+
+<epkm> 3454.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/99</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1827 </passengers>
+
+
+<effkms> 14448 </effkms>
+
+
+<revenue> 552898 </revenue>
+
+
+<epkm> 3826.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/100</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 799 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 598169 </revenue>
+
+
+<epkm> 3618.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/101</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 787 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 603646 </revenue>
+
+
+<epkm> 3651.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/106</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 890 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 440692 </revenue>
+
+
+<epkm> 4317.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/107</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 852 </passengers>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 480260 </revenue>
+
+
+<epkm> 4704.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/109</id>
+
+<schkms> 361 </schkms>
+
+
+<passengers> 722 </passengers>
+
+
+<effkms> 10108 </effkms>
+
+
+<revenue> 380556 </revenue>
+
+
+<epkm> 3764.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/110</id>
+
+<schkms> 361 </schkms>
+
+
+<passengers> 708 </passengers>
+
+
+<effkms> 10108 </effkms>
+
+
+<revenue> 366240 </revenue>
+
+
+<epkm> 3623.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/111</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 1300 </passengers>
+
+
+<effkms> 3012 </effkms>
+
+
+<revenue> 70500 </revenue>
+
+
+<epkm> 2340.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/112</id>
+
+<schkms> 373 </schkms>
+
+
+<passengers> 464 </passengers>
+
+
+<effkms> 9325 </effkms>
+
+
+<revenue> 259304 </revenue>
+
+
+<epkm> 2780.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/113</id>
+
+<schkms> 373 </schkms>
+
+
+<passengers> 602 </passengers>
+
+
+<effkms> 9325 </effkms>
+
+
+<revenue> 298545 </revenue>
+
+
+<epkm> 3201.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/118</id>
+
+<schkms> 664 </schkms>
+
+
+<passengers> 1198 </passengers>
+
+
+<effkms> 19256 </effkms>
+
+
+<revenue> 833462 </revenue>
+
+
+<epkm> 4328.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/119</id>
+
+<schkms> 664 </schkms>
+
+
+<passengers> 1049 </passengers>
+
+
+<effkms> 19256 </effkms>
+
+
+<revenue> 643741 </revenue>
+
+
+<epkm> 3343.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/120</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2245 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 625819 </revenue>
+
+
+<epkm> 4182.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/124</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1671 </passengers>
+
+
+<effkms> 12900 </effkms>
+
+
+<revenue> 514755 </revenue>
+
+
+<epkm> 3990.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/125</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1901 </passengers>
+
+
+<effkms> 14983 </effkms>
+
+
+<revenue> 612836 </revenue>
+
+
+<epkm> 4090.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/126</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1826 </passengers>
+
+
+<effkms> 14448 </effkms>
+
+
+<revenue> 601307 </revenue>
+
+
+<epkm> 4161.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/127</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1920 </passengers>
+
+
+<effkms> 13932 </effkms>
+
+
+<revenue> 572559 </revenue>
+
+
+<epkm> 4109.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/128</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2040 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 664486 </revenue>
+
+
+<epkm> 4440.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/136</id>
+
+<schkms> 378 </schkms>
+
+
+<passengers> 1029 </passengers>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 396689 </revenue>
+
+
+<epkm> 3618.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/137</id>
+
+<schkms> 378 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 369253 </revenue>
+
+
+<epkm> 3368.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/138</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 286 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 250067 </revenue>
+
+
+<epkm> 3656.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/139</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 449 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 255280 </revenue>
+
+
+<epkm> 3732.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/148</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 935 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 675809 </revenue>
+
+
+<epkm> 4088.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/149</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1013 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 693549 </revenue>
+
+
+<epkm> 4195.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/154</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 714 </passengers>
+
+
+<effkms> 11970 </effkms>
+
+
+<revenue> 412902 </revenue>
+
+
+<epkm> 3449.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/155</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 774 </passengers>
+
+
+<effkms> 11970 </effkms>
+
+
+<revenue> 417357 </revenue>
+
+
+<epkm> 3486.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/158</id>
+
+<schkms> 715 </schkms>
+
+
+<passengers> 1171 </passengers>
+
+
+<effkms> 20677 </effkms>
+
+
+<revenue> 673978 </revenue>
+
+
+<epkm> 3259.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/159</id>
+
+<schkms> 715 </schkms>
+
+
+<passengers> 1680 </passengers>
+
+
+<effkms> 20677 </effkms>
+
+
+<revenue> 650401 </revenue>
+
+
+<epkm> 3145.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/160</id>
+
+<schkms> 312 </schkms>
+
+
+<passengers> 2007 </passengers>
+
+
+<effkms> 8736 </effkms>
+
+
+<revenue> 391285 </revenue>
+
+
+<epkm> 4479.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/163</id>
+
+<schkms> 340 </schkms>
+
+
+<passengers> 1089 </passengers>
+
+
+<effkms> 10192 </effkms>
+
+
+<revenue> 435554 </revenue>
+
+
+<epkm> 4273.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/164</id>
+
+<schkms> 340 </schkms>
+
+
+<passengers> 1049 </passengers>
+
+
+<effkms> 10192 </effkms>
+
+
+<revenue> 434800 </revenue>
+
+
+<epkm> 4266.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/165</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 448 </passengers>
+
+
+<effkms> 4920 </effkms>
+
+
+<revenue> 229061 </revenue>
+
+
+<epkm> 4655.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/166</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 468 </passengers>
+
+
+<effkms> 4920 </effkms>
+
+
+<revenue> 196628 </revenue>
+
+
+<epkm> 3996.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/167</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 412 </passengers>
+
+
+<effkms> 3280 </effkms>
+
+
+<revenue> 177562 </revenue>
+
+
+<epkm> 5413.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - II/168</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 422 </passengers>
+
+
+<effkms> 3280 </effkms>
+
+
+<revenue> 166498 </revenue>
+
+
+<epkm> 5076.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/1</id>
+
+<schkms> 620 </schkms>
+
+
+<passengers> 1024 </passengers>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 338877 </revenue>
+
+
+<epkm> 1952.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/2</id>
+
+<schkms> 620 </schkms>
+
+
+<passengers> 927 </passengers>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 360367 </revenue>
+
+
+<epkm> 2075.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/6</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 1957 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 290988 </revenue>
+
+
+<epkm> 2322.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/7</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 1455 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 374113 </revenue>
+
+
+<epkm> 2328.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/8</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 981 </passengers>
+
+
+<effkms> 3264 </effkms>
+
+
+<revenue> 84395 </revenue>
+
+
+<epkm> 2585.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/9</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 1585 </passengers>
+
+
+<effkms> 7616 </effkms>
+
+
+<revenue> 206001 </revenue>
+
+
+<epkm> 2704.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/10</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 1796 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 388819 </revenue>
+
+
+<epkm> 2420.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/12</id>
+
+<schkms> 596 </schkms>
+
+
+<passengers> 1826 </passengers>
+
+
+<effkms> 17284 </effkms>
+
+
+<revenue> 394947 </revenue>
+
+
+<epkm> 2285.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/13</id>
+
+<schkms> 596 </schkms>
+
+
+<passengers> 1841 </passengers>
+
+
+<effkms> 17284 </effkms>
+
+
+<revenue> 395433 </revenue>
+
+
+<epkm> 2287.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/14</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 1820 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 443309 </revenue>
+
+
+<epkm> 2497.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/15</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 1775 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 372228 </revenue>
+
+
+<epkm> 2097.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/16</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 2241 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 367526 </revenue>
+
+
+<epkm> 2223.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/17</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 1794 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 309895 </revenue>
+
+
+<epkm> 2473.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/20</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 1368 </passengers>
+
+
+<effkms> 10336 </effkms>
+
+
+<revenue> 271989 </revenue>
+
+
+<epkm> 2631.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/24</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 2611 </passengers>
+
+
+<effkms> 16356 </effkms>
+
+
+<revenue> 382117 </revenue>
+
+
+<epkm> 2336.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/25</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1831 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 386284 </revenue>
+
+
+<epkm> 2581.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/26</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1720 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 329597 </revenue>
+
+
+<epkm> 2202.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/27</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1289 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 483198 </revenue>
+
+
+<epkm> 3059.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/28</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1088 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 383113 </revenue>
+
+
+<epkm> 2426.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/29</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1052 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 386919 </revenue>
+
+
+<epkm> 2450.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/30</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1078 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 398433 </revenue>
+
+
+<epkm> 2523.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/31</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 2559 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 327189 </revenue>
+
+
+<epkm> 2611.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/32</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 2334 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 433707 </revenue>
+
+
+<epkm> 2623.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/34</id>
+
+<schkms> 590 </schkms>
+
+
+<passengers> 2065 </passengers>
+
+
+<effkms> 17110 </effkms>
+
+
+<revenue> 407307 </revenue>
+
+
+<epkm> 2380.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/35</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 2058 </passengers>
+
+
+<effkms> 16356 </effkms>
+
+
+<revenue> 333810 </revenue>
+
+
+<epkm> 2040.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/36</id>
+
+<schkms> 590 </schkms>
+
+
+<passengers> 2450 </passengers>
+
+
+<effkms> 17110 </effkms>
+
+
+<revenue> 419549 </revenue>
+
+
+<epkm> 2452.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/37</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 3482 </passengers>
+
+
+<effkms> 11424 </effkms>
+
+
+<revenue> 285511 </revenue>
+
+
+<epkm> 2499.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/38</id>
+
+<schkms> 412 </schkms>
+
+
+<passengers> 2618 </passengers>
+
+
+<effkms> 11948 </effkms>
+
+
+<revenue> 333589 </revenue>
+
+
+<epkm> 2792.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/39</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2209 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 369710 </revenue>
+
+
+<epkm> 2470.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/40</id>
+
+<schkms> 409 </schkms>
+
+
+<passengers> 985 </passengers>
+
+
+<effkms> 11861 </effkms>
+
+
+<revenue> 294409 </revenue>
+
+
+<epkm> 2482.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/41</id>
+
+<schkms> 409 </schkms>
+
+
+<passengers> 974 </passengers>
+
+
+<effkms> 11861 </effkms>
+
+
+<revenue> 320459 </revenue>
+
+
+<epkm> 2701.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/42</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 1085 </passengers>
+
+
+<effkms> 13253 </effkms>
+
+
+<revenue> 325738 </revenue>
+
+
+<epkm> 2457.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/43</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 1072 </passengers>
+
+
+<effkms> 13253 </effkms>
+
+
+<revenue> 316879 </revenue>
+
+
+<epkm> 2391.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/44</id>
+
+<schkms> 412 </schkms>
+
+
+<passengers> 1554 </passengers>
+
+
+<effkms> 11948 </effkms>
+
+
+<revenue> 305274 </revenue>
+
+
+<epkm> 2555.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/50</id>
+
+<schkms> 687 </schkms>
+
+
+<passengers> 246 </passengers>
+
+
+<effkms> 19923 </effkms>
+
+
+<revenue> 324855 </revenue>
+
+
+<epkm> 1630.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/51</id>
+
+<schkms> 687 </schkms>
+
+
+<passengers> 255 </passengers>
+
+
+<effkms> 19923 </effkms>
+
+
+<revenue> 334814 </revenue>
+
+
+<epkm> 1680.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/55</id>
+
+<schkms> 401 </schkms>
+
+
+<passengers> 926 </passengers>
+
+
+<effkms> 11629 </effkms>
+
+
+<revenue> 276763 </revenue>
+
+
+<epkm> 2379.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/56</id>
+
+<schkms> 401 </schkms>
+
+
+<passengers> 1025 </passengers>
+
+
+<effkms> 11629 </effkms>
+
+
+<revenue> 334744 </revenue>
+
+
+<epkm> 2878.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/61</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 1606 </passengers>
+
+
+<effkms> 7072 </effkms>
+
+
+<revenue> 198817 </revenue>
+
+
+<epkm> 2811.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/63</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 1421 </passengers>
+
+
+<effkms> 6528 </effkms>
+
+
+<revenue> 172831 </revenue>
+
+
+<epkm> 2647.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/66</id>
+
+<schkms> 424 </schkms>
+
+
+<passengers> 597 </passengers>
+
+
+<effkms> 12296 </effkms>
+
+
+<revenue> 278101 </revenue>
+
+
+<epkm> 2261.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/67</id>
+
+<schkms> 424 </schkms>
+
+
+<passengers> 501 </passengers>
+
+
+<effkms> 12296 </effkms>
+
+
+<revenue> 214892 </revenue>
+
+
+<epkm> 1747.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/68</id>
+
+<schkms> 653 </schkms>
+
+
+<passengers> 886 </passengers>
+
+
+<effkms> 18937 </effkms>
+
+
+<revenue> 388645 </revenue>
+
+
+<epkm> 2052.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/69</id>
+
+<schkms> 653 </schkms>
+
+
+<passengers> 760 </passengers>
+
+
+<effkms> 18937 </effkms>
+
+
+<revenue> 367623 </revenue>
+
+
+<epkm> 1941.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/70</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2377 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 371333 </revenue>
+
+
+<epkm> 2481.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/72</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2552 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 416683 </revenue>
+
+
+<epkm> 2784.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/73</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 1356 </passengers>
+
+
+<effkms> 7344 </effkms>
+
+
+<revenue> 208009 </revenue>
+
+
+<epkm> 2832.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/74</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 1175 </passengers>
+
+
+<effkms> 6800 </effkms>
+
+
+<revenue> 165381 </revenue>
+
+
+<epkm> 2432.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/77</id>
+
+<schkms> 346 </schkms>
+
+
+<passengers> 595 </passengers>
+
+
+<effkms> 10034 </effkms>
+
+
+<revenue> 288375 </revenue>
+
+
+<epkm> 2874.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/78</id>
+
+<schkms> 346 </schkms>
+
+
+<passengers> 623 </passengers>
+
+
+<effkms> 10034 </effkms>
+
+
+<revenue> 254918 </revenue>
+
+
+<epkm> 2540.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/82</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 1129 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 296804 </revenue>
+
+
+<epkm> 2843.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/83</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 1061 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 273389 </revenue>
+
+
+<epkm> 2618.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/86</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2237 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 381275 </revenue>
+
+
+<epkm> 2547.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/87</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 838 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 217770 </revenue>
+
+
+<epkm> 2275.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/88</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 951 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 220984 </revenue>
+
+
+<epkm> 2309.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/89</id>
+
+<schkms> 495 </schkms>
+
+
+<passengers> 777 </passengers>
+
+
+<effkms> 14355 </effkms>
+
+
+<revenue> 284215 </revenue>
+
+
+<epkm> 1979.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/90</id>
+
+<schkms> 495 </schkms>
+
+
+<passengers> 783 </passengers>
+
+
+<effkms> 14355 </effkms>
+
+
+<revenue> 276497 </revenue>
+
+
+<epkm> 1926.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/96</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2274 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 410492 </revenue>
+
+
+<epkm> 2743.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/102</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 718 </passengers>
+
+
+<effkms> 10275 </effkms>
+
+
+<revenue> 214558 </revenue>
+
+
+<epkm> 2088.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/103</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 750 </passengers>
+
+
+<effkms> 10275 </effkms>
+
+
+<revenue> 234012 </revenue>
+
+
+<epkm> 2277.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/119</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1902 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 401987 </revenue>
+
+
+<epkm> 2686.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/120</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2160 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 419942 </revenue>
+
+
+<epkm> 2806.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/122</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 731 </passengers>
+
+
+<effkms> 9840 </effkms>
+
+
+<revenue> 243815 </revenue>
+
+
+<epkm> 2477.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/123</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 709 </passengers>
+
+
+<effkms> 9840 </effkms>
+
+
+<revenue> 264253 </revenue>
+
+
+<epkm> 2685.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/128</id>
+
+<schkms> 450 </schkms>
+
+
+<passengers> 1081 </passengers>
+
+
+<effkms> 13050 </effkms>
+
+
+<revenue> 336350 </revenue>
+
+
+<epkm> 2577.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/129</id>
+
+<schkms> 450 </schkms>
+
+
+<passengers> 984 </passengers>
+
+
+<effkms> 13050 </effkms>
+
+
+<revenue> 307953 </revenue>
+
+
+<epkm> 2359.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/133</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1866 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 363568 </revenue>
+
+
+<epkm> 2429.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/134</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 1870 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 394236 </revenue>
+
+
+<epkm> 2634.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/135</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1070 </passengers>
+
+
+<effkms> 14820 </effkms>
+
+
+<revenue> 299565 </revenue>
+
+
+<epkm> 2021.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/136</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 861 </passengers>
+
+
+<effkms> 14820 </effkms>
+
+
+<revenue> 274510 </revenue>
+
+
+<epkm> 1852.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/137</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 964 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 224740 </revenue>
+
+
+<epkm> 2214.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/138</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 1099 </passengers>
+
+
+<effkms> 10150 </effkms>
+
+
+<revenue> 296354 </revenue>
+
+
+<epkm> 2919.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/148</id>
+
+<schkms> 664 </schkms>
+
+
+<passengers> 281 </passengers>
+
+
+<effkms> 5312 </effkms>
+
+
+<revenue> 153586 </revenue>
+
+
+<epkm> 2891.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - III/149</id>
+
+<schkms> 664 </schkms>
+
+
+<passengers> 359 </passengers>
+
+
+<effkms> 5312 </effkms>
+
+
+<revenue> 149793 </revenue>
+
+
+<epkm> 2819.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/3</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 664 </passengers>
+
+
+<effkms> 5600 </effkms>
+
+
+<revenue> 249415 </revenue>
+
+
+<epkm> 4453.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/4</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 747 </passengers>
+
+
+<effkms> 5600 </effkms>
+
+
+<revenue> 260772 </revenue>
+
+
+<epkm> 4656.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/6</id>
+
+<schkms> 512 </schkms>
+
+
+<passengers> 2366 </passengers>
+
+
+<effkms> 14848 </effkms>
+
+
+<revenue> 575403 </revenue>
+
+
+<epkm> 3875.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/7</id>
+
+<schkms> 700 </schkms>
+
+
+<passengers> 1710 </passengers>
+
+
+<effkms> 20300 </effkms>
+
+
+<revenue> 772261 </revenue>
+
+
+<epkm> 3804.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/8</id>
+
+<schkms> 622 </schkms>
+
+
+<passengers> 2279 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 1040909 </revenue>
+
+
+<epkm> 5864.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/9</id>
+
+<schkms> 474 </schkms>
+
+
+<passengers> 2147 </passengers>
+
+
+<effkms> 13272 </effkms>
+
+
+<revenue> 583317 </revenue>
+
+
+<epkm> 4395.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/10</id>
+
+<schkms> 474 </schkms>
+
+
+<passengers> 1389 </passengers>
+
+
+<effkms> 13272 </effkms>
+
+
+<revenue> 434556 </revenue>
+
+
+<epkm> 3274.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/11</id>
+
+<schkms> 694 </schkms>
+
+
+<passengers> 1851 </passengers>
+
+
+<effkms> 19348 </effkms>
+
+
+<revenue> 788946 </revenue>
+
+
+<epkm> 4077.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/12</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 3408 </passengers>
+
+
+<effkms> 8160 </effkms>
+
+
+<revenue> 584042 </revenue>
+
+
+<epkm> 7157.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/13</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 830 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 404547 </revenue>
+
+
+<epkm> 4227.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/14</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 704 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 507093 </revenue>
+
+
+<epkm> 5298.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/15</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 1008 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 423974 </revenue>
+
+
+<epkm> 4061.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/16</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 907 </passengers>
+
+
+<effkms> 10440 </effkms>
+
+
+<revenue> 386746 </revenue>
+
+
+<epkm> 3704.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/19</id>
+
+<schkms> 512 </schkms>
+
+
+<passengers> 1977 </passengers>
+
+
+<effkms> 14848 </effkms>
+
+
+<revenue> 575591 </revenue>
+
+
+<epkm> 3876.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/20</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 1324 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 1088139 </revenue>
+
+
+<epkm> 3685.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/21</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 1148 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 1002327 </revenue>
+
+
+<epkm> 3395.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/22</id>
+
+<schkms> 708 </schkms>
+
+
+<passengers> 2393 </passengers>
+
+
+<effkms> 21200 </effkms>
+
+
+<revenue> 869969 </revenue>
+
+
+<epkm> 4103.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/23</id>
+
+<schkms> 708 </schkms>
+
+
+<passengers> 2182 </passengers>
+
+
+<effkms> 21200 </effkms>
+
+
+<revenue> 835204 </revenue>
+
+
+<epkm> 3939.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/24</id>
+
+<schkms> 700 </schkms>
+
+
+<passengers> 1663 </passengers>
+
+
+<effkms> 18900 </effkms>
+
+
+<revenue> 717110 </revenue>
+
+
+<epkm> 3794.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/25</id>
+
+<schkms> 500 </schkms>
+
+
+<passengers> 1488 </passengers>
+
+
+<effkms> 14500 </effkms>
+
+
+<revenue> 437119 </revenue>
+
+
+<epkm> 3014.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/26</id>
+
+<schkms> 528 </schkms>
+
+
+<passengers> 2370 </passengers>
+
+
+<effkms> 15312 </effkms>
+
+
+<revenue> 594755 </revenue>
+
+
+<epkm> 3884.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/28</id>
+
+<schkms> 622 </schkms>
+
+
+<passengers> 2089 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 1033311 </revenue>
+
+
+<epkm> 5822.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/29</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1133 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 785086 </revenue>
+
+
+<epkm> 4971.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/30</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1178 </passengers>
+
+
+<effkms> 15792 </effkms>
+
+
+<revenue> 812657 </revenue>
+
+
+<epkm> 5146.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/31</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 799 </passengers>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 135076 </revenue>
+
+
+<epkm> 1876.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/32</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 693 </passengers>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 127955 </revenue>
+
+
+<epkm> 1777.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/33</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 1223 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 959765 </revenue>
+
+
+<epkm> 3251.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/34</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 932 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 727618 </revenue>
+
+
+<epkm> 2464.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/35</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1481 </passengers>
+
+
+<effkms> 12768 </effkms>
+
+
+<revenue> 264034 </revenue>
+
+
+<epkm> 2067.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/36</id>
+
+<schkms> 564 </schkms>
+
+
+<passengers> 1047 </passengers>
+
+
+<effkms> 12229 </effkms>
+
+
+<revenue> 204028 </revenue>
+
+
+<epkm> 1668.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/37</id>
+
+<schkms> 334 </schkms>
+
+
+<passengers> 466 </passengers>
+
+
+<effkms> 5344 </effkms>
+
+
+<revenue> 303941 </revenue>
+
+
+<epkm> 5687.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/38</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 574 </passengers>
+
+
+<effkms> 5280 </effkms>
+
+
+<revenue> 345819 </revenue>
+
+
+<epkm> 6549.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/39</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 574 </passengers>
+
+
+<effkms> 14416 </effkms>
+
+
+<revenue> 685010 </revenue>
+
+
+<epkm> 4751.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/41</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 791 </passengers>
+
+
+<effkms> 13680 </effkms>
+
+
+<revenue> 596102 </revenue>
+
+
+<epkm> 4357.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/42</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 926 </passengers>
+
+
+<effkms> 13680 </effkms>
+
+
+<revenue> 633618 </revenue>
+
+
+<epkm> 4631.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/43</id>
+
+<schkms> 534 </schkms>
+
+
+<passengers> 1980 </passengers>
+
+
+<effkms> 15486 </effkms>
+
+
+<revenue> 552439 </revenue>
+
+
+<epkm> 3567.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/44</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1831 </passengers>
+
+
+<effkms> 11970 </effkms>
+
+
+<revenue> 470546 </revenue>
+
+
+<epkm> 3931.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/45</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 905 </passengers>
+
+
+<effkms> 11970 </effkms>
+
+
+<revenue> 517442 </revenue>
+
+
+<epkm> 4322.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/46</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 977 </passengers>
+
+
+<effkms> 13253 </effkms>
+
+
+<revenue> 450328 </revenue>
+
+
+<epkm> 3397.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/47</id>
+
+<schkms> 457 </schkms>
+
+
+<passengers> 949 </passengers>
+
+
+<effkms> 13253 </effkms>
+
+
+<revenue> 402110 </revenue>
+
+
+<epkm> 3034.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/48</id>
+
+<schkms> 530 </schkms>
+
+
+<passengers> 2026 </passengers>
+
+
+<effkms> 15370 </effkms>
+
+
+<revenue> 399183 </revenue>
+
+
+<epkm> 2597.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/49</id>
+
+<schkms> 334 </schkms>
+
+
+<passengers> 792 </passengers>
+
+
+<effkms> 9800 </effkms>
+
+
+<revenue> 396767 </revenue>
+
+
+<epkm> 4048.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/50</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 901 </passengers>
+
+
+<effkms> 9800 </effkms>
+
+
+<revenue> 483848 </revenue>
+
+
+<epkm> 4937.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/52</id>
+
+<schkms> 696 </schkms>
+
+
+<passengers> 1143 </passengers>
+
+
+<effkms> 20184 </effkms>
+
+
+<revenue> 766462 </revenue>
+
+
+<epkm> 3797.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/53</id>
+
+<schkms> 696 </schkms>
+
+
+<passengers> 1105 </passengers>
+
+
+<effkms> 20184 </effkms>
+
+
+<revenue> 662226 </revenue>
+
+
+<epkm> 3280.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/54</id>
+
+<schkms> 483 </schkms>
+
+
+<passengers> 1165 </passengers>
+
+
+<effkms> 13524 </effkms>
+
+
+<revenue> 600567 </revenue>
+
+
+<epkm> 4440.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/55</id>
+
+<schkms> 483 </schkms>
+
+
+<passengers> 1230 </passengers>
+
+
+<effkms> 13524 </effkms>
+
+
+<revenue> 664496 </revenue>
+
+
+<epkm> 4913.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/56</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 407 </passengers>
+
+
+<effkms> 5280 </effkms>
+
+
+<revenue> 258336 </revenue>
+
+
+<epkm> 4892.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/57</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 568 </passengers>
+
+
+<effkms> 5280 </effkms>
+
+
+<revenue> 370632 </revenue>
+
+
+<epkm> 7019.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/59</id>
+
+<schkms> 322 </schkms>
+
+
+<passengers> 877 </passengers>
+
+
+<effkms> 9338 </effkms>
+
+
+<revenue> 354873 </revenue>
+
+
+<epkm> 3800.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/60</id>
+
+<schkms> 322 </schkms>
+
+
+<passengers> 933 </passengers>
+
+
+<effkms> 9338 </effkms>
+
+
+<revenue> 415622 </revenue>
+
+
+<epkm> 4450.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/64</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 1347 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 1075411 </revenue>
+
+
+<epkm> 3642.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/65</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 953 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 833254 </revenue>
+
+
+<epkm> 2822.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/66</id>
+
+<schkms> 534 </schkms>
+
+
+<passengers> 1878 </passengers>
+
+
+<effkms> 15486 </effkms>
+
+
+<revenue> 656178 </revenue>
+
+
+<epkm> 4237.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/71</id>
+
+<schkms> 660 </schkms>
+
+
+<passengers> 1420 </passengers>
+
+
+<effkms> 18285 </effkms>
+
+
+<revenue> 755630 </revenue>
+
+
+<epkm> 4132.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/72</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 989 </passengers>
+
+
+<effkms> 11890 </effkms>
+
+
+<revenue> 511066 </revenue>
+
+
+<epkm> 4298.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/73</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 990 </passengers>
+
+
+<effkms> 11890 </effkms>
+
+
+<revenue> 509794 </revenue>
+
+
+<epkm> 4287.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/74</id>
+
+<schkms> 667 </schkms>
+
+
+<passengers> 1159 </passengers>
+
+
+<effkms> 19256 </effkms>
+
+
+<revenue> 708290 </revenue>
+
+
+<epkm> 3678.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/75</id>
+
+<schkms> 664 </schkms>
+
+
+<passengers> 1222 </passengers>
+
+
+<effkms> 19256 </effkms>
+
+
+<revenue> 699500 </revenue>
+
+
+<epkm> 3632.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/78</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 2603 </passengers>
+
+
+<effkms> 14048 </effkms>
+
+
+<revenue> 707940 </revenue>
+
+
+<epkm> 5039.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/79</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 2702 </passengers>
+
+
+<effkms> 12883 </effkms>
+
+
+<revenue> 607193 </revenue>
+
+
+<epkm> 4713.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/80</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 2133 </passengers>
+
+
+<effkms> 11968 </effkms>
+
+
+<revenue> 517858 </revenue>
+
+
+<epkm> 4327.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/81</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 798 </passengers>
+
+
+<effkms> 9360 </effkms>
+
+
+<revenue> 381122 </revenue>
+
+
+<epkm> 4071.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/82</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 891 </passengers>
+
+
+<effkms> 9360 </effkms>
+
+
+<revenue> 440477 </revenue>
+
+
+<epkm> 4706.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/83</id>
+
+<schkms> 534 </schkms>
+
+
+<passengers> 2002 </passengers>
+
+
+<effkms> 15486 </effkms>
+
+
+<revenue> 654617 </revenue>
+
+
+<epkm> 4227.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/86</id>
+
+<schkms> 450 </schkms>
+
+
+<passengers> 570 </passengers>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 296983 </revenue>
+
+
+<epkm> 4124.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/87</id>
+
+<schkms> 450 </schkms>
+
+
+<passengers> 594 </passengers>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 269911 </revenue>
+
+
+<epkm> 3748.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/89</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 1214 </passengers>
+
+
+<effkms> 15109 </effkms>
+
+
+<revenue> 662297 </revenue>
+
+
+<epkm> 4383.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/90</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 1059 </passengers>
+
+
+<effkms> 15109 </effkms>
+
+
+<revenue> 525117 </revenue>
+
+
+<epkm> 3475.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/91</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 877 </passengers>
+
+
+<effkms> 10309 </effkms>
+
+
+<revenue> 488932 </revenue>
+
+
+<epkm> 4742.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/92</id>
+
+<schkms> 352 </schkms>
+
+
+<passengers> 867 </passengers>
+
+
+<effkms> 10309 </effkms>
+
+
+<revenue> 438905 </revenue>
+
+
+<epkm> 4257.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/93</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 987 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 714780 </revenue>
+
+
+<epkm> 4324.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/94</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1067 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 737902 </revenue>
+
+
+<epkm> 4464.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/95</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 627 </passengers>
+
+
+<effkms> 5670 </effkms>
+
+
+<revenue> 293167 </revenue>
+
+
+<epkm> 5170.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/96</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 768 </passengers>
+
+
+<effkms> 5670 </effkms>
+
+
+<revenue> 377436 </revenue>
+
+
+<epkm> 6656.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/97</id>
+
+<schkms> 704 </schkms>
+
+
+<passengers> 2019 </passengers>
+
+
+<effkms> 20619 </effkms>
+
+
+<revenue> 1158634 </revenue>
+
+
+<epkm> 5619.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/98</id>
+
+<schkms> 704 </schkms>
+
+
+<passengers> 2091 </passengers>
+
+
+<effkms> 20416 </effkms>
+
+
+<revenue> 1206174 </revenue>
+
+
+<epkm> 5908.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/100</id>
+
+<schkms> 704 </schkms>
+
+
+<passengers> 1198 </passengers>
+
+
+<effkms> 19140 </effkms>
+
+
+<revenue> 1056190 </revenue>
+
+
+<epkm> 5518.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/101</id>
+
+<schkms> 704 </schkms>
+
+
+<passengers> 1191 </passengers>
+
+
+<effkms> 19343 </effkms>
+
+
+<revenue> 1037944 </revenue>
+
+
+<epkm> 5366.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/105</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2055 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 769885 </revenue>
+
+
+<epkm> 4352.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/106</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2301 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 828754 </revenue>
+
+
+<epkm> 4684.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/107</id>
+
+<schkms> 787 </schkms>
+
+
+<passengers> 1339 </passengers>
+
+
+<effkms> 22036 </effkms>
+
+
+<revenue> 746295 </revenue>
+
+
+<epkm> 3386.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/108</id>
+
+<schkms> 787 </schkms>
+
+
+<passengers> 1438 </passengers>
+
+
+<effkms> 22036 </effkms>
+
+
+<revenue> 686417 </revenue>
+
+
+<epkm> 3115.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/109</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 1594 </passengers>
+
+
+<effkms> 11152 </effkms>
+
+
+<revenue> 460221 </revenue>
+
+
+<epkm> 4126.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/110</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 1090 </passengers>
+
+
+<effkms> 5767 </effkms>
+
+
+<revenue> 260490 </revenue>
+
+
+<epkm> 4516.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/118</id>
+
+<schkms> 629 </schkms>
+
+
+<passengers> 1106 </passengers>
+
+
+<effkms> 18241 </effkms>
+
+
+<revenue> 602232 </revenue>
+
+
+<epkm> 3301.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/119</id>
+
+<schkms> 629 </schkms>
+
+
+<passengers> 1087 </passengers>
+
+
+<effkms> 18241 </effkms>
+
+
+<revenue> 601822 </revenue>
+
+
+<epkm> 3299.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/126</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 721 </passengers>
+
+
+<effkms> 6300 </effkms>
+
+
+<revenue> 305296 </revenue>
+
+
+<epkm> 4846.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/127</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 803 </passengers>
+
+
+<effkms> 6300 </effkms>
+
+
+<revenue> 311196 </revenue>
+
+
+<epkm> 4939.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/128</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 2305 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 817503 </revenue>
+
+
+<epkm> 5463.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/132</id>
+
+<schkms> 1068 </schkms>
+
+
+<passengers> 1298 </passengers>
+
+
+<effkms> 30972 </effkms>
+
+
+<revenue> 1097490 </revenue>
+
+
+<epkm> 3543.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/133</id>
+
+<schkms> 1068 </schkms>
+
+
+<passengers> 1218 </passengers>
+
+
+<effkms> 30972 </effkms>
+
+
+<revenue> 1102938 </revenue>
+
+
+<epkm> 3561.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/136</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 920 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 594004 </revenue>
+
+
+<epkm> 3346.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/137</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 919 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 574550 </revenue>
+
+
+<epkm> 3237.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/142</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 832 </passengers>
+
+
+<effkms> 11592 </effkms>
+
+
+<revenue> 625399 </revenue>
+
+
+<epkm> 5395.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/143</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 759 </passengers>
+
+
+<effkms> 11592 </effkms>
+
+
+<revenue> 628358 </revenue>
+
+
+<epkm> 5420.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/148</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 1154 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 1004320 </revenue>
+
+
+<epkm> 3401.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/149</id>
+
+<schkms> 1018 </schkms>
+
+
+<passengers> 949 </passengers>
+
+
+<effkms> 29522 </effkms>
+
+
+<revenue> 801971 </revenue>
+
+
+<epkm> 2716.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/158</id>
+
+<schkms> 447 </schkms>
+
+
+<passengers> 922 </passengers>
+
+
+<effkms> 12963 </effkms>
+
+
+<revenue> 436843 </revenue>
+
+
+<epkm> 3369.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/159</id>
+
+<schkms> 447 </schkms>
+
+
+<passengers> 887 </passengers>
+
+
+<effkms> 12914 </effkms>
+
+
+<revenue> 441429 </revenue>
+
+
+<epkm> 3418.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/160</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2267 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 820349 </revenue>
+
+
+<epkm> 4637.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/161</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2345 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 818672 </revenue>
+
+
+<epkm> 4627.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/162</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2372 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 599980 </revenue>
+
+
+<epkm> 3391.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/163</id>
+
+<schkms> 610 </schkms>
+
+
+<passengers> 2432 </passengers>
+
+
+<effkms> 17690 </effkms>
+
+
+<revenue> 589665 </revenue>
+
+
+<epkm> 3333.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/164</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 814 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 269962 </revenue>
+
+
+<epkm> 3946.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/165</id>
+
+<schkms> 360 </schkms>
+
+
+<passengers> 964 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 350218 </revenue>
+
+
+<epkm> 5120.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/166</id>
+
+<schkms> 620 </schkms>
+
+
+<passengers> 1055 </passengers>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 581079 </revenue>
+
+
+<epkm> 3347.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/167</id>
+
+<schkms> 620 </schkms>
+
+
+<passengers> 1146 </passengers>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 582892 </revenue>
+
+
+<epkm> 3357.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/170</id>
+
+<schkms> 343 </schkms>
+
+
+<passengers> 1124 </passengers>
+
+
+<effkms> 9947 </effkms>
+
+
+<revenue> 454102 </revenue>
+
+
+<epkm> 4565.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/171</id>
+
+<schkms> 343 </schkms>
+
+
+<passengers> 1016 </passengers>
+
+
+<effkms> 9947 </effkms>
+
+
+<revenue> 413442 </revenue>
+
+
+<epkm> 4156.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - IV/172</id>
+
+<schkms> 704 </schkms>
+
+
+<passengers> 1897 </passengers>
+
+
+<effkms> 20416 </effkms>
+
+
+<revenue> 670881 </revenue>
+
+
+<epkm> 3286.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/1</id>
+
+<schkms> 470 </schkms>
+
+
+<passengers> 9885 </passengers>
+
+
+<effkms> 13630 </effkms>
+
+
+<revenue> 363082 </revenue>
+
+
+<epkm> 2663.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/2</id>
+
+<schkms> 363 </schkms>
+
+
+<passengers> 11830 </passengers>
+
+
+<effkms> 10527 </effkms>
+
+
+<revenue> 296567 </revenue>
+
+
+<epkm> 2817.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/3</id>
+
+<schkms> 441 </schkms>
+
+
+<passengers> 12477 </passengers>
+
+
+<effkms> 12789 </effkms>
+
+
+<revenue> 349410 </revenue>
+
+
+<epkm> 2732.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/4</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 11046 </passengers>
+
+
+<effkms> 14312 </effkms>
+
+
+<revenue> 395985 </revenue>
+
+
+<epkm> 2766.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/5</id>
+
+<schkms> 423 </schkms>
+
+
+<passengers> 14662 </passengers>
+
+
+<effkms> 12125 </effkms>
+
+
+<revenue> 274370 </revenue>
+
+
+<epkm> 2262.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/6</id>
+
+<schkms> 423 </schkms>
+
+
+<passengers> 14661 </passengers>
+
+
+<effkms> 12132 </effkms>
+
+
+<revenue> 274378 </revenue>
+
+
+<epkm> 2261.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/7</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9604 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 405977 </revenue>
+
+
+<epkm> 2526.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/8</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8716 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 364563 </revenue>
+
+
+<epkm> 2269.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/9</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 12225 </passengers>
+
+
+<effkms> 9969 </effkms>
+
+
+<revenue> 229574 </revenue>
+
+
+<epkm> 2302.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/10</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 12225 </passengers>
+
+
+<effkms> 9972 </effkms>
+
+
+<revenue> 229580 </revenue>
+
+
+<epkm> 2302.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/13</id>
+
+<schkms> 495 </schkms>
+
+
+<passengers> 8320 </passengers>
+
+
+<effkms> 14355 </effkms>
+
+
+<revenue> 339803 </revenue>
+
+
+<epkm> 2367.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/14</id>
+
+<schkms> 458 </schkms>
+
+
+<passengers> 6428 </passengers>
+
+
+<effkms> 9902 </effkms>
+
+
+<revenue> 225171 </revenue>
+
+
+<epkm> 2274.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/15</id>
+
+<schkms> 446 </schkms>
+
+
+<passengers> 4477 </passengers>
+
+
+<effkms> 12934 </effkms>
+
+
+<revenue> 293835 </revenue>
+
+
+<epkm> 2271.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/16</id>
+
+<schkms> 446 </schkms>
+
+
+<passengers> 4039 </passengers>
+
+
+<effkms> 12596 </effkms>
+
+
+<revenue> 252748 </revenue>
+
+
+<epkm> 2006.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/17</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8635 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 337967 </revenue>
+
+
+<epkm> 2103.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/18</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9131 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 380510 </revenue>
+
+
+<epkm> 2368.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/25</id>
+
+<schkms> 420 </schkms>
+
+
+<passengers> 7363 </passengers>
+
+
+<effkms> 11760 </effkms>
+
+
+<revenue> 225711 </revenue>
+
+
+<epkm> 1919.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/26</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 7630 </passengers>
+
+
+<effkms> 14958 </effkms>
+
+
+<revenue> 322587 </revenue>
+
+
+<epkm> 2156.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/27</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 10459 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 427924 </revenue>
+
+
+<epkm> 2663.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/29</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 9092 </passengers>
+
+
+<effkms> 17136 </effkms>
+
+
+<revenue> 371091 </revenue>
+
+
+<epkm> 2165.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/30</id>
+
+<schkms> 350 </schkms>
+
+
+<passengers> 13539 </passengers>
+
+
+<effkms> 9950 </effkms>
+
+
+<revenue> 319200 </revenue>
+
+
+<epkm> 3208.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/31</id>
+
+<schkms> 426 </schkms>
+
+
+<passengers> 8679 </passengers>
+
+
+<effkms> 11728 </effkms>
+
+
+<revenue> 231235 </revenue>
+
+
+<epkm> 1971.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/32</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 10281 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 421815 </revenue>
+
+
+<epkm> 2625.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/33</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 8727 </passengers>
+
+
+<effkms> 17030 </effkms>
+
+
+<revenue> 383009 </revenue>
+
+
+<epkm> 2249.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/34</id>
+
+<schkms> 277 </schkms>
+
+
+<passengers> 9905 </passengers>
+
+
+<effkms> 8033 </effkms>
+
+
+<revenue> 178280 </revenue>
+
+
+<epkm> 2219.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/35</id>
+
+<schkms> 277 </schkms>
+
+
+<passengers> 9272 </passengers>
+
+
+<effkms> 8033 </effkms>
+
+
+<revenue> 164365 </revenue>
+
+
+<epkm> 2046.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/36</id>
+
+<schkms> 458 </schkms>
+
+
+<passengers> 10307 </passengers>
+
+
+<effkms> 13214 </effkms>
+
+
+<revenue> 336450 </revenue>
+
+
+<epkm> 2546.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/37</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 10142 </passengers>
+
+
+<effkms> 17136 </effkms>
+
+
+<revenue> 373396 </revenue>
+
+
+<epkm> 2179.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/38</id>
+
+<schkms> 420 </schkms>
+
+
+<passengers> 7797 </passengers>
+
+
+<effkms> 13978 </effkms>
+
+
+<revenue> 264798 </revenue>
+
+
+<epkm> 1894.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/39</id>
+
+<schkms> 312 </schkms>
+
+
+<passengers> 11605 </passengers>
+
+
+<effkms> 8946 </effkms>
+
+
+<revenue> 260382 </revenue>
+
+
+<epkm> 2910.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/40</id>
+
+<schkms> 420 </schkms>
+
+
+<passengers> 9031 </passengers>
+
+
+<effkms> 12540 </effkms>
+
+
+<revenue> 293913 </revenue>
+
+
+<epkm> 2343.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/41</id>
+
+<schkms> 458 </schkms>
+
+
+<passengers> 8753 </passengers>
+
+
+<effkms> 12578 </effkms>
+
+
+<revenue> 279972 </revenue>
+
+
+<epkm> 2225.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/42</id>
+
+<schkms> 536 </schkms>
+
+
+<passengers> 11184 </passengers>
+
+
+<effkms> 14912 </effkms>
+
+
+<revenue> 380988 </revenue>
+
+
+<epkm> 2554.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/43</id>
+
+<schkms> 536 </schkms>
+
+
+<passengers> 12852 </passengers>
+
+
+<effkms> 15164 </effkms>
+
+
+<revenue> 408564 </revenue>
+
+
+<epkm> 2694.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/45</id>
+
+<schkms> 355 </schkms>
+
+
+<passengers> 4891 </passengers>
+
+
+<effkms> 10724 </effkms>
+
+
+<revenue> 237969 </revenue>
+
+
+<epkm> 2219.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/46</id>
+
+<schkms> 354 </schkms>
+
+
+<passengers> 4891 </passengers>
+
+
+<effkms> 10720 </effkms>
+
+
+<revenue> 237980 </revenue>
+
+
+<epkm> 2220.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/48</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8541 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 382643 </revenue>
+
+
+<epkm> 2381.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/49</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 7335 </passengers>
+
+
+<effkms> 15804 </effkms>
+
+
+<revenue> 336638 </revenue>
+
+
+<epkm> 2130.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/50</id>
+
+<schkms> 355 </schkms>
+
+
+<passengers> 4649 </passengers>
+
+
+<effkms> 10205 </effkms>
+
+
+<revenue> 236563 </revenue>
+
+
+<epkm> 2318.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/51</id>
+
+<schkms> 354 </schkms>
+
+
+<passengers> 4649 </passengers>
+
+
+<effkms> 10201 </effkms>
+
+
+<revenue> 236575 </revenue>
+
+
+<epkm> 2319.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/52</id>
+
+<schkms> 312 </schkms>
+
+
+<passengers> 12673 </passengers>
+
+
+<effkms> 8946 </effkms>
+
+
+<revenue> 310451 </revenue>
+
+
+<epkm> 3470.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/53</id>
+
+<schkms> 411 </schkms>
+
+
+<passengers> 12076 </passengers>
+
+
+<effkms> 11492 </effkms>
+
+
+<revenue> 249735 </revenue>
+
+
+<epkm> 2173.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/54</id>
+
+<schkms> 410 </schkms>
+
+
+<passengers> 12076 </passengers>
+
+
+<effkms> 11486 </effkms>
+
+
+<revenue> 249742 </revenue>
+
+
+<epkm> 2174.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/55</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 11493 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 368366 </revenue>
+
+
+<epkm> 2461.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/56</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 10385 </passengers>
+
+
+<effkms> 14964 </effkms>
+
+
+<revenue> 333133 </revenue>
+
+
+<epkm> 2226.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/57</id>
+
+<schkms> 277 </schkms>
+
+
+<passengers> 8518 </passengers>
+
+
+<effkms> 7679 </effkms>
+
+
+<revenue> 169329 </revenue>
+
+
+<epkm> 2205.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/58</id>
+
+<schkms> 468 </schkms>
+
+
+<passengers> 8848 </passengers>
+
+
+<effkms> 13572 </effkms>
+
+
+<revenue> 309198 </revenue>
+
+
+<epkm> 2278.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/59</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9408 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 391752 </revenue>
+
+
+<epkm> 2438.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/60</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8053 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 318965 </revenue>
+
+
+<epkm> 1985.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/61</id>
+
+<schkms> 381 </schkms>
+
+
+<passengers> 5017 </passengers>
+
+
+<effkms> 11052 </effkms>
+
+
+<revenue> 268246 </revenue>
+
+
+<epkm> 2427.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/62</id>
+
+<schkms> 381 </schkms>
+
+
+<passengers> 5017 </passengers>
+
+
+<effkms> 11046 </effkms>
+
+
+<revenue> 268262 </revenue>
+
+
+<epkm> 2428.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/63</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 10777 </passengers>
+
+
+<effkms> 17748 </effkms>
+
+
+<revenue> 446673 </revenue>
+
+
+<epkm> 2516.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/64</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 4714 </passengers>
+
+
+<effkms> 15111 </effkms>
+
+
+<revenue> 347158 </revenue>
+
+
+<epkm> 2297.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/65</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 4714 </passengers>
+
+
+<effkms> 15107 </effkms>
+
+
+<revenue> 347165 </revenue>
+
+
+<epkm> 2298.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/66</id>
+
+<schkms> 495 </schkms>
+
+
+<passengers> 7321 </passengers>
+
+
+<effkms> 8310 </effkms>
+
+
+<revenue> 179410 </revenue>
+
+
+<epkm> 2159.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/67</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9462 </passengers>
+
+
+<effkms> 14958 </effkms>
+
+
+<revenue> 370040 </revenue>
+
+
+<epkm> 2473.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/68</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8995 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 389511 </revenue>
+
+
+<epkm> 2424.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/69</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 9661 </passengers>
+
+
+<effkms> 14076 </effkms>
+
+
+<revenue> 364541 </revenue>
+
+
+<epkm> 2589.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/70</id>
+
+<schkms> 612 </schkms>
+
+
+<passengers> 8121 </passengers>
+
+
+<effkms> 14688 </effkms>
+
+
+<revenue> 353644 </revenue>
+
+
+<epkm> 2407.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/71</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 9576 </passengers>
+
+
+<effkms> 14056 </effkms>
+
+
+<revenue> 332109 </revenue>
+
+
+<epkm> 2362.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/72</id>
+
+<schkms> 462 </schkms>
+
+
+<passengers> 7370 </passengers>
+
+
+<effkms> 13398 </effkms>
+
+
+<revenue> 258684 </revenue>
+
+
+<epkm> 1930.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/75</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 8839 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 330240 </revenue>
+
+
+<epkm> 2268.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/76</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 10549 </passengers>
+
+
+<effkms> 14558 </effkms>
+
+
+<revenue> 399420 </revenue>
+
+
+<epkm> 2743.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/77</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 9918 </passengers>
+
+
+<effkms> 14428 </effkms>
+
+
+<revenue> 357803 </revenue>
+
+
+<epkm> 2479.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/78</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 1094 </passengers>
+
+
+<effkms> 19894 </effkms>
+
+
+<revenue> 382328 </revenue>
+
+
+<epkm> 1921.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/79</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 1140 </passengers>
+
+
+<effkms> 19894 </effkms>
+
+
+<revenue> 414726 </revenue>
+
+
+<epkm> 2084.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/80</id>
+
+<schkms> 522 </schkms>
+
+
+<passengers> 4744 </passengers>
+
+
+<effkms> 14083 </effkms>
+
+
+<revenue> 326626 </revenue>
+
+
+<epkm> 2319.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/81</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 4744 </passengers>
+
+
+<effkms> 14078 </effkms>
+
+
+<revenue> 326634 </revenue>
+
+
+<epkm> 2320.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/83</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9552 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 384651 </revenue>
+
+
+<epkm> 2394.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/84</id>
+
+<schkms> 470 </schkms>
+
+
+<passengers> 11328 </passengers>
+
+
+<effkms> 13600 </effkms>
+
+
+<revenue> 368271 </revenue>
+
+
+<epkm> 2707.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/85</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 3921 </passengers>
+
+
+<effkms> 14584 </effkms>
+
+
+<revenue> 290752 </revenue>
+
+
+<epkm> 1993.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/86</id>
+
+<schkms> 521 </schkms>
+
+
+<passengers> 3921 </passengers>
+
+
+<effkms> 14592 </effkms>
+
+
+<revenue> 290764 </revenue>
+
+
+<epkm> 1992.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/87</id>
+
+<schkms> 475 </schkms>
+
+
+<passengers> 7433 </passengers>
+
+
+<effkms> 10814 </effkms>
+
+
+<revenue> 221419 </revenue>
+
+
+<epkm> 2047.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/87</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 516 </passengers>
+
+
+<effkms> 10820 </effkms>
+
+
+<revenue> 221428 </revenue>
+
+
+<epkm> 2046.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/88</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 516 </passengers>
+
+
+<effkms> 11092 </effkms>
+
+
+<revenue> 254709 </revenue>
+
+
+<epkm> 2296.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/90</id>
+
+<schkms> 459 </schkms>
+
+
+<passengers> 8205 </passengers>
+
+
+<effkms> 13311 </effkms>
+
+
+<revenue> 283157 </revenue>
+
+
+<epkm> 2127.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/91</id>
+
+<schkms> 459 </schkms>
+
+
+<passengers> 8492 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 374984 </revenue>
+
+
+<epkm> 2334.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/92</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 8489 </passengers>
+
+
+<effkms> 14510 </effkms>
+
+
+<revenue> 350576 </revenue>
+
+
+<epkm> 2416.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/93</id>
+
+<schkms> 502 </schkms>
+
+
+<passengers> 10651 </passengers>
+
+
+<effkms> 10646 </effkms>
+
+
+<revenue> 185134 </revenue>
+
+
+<epkm> 1739.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/87</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 536 </passengers>
+
+
+<effkms> 10640 </effkms>
+
+
+<revenue> 185145 </revenue>
+
+
+<epkm> 1740.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/88</id>
+
+<schkms> 686 </schkms>
+
+
+<passengers> 536 </passengers>
+
+
+<effkms> 13039 </effkms>
+
+
+<revenue> 293796 </revenue>
+
+
+<epkm> 2253.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/96</id>
+
+<schkms> 459 </schkms>
+
+
+<passengers> 9088 </passengers>
+
+
+<effkms> 14065 </effkms>
+
+
+<revenue> 312556 </revenue>
+
+
+<epkm> 2222.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/97</id>
+
+<schkms> 485 </schkms>
+
+
+<passengers> 9213 </passengers>
+
+
+<effkms> 14529 </effkms>
+
+
+<revenue> 291139 </revenue>
+
+
+<epkm> 2003.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/100</id>
+
+<schkms> 501 </schkms>
+
+
+<passengers> 8616 </passengers>
+
+
+<effkms> 12789 </effkms>
+
+
+<revenue> 365533 </revenue>
+
+
+<epkm> 2858.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/103</id>
+
+<schkms> 441 </schkms>
+
+
+<passengers> 12981 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 387561 </revenue>
+
+
+<epkm> 2412.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/105</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9622 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 386021 </revenue>
+
+
+<epkm> 2402.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/106</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9151 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 343524 </revenue>
+
+
+<epkm> 2138.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/107</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 7835 </passengers>
+
+
+<effkms> 13775 </effkms>
+
+
+<revenue> 306141 </revenue>
+
+
+<epkm> 2222.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/109</id>
+
+<schkms> 486 </schkms>
+
+
+<passengers> 5714 </passengers>
+
+
+<effkms> 5832 </effkms>
+
+
+<revenue> 141576 </revenue>
+
+
+<epkm> 2427.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/110</id>
+
+<schkms> 486 </schkms>
+
+
+<passengers> 6356 </passengers>
+
+
+<effkms> 5832 </effkms>
+
+
+<revenue> 160384 </revenue>
+
+
+<epkm> 2750.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG - V/115</id>
+
+<schkms> 464 </schkms>
+
+
+<passengers> 7215 </passengers>
+
+
+<effkms> 12992 </effkms>
+
+
+<revenue> 229502 </revenue>
+
+
+<epkm> 1766.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/1</id>
+
+<schkms> 392 </schkms>
+
+
+<passengers> 9937 </passengers>
+
+
+<effkms> 11368 </effkms>
+
+
+<revenue> 232484 </revenue>
+
+
+<epkm> 2045.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/2</id>
+
+<schkms> 459 </schkms>
+
+
+<passengers> 7938 </passengers>
+
+
+<effkms> 13124 </effkms>
+
+
+<revenue> 297535 </revenue>
+
+
+<epkm> 2267.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/3</id>
+
+<schkms> 498 </schkms>
+
+
+<passengers> 4727 </passengers>
+
+
+<effkms> 13944 </effkms>
+
+
+<revenue> 319739 </revenue>
+
+
+<epkm> 2293.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/4</id>
+
+<schkms> 498 </schkms>
+
+
+<passengers> 5230 </passengers>
+
+
+<effkms> 14442 </effkms>
+
+
+<revenue> 303195 </revenue>
+
+
+<epkm> 2099.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/5</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 4097 </passengers>
+
+
+<effkms> 10138 </effkms>
+
+
+<revenue> 183436 </revenue>
+
+
+<epkm> 1809.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/6</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 8702 </passengers>
+
+
+<effkms> 14210 </effkms>
+
+
+<revenue> 305771 </revenue>
+
+
+<epkm> 2151.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/7</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8403 </passengers>
+
+
+<effkms> 15232 </effkms>
+
+
+<revenue> 303198 </revenue>
+
+
+<epkm> 1990.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/8</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 8023 </passengers>
+
+
+<effkms> 1470 </effkms>
+
+
+<revenue> 23417 </revenue>
+
+
+<epkm> 1593.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/9</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4644 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 319621 </revenue>
+
+
+<epkm> 2551.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/10</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 8121 </passengers>
+
+
+<effkms> 12250 </effkms>
+
+
+<revenue> 264041 </revenue>
+
+
+<epkm> 2155.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/11</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 7236 </passengers>
+
+
+<effkms> 1960 </effkms>
+
+
+<revenue> 43507 </revenue>
+
+
+<epkm> 2219.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/12</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 7297 </passengers>
+
+
+<effkms> 2176 </effkms>
+
+
+<revenue> 48800 </revenue>
+
+
+<epkm> 2242.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/13</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 9883 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 273469 </revenue>
+
+
+<epkm> 2182.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/14</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8133 </passengers>
+
+
+<effkms> 14960 </effkms>
+
+
+<revenue> 316733 </revenue>
+
+
+<epkm> 2117.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/15</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 8827 </passengers>
+
+
+<effkms> 13992 </effkms>
+
+
+<revenue> 294131 </revenue>
+
+
+<epkm> 2102.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/16</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 7487 </passengers>
+
+
+<effkms> 12590 </effkms>
+
+
+<revenue> 264543 </revenue>
+
+
+<epkm> 2101.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/17</id>
+
+<schkms> 600 </schkms>
+
+
+<passengers> 9417 </passengers>
+
+
+<effkms> 17400 </effkms>
+
+
+<revenue> 415924 </revenue>
+
+
+<epkm> 2390.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/18</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4310 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 301889 </revenue>
+
+
+<epkm> 2409.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/19</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 7084 </passengers>
+
+
+<effkms> 13992 </effkms>
+
+
+<revenue> 316416 </revenue>
+
+
+<epkm> 2261.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/20</id>
+
+<schkms> 510 </schkms>
+
+
+<passengers> 9867 </passengers>
+
+
+<effkms> 14790 </effkms>
+
+
+<revenue> 299728 </revenue>
+
+
+<epkm> 2026.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/21</id>
+
+<schkms> 454 </schkms>
+
+
+<passengers> 4728 </passengers>
+
+
+<effkms> 12936 </effkms>
+
+
+<revenue> 226298 </revenue>
+
+
+<epkm> 1749.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/22</id>
+
+<schkms> 454 </schkms>
+
+
+<passengers> 4581 </passengers>
+
+
+<effkms> 12936 </effkms>
+
+
+<revenue> 252481 </revenue>
+
+
+<epkm> 1951.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/23</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 8256 </passengers>
+
+
+<effkms> 14210 </effkms>
+
+
+<revenue> 311271 </revenue>
+
+
+<epkm> 2190.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/24</id>
+
+<schkms> 369 </schkms>
+
+
+<passengers> 7525 </passengers>
+
+
+<effkms> 10332 </effkms>
+
+
+<revenue> 243359 </revenue>
+
+
+<epkm> 2355.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/25</id>
+
+<schkms> 369 </schkms>
+
+
+<passengers> 8816 </passengers>
+
+
+<effkms> 10701 </effkms>
+
+
+<revenue> 270962 </revenue>
+
+
+<epkm> 2532.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/26</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 7272 </passengers>
+
+
+<effkms> 15232 </effkms>
+
+
+<revenue> 261716 </revenue>
+
+
+<epkm> 1718.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/27</id>
+
+<schkms> 459 </schkms>
+
+
+<passengers> 13545 </passengers>
+
+
+<effkms> 13311 </effkms>
+
+
+<revenue> 274529 </revenue>
+
+
+<epkm> 2062.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/28</id>
+
+<schkms> 486 </schkms>
+
+
+<passengers> 4757 </passengers>
+
+
+<effkms> 14094 </effkms>
+
+
+<revenue> 336455 </revenue>
+
+
+<epkm> 2387.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/29</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8383 </passengers>
+
+
+<effkms> 2720 </effkms>
+
+
+<revenue> 53614 </revenue>
+
+
+<epkm> 1971.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/30</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 4800 </passengers>
+
+
+<effkms> 7888 </effkms>
+
+
+<revenue> 203333 </revenue>
+
+
+<epkm> 2577.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/31</id>
+
+<schkms> 448 </schkms>
+
+
+<passengers> 6054 </passengers>
+
+
+<effkms> 13224 </effkms>
+
+
+<revenue> 330491 </revenue>
+
+
+<epkm> 2499.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/32</id>
+
+<schkms> 490 </schkms>
+
+
+<passengers> 6326 </passengers>
+
+
+<effkms> 14442 </effkms>
+
+
+<revenue> 321129 </revenue>
+
+
+<epkm> 2223.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/33</id>
+
+<schkms> 514 </schkms>
+
+
+<passengers> 5580 </passengers>
+
+
+<effkms> 14906 </effkms>
+
+
+<revenue> 321851 </revenue>
+
+
+<epkm> 2159.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/34</id>
+
+<schkms> 626 </schkms>
+
+
+<passengers> 4580 </passengers>
+
+
+<effkms> 18154 </effkms>
+
+
+<revenue> 437450 </revenue>
+
+
+<epkm> 2409.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/35</id>
+
+<schkms> 349 </schkms>
+
+
+<passengers> 3659 </passengers>
+
+
+<effkms> 10121 </effkms>
+
+
+<revenue> 194721 </revenue>
+
+
+<epkm> 1923.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/36</id>
+
+<schkms> 349 </schkms>
+
+
+<passengers> 3771 </passengers>
+
+
+<effkms> 10121 </effkms>
+
+
+<revenue> 196033 </revenue>
+
+
+<epkm> 1936.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/37</id>
+
+<schkms> 482 </schkms>
+
+
+<passengers> 4437 </passengers>
+
+
+<effkms> 13496 </effkms>
+
+
+<revenue> 219603 </revenue>
+
+
+<epkm> 1627.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/38</id>
+
+<schkms> 456 </schkms>
+
+
+<passengers> 5705 </passengers>
+
+
+<effkms> 13224 </effkms>
+
+
+<revenue> 298974 </revenue>
+
+
+<epkm> 2260.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/39</id>
+
+<schkms> 272 </schkms>
+
+
+<passengers> 8245 </passengers>
+
+
+<effkms> 15232 </effkms>
+
+
+<revenue> 274591 </revenue>
+
+
+<epkm> 1802.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/40</id>
+
+<schkms> 380 </schkms>
+
+
+<passengers> 7614 </passengers>
+
+
+<effkms> 11020 </effkms>
+
+
+<revenue> 262588 </revenue>
+
+
+<epkm> 2382.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/41</id>
+
+<schkms> 362 </schkms>
+
+
+<passengers> 8409 </passengers>
+
+
+<effkms> 10498 </effkms>
+
+
+<revenue> 171661 </revenue>
+
+
+<epkm> 1635.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/42</id>
+
+<schkms> 692 </schkms>
+
+
+<passengers> 5831 </passengers>
+
+
+<effkms> 12996 </effkms>
+
+
+<revenue> 270313 </revenue>
+
+
+<epkm> 2080.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/43</id>
+
+<schkms> 692 </schkms>
+
+
+<passengers> 6768 </passengers>
+
+
+<effkms> 13680 </effkms>
+
+
+<revenue> 302669 </revenue>
+
+
+<epkm> 2212.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/44</id>
+
+<schkms> 376 </schkms>
+
+
+<passengers> 4391 </passengers>
+
+
+<effkms> 11094 </effkms>
+
+
+<revenue> 227549 </revenue>
+
+
+<epkm> 2051.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/45</id>
+
+<schkms> 618 </schkms>
+
+
+<passengers> 5099 </passengers>
+
+
+<effkms> 17922 </effkms>
+
+
+<revenue> 380080 </revenue>
+
+
+<epkm> 2120.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/46</id>
+
+<schkms> 440 </schkms>
+
+
+<passengers> 7907 </passengers>
+
+
+<effkms> 12760 </effkms>
+
+
+<revenue> 281659 </revenue>
+
+
+<epkm> 2207.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/47</id>
+
+<schkms> 430 </schkms>
+
+
+<passengers> 6841 </passengers>
+
+
+<effkms> 12470 </effkms>
+
+
+<revenue> 274207 </revenue>
+
+
+<epkm> 2198.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/48</id>
+
+<schkms> 618 </schkms>
+
+
+<passengers> 4825 </passengers>
+
+
+<effkms> 17922 </effkms>
+
+
+<revenue> 414189 </revenue>
+
+
+<epkm> 2311.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/49</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4695 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 314141 </revenue>
+
+
+<epkm> 2507.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/50</id>
+
+<schkms> 346 </schkms>
+
+
+<passengers> 12005 </passengers>
+
+
+<effkms> 9688 </effkms>
+
+
+<revenue> 150651 </revenue>
+
+
+<epkm> 1555.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/51</id>
+
+<schkms> 456 </schkms>
+
+
+<passengers> 6070 </passengers>
+
+
+<effkms> 13224 </effkms>
+
+
+<revenue> 258453 </revenue>
+
+
+<epkm> 1954.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/52</id>
+
+<schkms> 456 </schkms>
+
+
+<passengers> 762 </passengers>
+
+
+<effkms> 13224 </effkms>
+
+
+<revenue> 254192 </revenue>
+
+
+<epkm> 1922.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/53</id>
+
+<schkms> 666 </schkms>
+
+
+<passengers> 842 </passengers>
+
+
+<effkms> 19314 </effkms>
+
+
+<revenue> 356246 </revenue>
+
+
+<epkm> 1844.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/54</id>
+
+<schkms> 377 </schkms>
+
+
+<passengers> 6546 </passengers>
+
+
+<effkms> 10414 </effkms>
+
+
+<revenue> 222773 </revenue>
+
+
+<epkm> 2139.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/55</id>
+
+<schkms> 376 </schkms>
+
+
+<passengers> 7442 </passengers>
+
+
+<effkms> 10730 </effkms>
+
+
+<revenue> 301600 </revenue>
+
+
+<epkm> 2810.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/56</id>
+
+<schkms> 666 </schkms>
+
+
+<passengers> 686 </passengers>
+
+
+<effkms> 19314 </effkms>
+
+
+<revenue> 323480 </revenue>
+
+
+<epkm> 1674.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/57</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 9301 </passengers>
+
+
+<effkms> 12006 </effkms>
+
+
+<revenue> 256114 </revenue>
+
+
+<epkm> 2133.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/58</id>
+
+<schkms> 548 </schkms>
+
+
+<passengers> 5132 </passengers>
+
+
+<effkms> 15892 </effkms>
+
+
+<revenue> 390718 </revenue>
+
+
+<epkm> 2458.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/62</id>
+
+<schkms> 548 </schkms>
+
+
+<passengers> 4475 </passengers>
+
+
+<effkms> 15892 </effkms>
+
+
+<revenue> 356525 </revenue>
+
+
+<epkm> 2243.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/63</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 4271 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 299371 </revenue>
+
+
+<epkm> 1863.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/66</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 4872 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 410591 </revenue>
+
+
+<epkm> 2555.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/67</id>
+
+<schkms> 392 </schkms>
+
+
+<passengers> 8360 </passengers>
+
+
+<effkms> 10192 </effkms>
+
+
+<revenue> 186537 </revenue>
+
+
+<epkm> 1830.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/68</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 6589 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 343414 </revenue>
+
+
+<epkm> 2176.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/69</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 5894 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 339165 </revenue>
+
+
+<epkm> 2149.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/70</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 7854 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 345790 </revenue>
+
+
+<epkm> 2191.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/71</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8596 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 335884 </revenue>
+
+
+<epkm> 2129.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/72</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8542 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 352008 </revenue>
+
+
+<epkm> 2231.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/73</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 7458 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 345158 </revenue>
+
+
+<epkm> 2187.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/74</id>
+
+<schkms> 486 </schkms>
+
+
+<passengers> 5744 </passengers>
+
+
+<effkms> 14094 </effkms>
+
+
+<revenue> 405564 </revenue>
+
+
+<epkm> 2877.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/76</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 6582 </passengers>
+
+
+<effkms> 15776 </effkms>
+
+
+<revenue> 341477 </revenue>
+
+
+<epkm> 2164.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/77</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 5428 </passengers>
+
+
+<effkms> 14960 </effkms>
+
+
+<revenue> 317242 </revenue>
+
+
+<epkm> 2120.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/78</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 4587 </passengers>
+
+
+<effkms> 13872 </effkms>
+
+
+<revenue> 300513 </revenue>
+
+
+<epkm> 2166.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/79</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 4652 </passengers>
+
+
+<effkms> 10064 </effkms>
+
+
+<revenue> 214857 </revenue>
+
+
+<epkm> 2134.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/80</id>
+
+<schkms> 353 </schkms>
+
+
+<passengers> 3972 </passengers>
+
+
+<effkms> 10005 </effkms>
+
+
+<revenue> 166781 </revenue>
+
+
+<epkm> 1667.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/81</id>
+
+<schkms> 353 </schkms>
+
+
+<passengers> 4530 </passengers>
+
+
+<effkms> 10005 </effkms>
+
+
+<revenue> 206356 </revenue>
+
+
+<epkm> 2062.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/85</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 5168 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 384362 </revenue>
+
+
+<epkm> 2392.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/86</id>
+
+<schkms> 416 </schkms>
+
+
+<passengers> 4557 </passengers>
+
+
+<effkms> 12064 </effkms>
+
+
+<revenue> 306321 </revenue>
+
+
+<epkm> 2539.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/88</id>
+
+<schkms> 318 </schkms>
+
+
+<passengers> 6545 </passengers>
+
+
+<effkms> 8904 </effkms>
+
+
+<revenue> 216109 </revenue>
+
+
+<epkm> 2427.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/89</id>
+
+<schkms> 423 </schkms>
+
+
+<passengers> 7056 </passengers>
+
+
+<effkms> 12129 </effkms>
+
+
+<revenue> 271512 </revenue>
+
+
+<epkm> 2238.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/90</id>
+
+<schkms> 423 </schkms>
+
+
+<passengers> 7084 </passengers>
+
+
+<effkms> 12129 </effkms>
+
+
+<revenue> 203455 </revenue>
+
+
+<epkm> 1677.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/95</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8380 </passengers>
+
+
+<effkms> 15232 </effkms>
+
+
+<revenue> 263791 </revenue>
+
+
+<epkm> 1731.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/96</id>
+
+<schkms> 544 </schkms>
+
+
+<passengers> 8298 </passengers>
+
+
+<effkms> 13999 </effkms>
+
+
+<revenue> 241992 </revenue>
+
+
+<epkm> 1728.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/97</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4834 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 318086 </revenue>
+
+
+<epkm> 2539.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/98</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4347 </passengers>
+
+
+<effkms> 12528 </effkms>
+
+
+<revenue> 287640 </revenue>
+
+
+<epkm> 2296.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/99</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 4288 </passengers>
+
+
+<effkms> 12702 </effkms>
+
+
+<revenue> 251838 </revenue>
+
+
+<epkm> 1982.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/101</id>
+
+<schkms> 416 </schkms>
+
+
+<passengers> 4500 </passengers>
+
+
+<effkms> 12064 </effkms>
+
+
+<revenue> 320051 </revenue>
+
+
+<epkm> 2652.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/102</id>
+
+<schkms> 416 </schkms>
+
+
+<passengers> 4709 </passengers>
+
+
+<effkms> 12064 </effkms>
+
+
+<revenue> 315042 </revenue>
+
+
+<epkm> 2611.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/103</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 2014 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 127255 </revenue>
+
+
+<epkm> 1860.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/104</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 1763 </passengers>
+
+
+<effkms> 6840 </effkms>
+
+
+<revenue> 129456 </revenue>
+
+
+<epkm> 1892.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/105</id>
+
+<schkms> 514 </schkms>
+
+
+<passengers> 5503 </passengers>
+
+
+<effkms> 14906 </effkms>
+
+
+<revenue> 332998 </revenue>
+
+
+<epkm> 2234.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/106</id>
+
+<schkms> 540 </schkms>
+
+
+<passengers> 4825 </passengers>
+
+
+<effkms> 15660 </effkms>
+
+
+<revenue> 346324 </revenue>
+
+
+<epkm> 2211.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/107</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 4238 </passengers>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 208443 </revenue>
+
+
+<epkm> 1901.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/108</id>
+
+<schkms> 394 </schkms>
+
+
+<passengers> 4166 </passengers>
+
+
+<effkms> 11658 </effkms>
+
+
+<revenue> 212415 </revenue>
+
+
+<epkm> 1822.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/109</id>
+
+<schkms> 448 </schkms>
+
+
+<passengers> 7393 </passengers>
+
+
+<effkms> 13224 </effkms>
+
+
+<revenue> 306753 </revenue>
+
+
+<epkm> 2319.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/110</id>
+
+<schkms> 516 </schkms>
+
+
+<passengers> 4639 </passengers>
+
+
+<effkms> 15196 </effkms>
+
+
+<revenue> 309832 </revenue>
+
+
+<epkm> 2038.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/111</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 34501 </passengers>
+
+
+<effkms> 4872 </effkms>
+
+
+<revenue> 219610 </revenue>
+
+
+<epkm> 4507.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/112</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 34840 </passengers>
+
+
+<effkms> 4740 </effkms>
+
+
+<revenue> 207345 </revenue>
+
+
+<epkm> 4374.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/113</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 35539 </passengers>
+
+
+<effkms> 4848 </effkms>
+
+
+<revenue> 220604 </revenue>
+
+
+<epkm> 4550.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/114</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 36321 </passengers>
+
+
+<effkms> 4860 </effkms>
+
+
+<revenue> 213791 </revenue>
+
+
+<epkm> 4399.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/115</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 34949 </passengers>
+
+
+<effkms> 4872 </effkms>
+
+
+<revenue> 218558 </revenue>
+
+
+<epkm> 4486.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/116</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 36003 </passengers>
+
+
+<effkms> 4860 </effkms>
+
+
+<revenue> 232976 </revenue>
+
+
+<epkm> 4793.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/117</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 19034 </passengers>
+
+
+<effkms> 2088 </effkms>
+
+
+<revenue> 116764 </revenue>
+
+
+<epkm> 5592.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/118</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 17465 </passengers>
+
+
+<effkms> 2088 </effkms>
+
+
+<revenue> 110188 </revenue>
+
+
+<epkm> 5277.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/119</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 34324 </passengers>
+
+
+<effkms> 4740 </effkms>
+
+
+<revenue> 213580 </revenue>
+
+
+<epkm> 4505.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/120</id>
+
+<schkms> 168 </schkms>
+
+
+<passengers> 30655 </passengers>
+
+
+<effkms> 4800 </effkms>
+
+
+<revenue> 200777 </revenue>
+
+
+<epkm> 4182.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/121</id>
+
+<schkms> 72 </schkms>
+
+
+<passengers> 20110 </passengers>
+
+
+<effkms> 2928 </effkms>
+
+
+<revenue> 136925 </revenue>
+
+
+<epkm> 4676.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/122</id>
+
+<schkms> 72 </schkms>
+
+
+<passengers> 21254 </passengers>
+
+
+<effkms> 2928 </effkms>
+
+
+<revenue> 134968 </revenue>
+
+
+<epkm> 4609.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/125</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 3106 </passengers>
+
+
+<effkms> 5184 </effkms>
+
+
+<revenue> 113960 </revenue>
+
+
+<epkm> 2198.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> BNG -  VI/126</id>
+
+<schkms> 432 </schkms>
+
+
+<passengers> 1687 </passengers>
+
+
+<effkms> 5184 </effkms>
+
+
+<revenue> 145121 </revenue>
+
+
+<epkm> 2799.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/2</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 8965 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 374546 </revenue>
+
+
+<epkm> 2265.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/3</id>
+
+<schkms> 298 </schkms>
+
+
+<passengers> 11254 </passengers>
+
+
+<effkms> 8642 </effkms>
+
+
+<revenue> 170706 </revenue>
+
+
+<epkm> 1975.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/4</id>
+
+<schkms> 312 </schkms>
+
+
+<passengers> 12365 </passengers>
+
+
+<effkms> 9048 </effkms>
+
+
+<revenue> 178490 </revenue>
+
+
+<epkm> 1972.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/5</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 13254 </passengers>
+
+
+<effkms> 9516 </effkms>
+
+
+<revenue> 184425 </revenue>
+
+
+<epkm> 1938.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/6</id>
+
+<schkms> 348 </schkms>
+
+
+<passengers> 10256 </passengers>
+
+
+<effkms> 10092 </effkms>
+
+
+<revenue> 184136 </revenue>
+
+
+<epkm> 1824.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/7</id>
+
+<schkms> 306 </schkms>
+
+
+<passengers> 9985 </passengers>
+
+
+<effkms> 8874 </effkms>
+
+
+<revenue> 167936 </revenue>
+
+
+<epkm> 1892.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/8</id>
+
+<schkms> 330 </schkms>
+
+
+<passengers> 11365 </passengers>
+
+
+<effkms> 9570 </effkms>
+
+
+<revenue> 175630 </revenue>
+
+
+<epkm> 1835.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/9</id>
+
+<schkms> 336 </schkms>
+
+
+<passengers> 12546 </passengers>
+
+
+<effkms> 9704 </effkms>
+
+
+<revenue> 184758 </revenue>
+
+
+<epkm> 1903.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/10</id>
+
+<schkms> 290 </schkms>
+
+
+<passengers> 11457 </passengers>
+
+
+<effkms> 8410 </effkms>
+
+
+<revenue> 163657 </revenue>
+
+
+<epkm> 1946.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/11</id>
+
+<schkms> 342 </schkms>
+
+
+<passengers> 10263 </passengers>
+
+
+<effkms> 9918 </effkms>
+
+
+<revenue> 159975 </revenue>
+
+
+<epkm> 1613.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/12</id>
+
+<schkms> 324 </schkms>
+
+
+<passengers> 10247 </passengers>
+
+
+<effkms> 9396 </effkms>
+
+
+<revenue> 198945 </revenue>
+
+
+<epkm> 2117.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/13</id>
+
+<schkms> 362 </schkms>
+
+
+<passengers> 10456 </passengers>
+
+
+<effkms> 10498 </effkms>
+
+
+<revenue> 158107 </revenue>
+
+
+<epkm> 1506.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/14</id>
+
+<schkms> 324 </schkms>
+
+
+<passengers> 11365 </passengers>
+
+
+<effkms> 9396 </effkms>
+
+
+<revenue> 156169 </revenue>
+
+
+<epkm> 1662.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/15</id>
+
+<schkms> 424 </schkms>
+
+
+<passengers> 12546 </passengers>
+
+
+<effkms> 12134 </effkms>
+
+
+<revenue> 330747 </revenue>
+
+
+<epkm> 2725.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/16</id>
+
+<schkms> 217 </schkms>
+
+
+<passengers> 9857 </passengers>
+
+
+<effkms> 6239 </effkms>
+
+
+<revenue> 90966 </revenue>
+
+
+<epkm> 1458.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/17</id>
+
+<schkms> 376 </schkms>
+
+
+<passengers> 10326 </passengers>
+
+
+<effkms> 10792 </effkms>
+
+
+<revenue> 166290 </revenue>
+
+
+<epkm> 1540.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/18</id>
+
+<schkms> 456 </schkms>
+
+
+<passengers> 11325 </passengers>
+
+
+<effkms> 12122 </effkms>
+
+
+<revenue> 304127 </revenue>
+
+
+<epkm> 2508.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/19</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 10365 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 328367 </revenue>
+
+
+<epkm> 1986.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/20</id>
+
+<schkms> 332 </schkms>
+
+
+<passengers> 10457 </passengers>
+
+
+<effkms> 9628 </effkms>
+
+
+<revenue> 177188 </revenue>
+
+
+<epkm> 1840.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/22</id>
+
+<schkms> 326 </schkms>
+
+
+<passengers> 9865 </passengers>
+
+
+<effkms> 9338 </effkms>
+
+
+<revenue> 159708 </revenue>
+
+
+<epkm> 1710.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/23</id>
+
+<schkms> 309 </schkms>
+
+
+<passengers> 9874 </passengers>
+
+
+<effkms> 8839 </effkms>
+
+
+<revenue> 175349 </revenue>
+
+
+<epkm> 1983.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/24</id>
+
+<schkms> 414 </schkms>
+
+
+<passengers> 9963 </passengers>
+
+
+<effkms> 11484 </effkms>
+
+
+<revenue> 233289 </revenue>
+
+
+<epkm> 2031.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/25</id>
+
+<schkms> 494 </schkms>
+
+
+<passengers> 10245 </passengers>
+
+
+<effkms> 14326 </effkms>
+
+
+<revenue> 273220 </revenue>
+
+
+<epkm> 1907.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/26</id>
+
+<schkms> 221 </schkms>
+
+
+<passengers> 10369 </passengers>
+
+
+<effkms> 6409 </effkms>
+
+
+<revenue> 142164 </revenue>
+
+
+<epkm> 2218.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/27</id>
+
+<schkms> 221 </schkms>
+
+
+<passengers> 10458 </passengers>
+
+
+<effkms> 6409 </effkms>
+
+
+<revenue> 149484 </revenue>
+
+
+<epkm> 2332.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/28</id>
+
+<schkms> 221 </schkms>
+
+
+<passengers> 10325 </passengers>
+
+
+<effkms> 6371 </effkms>
+
+
+<revenue> 124173 </revenue>
+
+
+<epkm> 1949.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/29</id>
+
+<schkms> 253 </schkms>
+
+
+<passengers> 10445 </passengers>
+
+
+<effkms> 7177 </effkms>
+
+
+<revenue> 128219 </revenue>
+
+
+<epkm> 1786.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/30</id>
+
+<schkms> 233 </schkms>
+
+
+<passengers> 10369 </passengers>
+
+
+<effkms> 6757 </effkms>
+
+
+<revenue> 136811 </revenue>
+
+
+<epkm> 2024.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/31</id>
+
+<schkms> 259 </schkms>
+
+
+<passengers> 9875 </passengers>
+
+
+<effkms> 7511 </effkms>
+
+
+<revenue> 143414 </revenue>
+
+
+<epkm> 1909.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/32</id>
+
+<schkms> 233 </schkms>
+
+
+<passengers> 10254 </passengers>
+
+
+<effkms> 6757 </effkms>
+
+
+<revenue> 134481 </revenue>
+
+
+<epkm> 1990.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/33</id>
+
+<schkms> 233 </schkms>
+
+
+<passengers> 10257 </passengers>
+
+
+<effkms> 6407 </effkms>
+
+
+<revenue> 134411 </revenue>
+
+
+<epkm> 2097.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/34</id>
+
+<schkms> 225 </schkms>
+
+
+<passengers> 10324 </passengers>
+
+
+<effkms> 6375 </effkms>
+
+
+<revenue> 138098 </revenue>
+
+
+<epkm> 2166.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/35</id>
+
+<schkms> 225 </schkms>
+
+
+<passengers> 10256 </passengers>
+
+
+<effkms> 6305 </effkms>
+
+
+<revenue> 139801 </revenue>
+
+
+<epkm> 2217.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/36</id>
+
+<schkms> 259 </schkms>
+
+
+<passengers> 10250 </passengers>
+
+
+<effkms> 7511 </effkms>
+
+
+<revenue> 158884 </revenue>
+
+
+<epkm> 2115.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/37</id>
+
+<schkms> 259 </schkms>
+
+
+<passengers> 10360 </passengers>
+
+
+<effkms> 7511 </effkms>
+
+
+<revenue> 162622 </revenue>
+
+
+<epkm> 2165.1 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/41</id>
+
+<schkms> 570 </schkms>
+
+
+<passengers> 10254 </passengers>
+
+
+<effkms> 16530 </effkms>
+
+
+<revenue> 364862 </revenue>
+
+
+<epkm> 2207.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/44</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 9325 </passengers>
+
+
+<effkms> 10730 </effkms>
+
+
+<revenue> 233464 </revenue>
+
+
+<epkm> 2175.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/45</id>
+
+<schkms> 370 </schkms>
+
+
+<passengers> 8745 </passengers>
+
+
+<effkms> 10730 </effkms>
+
+
+<revenue> 197352 </revenue>
+
+
+<epkm> 1839.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/46</id>
+
+<schkms> 397 </schkms>
+
+
+<passengers> 9523 </passengers>
+
+
+<effkms> 11513 </effkms>
+
+
+<revenue> 242659 </revenue>
+
+
+<epkm> 2107.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/47</id>
+
+<schkms> 397 </schkms>
+
+
+<passengers> 9413 </passengers>
+
+
+<effkms> 11513 </effkms>
+
+
+<revenue> 240731 </revenue>
+
+
+<epkm> 2090.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/48</id>
+
+<schkms> 554 </schkms>
+
+
+<passengers> 9874 </passengers>
+
+
+<effkms> 16066 </effkms>
+
+
+<revenue> 330424 </revenue>
+
+
+<epkm> 2056.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/49</id>
+
+<schkms> 300 </schkms>
+
+
+<passengers> 9567 </passengers>
+
+
+<effkms> 300 </effkms>
+
+
+<revenue> 4586 </revenue>
+
+
+<epkm> 1528.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/50</id>
+
+<schkms> 300 </schkms>
+
+
+<passengers> 9478 </passengers>
+
+
+<effkms> 300 </effkms>
+
+
+<revenue> 5129 </revenue>
+
+
+<epkm> 1709.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/51</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10254 </passengers>
+
+
+<effkms> 9725 </effkms>
+
+
+<revenue> 242113 </revenue>
+
+
+<epkm> 2489.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/52</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10356 </passengers>
+
+
+<effkms> 9731 </effkms>
+
+
+<revenue> 256947 </revenue>
+
+
+<epkm> 2640.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/53</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10547 </passengers>
+
+
+<effkms> 9771 </effkms>
+
+
+<revenue> 264099 </revenue>
+
+
+<epkm> 2702.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/54</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10325 </passengers>
+
+
+<effkms> 9797 </effkms>
+
+
+<revenue> 261399 </revenue>
+
+
+<epkm> 2668.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/55</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10658 </passengers>
+
+
+<effkms> 9631 </effkms>
+
+
+<revenue> 231432 </revenue>
+
+
+<epkm> 2403.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/56</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10479 </passengers>
+
+
+<effkms> 9719 </effkms>
+
+
+<revenue> 241205 </revenue>
+
+
+<epkm> 2481.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/57</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10321 </passengers>
+
+
+<effkms> 9771 </effkms>
+
+
+<revenue> 234170 </revenue>
+
+
+<epkm> 2396.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/58</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10365 </passengers>
+
+
+<effkms> 9679 </effkms>
+
+
+<revenue> 228444 </revenue>
+
+
+<epkm> 2360.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/59</id>
+
+<schkms> 403 </schkms>
+
+
+<passengers> 10896 </passengers>
+
+
+<effkms> 11511 </effkms>
+
+
+<revenue> 261935 </revenue>
+
+
+<epkm> 2275.5 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/60</id>
+
+<schkms> 403 </schkms>
+
+
+<passengers> 10547 </passengers>
+
+
+<effkms> 11471 </effkms>
+
+
+<revenue> 260426 </revenue>
+
+
+<epkm> 2270.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/61</id>
+
+<schkms> 467 </schkms>
+
+
+<passengers> 9865 </passengers>
+
+
+<effkms> 13543 </effkms>
+
+
+<revenue> 309104 </revenue>
+
+
+<epkm> 2282.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/62</id>
+
+<schkms> 467 </schkms>
+
+
+<passengers> 9785 </passengers>
+
+
+<effkms> 13303 </effkms>
+
+
+<revenue> 325886 </revenue>
+
+
+<epkm> 2449.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/63</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 8978 </passengers>
+
+
+<effkms> 9753 </effkms>
+
+
+<revenue> 218623 </revenue>
+
+
+<epkm> 2241.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/64</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 9024 </passengers>
+
+
+<effkms> 9679 </effkms>
+
+
+<revenue> 240973 </revenue>
+
+
+<epkm> 2489.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/65</id>
+
+<schkms> 466 </schkms>
+
+
+<passengers> 9356 </passengers>
+
+
+<effkms> 13514 </effkms>
+
+
+<revenue> 329336 </revenue>
+
+
+<epkm> 2437.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/66</id>
+
+<schkms> 466 </schkms>
+
+
+<passengers> 9025 </passengers>
+
+
+<effkms> 13514 </effkms>
+
+
+<revenue> 278293 </revenue>
+
+
+<epkm> 2059.3 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/67</id>
+
+<schkms> 428 </schkms>
+
+
+<passengers> 9587 </passengers>
+
+
+<effkms> 12412 </effkms>
+
+
+<revenue> 280883 </revenue>
+
+
+<epkm> 2263.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/69</id>
+
+<schkms> 316 </schkms>
+
+
+<passengers> 8265 </passengers>
+
+
+<effkms> 9164 </effkms>
+
+
+<revenue> 160832 </revenue>
+
+
+<epkm> 1755.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/69</id>
+
+<schkms> 308 </schkms>
+
+
+<passengers> 9520 </passengers>
+
+
+<effkms> 8932 </effkms>
+
+
+<revenue> 172268 </revenue>
+
+
+<epkm> 1928.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/70</id>
+
+<schkms> 500 </schkms>
+
+
+<passengers> 9785 </passengers>
+
+
+<effkms> 14500 </effkms>
+
+
+<revenue> 289765 </revenue>
+
+
+<epkm> 1998.4 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/71</id>
+
+<schkms> 401 </schkms>
+
+
+<passengers> 9874 </passengers>
+
+
+<effkms> 11455 </effkms>
+
+
+<revenue> 289263 </revenue>
+
+
+<epkm> 2525.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/72</id>
+
+<schkms> 339 </schkms>
+
+
+<passengers> 10254 </passengers>
+
+
+<effkms> 9719 </effkms>
+
+
+<revenue> 273103 </revenue>
+
+
+<epkm> 2810.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/75</id>
+
+<schkms> 549 </schkms>
+
+
+<passengers> 10278 </passengers>
+
+
+<effkms> 15921 </effkms>
+
+
+<revenue> 362993 </revenue>
+
+
+<epkm> 2280.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/76</id>
+
+<schkms> 549 </schkms>
+
+
+<passengers> 9857 </passengers>
+
+
+<effkms> 15921 </effkms>
+
+
+<revenue> 370274 </revenue>
+
+
+<epkm> 2325.7 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/77</id>
+
+<schkms> 391 </schkms>
+
+
+<passengers> 8657 </passengers>
+
+
+<effkms> 11339 </effkms>
+
+
+<revenue> 201707 </revenue>
+
+
+<epkm> 1778.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/78</id>
+
+<schkms> 391 </schkms>
+
+
+<passengers> 8745 </passengers>
+
+
+<effkms> 11339 </effkms>
+
+
+<revenue> 215207 </revenue>
+
+
+<epkm> 1897.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/79</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10245 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 170567 </revenue>
+
+
+<epkm> 1867.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/80</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 11256 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 181866 </revenue>
+
+
+<epkm> 1990.9 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/81</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10896 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 167645 </revenue>
+
+
+<epkm> 1835.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/82</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10785 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 164906 </revenue>
+
+
+<epkm> 1805.2 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/83</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10695 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 168416 </revenue>
+
+
+<epkm> 1843.6 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/84</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10574 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 167898 </revenue>
+
+
+<epkm> 1838.0 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/85</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10365 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 168703 </revenue>
+
+
+<epkm> 1846.8 </epkm>
+
+</schedule>
+
+
+
+
+<schedule><id> NLM/86</id>
+
+<schkms> 315 </schkms>
+
+
+<passengers> 10562 </passengers>
+
+
+<effkms> 9135 </effkms>
+
+
+<revenue> 169104 </revenue>
+
+
+<epkm> 1851.2 </epkm>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,3116 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> MDR-1
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> NLVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7859 </effkms>
+
+
+<revenue> 151149 </revenue>
+
+
+<epkm> 1923.3 </epkm>
+
+
+<load_factor> 82.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 22230 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-2
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KBLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 9512 </effkms>
+
+
+<revenue> 244132 </revenue>
+
+
+<epkm> 2566.6 </epkm>
+
+
+<load_factor> 110.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14134 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-3
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 6613 </effkms>
+
+
+<revenue> 95953 </revenue>
+
+
+<epkm> 1451.0 </epkm>
+
+
+<load_factor> 62.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 11647 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-4
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BSG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7402 </effkms>
+
+
+<revenue> 148762 </revenue>
+
+
+<epkm> 2009.8 </epkm>
+
+
+<load_factor> 86.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 24433 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-5
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7878 </effkms>
+
+
+<revenue> 148238 </revenue>
+
+
+<epkm> 1881.7 </epkm>
+
+
+<load_factor> 81.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18017 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-7
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NVL </start_station>
+
+
+<end_station> KWD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7710 </effkms>
+
+
+<revenue> 139322 </revenue>
+
+
+<epkm> 1807.0 </epkm>
+
+
+<load_factor> 77.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 20061 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-8
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 6534 </effkms>
+
+
+<revenue> 109783 </revenue>
+
+
+<epkm> 1680.2 </epkm>
+
+
+<load_factor> 72.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17097 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-9
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> UJN </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 6774 </effkms>
+
+
+<revenue> 147279 </revenue>
+
+
+<epkm> 2174.2 </epkm>
+
+
+<load_factor> 93.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 22219 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-10
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7582 </effkms>
+
+
+<revenue> 126218 </revenue>
+
+
+<epkm> 1664.7 </epkm>
+
+
+<load_factor> 71.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21613 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-11
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 3557 </effkms>
+
+
+<revenue> 60313 </revenue>
+
+
+<epkm> 1695.6 </epkm>
+
+
+<load_factor> 73.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7072 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-12
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BSG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 2409 </effkms>
+
+
+<revenue> 37430 </revenue>
+
+
+<epkm> 1553.8 </epkm>
+
+
+<load_factor> 43.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 6715 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-13
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BSG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 8532 </effkms>
+
+
+<revenue> 152514 </revenue>
+
+
+<epkm> 1787.6 </epkm>
+
+
+<load_factor> 50.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23690 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-15
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 10950 </effkms>
+
+
+<revenue> 293374 </revenue>
+
+
+<epkm> 2679.2 </epkm>
+
+
+<load_factor> 115.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11718 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-16
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> SRI </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 10950 </effkms>
+
+
+<revenue> 256737 </revenue>
+
+
+<epkm> 2344.6 </epkm>
+
+
+<load_factor> 66.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10985 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-20
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 8280 </effkms>
+
+
+<revenue> 163016 </revenue>
+
+
+<epkm> 1968.8 </epkm>
+
+
+<load_factor> 55.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 20077 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-22
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 9030 </effkms>
+
+
+<revenue> 208159 </revenue>
+
+
+<epkm> 2305.2 </epkm>
+
+
+<load_factor> 65.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 3029 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-23
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> TRH </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 9849 </effkms>
+
+
+<revenue> 191638 </revenue>
+
+
+<epkm> 1945.8 </epkm>
+
+
+<load_factor> 54.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 1910 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-25
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7668 </effkms>
+
+
+<revenue> 142175 </revenue>
+
+
+<epkm> 1854.1 </epkm>
+
+
+<load_factor> 79.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17879 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-26
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KKH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7620 </effkms>
+
+
+<revenue> 147063 </revenue>
+
+
+<epkm> 1930.0 </epkm>
+
+
+<load_factor> 83.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16249 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-28
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7579 </effkms>
+
+
+<revenue> 156382 </revenue>
+
+
+<epkm> 2063.4 </epkm>
+
+
+<load_factor> 58.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23761 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-30
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> RMP </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7296 </effkms>
+
+
+<revenue> 115615 </revenue>
+
+
+<epkm> 1584.6 </epkm>
+
+
+<load_factor> 44.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15997 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-31
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 12586 </effkms>
+
+
+<revenue> 322756 </revenue>
+
+
+<epkm> 2564.4 </epkm>
+
+
+<load_factor> 72.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11806 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-32
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10962 </effkms>
+
+
+<revenue> 234665 </revenue>
+
+
+<epkm> 2140.7 </epkm>
+
+
+<load_factor> 60.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8789 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-33
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10744 </effkms>
+
+
+<revenue> 262817 </revenue>
+
+
+<epkm> 2446.2 </epkm>
+
+
+<load_factor> 105.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11492 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-34
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 12456 </effkms>
+
+
+<revenue> 307550 </revenue>
+
+
+<epkm> 2469.1 </epkm>
+
+
+<load_factor> 106.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16475 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-36
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7758 </effkms>
+
+
+<revenue> 155927 </revenue>
+
+
+<epkm> 2009.9 </epkm>
+
+
+<load_factor> 86.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19480 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-37
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7710 </effkms>
+
+
+<revenue> 145966 </revenue>
+
+
+<epkm> 1893.2 </epkm>
+
+
+<load_factor> 53.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15680 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-38
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> DMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 8232 </effkms>
+
+
+<revenue> 152136 </revenue>
+
+
+<epkm> 1848.1 </epkm>
+
+
+<load_factor> 79.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21966 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-39
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11684 </effkms>
+
+
+<revenue> 290278 </revenue>
+
+
+<epkm> 2484.4 </epkm>
+
+
+<load_factor> 70.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10484 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-40
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7654 </effkms>
+
+
+<revenue> 119890 </revenue>
+
+
+<epkm> 1566.4 </epkm>
+
+
+<load_factor> 67.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18055 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-42
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KLG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KLG </schkms>
+
+
+<effkms> 13076 </effkms>
+
+
+<revenue> 318894 </revenue>
+
+
+<epkm> 2438.8 </epkm>
+
+
+<load_factor> 68.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9126 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-43
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KGATE </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 6804 </effkms>
+
+
+<revenue> 133528 </revenue>
+
+
+<epkm> 1962.5 </epkm>
+
+
+<load_factor> 55.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15443 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-45
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11025 </effkms>
+
+
+<revenue> 232773 </revenue>
+
+
+<epkm> 2111.3 </epkm>
+
+
+<load_factor> 59.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10638 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-47
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NBK </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 10025 </effkms>
+
+
+<revenue> 238319 </revenue>
+
+
+<epkm> 2377.2 </epkm>
+
+
+<load_factor> 102.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8970 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-49
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10119 </effkms>
+
+
+<revenue> 264670 </revenue>
+
+
+<epkm> 2615.6 </epkm>
+
+
+<load_factor> 73.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9798 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-52
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> NVL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 8384 </effkms>
+
+
+<revenue> 168171 </revenue>
+
+
+<epkm> 2005.9 </epkm>
+
+
+<load_factor> 86.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19895 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-55
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 14914 </effkms>
+
+
+<revenue> 413138 </revenue>
+
+
+<epkm> 2770.1 </epkm>
+
+
+<load_factor> 119.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14099 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-56
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> HSP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> KRP </schkms>
+
+
+<effkms> 15120 </effkms>
+
+
+<revenue> 378737 </revenue>
+
+
+<epkm> 2504.9 </epkm>
+
+
+<load_factor> 107.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12918 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-64
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> UGI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 9660 </effkms>
+
+
+<revenue> 238225 </revenue>
+
+
+<epkm> 2466.1 </epkm>
+
+
+<load_factor> 106.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12958 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-65
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6706 </schkms>
+
+
+<effkms> 6706 </effkms>
+
+
+<revenue> 121561 </revenue>
+
+
+<epkm> 1812.7 </epkm>
+
+
+<load_factor> 51.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19489 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-66
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5721 </schkms>
+
+
+<effkms> 5721 </effkms>
+
+
+<revenue> 108391 </revenue>
+
+
+<epkm> 1894.6 </epkm>
+
+
+<load_factor> 53.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16352 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-67
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> NBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8432 </schkms>
+
+
+<effkms> 8432 </effkms>
+
+
+<revenue> 212107 </revenue>
+
+
+<epkm> 2515.5 </epkm>
+
+
+<load_factor> 108.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15639 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-69
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 12540 </effkms>
+
+
+<revenue> 310081 </revenue>
+
+
+<epkm> 2472.7 </epkm>
+
+
+<load_factor> 106.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4993 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-70
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> DSL </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 11400 </effkms>
+
+
+<revenue> 239439 </revenue>
+
+
+<epkm> 2100.3 </epkm>
+
+
+<load_factor> 90.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 3889 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-71
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> IGL </start_station>
+
+
+<end_station> CGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 7065 </effkms>
+
+
+<revenue> 114566 </revenue>
+
+
+<epkm> 1621.6 </epkm>
+
+
+<load_factor> 45.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 16577 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-72
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3577 </schkms>
+
+
+<effkms> 3577 </effkms>
+
+
+<revenue> 58967 </revenue>
+
+
+<epkm> 1648.5 </epkm>
+
+
+<load_factor> 71.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 4013 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-73
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10080 </schkms>
+
+
+<effkms> 10080 </effkms>
+
+
+<revenue> 262814 </revenue>
+
+
+<epkm> 2607.3 </epkm>
+
+
+<load_factor> 73.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11947 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-74
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KGL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10343 </schkms>
+
+
+<effkms> 10343 </effkms>
+
+
+<revenue> 227357 </revenue>
+
+
+<epkm> 2198.2 </epkm>
+
+
+<load_factor> 62.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11077 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-75
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> CPT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7403 </schkms>
+
+
+<effkms> 7403 </effkms>
+
+
+<revenue> 132750 </revenue>
+
+
+<epkm> 1793.2 </epkm>
+
+
+<load_factor> 50.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18514 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-77
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 8454 </schkms>
+
+
+<effkms> 8454 </effkms>
+
+
+<revenue> 215913 </revenue>
+
+
+<epkm> 2554.0 </epkm>
+
+
+<load_factor> 72.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 3372 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-78
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 8652 </schkms>
+
+
+<effkms> 8652 </effkms>
+
+
+<revenue> 203264 </revenue>
+
+
+<epkm> 2349.3 </epkm>
+
+
+<load_factor> 66.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7097 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-79
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KSLN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10213 </effkms>
+
+
+<revenue> 223231 </revenue>
+
+
+<epkm> 2185.8 </epkm>
+
+
+<load_factor> 61.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10337 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-80
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10920 </schkms>
+
+
+<effkms> 10920 </effkms>
+
+
+<revenue> 291859 </revenue>
+
+
+<epkm> 2672.7 </epkm>
+
+
+<load_factor> 75.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10280 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-81
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9779 </schkms>
+
+
+<effkms> 9779 </effkms>
+
+
+<revenue> 219415 </revenue>
+
+
+<epkm> 2243.7 </epkm>
+
+
+<load_factor> 63.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7836 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-82
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> KSHN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 8504 </effkms>
+
+
+<revenue> 172742 </revenue>
+
+
+<epkm> 2031.3 </epkm>
+
+
+<load_factor> 57.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5781 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-84
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13170 </schkms>
+
+
+<effkms> 13170 </effkms>
+
+
+<revenue> 322846 </revenue>
+
+
+<epkm> 2451.4 </epkm>
+
+
+<load_factor> 69.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11356 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-85
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 13170 </effkms>
+
+
+<revenue> 317516 </revenue>
+
+
+<epkm> 2410.9 </epkm>
+
+
+<load_factor> 68.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11809 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-86
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 7160 </schkms>
+
+
+<effkms> 7160 </effkms>
+
+
+<revenue> 161068 </revenue>
+
+
+<epkm> 2249.6 </epkm>
+
+
+<load_factor> 96.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5874 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-87
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> TMK </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 8455 </effkms>
+
+
+<revenue> 199668 </revenue>
+
+
+<epkm> 2361.5 </epkm>
+
+
+<load_factor> 101.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8272 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-88
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 208935 </schkms>
+
+
+<effkms> 7997 </effkms>
+
+
+<revenue> 208935 </revenue>
+
+
+<epkm> 2612.7 </epkm>
+
+
+<load_factor> 112.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7108 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-89
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 8154 </effkms>
+
+
+<revenue> 170624 </revenue>
+
+
+<epkm> 2092.5 </epkm>
+
+
+<load_factor> 59.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6641 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-90
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8644 </schkms>
+
+
+<effkms> 8644 </effkms>
+
+
+<revenue> 184445 </revenue>
+
+
+<epkm> 2133.8 </epkm>
+
+
+<load_factor> 60.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 30642 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-91
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8640 </schkms>
+
+
+<effkms> 8640 </effkms>
+
+
+<revenue> 185213 </revenue>
+
+
+<epkm> 2143.7 </epkm>
+
+
+<load_factor> 92.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 27006 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-95
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7056 </schkms>
+
+
+<effkms> 7056 </effkms>
+
+
+<revenue> 146441 </revenue>
+
+
+<epkm> 2075.4 </epkm>
+
+
+<load_factor> 89.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 22873 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-96
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13440 </schkms>
+
+
+<effkms> 13440 </effkms>
+
+
+<revenue> 314270 </revenue>
+
+
+<epkm> 2338.3 </epkm>
+
+
+<load_factor> 100.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12893 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-97
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12456 </schkms>
+
+
+<effkms> 12456 </effkms>
+
+
+<revenue> 319644 </revenue>
+
+
+<epkm> 2566.2 </epkm>
+
+
+<load_factor> 110.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12066 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-19B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 12050 </effkms>
+
+
+<revenue> 249091 </revenue>
+
+
+<epkm> 2067.1 </epkm>
+
+
+<load_factor> 89.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11289 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-19A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 12050 </effkms>
+
+
+<revenue> 249091 </revenue>
+
+
+<epkm> 2067.1 </epkm>
+
+
+<load_factor> 89.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11289 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-50A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 9264 </effkms>
+
+
+<revenue> 136996 </revenue>
+
+
+<epkm> 1478.8 </epkm>
+
+
+<load_factor> 63.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18209 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-68A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10737 </schkms>
+
+
+<effkms> 10737 </effkms>
+
+
+<revenue> 208279 </revenue>
+
+
+<epkm> 1939.8 </epkm>
+
+
+<load_factor> 83.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15742 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-99A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 1448 </effkms>
+
+
+<revenue> 23588 </revenue>
+
+
+<epkm> 1629.0 </epkm>
+
+
+<load_factor> 45.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 594 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-50B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 9264 </effkms>
+
+
+<revenue> 136996 </revenue>
+
+
+<epkm> 1478.8 </epkm>
+
+
+<load_factor> 63.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18209 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-68B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10737 </effkms>
+
+
+<revenue> 208279 </revenue>
+
+
+<epkm> 1939.8 </epkm>
+
+
+<load_factor> 83.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15742 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDR-99B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDR </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDR </schkms>
+
+
+<effkms> 1448 </effkms>
+
+
+<revenue> 23588 </revenue>
+
+
+<epkm> 1629.0 </epkm>
+
+
+<load_factor> 45.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 594 </passengers>
+
+</schedule>
+
+
+</buses>
+

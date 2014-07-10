@@ -1,0 +1,3672 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> HSN-1
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> NJD </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13826 </schkms>
+
+
+<effkms> 13724 </effkms>
+
+
+<revenue> 225120 </revenue>
+
+
+<epkm> 1640.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-2
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12028 </schkms>
+
+
+<effkms> 12028 </effkms>
+
+
+<revenue> 223189 </revenue>
+
+
+<epkm> 1855.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-3
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13950 </schkms>
+
+
+<effkms> 13836 </effkms>
+
+
+<revenue> 246236 </revenue>
+
+
+<epkm> 1779.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-4
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SVR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9083 </schkms>
+
+
+<effkms> 9083 </effkms>
+
+
+<revenue> 134334 </revenue>
+
+
+<epkm> 1479.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-5
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11966 </schkms>
+
+
+<effkms> 11940 </effkms>
+
+
+<revenue> 228990 </revenue>
+
+
+<epkm> 1917.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 59.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-6
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DGA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8401 </schkms>
+
+
+<effkms> 8401 </effkms>
+
+
+<revenue> 99729 </revenue>
+
+
+<epkm> 1187.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 55.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-7
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8370 </schkms>
+
+
+<effkms> 8370 </effkms>
+
+
+<revenue> 116236 </revenue>
+
+
+<epkm> 1388.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-8
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> MDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14880 </schkms>
+
+
+<effkms> 14880 </effkms>
+
+
+<revenue> 251507 </revenue>
+
+
+<epkm> 1690.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-9
+
+</id><start_station> MDG </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14880 </schkms>
+
+
+<effkms> 14689 </effkms>
+
+
+<revenue> 220670 </revenue>
+
+
+<epkm> 1502.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-10
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10920 </schkms>
+
+
+<effkms> 10738 </effkms>
+
+
+<revenue> 200075 </revenue>
+
+
+<epkm> 1863.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-11
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11656 </schkms>
+
+
+<effkms> 11656 </effkms>
+
+
+<revenue> 220202 </revenue>
+
+
+<epkm> 1889.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-12
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11656 </schkms>
+
+
+<effkms> 11656 </effkms>
+
+
+<revenue> 188179 </revenue>
+
+
+<epkm> 1614.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-13
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> NRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11470 </schkms>
+
+
+<effkms> 11470 </effkms>
+
+
+<revenue> 228461 </revenue>
+
+
+<epkm> 1991.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 62.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-14
+
+</id><start_station> NRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11470 </schkms>
+
+
+<effkms> 11470 </effkms>
+
+
+<revenue> 201984 </revenue>
+
+
+<epkm> 1761.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-15
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13392 </schkms>
+
+
+<effkms> 13392 </effkms>
+
+
+<revenue> 216039 </revenue>
+
+
+<epkm> 1613.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-16
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DTH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9269 </schkms>
+
+
+<effkms> 9269 </effkms>
+
+
+<revenue> 121584 </revenue>
+
+
+<epkm> 1311.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 61.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-17
+
+</id><start_station> DTH </start_station>
+
+
+<end_station> CPR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9331 </schkms>
+
+
+<effkms> 9313 </effkms>
+
+
+<revenue> 108057 </revenue>
+
+
+<epkm> 1160.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-18
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 16244 </schkms>
+
+
+<effkms> 15794 </effkms>
+
+
+<revenue> 283227 </revenue>
+
+
+<epkm> 1793.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-19
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 16244 </schkms>
+
+
+<effkms> 15720 </effkms>
+
+
+<revenue> 243531 </revenue>
+
+
+<epkm> 1549.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-20
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14043 </schkms>
+
+
+<effkms> 14043 </effkms>
+
+
+<revenue> 277102 </revenue>
+
+
+<epkm> 1973.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 61.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-22
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9393 </schkms>
+
+
+<effkms> 9393 </effkms>
+
+
+<revenue> 191477 </revenue>
+
+
+<epkm> 2038.5 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 63.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-23
+
+</id><start_station> OOTY </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9393 </schkms>
+
+
+<effkms> 9393 </effkms>
+
+
+<revenue> 169505 </revenue>
+
+
+<epkm> 1804.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 56.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-24
+
+</id><start_station> STS </start_station>
+
+
+<end_station> GDS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9548 </schkms>
+
+
+<effkms> 9548 </effkms>
+
+
+<revenue> 110064 </revenue>
+
+
+<epkm> 1152.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 36.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-25
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> NLO </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 5369 </schkms>
+
+
+<effkms> 5287 </effkms>
+
+
+<revenue> 86154 </revenue>
+
+
+<epkm> 1629.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-26
+
+</id><start_station> BBM </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 5369 </schkms>
+
+
+<effkms> 5369 </effkms>
+
+
+<revenue> 78029 </revenue>
+
+
+<epkm> 1453.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 45.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-27
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 3850 </schkms>
+
+
+<effkms> 3850 </effkms>
+
+
+<revenue> 49842 </revenue>
+
+
+<epkm> 1294.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 40.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-28
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11275 </schkms>
+
+
+<effkms> 11275 </effkms>
+
+
+<revenue> 174153 </revenue>
+
+
+<epkm> 1544.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-29
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11275 </schkms>
+
+
+<effkms> 11275 </effkms>
+
+
+<revenue> 144879 </revenue>
+
+
+<epkm> 1285.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 40.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-30
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12028 </schkms>
+
+
+<effkms> 12028 </effkms>
+
+
+<revenue> 200721 </revenue>
+
+
+<epkm> 1668.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-31
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10571 </schkms>
+
+
+<effkms> 10349 </effkms>
+
+
+<revenue> 165902 </revenue>
+
+
+<epkm> 1603.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-32
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12803 </schkms>
+
+
+<effkms> 12763 </effkms>
+
+
+<revenue> 242812 </revenue>
+
+
+<epkm> 1902.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 59.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-33
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12803 </schkms>
+
+
+<effkms> 12687 </effkms>
+
+
+<revenue> 193819 </revenue>
+
+
+<epkm> 1527.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-34
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HHT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7967 </schkms>
+
+
+<effkms> 7967 </effkms>
+
+
+<revenue> 105695 </revenue>
+
+
+<epkm> 1326.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-35
+
+</id><start_station> HHT </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6975 </schkms>
+
+
+<effkms> 6975 </effkms>
+
+
+<revenue> 101384 </revenue>
+
+
+<epkm> 1453.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 68.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-36
+
+</id><start_station> SVR </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9083 </schkms>
+
+
+<effkms> 9083 </effkms>
+
+
+<revenue> 121570 </revenue>
+
+
+<epkm> 1338.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-38
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8990 </schkms>
+
+
+<effkms> 8990 </effkms>
+
+
+<revenue> 108734 </revenue>
+
+
+<epkm> 1209.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-39
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9796 </schkms>
+
+
+<effkms> 9796 </effkms>
+
+
+<revenue> 148223 </revenue>
+
+
+<epkm> 1513.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-40
+
+</id><start_station> SBG </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8711 </schkms>
+
+
+<effkms> 8711 </effkms>
+
+
+<revenue> 132035 </revenue>
+
+
+<epkm> 1515.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-41
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8773 </schkms>
+
+
+<effkms> 8559 </effkms>
+
+
+<revenue> 99910 </revenue>
+
+
+<epkm> 1167.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-42
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8680 </schkms>
+
+
+<effkms> 8680 </effkms>
+
+
+<revenue> 128289 </revenue>
+
+
+<epkm> 1478.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-43
+
+</id><start_station> KBL </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8618 </schkms>
+
+
+<effkms> 8570 </effkms>
+
+
+<revenue> 111064 </revenue>
+
+
+<epkm> 1296.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-45
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14725 </schkms>
+
+
+<effkms> 14659 </effkms>
+
+
+<revenue> 246293 </revenue>
+
+
+<epkm> 1680.1 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-46
+
+</id><start_station> CKM </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14725 </schkms>
+
+
+<effkms> 14659 </effkms>
+
+
+<revenue> 211036 </revenue>
+
+
+<epkm> 1439.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 44.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-47
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12059 </schkms>
+
+
+<effkms> 11999 </effkms>
+
+
+<revenue> 183334 </revenue>
+
+
+<epkm> 1527.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-48
+
+</id><start_station> GDS </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9269 </schkms>
+
+
+<effkms> 9269 </effkms>
+
+
+<revenue> 71988 </revenue>
+
+
+<epkm> 776.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 36.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-50
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9982 </schkms>
+
+
+<effkms> 9970 </effkms>
+
+
+<revenue> 128591 </revenue>
+
+
+<epkm> 1289.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-51
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BAGIWALU </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9455 </schkms>
+
+
+<effkms> 9455 </effkms>
+
+
+<revenue> 118196 </revenue>
+
+
+<epkm> 1250.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-52
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13578 </schkms>
+
+
+<effkms> 13578 </effkms>
+
+
+<revenue> 214678 </revenue>
+
+
+<epkm> 1581.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 49.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-54
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> NAVL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8990 </schkms>
+
+
+<effkms> 8721 </effkms>
+
+
+<revenue> 86001 </revenue>
+
+
+<epkm> 986.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-55
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> GRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13826 </schkms>
+
+
+<effkms> 13826 </effkms>
+
+
+<revenue> 201971 </revenue>
+
+
+<epkm> 1460.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 68.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-56
+
+</id><start_station> DGA </start_station>
+
+
+<end_station> DBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8277 </schkms>
+
+
+<effkms> 8277 </effkms>
+
+
+<revenue> 85129 </revenue>
+
+
+<epkm> 1028.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-57
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9269 </schkms>
+
+
+<effkms> 9241 </effkms>
+
+
+<revenue> 135320 </revenue>
+
+
+<epkm> 1464.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 68.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-58
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DGA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8525 </schkms>
+
+
+<effkms> 8371 </effkms>
+
+
+<revenue> 108533 </revenue>
+
+
+<epkm> 1296.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-59
+
+</id><start_station> DGA </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8649 </schkms>
+
+
+<effkms> 8649 </effkms>
+
+
+<revenue> 102548 </revenue>
+
+
+<epkm> 1185.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 55.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-60
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8556 </schkms>
+
+
+<effkms> 8508 </effkms>
+
+
+<revenue> 114678 </revenue>
+
+
+<epkm> 1347.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-61
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13826 </schkms>
+
+
+<effkms> 13652 </effkms>
+
+
+<revenue> 228308 </revenue>
+
+
+<epkm> 1672.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-62
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6600 </schkms>
+
+
+<effkms> 6220 </effkms>
+
+
+<revenue> 50012 </revenue>
+
+
+<epkm> 804.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 37.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-63
+
+</id><start_station> NGH </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6852 </schkms>
+
+
+<effkms> 6702 </effkms>
+
+
+<revenue> 48851 </revenue>
+
+
+<epkm> 728.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 34.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-64
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9207 </schkms>
+
+
+<effkms> 9207 </effkms>
+
+
+<revenue> 132813 </revenue>
+
+
+<epkm> 1442.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-65
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BDN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7874 </schkms>
+
+
+<effkms> 7496 </effkms>
+
+
+<revenue> 78850 </revenue>
+
+
+<epkm> 1051.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 49.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-66
+
+</id><start_station> BDN </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8060 </schkms>
+
+
+<effkms> 8060 </effkms>
+
+
+<revenue> 79302 </revenue>
+
+
+<epkm> 983.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-67
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 11284 </schkms>
+
+
+<effkms> 11284 </effkms>
+
+
+<revenue> 204898 </revenue>
+
+
+<epkm> 1815.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 84.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-68
+
+</id><start_station> MLI </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8370 </schkms>
+
+
+<effkms> 8276 </effkms>
+
+
+<revenue> 86221 </revenue>
+
+
+<epkm> 1041.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-69
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9393 </schkms>
+
+
+<effkms> 9343 </effkms>
+
+
+<revenue> 147109 </revenue>
+
+
+<epkm> 1574.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 73.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-70
+
+</id><start_station> SKP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13950 </schkms>
+
+
+<effkms> 13909 </effkms>
+
+
+<revenue> 209099 </revenue>
+
+
+<epkm> 1503.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-72
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8990 </schkms>
+
+
+<effkms> 8832 </effkms>
+
+
+<revenue> 120383 </revenue>
+
+
+<epkm> 1363.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-73
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9083 </schkms>
+
+
+<effkms> 8972 </effkms>
+
+
+<revenue> 146719 </revenue>
+
+
+<epkm> 1635.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-74
+
+</id><start_station> BGU </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8649 </schkms>
+
+
+<effkms> 8649 </effkms>
+
+
+<revenue> 100618 </revenue>
+
+
+<epkm> 1163.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-75
+
+</id><start_station> SBG </start_station>
+
+
+<end_station> KKR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6665 </schkms>
+
+
+<effkms> 6635 </effkms>
+
+
+<revenue> 83338 </revenue>
+
+
+<epkm> 1256.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-76
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> MKIUDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9300 </schkms>
+
+
+<effkms> 8974 </effkms>
+
+
+<revenue> 97077 </revenue>
+
+
+<epkm> 1081.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-77
+
+</id><start_station> KMB </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9021 </schkms>
+
+
+<effkms> 8813 </effkms>
+
+
+<revenue> 126878 </revenue>
+
+
+<epkm> 1439.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-78
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7688 </schkms>
+
+
+<effkms> 7269 </effkms>
+
+
+<revenue> 71885 </revenue>
+
+
+<epkm> 988.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-79
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10602 </schkms>
+
+
+<effkms> 10576 </effkms>
+
+
+<revenue> 179171 </revenue>
+
+
+<epkm> 1694.1 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-80
+
+</id><start_station> NBH </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 8556 </schkms>
+
+
+<effkms> 7773 </effkms>
+
+
+<revenue> 67877 </revenue>
+
+
+<epkm> 873.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 27.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-81
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12524 </schkms>
+
+
+<effkms> 12484 </effkms>
+
+
+<revenue> 232331 </revenue>
+
+
+<epkm> 1861.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-82
+
+</id><start_station> VLH </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7905 </schkms>
+
+
+<effkms> 7905 </effkms>
+
+
+<revenue> 82086 </revenue>
+
+
+<epkm> 1038.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-83
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7161 </schkms>
+
+
+<effkms> 6941 </effkms>
+
+
+<revenue> 56542 </revenue>
+
+
+<epkm> 814.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 38.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-84
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12524 </schkms>
+
+
+<effkms> 12376 </effkms>
+
+
+<revenue> 202796 </revenue>
+
+
+<epkm> 1638.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-85
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12152 </schkms>
+
+
+<effkms> 12152 </effkms>
+
+
+<revenue> 238322 </revenue>
+
+
+<epkm> 1961.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 61.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-86
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HHP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8835 </schkms>
+
+
+<effkms> 8835 </effkms>
+
+
+<revenue> 121745 </revenue>
+
+
+<epkm> 1378.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-87
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> DKC </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8494 </schkms>
+
+
+<effkms> 8402 </effkms>
+
+
+<revenue> 107251 </revenue>
+
+
+<epkm> 1276.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-89
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11315 </schkms>
+
+
+<effkms> 11315 </effkms>
+
+
+<revenue> 193536 </revenue>
+
+
+<epkm> 1710.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-90
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11284 </schkms>
+
+
+<effkms> 11284 </effkms>
+
+
+<revenue> 211939 </revenue>
+
+
+<epkm> 1878.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-91
+
+</id><start_station> NUL </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7533 </schkms>
+
+
+<effkms> 7533 </effkms>
+
+
+<revenue> 85173 </revenue>
+
+
+<epkm> 1130.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-92
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13950 </schkms>
+
+
+<effkms> 13694 </effkms>
+
+
+<revenue> 245031 </revenue>
+
+
+<epkm> 1789.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-93
+
+</id><start_station> SKP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13950 </schkms>
+
+
+<effkms> 13797 </effkms>
+
+
+<revenue> 206293 </revenue>
+
+
+<epkm> 1495.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-94
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9951 </schkms>
+
+
+<effkms> 9607 </effkms>
+
+
+<revenue> 143984 </revenue>
+
+
+<epkm> 1498.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-95
+
+</id><start_station> BKD </start_station>
+
+
+<end_station> ARS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9579 </schkms>
+
+
+<effkms> 9471 </effkms>
+
+
+<revenue> 115493 </revenue>
+
+
+<epkm> 1219.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-96
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> SBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7800 </schkms>
+
+
+<effkms> 7800 </effkms>
+
+
+<revenue> 127950 </revenue>
+
+
+<epkm> 1640.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-97
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8060 </schkms>
+
+
+<effkms> 8060 </effkms>
+
+
+<revenue> 122116 </revenue>
+
+
+<epkm> 1515.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-98
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14725 </schkms>
+
+
+<effkms> 14725 </effkms>
+
+
+<revenue> 270247 </revenue>
+
+
+<epkm> 1835.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-99
+
+</id><start_station> CKM </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14725 </schkms>
+
+
+<effkms> 14725 </effkms>
+
+
+<revenue> 227095 </revenue>
+
+
+<epkm> 1542.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-102
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6944 </schkms>
+
+
+<effkms> 6918 </effkms>
+
+
+<revenue> 70588 </revenue>
+
+
+<epkm> 1020.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-103
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> VLH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13888 </schkms>
+
+
+<effkms> 13804 </effkms>
+
+
+<revenue> 241340 </revenue>
+
+
+<epkm> 1748.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-104
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14074 </schkms>
+
+
+<effkms> 14074 </effkms>
+
+
+<revenue> 245517 </revenue>
+
+
+<epkm> 1744.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-105
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14074 </schkms>
+
+
+<effkms> 14074 </effkms>
+
+
+<revenue> 207351 </revenue>
+
+
+<epkm> 1473.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-106
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12958 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 261043 </revenue>
+
+
+<epkm> 2014.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 62.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-107
+
+</id><start_station> HSN </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12958 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 223504 </revenue>
+
+
+<epkm> 1724.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-108
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8866 </schkms>
+
+
+<effkms> 8814 </effkms>
+
+
+<revenue> 96413 </revenue>
+
+
+<epkm> 1093.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-109
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13330 </schkms>
+
+
+<effkms> 13330 </effkms>
+
+
+<revenue> 239538 </revenue>
+
+
+<epkm> 1797.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 56.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-110
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 15004 </schkms>
+
+
+<effkms> 15004 </effkms>
+
+
+<revenue> 262445 </revenue>
+
+
+<epkm> 1749.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-111
+
+</id><start_station> HSN </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 15004 </schkms>
+
+
+<effkms> 15004 </effkms>
+
+
+<revenue> 224493 </revenue>
+
+
+<epkm> 1496.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-112
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14074 </schkms>
+
+
+<effkms> 14074 </effkms>
+
+
+<revenue> 270004 </revenue>
+
+
+<epkm> 1918.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 59.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-113
+
+</id><start_station> KSH </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14074 </schkms>
+
+
+<effkms> 14074 </effkms>
+
+
+<revenue> 231973 </revenue>
+
+
+<epkm> 1648.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-114
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14136 </schkms>
+
+
+<effkms> 14062 </effkms>
+
+
+<revenue> 244041 </revenue>
+
+
+<epkm> 1735.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-115
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11160 </schkms>
+
+
+<effkms> 11160 </effkms>
+
+
+<revenue> 191747 </revenue>
+
+
+<epkm> 1718.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-116
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> KMBL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13392 </schkms>
+
+
+<effkms> 13102 </effkms>
+
+
+<revenue> 146599 </revenue>
+
+
+<epkm> 1118.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-118
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BELUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13888 </schkms>
+
+
+<effkms> 13473 </effkms>
+
+
+<revenue> 258439 </revenue>
+
+
+<epkm> 1918.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 89.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-119
+
+</id><start_station> BELUR </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13888 </schkms>
+
+
+<effkms> 13473 </effkms>
+
+
+<revenue> 223665 </revenue>
+
+
+<epkm> 1660.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-120
+
+</id><start_station> CRP </start_station>
+
+
+<end_station> BELUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13888 </schkms>
+
+
+<effkms> 13849 </effkms>
+
+
+<revenue> 257135 </revenue>
+
+
+<epkm> 1856.7044551953 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 86.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule><id> HSN-121
+
+</id><start_station> BELUR </start_station>
+
+
+<end_station> CRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 13888 </schkms>
+
+
+<effkms> 13812 </effkms>
+
+
+<revenue> 218905 </revenue>
+
+
+<epkm> 1584.8899507675 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 74.1 </load_factor>
+
+</schedule>
+
+
+</buses>
+

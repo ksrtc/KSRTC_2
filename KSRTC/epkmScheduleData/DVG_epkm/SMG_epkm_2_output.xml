@@ -1,0 +1,3987 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> SMG 1A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 413 </schkms>
+
+
+<effkms> 12803 </effkms>
+
+
+<revenue> 365311 </revenue>
+
+
+<passengers> 6143 </passengers>
+
+
+<epkm> 2853.3 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 77.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 1B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 413 </schkms>
+
+
+<effkms> 12803 </effkms>
+
+
+<revenue> 365311 </revenue>
+
+
+<passengers> 6143 </passengers>
+
+
+<epkm> 2853.3 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 77.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 2
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 537 </schkms>
+
+
+<effkms> 15416 </effkms>
+
+
+<revenue> 336653 </revenue>
+
+
+<passengers> 6010 </passengers>
+
+
+<epkm> 2183.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 3
+
+
+
+
+</id><start_station> TPT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 537 </schkms>
+
+
+<effkms> 15417 </effkms>
+
+
+<revenue> 290271 </revenue>
+
+
+<passengers> 6010 </passengers>
+
+
+<epkm> 1882.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 4
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 537 </schkms>
+
+
+<effkms> 16632 </effkms>
+
+
+<revenue> 565757 </revenue>
+
+
+<passengers> 1636 </passengers>
+
+
+<epkm> 3401.6 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 52.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 5
+
+
+
+
+</id><start_station> TPT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 537 </schkms>
+
+
+<effkms> 16631 </effkms>
+
+
+<revenue> 647305 </revenue>
+
+
+<passengers> 1636 </passengers>
+
+
+<epkm> 3892.2 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 60.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 6
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> TVM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15020 </effkms>
+
+
+<revenue> 495640 </revenue>
+
+
+<passengers> 2879 </passengers>
+
+
+<epkm> 3299.9 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 89.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 7
+
+
+
+
+</id><start_station> TVM </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15019 </effkms>
+
+
+<revenue> 372145 </revenue>
+
+
+<passengers> 2879 </passengers>
+
+
+<epkm> 2477.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 67.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 8
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> TVM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14535 </effkms>
+
+
+<revenue> 420664 </revenue>
+
+
+<passengers> 3898 </passengers>
+
+
+<epkm> 2894.1 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 78.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 9
+
+
+
+
+</id><start_station> TVM </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14535 </effkms>
+
+
+<revenue> 286968 </revenue>
+
+
+<passengers> 3898 </passengers>
+
+
+<epkm> 1974.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 10A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16413 </effkms>
+
+
+<revenue> 348342 </revenue>
+
+
+<passengers> 6203 </passengers>
+
+
+<epkm> 2122.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 10B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16413 </effkms>
+
+
+<revenue> 348342 </revenue>
+
+
+<passengers> 6203 </passengers>
+
+
+<epkm> 2122.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 11A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17730 </effkms>
+
+
+<revenue> 405807 </revenue>
+
+
+<passengers> 8284 </passengers>
+
+
+<epkm> 2288.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 11B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17730 </effkms>
+
+
+<revenue> 405807 </revenue>
+
+
+<passengers> 8284 </passengers>
+
+
+<epkm> 2288.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 12A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 381756 </revenue>
+
+
+<passengers> 9591 </passengers>
+
+
+<epkm> 2284.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 12B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 381756 </revenue>
+
+
+<passengers> 9591 </passengers>
+
+
+<epkm> 2284.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 13A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16187 </effkms>
+
+
+<revenue> 325214 </revenue>
+
+
+<passengers> 6921 </passengers>
+
+
+<epkm> 2009.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 13B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16187 </effkms>
+
+
+<revenue> 325214 </revenue>
+
+
+<passengers> 6921 </passengers>
+
+
+<epkm> 2009.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 14A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16153 </effkms>
+
+
+<revenue> 405029 </revenue>
+
+
+<passengers> 8566 </passengers>
+
+
+<epkm> 2507.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 68.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 14B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16153 </effkms>
+
+
+<revenue> 405029 </revenue>
+
+
+<passengers> 8566 </passengers>
+
+
+<epkm> 2507.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 68.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 15A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 15039 </effkms>
+
+
+<revenue> 320019 </revenue>
+
+
+<passengers> 7001 </passengers>
+
+
+<epkm> 2127.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 15B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 15039 </effkms>
+
+
+<revenue> 320019 </revenue>
+
+
+<passengers> 7001 </passengers>
+
+
+<epkm> 2127.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 16A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 15039 </effkms>
+
+
+<revenue> 310836 </revenue>
+
+
+<passengers> 6217 </passengers>
+
+
+<epkm> 2066.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 16B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 15039 </effkms>
+
+
+<revenue> 310836 </revenue>
+
+
+<passengers> 6217 </passengers>
+
+
+<epkm> 2066.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 17A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 366526 </revenue>
+
+
+<passengers> 6355 </passengers>
+
+
+<epkm> 2122.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 17B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 366526 </revenue>
+
+
+<passengers> 6355 </passengers>
+
+
+<epkm> 2122.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 18A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17262 </effkms>
+
+
+<revenue> 342690 </revenue>
+
+
+<passengers> 5918 </passengers>
+
+
+<epkm> 1985.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 18B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17262 </effkms>
+
+
+<revenue> 342690 </revenue>
+
+
+<passengers> 5918 </passengers>
+
+
+<epkm> 1985.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 20A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 278390 </revenue>
+
+
+<passengers> 5252 </passengers>
+
+
+<epkm> 1612.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 43.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 20B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 278390 </revenue>
+
+
+<passengers> 5252 </passengers>
+
+
+<epkm> 1612.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 43.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 22A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 352223 </revenue>
+
+
+<passengers> 7385 </passengers>
+
+
+<epkm> 2107.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 22B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 352223 </revenue>
+
+
+<passengers> 7385 </passengers>
+
+
+<epkm> 2107.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 24A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 369962 </revenue>
+
+
+<passengers> 8191 </passengers>
+
+
+<epkm> 2214.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 25A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16611 </effkms>
+
+
+<revenue> 335781 </revenue>
+
+
+<passengers> 8707 </passengers>
+
+
+<epkm> 2021.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 28A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16153 </effkms>
+
+
+<revenue> 356125 </revenue>
+
+
+<passengers> 8006 </passengers>
+
+
+<epkm> 2204.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 24B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16710 </effkms>
+
+
+<revenue> 369962 </revenue>
+
+
+<passengers> 8191 </passengers>
+
+
+<epkm> 2214.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 25B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16611 </effkms>
+
+
+<revenue> 335781 </revenue>
+
+
+<passengers> 8707 </passengers>
+
+
+<epkm> 2021.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 28B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16153 </effkms>
+
+
+<revenue> 356125 </revenue>
+
+
+<passengers> 8006 </passengers>
+
+
+<epkm> 2204.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 31A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16319 </effkms>
+
+
+<revenue> 336400 </revenue>
+
+
+<passengers> 5327 </passengers>
+
+
+<epkm> 2061.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 33A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 366308 </revenue>
+
+
+<passengers> 5608 </passengers>
+
+
+<epkm> 2121.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 31B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16319 </effkms>
+
+
+<revenue> 336400 </revenue>
+
+
+<passengers> 5327 </passengers>
+
+
+<epkm> 2061.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 33B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 366308 </revenue>
+
+
+<passengers> 5608 </passengers>
+
+
+<epkm> 2121.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 35
+
+
+
+
+</id><start_station> OOTY </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 407 </schkms>
+
+
+<effkms> 12031 </effkms>
+
+
+<revenue> 299366 </revenue>
+
+
+<passengers> 6417 </passengers>
+
+
+<epkm> 2488.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 67.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 37
+
+
+
+
+</id><start_station> CMBR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 453 </schkms>
+
+
+<effkms> 14027 </effkms>
+
+
+<revenue> 337724 </revenue>
+
+
+<passengers> 4760 </passengers>
+
+
+<epkm> 2407.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 65.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 39
+
+
+
+
+</id><start_station> MLDSH </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 423 </schkms>
+
+
+<effkms> 12833 </effkms>
+
+
+<revenue> 270829 </revenue>
+
+
+<passengers> 10042 </passengers>
+
+
+<epkm> 2110.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 41A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 301176 </revenue>
+
+
+<passengers> 5720 </passengers>
+
+
+<epkm> 2069.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 42A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 307357 </revenue>
+
+
+<passengers> 6418 </passengers>
+
+
+<epkm> 2112.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 43A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15035 </effkms>
+
+
+<revenue> 327837 </revenue>
+
+
+<passengers> 7017 </passengers>
+
+
+<epkm> 2180.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 41B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 301176 </revenue>
+
+
+<passengers> 5720 </passengers>
+
+
+<epkm> 2069.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 42B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 307357 </revenue>
+
+
+<passengers> 6418 </passengers>
+
+
+<epkm> 2112.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 43B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15035 </effkms>
+
+
+<revenue> 327837 </revenue>
+
+
+<passengers> 7017 </passengers>
+
+
+<epkm> 2180.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 48
+
+
+
+
+</id><start_station> HBD </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 614 </schkms>
+
+
+<effkms> 19034 </effkms>
+
+
+<revenue> 739672 </revenue>
+
+
+<passengers> 1299 </passengers>
+
+
+<epkm> 3886.1 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 60.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 49
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> PNJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 398 </schkms>
+
+
+<effkms> 12433 </effkms>
+
+
+<revenue> 359896 </revenue>
+
+
+<passengers> 5801 </passengers>
+
+
+<epkm> 2894.7 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 78.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 50
+
+
+
+
+</id><start_station> PNJ </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 398 </schkms>
+
+
+<effkms> 12434 </effkms>
+
+
+<revenue> 293496 </revenue>
+
+
+<passengers> 5801 </passengers>
+
+
+<epkm> 2360.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 51
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 13024 </effkms>
+
+
+<revenue> 298864 </revenue>
+
+
+<passengers> 11885 </passengers>
+
+
+<epkm> 2294.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 106.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 52
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12370 </effkms>
+
+
+<revenue> 235641 </revenue>
+
+
+<passengers> 10083 </passengers>
+
+
+<epkm> 1904.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 88.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 53
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 13233 </effkms>
+
+
+<revenue> 257142 </revenue>
+
+
+<passengers> 10873 </passengers>
+
+
+<epkm> 1943.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 90.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 54
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 13020 </effkms>
+
+
+<revenue> 283906 </revenue>
+
+
+<passengers> 11125 </passengers>
+
+
+<epkm> 2180.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 101.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 55
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7100 </effkms>
+
+
+<revenue> 121776 </revenue>
+
+
+<passengers> 20657 </passengers>
+
+
+<epkm> 1715.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 56
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 236 </schkms>
+
+
+<effkms> 7032 </effkms>
+
+
+<revenue> 123273 </revenue>
+
+
+<passengers> 22418 </passengers>
+
+
+<epkm> 1753.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 57A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9791 </effkms>
+
+
+<revenue> 167783 </revenue>
+
+
+<passengers> 22221 </passengers>
+
+
+<epkm> 1713.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 57B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9791 </effkms>
+
+
+<revenue> 167783 </revenue>
+
+
+<passengers> 22221 </passengers>
+
+
+<epkm> 1713.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 58
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 234 </schkms>
+
+
+<effkms> 6475 </effkms>
+
+
+<revenue> 113709 </revenue>
+
+
+<passengers> 14506 </passengers>
+
+
+<epkm> 1756.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 59
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7237 </effkms>
+
+
+<revenue> 116102 </revenue>
+
+
+<passengers> 18072 </passengers>
+
+
+<epkm> 1604.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 74.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 60
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 7938 </effkms>
+
+
+<revenue> 100564 </revenue>
+
+
+<passengers> 12460 </passengers>
+
+
+<epkm> 1266.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 61
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 8387 </effkms>
+
+
+<revenue> 114129 </revenue>
+
+
+<passengers> 11254 </passengers>
+
+
+<epkm> 1360.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 62
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 253 </schkms>
+
+
+<effkms> 7665 </effkms>
+
+
+<revenue> 86685 </revenue>
+
+
+<passengers> 13909 </passengers>
+
+
+<epkm> 1130.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 63
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 286 </schkms>
+
+
+<effkms> 8508 </effkms>
+
+
+<revenue> 110691 </revenue>
+
+
+<passengers> 10685 </passengers>
+
+
+<epkm> 1301.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 64
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8012 </effkms>
+
+
+<revenue> 79828 </revenue>
+
+
+<passengers> 12460 </passengers>
+
+
+<epkm> 996.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 65B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MSTIK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7576 </effkms>
+
+
+<revenue> 77120 </revenue>
+
+
+<passengers> 6980 </passengers>
+
+
+<epkm> 1018.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 65A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MSTIK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7576 </effkms>
+
+
+<revenue> 77120 </revenue>
+
+
+<passengers> 6980 </passengers>
+
+
+<epkm> 1018.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 66
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 262 </schkms>
+
+
+<effkms> 7014 </effkms>
+
+
+<revenue> 90749 </revenue>
+
+
+<passengers> 11930 </passengers>
+
+
+<epkm> 1293.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 60.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 67A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HDNL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 306 </schkms>
+
+
+<effkms> 9382 </effkms>
+
+
+<revenue> 146051 </revenue>
+
+
+<passengers> 21325 </passengers>
+
+
+<epkm> 1556.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 68A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HLUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8810 </effkms>
+
+
+<revenue> 103048 </revenue>
+
+
+<passengers> 14979 </passengers>
+
+
+<epkm> 1169.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 67B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HDNL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 306 </schkms>
+
+
+<effkms> 9382 </effkms>
+
+
+<revenue> 146051 </revenue>
+
+
+<passengers> 21325 </passengers>
+
+
+<epkm> 1556.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 68B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HLUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8810 </effkms>
+
+
+<revenue> 103048 </revenue>
+
+
+<passengers> 14979 </passengers>
+
+
+<epkm> 1169.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 54.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 69
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HNLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 253 </schkms>
+
+
+<effkms> 7046 </effkms>
+
+
+<revenue> 97180 </revenue>
+
+
+<passengers> 13909 </passengers>
+
+
+<epkm> 1379.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 70A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SHTHLI </end_station>
+
+
+<type_of_bus> CITY </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 9372 </effkms>
+
+
+<revenue> 119362 </revenue>
+
+
+<passengers> 19233 </passengers>
+
+
+<epkm> 1273.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 66.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 71A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SHTHLI </end_station>
+
+
+<type_of_bus> CITY </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7924 </effkms>
+
+
+<revenue> 104748 </revenue>
+
+
+<passengers> 17089 </passengers>
+
+
+<epkm> 1321.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 70B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SHTHLI </end_station>
+
+
+<type_of_bus> CITY </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 9372 </effkms>
+
+
+<revenue> 119362 </revenue>
+
+
+<passengers> 19233 </passengers>
+
+
+<epkm> 1273.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 66.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 71B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SHTHLI </end_station>
+
+
+<type_of_bus> CITY </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7924 </effkms>
+
+
+<revenue> 104748 </revenue>
+
+
+<passengers> 17089 </passengers>
+
+
+<epkm> 1321.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 72
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 306 </schkms>
+
+
+<effkms> 8388 </effkms>
+
+
+<revenue> 142609 </revenue>
+
+
+<passengers> 14058 </passengers>
+
+
+<epkm> 1700.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 75
+
+
+
+
+</id><start_station> CHNI </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 641 </schkms>
+
+
+<effkms> 19871 </effkms>
+
+
+<revenue> 808263 </revenue>
+
+
+<passengers> 1706 </passengers>
+
+
+<epkm> 4067.6 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 63.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 76
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HSP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 13140 </effkms>
+
+
+<revenue> 283748 </revenue>
+
+
+<passengers> 10494 </passengers>
+
+
+<epkm> 2159.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 77
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 352 </schkms>
+
+
+<effkms> 9831 </effkms>
+
+
+<revenue> 211364 </revenue>
+
+
+<passengers> 8168 </passengers>
+
+
+<epkm> 2150.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 78
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 352 </schkms>
+
+
+<effkms> 10413 </effkms>
+
+
+<revenue> 254094 </revenue>
+
+
+<passengers> 5671 </passengers>
+
+
+<epkm> 2440.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 66.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 79A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SKPR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 392 </schkms>
+
+
+<effkms> 12008 </effkms>
+
+
+<revenue> 147529 </revenue>
+
+
+<passengers> 9319 </passengers>
+
+
+<epkm> 1228.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 33.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 79B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> SKPR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 392 </schkms>
+
+
+<effkms> 12008 </effkms>
+
+
+<revenue> 147529 </revenue>
+
+
+<passengers> 9319 </passengers>
+
+
+<epkm> 1228.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 33.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 86
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> PNJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 398 </schkms>
+
+
+<effkms> 12036 </effkms>
+
+
+<revenue> 264398 </revenue>
+
+
+<passengers> 6084 </passengers>
+
+
+<epkm> 2196.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 59.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 87
+
+
+
+
+</id><start_station> PNJ </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 398 </schkms>
+
+
+<effkms> 12037 </effkms>
+
+
+<revenue> 292957 </revenue>
+
+
+<passengers> 6084 </passengers>
+
+
+<epkm> 2433.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 66.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 88
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> HSP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 10620 </effkms>
+
+
+<revenue> 201059 </revenue>
+
+
+<passengers> 7372 </passengers>
+
+
+<epkm> 1893.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 89
+
+
+
+
+</id><start_station> HSP </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 10620 </effkms>
+
+
+<revenue> 206195 </revenue>
+
+
+<passengers> 7372 </passengers>
+
+
+<epkm> 1941.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 98
+
+
+
+
+</id><start_station> SDLG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12788 </effkms>
+
+
+<revenue> 248668 </revenue>
+
+
+<passengers> 9513 </passengers>
+
+
+<epkm> 1944.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 101
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 352 </schkms>
+
+
+<effkms> 10537 </effkms>
+
+
+<revenue> 204838 </revenue>
+
+
+<passengers> 7454 </passengers>
+
+
+<epkm> 1944.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 102A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 696608 </revenue>
+
+
+<passengers> 2073 </passengers>
+
+
+<epkm> 4034.3 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 62.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 103A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16989 </effkms>
+
+
+<revenue> 604471 </revenue>
+
+
+<passengers> 2324 </passengers>
+
+
+<epkm> 3558.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 55.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 104A
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16632 </effkms>
+
+
+<revenue> 638173 </revenue>
+
+
+<passengers> 1858 </passengers>
+
+
+<epkm> 3837.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 59.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 102B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 17267 </effkms>
+
+
+<revenue> 696608 </revenue>
+
+
+<passengers> 2073 </passengers>
+
+
+<epkm> 4034.3 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 62.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 103B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16989 </effkms>
+
+
+<revenue> 604471 </revenue>
+
+
+<passengers> 2324 </passengers>
+
+
+<epkm> 3558.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 55.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 104B
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 557 </schkms>
+
+
+<effkms> 16632 </effkms>
+
+
+<revenue> 638173 </revenue>
+
+
+<passengers> 1858 </passengers>
+
+
+<epkm> 3837.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 59.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 105
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MUMBAI </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 805 </schkms>
+
+
+<effkms> 24851 </effkms>
+
+
+<revenue> 525030 </revenue>
+
+
+<passengers> 1140 </passengers>
+
+
+<epkm> 2112.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 32.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> SMG 106
+
+
+
+
+</id><start_station> MUMBAI </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> VOL </type_of_bus>
+
+
+<schkms> 805 </schkms>
+
+
+<effkms> 24851 </effkms>
+
+
+<revenue> 490823 </revenue>
+
+
+<passengers> 1140 </passengers>
+
+
+<epkm> 1975.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 30.7 </load_factor>
+
+</schedule>
+
+
+</buses>
+

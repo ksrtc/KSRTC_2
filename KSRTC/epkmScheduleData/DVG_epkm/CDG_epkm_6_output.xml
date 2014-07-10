@@ -1,0 +1,3987 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> CDG 1B
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 510 </schkms>
+
+
+<effkms> 15810 </effkms>
+
+
+<revenue> 403035 </revenue>
+
+
+<passengers> 10709 </passengers>
+
+
+<epkm> 2549.2 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 69.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 1A
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 510 </schkms>
+
+
+<effkms> 15810 </effkms>
+
+
+<revenue> 403035 </revenue>
+
+
+<passengers> 10709 </passengers>
+
+
+<epkm> 2549.2 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 69.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 2A
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 510 </schkms>
+
+
+<effkms> 15810 </effkms>
+
+
+<revenue> 453859 </revenue>
+
+
+<passengers> 10201 </passengers>
+
+
+<epkm> 2870.7 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 78.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 3A
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 16800 </effkms>
+
+
+<revenue> 395101 </revenue>
+
+
+<passengers> 11623 </passengers>
+
+
+<epkm> 2351.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 2B
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 510 </schkms>
+
+
+<effkms> 15810 </effkms>
+
+
+<revenue> 453859 </revenue>
+
+
+<passengers> 10201 </passengers>
+
+
+<epkm> 2870.7 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 78.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 3B
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 16800 </effkms>
+
+
+<revenue> 395101 </revenue>
+
+
+<passengers> 11623 </passengers>
+
+
+<epkm> 2351.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 4
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 16800 </effkms>
+
+
+<revenue> 383880 </revenue>
+
+
+<passengers> 13061 </passengers>
+
+
+<epkm> 2285.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 62.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 5
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MYS_HSDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 478 </schkms>
+
+
+<effkms> 14200 </effkms>
+
+
+<revenue> 306705 </revenue>
+
+
+<passengers> 8127 </passengers>
+
+
+<epkm> 2159.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 6
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 364 </schkms>
+
+
+<effkms> 10920 </effkms>
+
+
+<revenue> 311070 </revenue>
+
+
+<passengers> 14594 </passengers>
+
+
+<epkm> 2848.6 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 77.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 7
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MTM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 385 </schkms>
+
+
+<effkms> 10010 </effkms>
+
+
+<revenue> 229218 </revenue>
+
+
+<passengers> 7360 </passengers>
+
+
+<epkm> 2289.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 62.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 8
+
+
+
+
+ </id><start_station> MTM </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 385 </schkms>
+
+
+<effkms> 10010 </effkms>
+
+
+<revenue> 176126 </revenue>
+
+
+<passengers> 7360 </passengers>
+
+
+<epkm> 1759.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 47.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 9
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 203 </schkms>
+
+
+<effkms> 105544 </effkms>
+
+
+<revenue> 6556 </revenue>
+
+
+<passengers> 74298 </passengers>
+
+
+<epkm> 1677.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 45.6  </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 10
+
+
+
+
+ </id><start_station> CDG_BNG </start_station>
+
+
+<end_station> TLJPR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 731 </schkms>
+
+
+<effkms> 22661 </effkms>
+
+
+<revenue> 580420 </revenue>
+
+
+<passengers> 6556 </passengers>
+
+
+<epkm> 2561.3 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 69.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 11
+
+
+
+
+ </id><start_station> TLJPR </start_station>
+
+
+<end_station> BNG_CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 16368 </effkms>
+
+
+<revenue> 328535 </revenue>
+
+
+<passengers> 6556 </passengers>
+
+
+<epkm> 2007.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 12
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MRJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 14784 </effkms>
+
+
+<revenue> 315722 </revenue>
+
+
+<passengers> 7350 </passengers>
+
+
+<epkm> 2135.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 13
+
+
+
+
+ </id><start_station> MRJ </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 14784 </effkms>
+
+
+<revenue> 243800 </revenue>
+
+
+<passengers> 7350 </passengers>
+
+
+<epkm> 1649.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 44.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 14
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MRJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 468 </schkms>
+
+
+<effkms> 11562 </effkms>
+
+
+<revenue> 211575 </revenue>
+
+
+<passengers> 7728 </passengers>
+
+
+<epkm> 1829.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 49.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 15
+
+
+
+
+ </id><start_station> MRJ </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 468 </schkms>
+
+
+<effkms> 11562 </effkms>
+
+
+<revenue> 190785 </revenue>
+
+
+<passengers> 7728 </passengers>
+
+
+<epkm> 1650.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 44.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 16
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> PNA </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 649 </schkms>
+
+
+<effkms> 20119 </effkms>
+
+
+<revenue> 483547 </revenue>
+
+
+<passengers> 4648 </passengers>
+
+
+<epkm> 2403.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 65.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 17
+
+
+
+
+ </id><start_station> PNA </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 649 </schkms>
+
+
+<effkms> 20119 </effkms>
+
+
+<revenue> 413969 </revenue>
+
+
+<passengers> 4648 </passengers>
+
+
+<epkm> 2057.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 55.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 18
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SRG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 510 </schkms>
+
+
+<effkms> 12530 </effkms>
+
+
+<revenue> 221691 </revenue>
+
+
+<passengers> 8945 </passengers>
+
+
+<epkm> 1769.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 48.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 19
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 16554 </effkms>
+
+
+<revenue> 439751 </revenue>
+
+
+<passengers> 9385 </passengers>
+
+
+<epkm> 2656.5 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 72.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 20
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 15966 </effkms>
+
+
+<revenue> 334937 </revenue>
+
+
+<passengers> 7247 </passengers>
+
+
+<epkm> 2097.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 21
+
+
+
+
+ </id><start_station> CDG_DVG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 16372 </effkms>
+
+
+<revenue> 375288 </revenue>
+
+
+<passengers> 6561 </passengers>
+
+
+<epkm> 2292.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 62.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 22AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 662 </schkms>
+
+
+<effkms> 19198 </effkms>
+
+
+<revenue> 386170 </revenue>
+
+
+<passengers> 8627 </passengers>
+
+
+<epkm> 2011.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 23
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 14952 </effkms>
+
+
+<revenue> 287666 </revenue>
+
+
+<passengers> 6836 </passengers>
+
+
+<epkm> 1923.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 24
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> VH </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 17088 </effkms>
+
+
+<revenue> 426169 </revenue>
+
+
+<passengers> 5550 </passengers>
+
+
+<epkm> 2494.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 66.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 25
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 15764 </effkms>
+
+
+<revenue> 380486 </revenue>
+
+
+<passengers> 7036 </passengers>
+
+
+<epkm> 2413.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 65.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 26
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 482 </schkms>
+
+
+<effkms> 13216 </effkms>
+
+
+<revenue> 284752 </revenue>
+
+
+<passengers> 6015 </passengers>
+
+
+<epkm> 2154.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 27
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 15304 </effkms>
+
+
+<revenue> 362619 </revenue>
+
+
+<passengers> 6083 </passengers>
+
+
+<epkm> 2369.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 64.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 28
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> VH </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 14418 </effkms>
+
+
+<revenue> 369680 </revenue>
+
+
+<passengers> 6064 </passengers>
+
+
+<epkm> 2564.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 68.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 29
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 534 </schkms>
+
+
+<effkms> 14140 </effkms>
+
+
+<revenue> 310841 </revenue>
+
+
+<passengers> 6172 </passengers>
+
+
+<epkm> 2198.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 59.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 30AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 662 </schkms>
+
+
+<effkms> 16550 </effkms>
+
+
+<revenue> 329949 </revenue>
+
+
+<passengers> 6680 </passengers>
+
+
+<epkm> 1993.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 31
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KRR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 507 </schkms>
+
+
+<effkms> 15717 </effkms>
+
+
+<revenue> 385080 </revenue>
+
+
+<passengers> 3024 </passengers>
+
+
+<epkm> 2450.1 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 66.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 32
+
+
+
+
+ </id><start_station> KRR </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 507 </schkms>
+
+
+<effkms> 15717 </effkms>
+
+
+<revenue> 347272 </revenue>
+
+
+<passengers> 3024 </passengers>
+
+
+<epkm> 2209.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 60.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 33
+
+
+
+
+ </id><start_station> HSD_MYS </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 478 </schkms>
+
+
+<effkms> 316516 </effkms>
+
+
+<revenue> 8127 </revenue>
+
+
+<passengers> 2207.2 </passengers>
+
+
+<epkm> B </epkm>
+
+
+<group> 60.0 </group>
+
+
+<load_factor> 41586 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 35
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KTR_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 496 </schkms>
+
+
+<effkms> 15511 </effkms>
+
+
+<revenue> 326294 </revenue>
+
+
+<passengers> 5609 </passengers>
+
+
+<epkm> 2103.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 57.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 36
+
+
+
+
+ </id><start_station> BNG_KTR </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 496 </schkms>
+
+
+<effkms> 13867 </effkms>
+
+
+<revenue> 267933 </revenue>
+
+
+<passengers> 5609 </passengers>
+
+
+<epkm> 1932.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 37
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 331 </schkms>
+
+
+<effkms> 8606 </effkms>
+
+
+<revenue> 215923 </revenue>
+
+
+<passengers> 3549 </passengers>
+
+
+<epkm> 2509.0 </epkm>
+
+
+<group> A </group>
+
+
+<load_factor> 68.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 38
+
+
+
+
+ </id><start_station> BNG_DVG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 331 </schkms>
+
+
+<effkms> 8350 </effkms>
+
+
+<revenue> 181253 </revenue>
+
+
+<passengers> 3549 </passengers>
+
+
+<epkm> 2170.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 59.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 39
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 7956 </effkms>
+
+
+<revenue> 127955 </revenue>
+
+
+<passengers> 7364 </passengers>
+
+
+<epkm> 1608.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 74.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 40
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 11776 </effkms>
+
+
+<revenue> 247628 </revenue>
+
+
+<passengers> 10136 </passengers>
+
+
+<epkm> 2102.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 97.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 41
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 10752 </effkms>
+
+
+<revenue> 196333 </revenue>
+
+
+<passengers> 10916 </passengers>
+
+
+<epkm> 1826.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 84.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 42
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 11008 </effkms>
+
+
+<revenue> 207243 </revenue>
+
+
+<passengers> 9927 </passengers>
+
+
+<epkm> 1882.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 87.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 43
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 10388 </effkms>
+
+
+<revenue> 184073 </revenue>
+
+
+<passengers> 10638 </passengers>
+
+
+<epkm> 1772.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 44
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 10624 </effkms>
+
+
+<revenue> 201191 </revenue>
+
+
+<passengers> 9287 </passengers>
+
+
+<epkm> 1893.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 88.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 46
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 11692 </effkms>
+
+
+<revenue> 210232 </revenue>
+
+
+<passengers> 7173 </passengers>
+
+
+<epkm> 1798.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 83.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 47
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12600 </effkms>
+
+
+<revenue> 251518 </revenue>
+
+
+<passengers> 8407 </passengers>
+
+
+<epkm> 1996.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 92.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 48
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12390 </effkms>
+
+
+<revenue> 256793 </revenue>
+
+
+<passengers> 10436 </passengers>
+
+
+<epkm> 2072.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 96.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 49
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12600 </effkms>
+
+
+<revenue> 256587 </revenue>
+
+
+<passengers> 10783 </passengers>
+
+
+<epkm> 2036.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 94.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 50
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 12842 </effkms>
+
+
+<revenue> 229147 </revenue>
+
+
+<passengers> 11040 </passengers>
+
+
+<epkm> 1784.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 83.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 51
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 302 </schkms>
+
+
+<effkms> 8714 </effkms>
+
+
+<revenue> 153152 </revenue>
+
+
+<passengers> 10741 </passengers>
+
+
+<epkm> 1757.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 52
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HGVD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 8512 </effkms>
+
+
+<revenue> 147446 </revenue>
+
+
+<passengers> 10400 </passengers>
+
+
+<epkm> 1732.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 80.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 53
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 350 </schkms>
+
+
+<effkms> 10218 </effkms>
+
+
+<revenue> 155071 </revenue>
+
+
+<passengers> 12128 </passengers>
+
+
+<epkm> 1517.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 54
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> VDSN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 244 </schkms>
+
+
+<effkms> 6700 </effkms>
+
+
+<revenue> 131414 </revenue>
+
+
+<passengers> 12429 </passengers>
+
+
+<epkm> 1961.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 91.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 55
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KLGT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 292 </schkms>
+
+
+<effkms> 8134 </effkms>
+
+
+<revenue> 154951 </revenue>
+
+
+<passengers> 13287 </passengers>
+
+
+<epkm> 1905.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 88.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 57
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> ASGD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 9338 </effkms>
+
+
+<revenue> 165903 </revenue>
+
+
+<passengers> 10823 </passengers>
+
+
+<epkm> 1776.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 58
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> SDKR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 7850 </effkms>
+
+
+<revenue> 152478 </revenue>
+
+
+<passengers> 9910 </passengers>
+
+
+<epkm> 1942.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 90.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 59
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KRMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 248 </schkms>
+
+
+<effkms> 6548 </effkms>
+
+
+<revenue> 99222 </revenue>
+
+
+<passengers> 7272 </passengers>
+
+
+<epkm> 1515.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 70.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 60
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> YRHL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 9936 </effkms>
+
+
+<revenue> 153153 </revenue>
+
+
+<passengers> 10732 </passengers>
+
+
+<epkm> 1541.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 61
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> TRGT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 9383 </effkms>
+
+
+<revenue> 167050 </revenue>
+
+
+<passengers> 12799 </passengers>
+
+
+<epkm> 1780.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 62
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> NYKN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8458 </effkms>
+
+
+<revenue> 142493 </revenue>
+
+
+<passengers> 10428 </passengers>
+
+
+<epkm> 1684.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 63
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> NYKN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9056 </effkms>
+
+
+<revenue> 147333 </revenue>
+
+
+<passengers> 11334 </passengers>
+
+
+<epkm> 1626.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 75.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 64
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HNMH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 326 </schkms>
+
+
+<effkms> 9160 </effkms>
+
+
+<revenue> 153553 </revenue>
+
+
+<passengers> 10232 </passengers>
+
+
+<epkm> 1676.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 65
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KKRI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 310 </schkms>
+
+
+<effkms> 8654 </effkms>
+
+
+<revenue> 157179 </revenue>
+
+
+<passengers> 11111 </passengers>
+
+
+<epkm> 1816.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 84.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 66
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> BMS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 256 </schkms>
+
+
+<effkms> 6556 </effkms>
+
+
+<revenue> 124355 </revenue>
+
+
+<passengers> 9781 </passengers>
+
+
+<epkm> 1896.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 88.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 67
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> JGLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 10074 </effkms>
+
+
+<revenue> 159969 </revenue>
+
+
+<passengers> 11726 </passengers>
+
+
+<epkm> 1587.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 73.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 68
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> JGLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 7920 </effkms>
+
+
+<revenue> 174624 </revenue>
+
+
+<passengers> 13065 </passengers>
+
+
+<epkm> 2204.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 102.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 69
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> KRMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8232 </effkms>
+
+
+<revenue> 135384 </revenue>
+
+
+<passengers> 11342 </passengers>
+
+
+<epkm> 1644.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 70
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HYR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 301 </schkms>
+
+
+<effkms> 8602 </effkms>
+
+
+<revenue> 124705 </revenue>
+
+
+<passengers> 10843 </passengers>
+
+
+<epkm> 1449.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 67.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 71
+
+
+
+
+ </id><start_station> HYR </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 287 </schkms>
+
+
+<effkms> 7855 </effkms>
+
+
+<revenue> 120892 </revenue>
+
+
+<passengers> 10843 </passengers>
+
+
+<epkm> 1539.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 72
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HYR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 330 </schkms>
+
+
+<effkms> 9182 </effkms>
+
+
+<revenue> 141717 </revenue>
+
+
+<passengers> 9579 </passengers>
+
+
+<epkm> 1543.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 73
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HYR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 285 </schkms>
+
+
+<effkms> 8375 </effkms>
+
+
+<revenue> 112683 </revenue>
+
+
+<passengers> 8942 </passengers>
+
+
+<epkm> 1345.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 74
+
+
+
+
+ </id><start_station> HYR </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 289 </schkms>
+
+
+<effkms> 8037 </effkms>
+
+
+<revenue> 110657 </revenue>
+
+
+<passengers> 8942 </passengers>
+
+
+<epkm> 1376.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 75AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HYR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 360 </schkms>
+
+
+<effkms> 10340 </effkms>
+
+
+<revenue> 137563 </revenue>
+
+
+<passengers> 13229 </passengers>
+
+
+<epkm> 1330.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 61.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 76
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8010 </effkms>
+
+
+<revenue> 114578 </revenue>
+
+
+<passengers> 10949 </passengers>
+
+
+<epkm> 1430.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 66.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 77
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8010 </effkms>
+
+
+<revenue> 109453 </revenue>
+
+
+<passengers> 10949 </passengers>
+
+
+<epkm> 1366.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 78
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 247 </schkms>
+
+
+<effkms> 6756 </effkms>
+
+
+<revenue> 110461 </revenue>
+
+
+<passengers> 11806 </passengers>
+
+
+<epkm> 1635.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 79
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 273 </schkms>
+
+
+<effkms> 7382 </effkms>
+
+
+<revenue> 110711 </revenue>
+
+
+<passengers> 11806 </passengers>
+
+
+<epkm> 1499.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 80
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 333 </schkms>
+
+
+<effkms> 8594 </effkms>
+
+
+<revenue> 137056 </revenue>
+
+
+<passengers> 10536 </passengers>
+
+
+<epkm> 1594.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 74.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 81
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 333 </schkms>
+
+
+<effkms> 8261 </effkms>
+
+
+<revenue> 129504 </revenue>
+
+
+<passengers> 10536 </passengers>
+
+
+<epkm> 1567.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 82
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9940 </effkms>
+
+
+<revenue> 166665 </revenue>
+
+
+<passengers> 10557 </passengers>
+
+
+<epkm> 1676.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 83
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 318 </schkms>
+
+
+<effkms> 9182 </effkms>
+
+
+<revenue> 162784 </revenue>
+
+
+<passengers> 10557 </passengers>
+
+
+<epkm> 1772.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 84
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 9134 </effkms>
+
+
+<revenue> 153048 </revenue>
+
+
+<passengers> 9878 </passengers>
+
+
+<epkm> 1675.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 85
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 8830 </effkms>
+
+
+<revenue> 146708 </revenue>
+
+
+<passengers> 9878 </passengers>
+
+
+<epkm> 1661.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 86
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 6770 </effkms>
+
+
+<revenue> 113629 </revenue>
+
+
+<passengers> 9885 </passengers>
+
+
+<epkm> 1678.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 87
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 5890 </effkms>
+
+
+<revenue> 98485 </revenue>
+
+
+<passengers> 9885 </passengers>
+
+
+<epkm> 1672.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 88AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 8660 </effkms>
+
+
+<revenue> 158694 </revenue>
+
+
+<passengers> 11049 </passengers>
+
+
+<epkm> 1832.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 85.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 89
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 299 </schkms>
+
+
+<effkms> 7993 </effkms>
+
+
+<revenue> 109983 </revenue>
+
+
+<passengers> 7657 </passengers>
+
+
+<epkm> 1376.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 90
+
+
+
+
+ </id><start_station> CLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 299 </schkms>
+
+
+<effkms> 7933 </effkms>
+
+
+<revenue> 104176 </revenue>
+
+
+<passengers> 7657 </passengers>
+
+
+<epkm> 1313.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 61.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 91
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> PSRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 344 </schkms>
+
+
+<effkms> 10713 </effkms>
+
+
+<revenue> 120450 </revenue>
+
+
+<passengers> 9486 </passengers>
+
+
+<epkm> 1124.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 52.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 92
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CHLK_TPRDH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 9444 </effkms>
+
+
+<revenue> 133547 </revenue>
+
+
+<passengers> 9006 </passengers>
+
+
+<epkm> 1414.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 65.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 93
+
+
+
+
+ </id><start_station> TPRDH_CHLK </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 9444 </effkms>
+
+
+<revenue> 127023 </revenue>
+
+
+<passengers> 9006 </passengers>
+
+
+<epkm> 1345.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 62.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 96AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HSDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 433 </schkms>
+
+
+<effkms> 13423 </effkms>
+
+
+<revenue> 168736 </revenue>
+
+
+<passengers> 10141 </passengers>
+
+
+<epkm> 1257.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 58.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 97AB
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> HLGT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 10460 </effkms>
+
+
+<revenue> 129061 </revenue>
+
+
+<passengers> 10676 </passengers>
+
+
+<epkm> 1233.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 98
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 256 </schkms>
+
+
+<effkms> 4992 </effkms>
+
+
+<revenue> 71553 </revenue>
+
+
+<passengers> 6447 </passengers>
+
+
+<epkm> 1433.4 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 66.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 99
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7748 </effkms>
+
+
+<revenue> 128810 </revenue>
+
+
+<passengers> 6893 </passengers>
+
+
+<epkm> 1662.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 100
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> MNP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 334 </schkms>
+
+
+<effkms> 9288 </effkms>
+
+
+<revenue> 225332 </revenue>
+
+
+<passengers> 2972 </passengers>
+
+
+<epkm> 2426.1 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 65.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 101
+
+
+
+
+ </id><start_station> MNP </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 334 </schkms>
+
+
+<effkms> 8954 </effkms>
+
+
+<revenue> 169247 </revenue>
+
+
+<passengers> 2972 </passengers>
+
+
+<epkm> 1890.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 51.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 102
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> JGLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 7290 </effkms>
+
+
+<revenue> 145699 </revenue>
+
+
+<passengers> 6739 </passengers>
+
+
+<epkm> 1998.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 93.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 104
+
+
+
+
+ </id><start_station> CDG </start_station>
+
+
+<end_station> PNJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 430 </schkms>
+
+
+<effkms> 13330 </effkms>
+
+
+<revenue> 309764 </revenue>
+
+
+<passengers> 4509 </passengers>
+
+
+<epkm> 2323.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> CDG 105
+
+
+
+
+ </id><start_station> PNJ </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 430 </schkms>
+
+
+<effkms> 13330 </effkms>
+
+
+<revenue> 266171 </revenue>
+
+
+<passengers> 4509 </passengers>
+
+
+<epkm> 1996.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.3 </load_factor>
+
+</schedule>
+
+
+</buses>
+

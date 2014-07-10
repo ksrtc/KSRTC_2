@@ -1,0 +1,2445 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> NGM 1
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8568 </schkms>
+
+
+<effkms> 8568 </effkms>
+
+
+<revenue> 160706 </revenue>
+
+
+<epkm> 1875.7 </epkm>
+
+
+<load_factor> 80.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14985 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 2
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> NGM </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8442 </schkms>
+
+
+<effkms> 8442 </effkms>
+
+
+<revenue> 138410 </revenue>
+
+
+<epkm> 1639.5 </epkm>
+
+
+<load_factor> 70.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14985 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 3
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9098 </schkms>
+
+
+<effkms> 9098 </effkms>
+
+
+<revenue> 184716 </revenue>
+
+
+<epkm> 2030.3 </epkm>
+
+
+<load_factor> 87.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21203 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 4
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BGD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8912 </schkms>
+
+
+<effkms> 8912 </effkms>
+
+
+<revenue> 161072 </revenue>
+
+
+<epkm> 1807.4 </epkm>
+
+
+<load_factor> 77.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14584 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 5
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8834 </schkms>
+
+
+<effkms> 8834 </effkms>
+
+
+<revenue> 138546 </revenue>
+
+
+<epkm> 1568.3 </epkm>
+
+
+<load_factor> 67.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12300 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 6
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> KOPPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8714 </schkms>
+
+
+<effkms> 8714 </effkms>
+
+
+<revenue> 157949 </revenue>
+
+
+<epkm> 1812.6 </epkm>
+
+
+<load_factor> 78.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18209 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 7
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11970 </schkms>
+
+
+<effkms> 11970 </effkms>
+
+
+<revenue> 278469 </revenue>
+
+
+<epkm> 2326.4 </epkm>
+
+
+<load_factor> 65.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6483 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 8
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10101 </schkms>
+
+
+<effkms> 10101 </effkms>
+
+
+<revenue> 202213 </revenue>
+
+
+<epkm> 2001.9 </epkm>
+
+
+<load_factor> 56.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5736 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 9
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> SBH </start_station>
+
+
+<end_station> SRN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10680 </schkms>
+
+
+<effkms> 10680 </effkms>
+
+
+<revenue> 212349 </revenue>
+
+
+<epkm> 1988.3 </epkm>
+
+
+<load_factor> 56.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5736 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 10
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9148 </schkms>
+
+
+<effkms> 9148 </effkms>
+
+
+<revenue> 187377 </revenue>
+
+
+<epkm> 2048.3 </epkm>
+
+
+<load_factor> 57.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10436 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 11
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SRN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13830 </schkms>
+
+
+<effkms> 13830 </effkms>
+
+
+<revenue> 356696 </revenue>
+
+
+<epkm> 2579.1 </epkm>
+
+
+<load_factor> 111.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7299 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 12
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SRN </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13763 </schkms>
+
+
+<effkms> 13763 </effkms>
+
+
+<revenue> 321374 </revenue>
+
+
+<epkm> 2335.1 </epkm>
+
+
+<load_factor> 100.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7299 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 13
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> YDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7632 </schkms>
+
+
+<effkms> 7632 </effkms>
+
+
+<revenue> 111390 </revenue>
+
+
+<epkm> 1459.5 </epkm>
+
+
+<load_factor> 62.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 10062 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 15
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> YDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10511 </schkms>
+
+
+<effkms> 10511 </effkms>
+
+
+<revenue> 187762 </revenue>
+
+
+<epkm> 1786.3 </epkm>
+
+
+<load_factor> 76.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11837 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 18
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SBH </start_station>
+
+
+<end_station> NGM </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7140 </schkms>
+
+
+<effkms> 7140 </effkms>
+
+
+<revenue> 81792 </revenue>
+
+
+<epkm> 1145.5 </epkm>
+
+
+<load_factor> 49.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 8316 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 19
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MMH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10904 </schkms>
+
+
+<effkms> 10904 </effkms>
+
+
+<revenue> 291755 </revenue>
+
+
+<epkm> 2675.7 </epkm>
+
+
+<load_factor> 115.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12786 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 20
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6278 </schkms>
+
+
+<effkms> 6278 </effkms>
+
+
+<revenue> 74654 </revenue>
+
+
+<epkm> 1189.1 </epkm>
+
+
+<load_factor> 51.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 8316 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 21
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6500 </schkms>
+
+
+<effkms> 6500 </effkms>
+
+
+<revenue> 90740 </revenue>
+
+
+<epkm> 1396.0 </epkm>
+
+
+<load_factor> 60.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 13566 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 22
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 11340 </schkms>
+
+
+<effkms> 11340 </effkms>
+
+
+<revenue> 214005 </revenue>
+
+
+<epkm> 1887.2 </epkm>
+
+
+<load_factor> 81.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15900 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 24
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> YDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10400 </schkms>
+
+
+<effkms> 10400 </effkms>
+
+
+<revenue> 190958 </revenue>
+
+
+<epkm> 1836.1 </epkm>
+
+
+<load_factor> 79.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11351 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 25
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> YDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10500 </schkms>
+
+
+<effkms> 10500 </effkms>
+
+
+<revenue> 217076 </revenue>
+
+
+<epkm> 2067.4 </epkm>
+
+
+<load_factor> 58.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11351 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 26
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BSRL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8010 </schkms>
+
+
+<effkms> 8010 </effkms>
+
+
+<revenue> 118660 </revenue>
+
+
+<epkm> 1481.4 </epkm>
+
+
+<load_factor> 41.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12019 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 27
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5940 </schkms>
+
+
+<effkms> 5940 </effkms>
+
+
+<revenue> 93397 </revenue>
+
+
+<epkm> 1572.3 </epkm>
+
+
+<load_factor> 67.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12179 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 30
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11282 </schkms>
+
+
+<effkms> 11282 </effkms>
+
+
+<revenue> 246259 </revenue>
+
+
+<epkm> 2182.8 </epkm>
+
+
+<load_factor> 61.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10822 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 31
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> BSRL </start_station>
+
+
+<end_station> NGM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13050 </schkms>
+
+
+<effkms> 13050 </effkms>
+
+
+<revenue> 371875 </revenue>
+
+
+<epkm> 2849.6 </epkm>
+
+
+<load_factor> 122.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10822 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 34
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> GDA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 7936 </effkms>
+
+
+<revenue> 144957 </revenue>
+
+
+<epkm> 1826.6 </epkm>
+
+
+<load_factor> 78.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17825 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 35
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11904 </effkms>
+
+
+<revenue> 284352 </revenue>
+
+
+<epkm> 2388.7 </epkm>
+
+
+<load_factor> 67.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6438 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 36
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 8380 </effkms>
+
+
+<revenue> 148142 </revenue>
+
+
+<epkm> 1767.8 </epkm>
+
+
+<load_factor> 49.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11575 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 39
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> YDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 9564 </effkms>
+
+
+<revenue> 153024 </revenue>
+
+
+<epkm> 1600.0 </epkm>
+
+
+<load_factor> 45.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 10253 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 40
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> AP </schkms>
+
+
+<effkms> 13980 </effkms>
+
+
+<revenue> 374580 </revenue>
+
+
+<epkm> 2679.4 </epkm>
+
+
+<load_factor> 115.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5392 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 41
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> TPT </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> AP </schkms>
+
+
+<effkms> 13980 </effkms>
+
+
+<revenue> 350066 </revenue>
+
+
+<epkm> 2504.0 </epkm>
+
+
+<load_factor> 107.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5392 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 47
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SRI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11704 </effkms>
+
+
+<revenue> 258366 </revenue>
+
+
+<epkm> 2207.5 </epkm>
+
+
+<load_factor> 62.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6483 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 48
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLK </schkms>
+
+
+<effkms> 6672 </effkms>
+
+
+<revenue> 115577 </revenue>
+
+
+<epkm> 1732.3 </epkm>
+
+
+<load_factor> 48.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14634 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 49
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLK </schkms>
+
+
+<effkms> 7648 </effkms>
+
+
+<revenue> 127934 </revenue>
+
+
+<epkm> 1672.8 </epkm>
+
+
+<load_factor> 47.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14634 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 51
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 10844 </effkms>
+
+
+<revenue> 294676 </revenue>
+
+
+<epkm> 2717.4 </epkm>
+
+
+<load_factor> 117.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12601 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 52
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MYS </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 11426 </effkms>
+
+
+<revenue> 274743 </revenue>
+
+
+<epkm> 2404.5 </epkm>
+
+
+<load_factor> 67.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12601 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 53
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 10596 </effkms>
+
+
+<revenue> 289457 </revenue>
+
+
+<epkm> 2731.8 </epkm>
+
+
+<load_factor> 77.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12209 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 54
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MYS </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TMK </schkms>
+
+
+<effkms> 10780 </effkms>
+
+
+<revenue> 276807 </revenue>
+
+
+<epkm> 2567.8 </epkm>
+
+
+<load_factor> 72.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12209 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 57
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 8220 </effkms>
+
+
+<revenue> 106550 </revenue>
+
+
+<epkm> 1296.2 </epkm>
+
+
+<load_factor> 36.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 10062 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 61
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 9304 </effkms>
+
+
+<revenue> 182530 </revenue>
+
+
+<epkm> 1961.8 </epkm>
+
+
+<load_factor> 55.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6332 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 62
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 9405 </effkms>
+
+
+<revenue> 182417 </revenue>
+
+
+<epkm> 1939.6 </epkm>
+
+
+<load_factor> 54.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6332 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 65
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 12870 </effkms>
+
+
+<revenue> 256169 </revenue>
+
+
+<epkm> 1990.4 </epkm>
+
+
+<load_factor> 85.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 4960 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 66
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> OOTY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 6810 </effkms>
+
+
+<revenue> 169060 </revenue>
+
+
+<epkm> 2482.5 </epkm>
+
+
+<load_factor> 106.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4960 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 68
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SRI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11845 </effkms>
+
+
+<revenue> 269421 </revenue>
+
+
+<epkm> 2274.6 </epkm>
+
+
+<load_factor> 98.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6438 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 72
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 7290 </effkms>
+
+
+<revenue> 153878 </revenue>
+
+
+<epkm> 2110.8 </epkm>
+
+
+<load_factor> 90.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11714 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 74
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 3777 </effkms>
+
+
+<revenue> 72649 </revenue>
+
+
+<epkm> 1923.5 </epkm>
+
+
+<load_factor> 82.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7701 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 75
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> TNP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 4262 </effkms>
+
+
+<revenue> 78885 </revenue>
+
+
+<epkm> 1850.9 </epkm>
+
+
+<load_factor> 79.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7701 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 78
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> SBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 6676 </effkms>
+
+
+<revenue> 107949 </revenue>
+
+
+<epkm> 1617.0 </epkm>
+
+
+<load_factor> 45.6 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14552 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 79
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> KDB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 6706 </effkms>
+
+
+<revenue> 81096 </revenue>
+
+
+<epkm> 1209.3 </epkm>
+
+
+<load_factor> 34.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 8802 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 80
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> DBG </start_station>
+
+
+<end_station> BDGN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 6700 </effkms>
+
+
+<revenue> 65736 </revenue>
+
+
+<epkm> 981.1 </epkm>
+
+
+<load_factor> 27.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 8802 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 84
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> SMG </schkms>
+
+
+<effkms> 8925 </effkms>
+
+
+<revenue> 226493 </revenue>
+
+
+<epkm> 2537.7 </epkm>
+
+
+<load_factor> 71.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8145 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 85
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> SMG </schkms>
+
+
+<effkms> 8550 </effkms>
+
+
+<revenue> 174216 </revenue>
+
+
+<epkm> 2037.6 </epkm>
+
+
+<load_factor> 57.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8145 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 14AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 4560 </effkms>
+
+
+<revenue> 76864 </revenue>
+
+
+<epkm> 1685.6 </epkm>
+
+
+<load_factor> 72.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 2510 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 32AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> ADC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13876 </schkms>
+
+
+<effkms> 13876 </effkms>
+
+
+<revenue> 281991 </revenue>
+
+
+<epkm> 2032.2 </epkm>
+
+
+<load_factor> 57.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13938 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 16
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3364 </schkms>
+
+
+<effkms> 3364 </effkms>
+
+
+<revenue> 60190 </revenue>
+
+
+<epkm> 1789.2 </epkm>
+
+
+<load_factor> 77.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6380 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 17
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3290 </schkms>
+
+
+<effkms> 3290 </effkms>
+
+
+<revenue> 52403 </revenue>
+
+
+<epkm> 1592.8 </epkm>
+
+
+<load_factor> 68.6 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 6380 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 37
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> NGM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 2098 </schkms>
+
+
+<effkms> 2098 </effkms>
+
+
+<revenue> 42151 </revenue>
+
+
+<epkm> 2009.1 </epkm>
+
+
+<load_factor> 56.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 1707 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> NGM 38
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 2381 </schkms>
+
+
+<effkms> 2381 </effkms>
+
+
+<revenue> 44021 </revenue>
+
+
+<epkm> 1848.8 </epkm>
+
+
+<load_factor> 52.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 1707 </passengers>
+
+</schedule>
+
+
+</buses>
+

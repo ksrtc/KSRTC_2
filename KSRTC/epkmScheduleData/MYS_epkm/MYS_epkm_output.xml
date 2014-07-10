@@ -1,0 +1,16377 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> D1-1
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> NJD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 388 </schkms>
+
+
+<effkms> 9918 </effkms>
+
+
+<revenue> 194740 </revenue>
+
+
+<epkm> 19635 </epkm>
+
+
+<load_factor> 830 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-5
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> TVS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 373 </schkms>
+
+
+<effkms> 11042 </effkms>
+
+
+<revenue> 229059 </revenue>
+
+
+<epkm> 20744 </epkm>
+
+
+<load_factor> 574 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-7
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PANJI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 624 </schkms>
+
+
+<effkms> 19344 </effkms>
+
+
+<revenue> 493743 </revenue>
+
+
+<epkm> 25524 </epkm>
+
+
+<load_factor> 706 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-8
+
+</id><start_station> PANJI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 624 </schkms>
+
+
+<effkms> 19344 </effkms>
+
+
+<revenue> 474380 </revenue>
+
+
+<epkm> 24523 </epkm>
+
+
+<load_factor> 679 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-11
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BILIKERE </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 355 </schkms>
+
+
+<effkms> 13408 </effkms>
+
+
+<revenue> 265633 </revenue>
+
+
+<epkm> 19812 </epkm>
+
+
+<load_factor> 838 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-13
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 340 </schkms>
+
+
+<effkms> 8313 </effkms>
+
+
+<revenue> 123867 </revenue>
+
+
+<epkm> 14900 </epkm>
+
+
+<load_factor> 630 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-14
+
+</id><start_station> PLB </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 341 </schkms>
+
+
+<effkms> 8313 </effkms>
+
+
+<revenue> 119010 </revenue>
+
+
+<epkm> 14316 </epkm>
+
+
+<load_factor> 605 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-17
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BIJAPUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 686 </schkms>
+
+
+<effkms> 21266 </effkms>
+
+
+<revenue> 497242 </revenue>
+
+
+<epkm> 23382 </epkm>
+
+
+<load_factor> 647 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-18
+
+</id><start_station> BIJAPUR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 686 </schkms>
+
+
+<effkms> 21266 </effkms>
+
+
+<revenue> 477743 </revenue>
+
+
+<epkm> 22465 </epkm>
+
+
+<load_factor> 622 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-19
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BELGAUM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 556 </schkms>
+
+
+<effkms> 17236 </effkms>
+
+
+<revenue> 341906 </revenue>
+
+
+<epkm> 19837 </epkm>
+
+
+<load_factor> 549 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-20
+
+</id><start_station> BELGAUM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 556 </schkms>
+
+
+<effkms> 17236 </effkms>
+
+
+<revenue> 328498 </revenue>
+
+
+<epkm> 19059 </epkm>
+
+
+<load_factor> 527 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-21
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HUBBALI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 459 </schkms>
+
+
+<effkms> 14229 </effkms>
+
+
+<revenue> 299057 </revenue>
+
+
+<epkm> 21017 </epkm>
+
+
+<load_factor> 582 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-22
+
+</id><start_station> HUBBALI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 459 </schkms>
+
+
+<effkms> 14229 </effkms>
+
+
+<revenue> 287329 </revenue>
+
+
+<epkm> 20193 </epkm>
+
+
+<load_factor> 559 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-24
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 335 </schkms>
+
+
+<effkms> 10200 </effkms>
+
+
+<revenue> 195763 </revenue>
+
+
+<epkm> 19192 </epkm>
+
+
+<load_factor> 812 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-27
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 7620 </effkms>
+
+
+<revenue> 227501 </revenue>
+
+
+<epkm> 29856 </epkm>
+
+
+<load_factor> 826 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-28
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 7620 </effkms>
+
+
+<revenue> 218579 </revenue>
+
+
+<epkm> 28685 </epkm>
+
+
+<load_factor> 794 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-29
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 8984 </effkms>
+
+
+<revenue> 190216 </revenue>
+
+
+<epkm> 21173 </epkm>
+
+
+<load_factor> 586 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-30
+
+</id><start_station> MNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 8984 </effkms>
+
+
+<revenue> 182756 </revenue>
+
+
+<epkm> 20342 </epkm>
+
+
+<load_factor> 563 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-31
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 506 </schkms>
+
+
+<effkms> 12880 </effkms>
+
+
+<revenue> 322171 </revenue>
+
+
+<epkm> 25013 </epkm>
+
+
+<load_factor> 692 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-32
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BIRUNANI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8604 </effkms>
+
+
+<revenue> 159381 </revenue>
+
+
+<epkm> 18524 </epkm>
+
+
+<load_factor> 783 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-33
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DNK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 7425 </effkms>
+
+
+<revenue> 134753 </revenue>
+
+
+<epkm> 18149 </epkm>
+
+
+<load_factor> 767 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-34
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 362 </schkms>
+
+
+<effkms> 3258 </effkms>
+
+
+<revenue> 71055 </revenue>
+
+
+<epkm> 21809 </epkm>
+
+
+<load_factor> 922 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-35
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 8202 </effkms>
+
+
+<revenue> 141150 </revenue>
+
+
+<epkm> 17209 </epkm>
+
+
+<load_factor> 728 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-36
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 11072 </effkms>
+
+
+<revenue> 272604 </revenue>
+
+
+<epkm> 24621 </epkm>
+
+
+<load_factor> 681 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-37
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 416 </schkms>
+
+
+<effkms> 10348 </effkms>
+
+
+<revenue> 230794 </revenue>
+
+
+<epkm> 22303 </epkm>
+
+
+<load_factor> 617 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-38
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TUMKUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 352 </schkms>
+
+
+<effkms> 11711 </effkms>
+
+
+<revenue> 239905 </revenue>
+
+
+<epkm> 20485 </epkm>
+
+
+<load_factor> 866 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-40
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 9540 </effkms>
+
+
+<revenue> 190932 </revenue>
+
+
+<epkm> 20014 </epkm>
+
+
+<load_factor> 554 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-41
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KUSHALNAGAR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 360 </schkms>
+
+
+<effkms> 10512 </effkms>
+
+
+<revenue> 202468 </revenue>
+
+
+<epkm> 19261 </epkm>
+
+
+<load_factor> 814 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-42
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 11160 </effkms>
+
+
+<revenue> 246236 </revenue>
+
+
+<epkm> 22064 </epkm>
+
+
+<load_factor> 611 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-43
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 8324 </effkms>
+
+
+<revenue> 127708 </revenue>
+
+
+<epkm> 15342 </epkm>
+
+
+<load_factor> 425 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-44
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HOSUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 2018 </effkms>
+
+
+<revenue> 23004 </revenue>
+
+
+<epkm> 11399 </epkm>
+
+
+<load_factor> 315 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-45
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ERODE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 12220 </effkms>
+
+
+<revenue> 345056 </revenue>
+
+
+<epkm> 28237 </epkm>
+
+
+<load_factor> 781 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-46
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> THIRPUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 406 </schkms>
+
+
+<effkms> 12536 </effkms>
+
+
+<revenue> 277425 </revenue>
+
+
+<epkm> 22130 </epkm>
+
+
+<load_factor> 612 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-47
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KANNANUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 380 </schkms>
+
+
+<effkms> 11400 </effkms>
+
+
+<revenue> 254882 </revenue>
+
+
+<epkm> 22358 </epkm>
+
+
+<load_factor> 619 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-48
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HONGARALLI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 354 </schkms>
+
+
+<effkms> 10680 </effkms>
+
+
+<revenue> 204797 </revenue>
+
+
+<epkm> 19176 </epkm>
+
+
+<load_factor> 531 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-49
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SAKALESHPUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 11472 </effkms>
+
+
+<revenue> 241666 </revenue>
+
+
+<epkm> 21066 </epkm>
+
+
+<load_factor> 891 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-50
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 388 </schkms>
+
+
+<effkms> 10420 </effkms>
+
+
+<revenue> 245042 </revenue>
+
+
+<epkm> 23517 </epkm>
+
+
+<load_factor> 651 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-51
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> COIMBATORE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 12772 </effkms>
+
+
+<revenue> 349936 </revenue>
+
+
+<epkm> 27399 </epkm>
+
+
+<load_factor> 758 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-52
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KANAKAPUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 422 </schkms>
+
+
+<effkms> 3770 </effkms>
+
+
+<revenue> 59773 </revenue>
+
+
+<epkm> 15855 </epkm>
+
+
+<load_factor> 439 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-53
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> COIMBATORE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 12772 </effkms>
+
+
+<revenue> 357721 </revenue>
+
+
+<epkm> 28008 </epkm>
+
+
+<load_factor> 775 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-54
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 385 </schkms>
+
+
+<effkms> 11416 </effkms>
+
+
+<revenue> 219335 </revenue>
+
+
+<epkm> 19213 </epkm>
+
+
+<load_factor> 532 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-55
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KSL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 364 </schkms>
+
+
+<effkms> 5200 </effkms>
+
+
+<revenue> 96318 </revenue>
+
+
+<epkm> 18523 </epkm>
+
+
+<load_factor> 783 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-56
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 468 </schkms>
+
+
+<effkms> 14508 </effkms>
+
+
+<revenue> 379369 </revenue>
+
+
+<epkm> 26149 </epkm>
+
+
+<load_factor> 724 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-57
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> COIMBATORE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 12772 </effkms>
+
+
+<revenue> 247358 </revenue>
+
+
+<epkm> 19367 </epkm>
+
+
+<load_factor> 536 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-59
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SBR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 317 </schkms>
+
+
+<effkms> 9561 </effkms>
+
+
+<revenue> 185783 </revenue>
+
+
+<epkm> 19431 </epkm>
+
+
+<load_factor> 538 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-64
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 9982 </effkms>
+
+
+<revenue> 305782 </revenue>
+
+
+<epkm> 30633 </epkm>
+
+
+<load_factor> 848 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-65
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> NPK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 9166 </effkms>
+
+
+<revenue> 136122 </revenue>
+
+
+<epkm> 14851 </epkm>
+
+
+<load_factor> 628 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-66
+
+</id><start_station> VRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 357 </schkms>
+
+
+<effkms> 9166 </effkms>
+
+
+<revenue> 130783 </revenue>
+
+
+<epkm> 14268 </epkm>
+
+
+<load_factor> 603 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-68
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 398 </schkms>
+
+
+<effkms> 13256 </effkms>
+
+
+<revenue> 250464 </revenue>
+
+
+<epkm> 18894 </epkm>
+
+
+<load_factor> 799 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-70
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KALLIKOTE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 426 </schkms>
+
+
+<effkms> 13206 </effkms>
+
+
+<revenue> 248361 </revenue>
+
+
+<epkm> 18807 </epkm>
+
+
+<load_factor> 520 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-73
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KONANUR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9740 </effkms>
+
+
+<revenue> 191860 </revenue>
+
+
+<epkm> 19698 </epkm>
+
+
+<load_factor> 833 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-75
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VIRAJPET </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 360 </schkms>
+
+
+<effkms> 10512 </effkms>
+
+
+<revenue> 104528 </revenue>
+
+
+<epkm> 9944 </epkm>
+
+
+<load_factor> 420 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-76
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 408 </schkms>
+
+
+<effkms> 12131 </effkms>
+
+
+<revenue> 247070 </revenue>
+
+
+<epkm> 20367 </epkm>
+
+
+<load_factor> 564 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-77
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 408 </schkms>
+
+
+<effkms> 12131 </effkms>
+
+
+<revenue> 237381 </revenue>
+
+
+<epkm> 19568 </epkm>
+
+
+<load_factor> 542 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-78
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 11160 </effkms>
+
+
+<revenue> 222239 </revenue>
+
+
+<epkm> 19914 </epkm>
+
+
+<load_factor> 551 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-79
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 11160 </effkms>
+
+
+<revenue> 217906 </revenue>
+
+
+<epkm> 19526 </epkm>
+
+
+<load_factor> 540 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-80
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 4532 </effkms>
+
+
+<revenue> 97537 </revenue>
+
+
+<epkm> 21522 </epkm>
+
+
+<load_factor> 596 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-81
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SOMVARPET </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 330 </schkms>
+
+
+<effkms> 9216 </effkms>
+
+
+<revenue> 191570 </revenue>
+
+
+<epkm> 20787 </epkm>
+
+
+<load_factor> 575 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-82
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TLP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 331 </schkms>
+
+
+<effkms> 9427 </effkms>
+
+
+<revenue> 162257 </revenue>
+
+
+<epkm> 17212 </epkm>
+
+
+<load_factor> 728 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-83
+
+</id><start_station> TLP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 331 </schkms>
+
+
+<effkms> 9427 </effkms>
+
+
+<revenue> 155894 </revenue>
+
+
+<epkm> 16537 </epkm>
+
+
+<load_factor> 699 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-85
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TALAKAVERI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 10664 </effkms>
+
+
+<revenue> 187413 </revenue>
+
+
+<epkm> 17574 </epkm>
+
+
+<load_factor> 486 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-86
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SIDD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 10508 </effkms>
+
+
+<revenue> 152646 </revenue>
+
+
+<epkm> 14527 </epkm>
+
+
+<load_factor> 614 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-87
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHIKKAMAGALUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 10416 </effkms>
+
+
+<revenue> 221038 </revenue>
+
+
+<epkm> 21221 </epkm>
+
+
+<load_factor> 587 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-88
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BILIGALI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 11346 </effkms>
+
+
+<revenue> 203188 </revenue>
+
+
+<epkm> 17908 </epkm>
+
+
+<load_factor> 757 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-89
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 11470 </effkms>
+
+
+<revenue> 295307 </revenue>
+
+
+<epkm> 25746 </epkm>
+
+
+<load_factor> 712 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-91
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 9050 </effkms>
+
+
+<revenue> 174476 </revenue>
+
+
+<epkm> 19279 </epkm>
+
+
+<load_factor> 815 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-92
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 11062 </effkms>
+
+
+<revenue> 184570 </revenue>
+
+
+<epkm> 16685 </epkm>
+
+
+<load_factor> 705 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-93
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8480 </effkms>
+
+
+<revenue> 189952 </revenue>
+
+
+<epkm> 22400 </epkm>
+
+
+<load_factor> 947 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-94
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 292 </schkms>
+
+
+<effkms> 8480 </effkms>
+
+
+<revenue> 182503 </revenue>
+
+
+<epkm> 21522 </epkm>
+
+
+<load_factor> 910 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-95
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HUBBALI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 459 </schkms>
+
+
+<effkms> 13770 </effkms>
+
+
+<revenue> 292907 </revenue>
+
+
+<epkm> 21271 </epkm>
+
+
+<load_factor> 589 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-96
+
+</id><start_station> HUBBALI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 459 </schkms>
+
+
+<effkms> 13770 </effkms>
+
+
+<revenue> 281421 </revenue>
+
+
+<epkm> 20437 </epkm>
+
+
+<load_factor> 566 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-97
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 372 </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 222853 </revenue>
+
+
+<epkm> 21594 </epkm>
+
+
+<load_factor> 913 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-98
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 386 </schkms>
+
+
+<effkms> 2853 </effkms>
+
+
+<revenue> 66870 </revenue>
+
+
+<epkm> 23438 </epkm>
+
+
+<load_factor> 991 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-99
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 386 </schkms>
+
+
+<effkms> 2853 </effkms>
+
+
+<revenue> 64248 </revenue>
+
+
+<epkm> 22519 </epkm>
+
+
+<load_factor> 952 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-100
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 543 </schkms>
+
+
+<effkms> 15458 </effkms>
+
+
+<revenue> 359082 </revenue>
+
+
+<epkm> 23230 </epkm>
+
+
+<load_factor> 643 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-103
+
+</id><start_station> MRC </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 12564 </effkms>
+
+
+<revenue> 254391 </revenue>
+
+
+<epkm> 20248 </epkm>
+
+
+<load_factor> 560 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-110
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 11253 </effkms>
+
+
+<revenue> 217676 </revenue>
+
+
+<epkm> 19344 </epkm>
+
+
+<load_factor> 818 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-111
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KALLIKOTE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 426 </schkms>
+
+
+<effkms> 13242 </effkms>
+
+
+<revenue> 241858 </revenue>
+
+
+<epkm> 18264 </epkm>
+
+
+<load_factor> 505 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-113
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 488 </schkms>
+
+
+<effkms> 11162 </effkms>
+
+
+<revenue> 201655 </revenue>
+
+
+<epkm> 18066 </epkm>
+
+
+<load_factor> 500 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-114
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KRY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 484 </schkms>
+
+
+<effkms> 14106 </effkms>
+
+
+<revenue> 265178 </revenue>
+
+
+<epkm> 18799 </epkm>
+
+
+<load_factor> 520 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-115
+
+</id><start_station> KRY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 540 </schkms>
+
+
+<effkms> 12264 </effkms>
+
+
+<revenue> 233139 </revenue>
+
+
+<epkm> 19010 </epkm>
+
+
+<load_factor> 804 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-116
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TLC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 12090 </effkms>
+
+
+<revenue> 262214 </revenue>
+
+
+<epkm> 21689 </epkm>
+
+
+<load_factor> 600 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-117
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TLC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 12090 </effkms>
+
+
+<revenue> 298145 </revenue>
+
+
+<epkm> 24660 </epkm>
+
+
+<load_factor> 682 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-118
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TLC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 11538 </effkms>
+
+
+<revenue> 237423 </revenue>
+
+
+<epkm> 20577 </epkm>
+
+
+<load_factor> 569 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-119
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TLC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 12090 </effkms>
+
+
+<revenue> 266030 </revenue>
+
+
+<epkm> 22004 </epkm>
+
+
+<load_factor> 609 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-120
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HARANGI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 10194 </effkms>
+
+
+<revenue> 216553 </revenue>
+
+
+<epkm> 21243 </epkm>
+
+
+<load_factor> 588 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-125
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GADAG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14245 </effkms>
+
+
+<revenue> 306562 </revenue>
+
+
+<epkm> 21521 </epkm>
+
+
+<load_factor> 596 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-126
+
+</id><start_station> GADAG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14245 </effkms>
+
+
+<revenue> 294540 </revenue>
+
+
+<epkm> 20677 </epkm>
+
+
+<load_factor> 572 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-127
+
+</id><start_station> MSY </start_station>
+
+
+<end_station> TORA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 9794 </effkms>
+
+
+<revenue> 149384 </revenue>
+
+
+<epkm> 15253 </epkm>
+
+
+<load_factor> 645 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-128
+
+</id><start_station> TORA </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9794 </effkms>
+
+
+<revenue> 143526 </revenue>
+
+
+<epkm> 14654 </epkm>
+
+
+<load_factor> 620 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-129
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 2410 </effkms>
+
+
+<revenue> 46018 </revenue>
+
+
+<epkm> 19095 </epkm>
+
+
+<load_factor> 807 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-130
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 318 </schkms>
+
+
+<effkms> 2410 </effkms>
+
+
+<revenue> 44214 </revenue>
+
+
+<epkm> 18346 </epkm>
+
+
+<load_factor> 776 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-131
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 310 </schkms>
+
+
+<effkms> 9147 </effkms>
+
+
+<revenue> 189085 </revenue>
+
+
+<epkm> 20672 </epkm>
+
+
+<load_factor> 874 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-132
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 310 </schkms>
+
+
+<effkms> 9147 </effkms>
+
+
+<revenue> 181669 </revenue>
+
+
+<epkm> 19861 </epkm>
+
+
+<load_factor> 840 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-135
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 10572 </effkms>
+
+
+<revenue> 153240 </revenue>
+
+
+<epkm> 14495 </epkm>
+
+
+<load_factor> 613 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-151
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BLL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 340 </schkms>
+
+
+<effkms> 8502 </effkms>
+
+
+<revenue> 139780 </revenue>
+
+
+<epkm> 16441 </epkm>
+
+
+<load_factor> 695 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-152
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GONIKOPPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 336 </schkms>
+
+
+<effkms> 8502 </effkms>
+
+
+<revenue> 134299 </revenue>
+
+
+<epkm> 15796 </epkm>
+
+
+<load_factor> 668 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-161
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KUTTA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 304 </schkms>
+
+
+<effkms> 9297 </effkms>
+
+
+<revenue> 152467 </revenue>
+
+
+<epkm> 16400 </epkm>
+
+
+<load_factor> 693 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-162
+
+</id><start_station> VRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 9297 </effkms>
+
+
+<revenue> 148487 </revenue>
+
+
+<epkm> 15971 </epkm>
+
+
+<load_factor> 675 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-163
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GOKARNA </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 526 </schkms>
+
+
+<effkms> 16306 </effkms>
+
+
+<revenue> 375385 </revenue>
+
+
+<epkm> 23021 </epkm>
+
+
+<load_factor> 637 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-164
+
+</id><start_station> GOKARNA </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 526 </schkms>
+
+
+<effkms> 16306 </effkms>
+
+
+<revenue> 360673 </revenue>
+
+
+<epkm> 22119 </epkm>
+
+
+<load_factor> 612 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-165
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14520 </effkms>
+
+
+<revenue> 311794 </revenue>
+
+
+<epkm> 21473 </epkm>
+
+
+<load_factor> 594 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-166
+
+</id><start_station> GDG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 14520 </effkms>
+
+
+<revenue> 299567 </revenue>
+
+
+<epkm> 20631 </epkm>
+
+
+<load_factor> 571 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-171
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 379 </schkms>
+
+
+<effkms> 9740 </effkms>
+
+
+<revenue> 161041 </revenue>
+
+
+<epkm> 16534 </epkm>
+
+
+<load_factor> 699 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-172
+
+</id><start_station> VRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 373 </schkms>
+
+
+<effkms> 9740 </effkms>
+
+
+<revenue> 154726 </revenue>
+
+
+<epkm> 15886 </epkm>
+
+
+<load_factor> 672 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-173
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DAVANAGERE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 10757 </effkms>
+
+
+<revenue> 245980 </revenue>
+
+
+<epkm> 22867 </epkm>
+
+
+<load_factor> 633 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-174
+
+</id><start_station> DAVANAGERE </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 10757 </effkms>
+
+
+<revenue> 236334 </revenue>
+
+
+<epkm> 21970 </epkm>
+
+
+<load_factor> 608 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-175
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DAVANAGERE </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 465 </schkms>
+
+
+<effkms> 12061 </effkms>
+
+
+<revenue> 263903 </revenue>
+
+
+<epkm> 21881 </epkm>
+
+
+<load_factor> 606 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-176
+
+</id><start_station> DAVANAGERE </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 347 </schkms>
+
+
+<effkms> 12061 </effkms>
+
+
+<revenue> 253554 </revenue>
+
+
+<epkm> 21023 </epkm>
+
+
+<load_factor> 582 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-177
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 313 </schkms>
+
+
+<effkms> 13215 </effkms>
+
+
+<revenue> 225539 </revenue>
+
+
+<epkm> 17067 </epkm>
+
+
+<load_factor> 472 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-178
+
+</id><start_station> PLB </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 404 </schkms>
+
+
+<effkms> 13215 </effkms>
+
+
+<revenue> 216694 </revenue>
+
+
+<epkm> 16398 </epkm>
+
+
+<load_factor> 454 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-181
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 496 </schkms>
+
+
+<effkms> 10240 </effkms>
+
+
+<revenue> 218851 </revenue>
+
+
+<epkm> 21372 </epkm>
+
+
+<load_factor> 591 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-182
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TUMKUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 10670 </effkms>
+
+
+<revenue> 254998 </revenue>
+
+
+<epkm> 23899 </epkm>
+
+
+<load_factor> 661 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-183
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TUMKUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 388 </schkms>
+
+
+<effkms> 11250 </effkms>
+
+
+<revenue> 339615 </revenue>
+
+
+<epkm> 30188 </epkm>
+
+
+<load_factor> 835 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-184
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> VRJ </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 416 </schkms>
+
+
+<effkms> 11968 </effkms>
+
+
+<revenue> 244152 </revenue>
+
+
+<epkm> 20400 </epkm>
+
+
+<load_factor> 565 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-185
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HULIKAL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 348 </schkms>
+
+
+<effkms> 10332 </effkms>
+
+
+<revenue> 250424 </revenue>
+
+
+<epkm> 24238 </epkm>
+
+
+<load_factor> 671 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-186
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MNVD </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 342 </schkms>
+
+
+<effkms> 10044 </effkms>
+
+
+<revenue> 219315 </revenue>
+
+
+<epkm> 21835 </epkm>
+
+
+<load_factor> 604 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-189
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HUNASALLI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 446 </schkms>
+
+
+<effkms> 11830 </effkms>
+
+
+<revenue> 211354 </revenue>
+
+
+<epkm> 17866 </epkm>
+
+
+<load_factor> 494 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-190
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 15840 </effkms>
+
+
+<revenue> 275645 </revenue>
+
+
+<epkm> 17402 </epkm>
+
+
+<load_factor> 482 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-191
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 574 </schkms>
+
+
+<effkms> 17794 </effkms>
+
+
+<revenue> 359265 </revenue>
+
+
+<epkm> 20190 </epkm>
+
+
+<load_factor> 559 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-192
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 436 </schkms>
+
+
+<effkms> 12972 </effkms>
+
+
+<revenue> 266539 </revenue>
+
+
+<epkm> 20547 </epkm>
+
+
+<load_factor> 569 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-194
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 410 </schkms>
+
+
+<effkms> 11711 </effkms>
+
+
+<revenue> 230497 </revenue>
+
+
+<epkm> 19682 </epkm>
+
+
+<load_factor> 832 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-195
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 11202 </effkms>
+
+
+<revenue> 279832 </revenue>
+
+
+<epkm> 24981 </epkm>
+
+
+<load_factor> 691 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-199
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 372 </schkms>
+
+
+<effkms> 10158 </effkms>
+
+
+<revenue> 225003 </revenue>
+
+
+<epkm> 22150 </epkm>
+
+
+<load_factor> 937 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-200
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PLGL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 318 </schkms>
+
+
+<effkms> 9915 </effkms>
+
+
+<revenue> 167267 </revenue>
+
+
+<epkm> 16870 </epkm>
+
+
+<load_factor> 713 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-201
+
+</id><start_station> PLGL </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 296 </schkms>
+
+
+<effkms> 9915 </effkms>
+
+
+<revenue> 160707 </revenue>
+
+
+<epkm> 16208 </epkm>
+
+
+<load_factor> 685 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-204
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 418 </schkms>
+
+
+<effkms> 12586 </effkms>
+
+
+<revenue> 260500 </revenue>
+
+
+<epkm> 20698 </epkm>
+
+
+<load_factor> 573 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-206
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 7089 </effkms>
+
+
+<revenue> 89063 </revenue>
+
+
+<epkm> 12564 </epkm>
+
+
+<load_factor> 531 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-207
+
+</id><start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 7089 </effkms>
+
+
+<revenue> 85571 </revenue>
+
+
+<epkm> 12071 </epkm>
+
+
+<load_factor> 510 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-212
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ALICAT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 426 </schkms>
+
+
+<effkms> 13206 </effkms>
+
+
+<revenue> 241538 </revenue>
+
+
+<epkm> 18290 </epkm>
+
+
+<load_factor> 506 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-213
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 16864 </effkms>
+
+
+<revenue> 415151 </revenue>
+
+
+<epkm> 24618 </epkm>
+
+
+<load_factor> 681 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-214
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 16864 </effkms>
+
+
+<revenue> 407730 </revenue>
+
+
+<epkm> 24178 </epkm>
+
+
+<load_factor> 669 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-215
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 16048 </effkms>
+
+
+<revenue> 352174 </revenue>
+
+
+<epkm> 21945 </epkm>
+
+
+<load_factor> 607 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-216
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 14633 </effkms>
+
+
+<revenue> 309041 </revenue>
+
+
+<epkm> 21119 </epkm>
+
+
+<load_factor> 584 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-217
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 580 </schkms>
+
+
+<effkms> 16282 </effkms>
+
+
+<revenue> 383842 </revenue>
+
+
+<epkm> 23575 </epkm>
+
+
+<load_factor> 652 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-218
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 15504 </effkms>
+
+
+<revenue> 328445 </revenue>
+
+
+<epkm> 21185 </epkm>
+
+
+<load_factor> 586 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-219
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 13323 </effkms>
+
+
+<revenue> 269283 </revenue>
+
+
+<epkm> 20212 </epkm>
+
+
+<load_factor> 559 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-220
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 14688 </effkms>
+
+
+<revenue> 297746 </revenue>
+
+
+<epkm> 20271 </epkm>
+
+
+<load_factor> 561 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-221
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 11968 </effkms>
+
+
+<revenue> 252240 </revenue>
+
+
+<epkm> 21076 </epkm>
+
+
+<load_factor> 583 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-222
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 13872 </effkms>
+
+
+<revenue> 264098 </revenue>
+
+
+<epkm> 19038 </epkm>
+
+
+<load_factor> 527 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-227
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 3439 </effkms>
+
+
+<revenue> 63706 </revenue>
+
+
+<epkm> 18525 </epkm>
+
+
+<load_factor> 513 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-228
+
+</id><start_station> MRC </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 366 </schkms>
+
+
+<effkms> 3489 </effkms>
+
+
+<revenue> 66011 </revenue>
+
+
+<epkm> 18920 </epkm>
+
+
+<load_factor> 524 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-230
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 304 </schkms>
+
+
+<effkms> 8976 </effkms>
+
+
+<revenue> 89326 </revenue>
+
+
+<epkm> 9952 </epkm>
+
+
+<load_factor> 421 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-231
+
+</id><start_station> TNP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 8010 </effkms>
+
+
+<revenue> 79791 </revenue>
+
+
+<epkm> 9961 </epkm>
+
+
+<load_factor> 421 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-235
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> YEDIYUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 432 </schkms>
+
+
+<effkms> 13514 </effkms>
+
+
+<revenue> 247717 </revenue>
+
+
+<epkm> 18330 </epkm>
+
+
+<load_factor> 507 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-236
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PAYANUR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 442 </schkms>
+
+
+<effkms> 13672 </effkms>
+
+
+<revenue> 253640 </revenue>
+
+
+<epkm> 18552 </epkm>
+
+
+<load_factor> 513 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-237
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 2176 </effkms>
+
+
+<revenue> 41958 </revenue>
+
+
+<epkm> 19282 </epkm>
+
+
+<load_factor> 534 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-238
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 1088 </effkms>
+
+
+<revenue> 21058 </revenue>
+
+
+<epkm> 19355 </epkm>
+
+
+<load_factor> 536 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-239
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 544 </effkms>
+
+
+<revenue> 8262 </revenue>
+
+
+<epkm> 15188 </epkm>
+
+
+<load_factor> 420 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-240
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 544 </schkms>
+
+
+<effkms> 1088 </effkms>
+
+
+<revenue> 13769 </revenue>
+
+
+<epkm> 12655 </epkm>
+
+
+<load_factor> 350 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-241
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CBT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 11350 </effkms>
+
+
+<revenue> 203706 </revenue>
+
+
+<epkm> 17948 </epkm>
+
+
+<load_factor> 497 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-242
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8872 </effkms>
+
+
+<revenue> 229576 </revenue>
+
+
+<epkm> 25876 </epkm>
+
+
+<load_factor> 716 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D1-243
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 406 </schkms>
+
+
+<effkms> 6902 </effkms>
+
+
+<revenue> 119539 </revenue>
+
+
+<epkm> 17319 </epkm>
+
+
+<load_factor> 479 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-3
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 16320 </effkms>
+
+
+<revenue> 786005 </revenue>
+
+
+<epkm> 48162 </epkm>
+
+
+<load_factor> 783 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-4
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 15504 </effkms>
+
+
+<revenue> 770017 </revenue>
+
+
+<epkm> 49666 </epkm>
+
+
+<load_factor> 808 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-5
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> SHETHAL </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 8432 </effkms>
+
+
+<revenue> 193300 </revenue>
+
+
+<epkm> 22925 </epkm>
+
+
+<load_factor> 666 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-7
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> SHETHAL </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 1360 </effkms>
+
+
+<revenue> 39470 </revenue>
+
+
+<epkm> 29022 </epkm>
+
+
+<load_factor> 844 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-9
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KTYM </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 524 </schkms>
+
+
+<effkms> 15992 </effkms>
+
+
+<revenue> 207140 </revenue>
+
+
+<epkm> 12953 </epkm>
+
+
+<load_factor> 295 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-10
+
+</id><start_station> KTYM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 524 </schkms>
+
+
+<effkms> 15992 </effkms>
+
+
+<revenue> 173004 </revenue>
+
+
+<epkm> 10818 </epkm>
+
+
+<load_factor> 247 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-11A
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHENNAI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 608137 </revenue>
+
+
+<epkm> 41796 </epkm>
+
+
+<load_factor> 680 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-12B
+
+</id><start_station> CHENNAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 613744 </revenue>
+
+
+<epkm> 42182 </epkm>
+
+
+<load_factor> 686 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-15
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 10608 </effkms>
+
+
+<revenue> 524929 </revenue>
+
+
+<epkm> 49484 </epkm>
+
+
+<load_factor> 805 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-16
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 14416 </effkms>
+
+
+<revenue> 726591 </revenue>
+
+
+<epkm> 50402 </epkm>
+
+
+<load_factor> 820 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-17
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 14144 </effkms>
+
+
+<revenue> 719586 </revenue>
+
+
+<epkm> 50876 </epkm>
+
+
+<load_factor> 827 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-18
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> X </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 564 </schkms>
+
+
+<effkms> 11424 </effkms>
+
+
+<revenue> 579742 </revenue>
+
+
+<epkm> 50748 </epkm>
+
+
+<load_factor> 825 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-21A
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TIRUPATHI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 394 </schkms>
+
+
+<effkms> 12214 </effkms>
+
+
+<revenue> 499871 </revenue>
+
+
+<epkm> 40926 </epkm>
+
+
+<load_factor> 666 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-22B
+
+</id><start_station> TIRUPATHI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 394 </schkms>
+
+
+<effkms> 12214 </effkms>
+
+
+<revenue> 510447 </revenue>
+
+
+<epkm> 41792 </epkm>
+
+
+<load_factor> 680 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-23
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MANTRALAYA </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 552 </schkms>
+
+
+<effkms> 16824 </effkms>
+
+
+<revenue> 501360 </revenue>
+
+
+<epkm> 29800 </epkm>
+
+
+<load_factor> 485 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-24
+
+</id><start_station> MANTRALAYA </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 552 </schkms>
+
+
+<effkms> 16824 </effkms>
+
+
+<revenue> 453031 </revenue>
+
+
+<epkm> 26928 </epkm>
+
+
+<load_factor> 438 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-31
+
+</id><start_station> VEERAJPET </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 404 </schkms>
+
+
+<effkms> 8840 </effkms>
+
+
+<revenue> 244025 </revenue>
+
+
+<epkm> 27605 </epkm>
+
+
+<load_factor> 629 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-32
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MADURAI </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 435 </schkms>
+
+
+<effkms> 13485 </effkms>
+
+
+<revenue> 360775 </revenue>
+
+
+<epkm> 26754 </epkm>
+
+
+<load_factor> 610 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-33
+
+</id><start_station> MADURAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 435 </schkms>
+
+
+<effkms> 13485 </effkms>
+
+
+<revenue> 360106 </revenue>
+
+
+<epkm> 26704 </epkm>
+
+
+<load_factor> 609 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-34
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BELLARY </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 441 </schkms>
+
+
+<effkms> 5292 </effkms>
+
+
+<revenue> 174025 </revenue>
+
+
+<epkm> 32885 </epkm>
+
+
+<load_factor> 535 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-35
+
+</id><start_station> BELLARY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 441 </schkms>
+
+
+<effkms> 5292 </effkms>
+
+
+<revenue> 210521 </revenue>
+
+
+<epkm> 39781 </epkm>
+
+
+<load_factor> 647 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-39
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHENNAI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15469 </effkms>
+
+
+<revenue> 561610 </revenue>
+
+
+<epkm> 36306 </epkm>
+
+
+<load_factor> 590 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-40
+
+</id><start_station> CHENNAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 15469 </effkms>
+
+
+<revenue> 463222 </revenue>
+
+
+<epkm> 29945 </epkm>
+
+
+<load_factor> 487 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-48
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> TRIVENDRUM </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 647 </schkms>
+
+
+<effkms> 20057 </effkms>
+
+
+<revenue> 683720 </revenue>
+
+
+<epkm> 34089 </epkm>
+
+
+<load_factor> 554 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-49
+
+</id><start_station> TRIVENDRUM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 647 </schkms>
+
+
+<effkms> 20057 </effkms>
+
+
+<revenue> 602432 </revenue>
+
+
+<epkm> 30036 </epkm>
+
+
+<load_factor> 488 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-53
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> MEGHA </end_station>
+
+
+<type_of_bus> D </type_of_bus>
+
+
+<schkms> 252 </schkms>
+
+
+<effkms> 6074 </effkms>
+
+
+<revenue> 182021 </revenue>
+
+
+<epkm> 29967 </epkm>
+
+
+<load_factor> 567 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-60
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DAVANAGERE </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 345 </schkms>
+
+
+<effkms> 9112 </effkms>
+
+
+<revenue> 273090 </revenue>
+
+
+<epkm> 29970 </epkm>
+
+
+<load_factor> 683 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-61
+
+</id><start_station> DAVANAGERE </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 345 </schkms>
+
+
+<effkms> 9112 </effkms>
+
+
+<revenue> 269253 </revenue>
+
+
+<epkm> 29549 </epkm>
+
+
+<load_factor> 674 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-68
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> MEGHA </end_station>
+
+
+<type_of_bus> D </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7072 </effkms>
+
+
+<revenue> 185524 </revenue>
+
+
+<epkm> 26234 </epkm>
+
+
+<load_factor> 496 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-78
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> MEGHA </end_station>
+
+
+<type_of_bus> D </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7616 </effkms>
+
+
+<revenue> 249628 </revenue>
+
+
+<epkm> 32777 </epkm>
+
+
+<load_factor> 620 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-101
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MDSWR </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 476 </schkms>
+
+
+<effkms> 3930 </effkms>
+
+
+<revenue> 99766 </revenue>
+
+
+<epkm> 25386 </epkm>
+
+
+<load_factor> 579 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-102
+
+</id><start_station> MDSWR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 476 </schkms>
+
+
+<effkms> 3930 </effkms>
+
+
+<revenue> 64244 </revenue>
+
+
+<epkm> 16347 </epkm>
+
+
+<load_factor> 373 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-103
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MUMBAI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 1068 </schkms>
+
+
+<effkms> 23824 </effkms>
+
+
+<revenue> 445595 </revenue>
+
+
+<epkm> 18704 </epkm>
+
+
+<load_factor> 304 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-104
+
+</id><start_station> MUMBAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 1068 </schkms>
+
+
+<effkms> 23824 </effkms>
+
+
+<revenue> 599160 </revenue>
+
+
+<epkm> 25149 </epkm>
+
+
+<load_factor> 409 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-143
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 7614 </effkms>
+
+
+<revenue> 276857 </revenue>
+
+
+<epkm> 36362 </epkm>
+
+
+<load_factor> 591 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-144
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 7614 </effkms>
+
+
+<revenue> 250001 </revenue>
+
+
+<epkm> 32834 </epkm>
+
+
+<load_factor> 534 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-147
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PANJI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 807 </schkms>
+
+
+<effkms> 23870 </effkms>
+
+
+<revenue> 842851 </revenue>
+
+
+<epkm> 35310 </epkm>
+
+
+<load_factor> 574 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-148
+
+</id><start_station> PANJI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 807 </schkms>
+
+
+<effkms> 23870 </effkms>
+
+
+<revenue> 651381 </revenue>
+
+
+<epkm> 27289 </epkm>
+
+
+<load_factor> 444 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-164
+
+</id><start_station> BANGALORE </start_station>
+
+
+<end_station> MEGHA </end_station>
+
+
+<type_of_bus> D </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 7072 </effkms>
+
+
+<revenue> 200679 </revenue>
+
+
+<epkm> 28377 </epkm>
+
+
+<load_factor> 537 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-170
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ERNAKULAM </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 13144 </effkms>
+
+
+<revenue> 545864 </revenue>
+
+
+<epkm> 41530 </epkm>
+
+
+<load_factor> 675 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-171
+
+</id><start_station> ERNAKULAM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 13144 </effkms>
+
+
+<revenue> 501029 </revenue>
+
+
+<epkm> 38118 </epkm>
+
+
+<load_factor> 620 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-172
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ERNAKULAM </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 13144 </effkms>
+
+
+<revenue> 390949 </revenue>
+
+
+<epkm> 29744 </epkm>
+
+
+<load_factor> 678 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-173
+
+</id><start_station> ERNAKULAM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 13144 </effkms>
+
+
+<revenue> 426343 </revenue>
+
+
+<epkm> 32436 </epkm>
+
+
+<load_factor> 740 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-174
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHENNAI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 6790 </effkms>
+
+
+<revenue> 303955 </revenue>
+
+
+<epkm> 44765 </epkm>
+
+
+<load_factor> 728 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-175
+
+</id><start_station> CHENNAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 6790 </effkms>
+
+
+<revenue> 243800 </revenue>
+
+
+<epkm> 35906 </epkm>
+
+
+<load_factor> 584 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-176
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHENNAI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 577914 </revenue>
+
+
+<epkm> 39719 </epkm>
+
+
+<load_factor> 646 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-177
+
+</id><start_station> CHENNAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 14550 </effkms>
+
+
+<revenue> 527784 </revenue>
+
+
+<epkm> 36274 </epkm>
+
+
+<load_factor> 590 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-180
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HYDERAD </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 711 </schkms>
+
+
+<effkms> 21330 </effkms>
+
+
+<revenue> 629951 </revenue>
+
+
+<epkm> 29534 </epkm>
+
+
+<load_factor> 480 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-181
+
+</id><start_station> HYDERAD </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 711 </schkms>
+
+
+<effkms> 21330 </effkms>
+
+
+<revenue> 605156 </revenue>
+
+
+<epkm> 28371 </epkm>
+
+
+<load_factor> 461 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-182
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> THIRUPATI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 394 </schkms>
+
+
+<effkms> 12214 </effkms>
+
+
+<revenue> 406452 </revenue>
+
+
+<epkm> 33278 </epkm>
+
+
+<load_factor> 541 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-183
+
+</id><start_station> THIRUPATI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 394 </schkms>
+
+
+<effkms> 12214 </effkms>
+
+
+<revenue> 414316 </revenue>
+
+
+<epkm> 33921 </epkm>
+
+
+<load_factor> 552 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-186
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> DONIMALAI </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 474 </schkms>
+
+
+<effkms> 14694 </effkms>
+
+
+<revenue> 404928 </revenue>
+
+
+<epkm> 27557 </epkm>
+
+
+<load_factor> 628 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-187
+
+</id><start_station> DONIMALAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 474 </schkms>
+
+
+<effkms> 14694 </effkms>
+
+
+<revenue> 336703 </revenue>
+
+
+<epkm> 22914 </epkm>
+
+
+<load_factor> 522 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-190
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> UDUPI </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 323 </schkms>
+
+
+<effkms> 10013 </effkms>
+
+
+<revenue> 259410 </revenue>
+
+
+<epkm> 25907 </epkm>
+
+
+<load_factor> 421 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-191
+
+</id><start_station> UDUPI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 323 </schkms>
+
+
+<effkms> 10013 </effkms>
+
+
+<revenue> 194209 </revenue>
+
+
+<epkm> 19396 </epkm>
+
+
+<load_factor> 315 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-194
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> NAPOKLU </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 451 </schkms>
+
+
+<effkms> 6732 </effkms>
+
+
+<revenue> 296291 </revenue>
+
+
+<epkm> 44012 </epkm>
+
+
+<load_factor> 716 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-195
+
+</id><start_station> NAPOKLU </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 451 </schkms>
+
+
+<effkms> 6732 </effkms>
+
+
+<revenue> 212052 </revenue>
+
+
+<epkm> 31499 </epkm>
+
+
+<load_factor> 512 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-196
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 9982 </effkms>
+
+
+<revenue> 230934 </revenue>
+
+
+<epkm> 23135 </epkm>
+
+
+<load_factor> 527 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-215
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> SIKANDARAD </end_station>
+
+
+<type_of_bus> VMA </type_of_bus>
+
+
+<schkms> 725 </schkms>
+
+
+<effkms> 22475 </effkms>
+
+
+<revenue> 1013733 </revenue>
+
+
+<epkm> 45105 </epkm>
+
+
+<load_factor> 733 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-216
+
+</id><start_station> SIKANDARAD </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VMA </type_of_bus>
+
+
+<schkms> 725 </schkms>
+
+
+<effkms> 22475 </effkms>
+
+
+<revenue> 824582 </revenue>
+
+
+<epkm> 36689 </epkm>
+
+
+<load_factor> 596 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-221
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 423 </schkms>
+
+
+<effkms> 10472 </effkms>
+
+
+<revenue> 305112 </revenue>
+
+
+<epkm> 29136 </epkm>
+
+
+<load_factor> 664 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-222
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 423 </schkms>
+
+
+<effkms> 10472 </effkms>
+
+
+<revenue> 290859 </revenue>
+
+
+<epkm> 27775 </epkm>
+
+
+<load_factor> 633 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-230
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ERNAKULAM </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 11779 </effkms>
+
+
+<revenue> 199005 </revenue>
+
+
+<epkm> 16895 </epkm>
+
+
+<load_factor> 385 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-231
+
+</id><start_station> ERNAKULAM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 11780 </effkms>
+
+
+<revenue> 198086 </revenue>
+
+
+<epkm> 16815 </epkm>
+
+
+<load_factor> 383 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-238
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> PONNAMPETTE </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 764 </schkms>
+
+
+<effkms> 23684 </effkms>
+
+
+<revenue> 835837 </revenue>
+
+
+<epkm> 35291 </epkm>
+
+
+<load_factor> 574 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-243
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CBT </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 784 </schkms>
+
+
+<effkms> 12772 </effkms>
+
+
+<revenue> 359243 </revenue>
+
+
+<epkm> 28127 </epkm>
+
+
+<load_factor> 457 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-244
+
+</id><start_station> CBT </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 784 </schkms>
+
+
+<effkms> 12772 </effkms>
+
+
+<revenue> 482915 </revenue>
+
+
+<epkm> 37810 </epkm>
+
+
+<load_factor> 615 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-223
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HYDERAD </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 711 </schkms>
+
+
+<effkms> 2133 </effkms>
+
+
+<revenue> 173892 </revenue>
+
+
+<epkm> 81525 </epkm>
+
+
+<load_factor> 1326 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-224
+
+</id><start_station> HYDERAD </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 711 </schkms>
+
+
+<effkms> 2133 </effkms>
+
+
+<revenue> 124757 </revenue>
+
+
+<epkm> 58489 </epkm>
+
+
+<load_factor> 951 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-246
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CHENNAI </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 12805 </effkms>
+
+
+<revenue> 281074 </revenue>
+
+
+<epkm> 21950 </epkm>
+
+
+<load_factor> 500 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-247
+
+</id><start_station> CHENNAI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 485 </schkms>
+
+
+<effkms> 12805 </effkms>
+
+
+<revenue> 272998 </revenue>
+
+
+<epkm> 21320 </epkm>
+
+
+<load_factor> 486 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-248
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MUDI </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 426 </schkms>
+
+
+<effkms> 7830 </effkms>
+
+
+<revenue> 144868 </revenue>
+
+
+<epkm> 18502 </epkm>
+
+
+<load_factor> 422 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-249
+
+</id><start_station> MUDI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 426 </schkms>
+
+
+<effkms> 7830 </effkms>
+
+
+<revenue> 88607 </revenue>
+
+
+<epkm> 11316 </epkm>
+
+
+<load_factor> 258 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-250
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> ERNAKULAM </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 1830 </effkms>
+
+
+<revenue> 67239 </revenue>
+
+
+<epkm> 36743 </epkm>
+
+
+<load_factor> 598 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> D2-251
+
+</id><start_station> ERNAKULAM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> VOLVO </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 1830 </effkms>
+
+
+<revenue> 89141 </revenue>
+
+
+<epkm> 48711 </epkm>
+
+
+<load_factor> 792 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-1
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> CNI </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 540 </schkms>
+
+
+<effkms> 16740 </effkms>
+
+
+<revenue> 449115 </revenue>
+
+
+<epkm> 26829 </epkm>
+
+
+<load_factor> 612 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-2
+
+</id><start_station> CNI </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 540 </schkms>
+
+
+<effkms> 16740 </effkms>
+
+
+<revenue> 449807 </revenue>
+
+
+<epkm> 26870 </epkm>
+
+
+<load_factor> 613 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-3
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KBM </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 506 </schkms>
+
+
+<effkms> 15686 </effkms>
+
+
+<revenue> 408806 </revenue>
+
+
+<epkm> 26062 </epkm>
+
+
+<load_factor> 594 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-4
+
+</id><start_station> KBM </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 506 </schkms>
+
+
+<effkms> 15686 </effkms>
+
+
+<revenue> 405702 </revenue>
+
+
+<epkm> 25864 </epkm>
+
+
+<load_factor> 590 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-5
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HBL </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 501 </schkms>
+
+
+<effkms> 15686 </effkms>
+
+
+<revenue> 333027 </revenue>
+
+
+<epkm> 21231 </epkm>
+
+
+<load_factor> 588 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-6
+
+</id><start_station> HBL </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 501 </schkms>
+
+
+<effkms> 15686 </effkms>
+
+
+<revenue> 334729 </revenue>
+
+
+<epkm> 21339 </epkm>
+
+
+<load_factor> 591 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-7
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KDMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 340 </schkms>
+
+
+<effkms> 13855 </effkms>
+
+
+<revenue> 307269 </revenue>
+
+
+<epkm> 22177 </epkm>
+
+
+<load_factor> 614 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-8
+
+</id><start_station> KDMK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 344 </schkms>
+
+
+<effkms> 12648 </effkms>
+
+
+<revenue> 237195 </revenue>
+
+
+<epkm> 18754 </epkm>
+
+
+<load_factor> 519 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-9
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 326 </schkms>
+
+
+<effkms> 10106 </effkms>
+
+
+<revenue> 268459 </revenue>
+
+
+<epkm> 26564 </epkm>
+
+
+<load_factor> 735 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-10
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 11470 </effkms>
+
+
+<revenue> 282818 </revenue>
+
+
+<epkm> 24657 </epkm>
+
+
+<load_factor> 682 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-11
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KLP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 11952 </effkms>
+
+
+<revenue> 263171 </revenue>
+
+
+<epkm> 22019 </epkm>
+
+
+<load_factor> 609 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-12
+
+</id><start_station> KLP </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 12360 </effkms>
+
+
+<revenue> 272893 </revenue>
+
+
+<epkm> 22079 </epkm>
+
+
+<load_factor> 611 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-13
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HRH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 406 </schkms>
+
+
+<effkms> 11521 </effkms>
+
+
+<revenue> 248151 </revenue>
+
+
+<epkm> 21539 </epkm>
+
+
+<load_factor> 596 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-14
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 406 </schkms>
+
+
+<effkms> 12235 </effkms>
+
+
+<revenue> 262245 </revenue>
+
+
+<epkm> 21434 </epkm>
+
+
+<load_factor> 593 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-15
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> GVRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 365 </schkms>
+
+
+<effkms> 12706 </effkms>
+
+
+<revenue> 270298 </revenue>
+
+
+<epkm> 21273 </epkm>
+
+
+<load_factor> 589 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-16
+
+</id><start_station> GVRP </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 365 </schkms>
+
+
+<effkms> 12570 </effkms>
+
+
+<revenue> 266975 </revenue>
+
+
+<epkm> 21239 </epkm>
+
+
+<load_factor> 588 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-17
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> RDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 430 </schkms>
+
+
+<effkms> 13262 </effkms>
+
+
+<revenue> 284700 </revenue>
+
+
+<epkm> 21467 </epkm>
+
+
+<load_factor> 908 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-19
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 9562 </effkms>
+
+
+<revenue> 204811 </revenue>
+
+
+<epkm> 21419 </epkm>
+
+
+<load_factor> 593 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-20
+
+</id><start_station> CKM </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 12356 </effkms>
+
+
+<revenue> 257235 </revenue>
+
+
+<epkm> 20819 </epkm>
+
+
+<load_factor> 576 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-21
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KTP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 386 </schkms>
+
+
+<effkms> 11432 </effkms>
+
+
+<revenue> 233698 </revenue>
+
+
+<epkm> 20442 </epkm>
+
+
+<load_factor> 864 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-23
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> SLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 258 </schkms>
+
+
+<effkms> 7661 </effkms>
+
+
+<revenue> 132617 </revenue>
+
+
+<epkm> 17311 </epkm>
+
+
+<load_factor> 732 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-27
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 8668 </effkms>
+
+
+<revenue> 191770 </revenue>
+
+
+<epkm> 22124 </epkm>
+
+
+<load_factor> 935 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-28
+
+</id><start_station> KNR </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 421 </schkms>
+
+
+<effkms> 11338 </effkms>
+
+
+<revenue> 253181 </revenue>
+
+
+<epkm> 22330 </epkm>
+
+
+<load_factor> 618 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-29
+
+</id><start_station> KNR </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 421 </schkms>
+
+
+<effkms> 12797 </effkms>
+
+
+<revenue> 294709 </revenue>
+
+
+<epkm> 23030 </epkm>
+
+
+<load_factor> 637 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-30
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 314 </schkms>
+
+
+<effkms> 8100 </effkms>
+
+
+<revenue> 145682 </revenue>
+
+
+<epkm> 17985 </epkm>
+
+
+<load_factor> 760 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-31
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> RVD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 299 </schkms>
+
+
+<effkms> 8029 </effkms>
+
+
+<revenue> 159963 </revenue>
+
+
+<epkm> 19923 </epkm>
+
+
+<load_factor> 842 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-33
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> ANTHANAHALLI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 424 </schkms>
+
+
+<effkms> 5904 </effkms>
+
+
+<revenue> 146373 </revenue>
+
+
+<epkm> 24792 </epkm>
+
+
+<load_factor> 1048 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-34
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9789 </effkms>
+
+
+<revenue> 145548 </revenue>
+
+
+<epkm> 14869 </epkm>
+
+
+<load_factor> 629 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-36
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 464 </schkms>
+
+
+<effkms> 13366 </effkms>
+
+
+<revenue> 257783 </revenue>
+
+
+<epkm> 19286 </epkm>
+
+
+<load_factor> 534 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-37
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 9960 </effkms>
+
+
+<revenue> 249195 </revenue>
+
+
+<epkm> 25020 </epkm>
+
+
+<load_factor> 692 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-40
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> SLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 8760 </effkms>
+
+
+<revenue> 191171 </revenue>
+
+
+<epkm> 21823 </epkm>
+
+
+<load_factor> 923 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-41
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 452 </schkms>
+
+
+<effkms> 9212 </effkms>
+
+
+<revenue> 224644 </revenue>
+
+
+<epkm> 24386 </epkm>
+
+
+<load_factor> 675 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-42
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 612 </schkms>
+
+
+<effkms> 17765 </effkms>
+
+
+<revenue> 368852 </revenue>
+
+
+<epkm> 20763 </epkm>
+
+
+<load_factor> 575 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-44
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 605 </schkms>
+
+
+<effkms> 18755 </effkms>
+
+
+<revenue> 481839 </revenue>
+
+
+<epkm> 25691 </epkm>
+
+
+<load_factor> 711 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-45
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 622 </schkms>
+
+
+<effkms> 19282 </effkms>
+
+
+<revenue> 444947 </revenue>
+
+
+<epkm> 23076 </epkm>
+
+
+<load_factor> 639 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-46
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 605 </schkms>
+
+
+<effkms> 18755 </effkms>
+
+
+<revenue> 498393 </revenue>
+
+
+<epkm> 26574 </epkm>
+
+
+<load_factor> 735 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-47
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 634 </schkms>
+
+
+<effkms> 19282 </effkms>
+
+
+<revenue> 431219 </revenue>
+
+
+<epkm> 22364 </epkm>
+
+
+<load_factor> 619 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-48
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 471 </schkms>
+
+
+<effkms> 14070 </effkms>
+
+
+<revenue> 423338 </revenue>
+
+
+<epkm> 30088 </epkm>
+
+
+<load_factor> 833 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-49
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 493 </schkms>
+
+
+<effkms> 14771 </effkms>
+
+
+<revenue> 338515 </revenue>
+
+
+<epkm> 22918 </epkm>
+
+
+<load_factor> 634 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-51
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KLP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 9302 </effkms>
+
+
+<revenue> 203408 </revenue>
+
+
+<epkm> 21867 </epkm>
+
+
+<load_factor> 925 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-54
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 5057 </effkms>
+
+
+<revenue> 112237 </revenue>
+
+
+<epkm> 22194 </epkm>
+
+
+<load_factor> 614 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-63
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> GRV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 210 </schkms>
+
+
+<effkms> 6190 </effkms>
+
+
+<revenue> 131294 </revenue>
+
+
+<epkm> 21211 </epkm>
+
+
+<load_factor> 897 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-64
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 210 </schkms>
+
+
+<effkms> 5842 </effkms>
+
+
+<revenue> 118748 </revenue>
+
+
+<epkm> 20327 </epkm>
+
+
+<load_factor> 859 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-65
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 207 </schkms>
+
+
+<effkms> 6565 </effkms>
+
+
+<revenue> 126004 </revenue>
+
+
+<epkm> 19193 </epkm>
+
+
+<load_factor> 812 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-66
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 207 </schkms>
+
+
+<effkms> 7062 </effkms>
+
+
+<revenue> 133051 </revenue>
+
+
+<epkm> 18840 </epkm>
+
+
+<load_factor> 797 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-69
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HSK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 260 </schkms>
+
+
+<effkms> 7800 </effkms>
+
+
+<revenue> 170713 </revenue>
+
+
+<epkm> 21886 </epkm>
+
+
+<load_factor> 925 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-70
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9672 </effkms>
+
+
+<revenue> 160093 </revenue>
+
+
+<epkm> 16552 </epkm>
+
+
+<load_factor> 700 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-71
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8847 </effkms>
+
+
+<revenue> 157514 </revenue>
+
+
+<epkm> 17804 </epkm>
+
+
+<load_factor> 753 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-73
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> DGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 260 </schkms>
+
+
+<effkms> 7507 </effkms>
+
+
+<revenue> 82952 </revenue>
+
+
+<epkm> 11050 </epkm>
+
+
+<load_factor> 467 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-74
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> DGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 208 </schkms>
+
+
+<effkms> 6960 </effkms>
+
+
+<revenue> 109131 </revenue>
+
+
+<epkm> 15680 </epkm>
+
+
+<load_factor> 663 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-76
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 196 </schkms>
+
+
+<effkms> 6940 </effkms>
+
+
+<revenue> 94502 </revenue>
+
+
+<epkm> 13617 </epkm>
+
+
+<load_factor> 576 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-82
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 266 </schkms>
+
+
+<effkms> 7998 </effkms>
+
+
+<revenue> 175243 </revenue>
+
+
+<epkm> 21911 </epkm>
+
+
+<load_factor> 926 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-85
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> RMTUNGA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 7693 </effkms>
+
+
+<revenue> 137219 </revenue>
+
+
+<epkm> 17837 </epkm>
+
+
+<load_factor> 754 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-86
+
+</id><start_station> RMTUNGA </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 7435 </effkms>
+
+
+<revenue> 135633 </revenue>
+
+
+<epkm> 18243 </epkm>
+
+
+<load_factor> 771 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-89
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KTR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 326 </schkms>
+
+
+<effkms> 8466 </effkms>
+
+
+<revenue> 169530 </revenue>
+
+
+<epkm> 20025 </epkm>
+
+
+<load_factor> 847 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-93
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 9519 </effkms>
+
+
+<revenue> 151251 </revenue>
+
+
+<epkm> 15889 </epkm>
+
+
+<load_factor> 672 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-97
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 286 </schkms>
+
+
+<effkms> 8552 </effkms>
+
+
+<revenue> 151923 </revenue>
+
+
+<epkm> 17765 </epkm>
+
+
+<load_factor> 751 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-98
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> NLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 300 </schkms>
+
+
+<effkms> 9152 </effkms>
+
+
+<revenue> 145194 </revenue>
+
+
+<epkm> 15865 </epkm>
+
+
+<load_factor> 671 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-99
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 397 </schkms>
+
+
+<effkms> 12888 </effkms>
+
+
+<revenue> 260831 </revenue>
+
+
+<epkm> 20238 </epkm>
+
+
+<load_factor> 856 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-100
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 9506 </effkms>
+
+
+<revenue> 162872 </revenue>
+
+
+<epkm> 17134 </epkm>
+
+
+<load_factor> 724 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-101
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 9209 </effkms>
+
+
+<revenue> 165331 </revenue>
+
+
+<epkm> 17953 </epkm>
+
+
+<load_factor> 759 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-102
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> KTR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 283 </schkms>
+
+
+<effkms> 8079 </effkms>
+
+
+<revenue> 154930 </revenue>
+
+
+<epkm> 19177 </epkm>
+
+
+<load_factor> 811 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-117
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> SLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 8400 </effkms>
+
+
+<revenue> 156354 </revenue>
+
+
+<epkm> 18614 </epkm>
+
+
+<load_factor> 787 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-118
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> SLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 8094 </effkms>
+
+
+<revenue> 162208 </revenue>
+
+
+<epkm> 20041 </epkm>
+
+
+<load_factor> 847 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-122
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 8370 </effkms>
+
+
+<revenue> 251216 </revenue>
+
+
+<epkm> 30014 </epkm>
+
+
+<load_factor> 1269 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-125
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 8184 </effkms>
+
+
+<revenue> 231046 </revenue>
+
+
+<epkm> 28231 </epkm>
+
+
+<load_factor> 1194 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-126
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 260 </schkms>
+
+
+<effkms> 6960 </effkms>
+
+
+<revenue> 126011 </revenue>
+
+
+<epkm> 18105 </epkm>
+
+
+<load_factor> 766 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-175
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 16546 </effkms>
+
+
+<revenue> 309301 </revenue>
+
+
+<epkm> 18693 </epkm>
+
+
+<load_factor> 517 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-181
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7440 </effkms>
+
+
+<revenue> 140561 </revenue>
+
+
+<epkm> 18893 </epkm>
+
+
+<load_factor> 799 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-182
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 134801 </revenue>
+
+
+<epkm> 18722 </epkm>
+
+
+<load_factor> 792 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-183
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7360 </effkms>
+
+
+<revenue> 152316 </revenue>
+
+
+<epkm> 20695 </epkm>
+
+
+<load_factor> 875 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-184
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7380 </effkms>
+
+
+<revenue> 150322 </revenue>
+
+
+<epkm> 20369 </epkm>
+
+
+<load_factor> 861 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-185
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7320 </effkms>
+
+
+<revenue> 149182 </revenue>
+
+
+<epkm> 20380 </epkm>
+
+
+<load_factor> 862 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-186
+
+</id><start_station> KRG </start_station>
+
+
+<end_station> BRY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7200 </effkms>
+
+
+<revenue> 130996 </revenue>
+
+
+<epkm> 18194 </epkm>
+
+
+<load_factor> 769 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-243
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> CBT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 504 </schkms>
+
+
+<effkms> 14112 </effkms>
+
+
+<revenue> 314164 </revenue>
+
+
+<epkm> 22262 </epkm>
+
+
+<load_factor> 616 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-244
+
+</id><start_station> CBT </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 504 </schkms>
+
+
+<effkms> 11088 </effkms>
+
+
+<revenue> 230761 </revenue>
+
+
+<epkm> 20812 </epkm>
+
+
+<load_factor> 576 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-245
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> MDRI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 455 </schkms>
+
+
+<effkms> 12740 </effkms>
+
+
+<revenue> 191224 </revenue>
+
+
+<epkm> 15010 </epkm>
+
+
+<load_factor> 415 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KRG-246
+
+</id><start_station> MDRI </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 455 </schkms>
+
+
+<effkms> 14105 </effkms>
+
+
+<revenue> 189619 </revenue>
+
+
+<epkm> 13443 </epkm>
+
+
+<load_factor> 372 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-4
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 603 </schkms>
+
+
+<effkms> 16674 </effkms>
+
+
+<revenue> 318479 </revenue>
+
+
+<epkm> 19100 </epkm>
+
+
+<load_factor> 529 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-5
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 450 </schkms>
+
+
+<effkms> 13950 </effkms>
+
+
+<revenue> 266713 </revenue>
+
+
+<epkm> 19119 </epkm>
+
+
+<load_factor> 529 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-6
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 450 </schkms>
+
+
+<effkms> 13950 </effkms>
+
+
+<revenue> 267602 </revenue>
+
+
+<epkm> 19183 </epkm>
+
+
+<load_factor> 531 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-7
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> NGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 281 </schkms>
+
+
+<effkms> 5867 </effkms>
+
+
+<revenue> 100084 </revenue>
+
+
+<epkm> 17059 </epkm>
+
+
+<load_factor> 721 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-8
+
+</id><start_station> NGH </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 281 </schkms>
+
+
+<effkms> 8251 </effkms>
+
+
+<revenue> 140538 </revenue>
+
+
+<epkm> 17033 </epkm>
+
+
+<load_factor> 720 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-11
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7800 </effkms>
+
+
+<revenue> 163859 </revenue>
+
+
+<epkm> 21008 </epkm>
+
+
+<load_factor> 888 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-12
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 9660 </effkms>
+
+
+<revenue> 192873 </revenue>
+
+
+<epkm> 19966 </epkm>
+
+
+<load_factor> 844 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-13
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 8102 </effkms>
+
+
+<revenue> 169301 </revenue>
+
+
+<epkm> 20896 </epkm>
+
+
+<load_factor> 884 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-14
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 558 </schkms>
+
+
+<effkms> 17298 </effkms>
+
+
+<revenue> 400328 </revenue>
+
+
+<epkm> 23143 </epkm>
+
+
+<load_factor> 640 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-15
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 14200 </effkms>
+
+
+<revenue> 290504 </revenue>
+
+
+<epkm> 20458 </epkm>
+
+
+<load_factor> 566 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-16
+
+</id><start_station> MRC </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 408 </schkms>
+
+
+<effkms> 10622 </effkms>
+
+
+<revenue> 245712 </revenue>
+
+
+<epkm> 23132 </epkm>
+
+
+<load_factor> 640 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-17
+
+</id><start_station> SIRA </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 492 </schkms>
+
+
+<effkms> 14760 </effkms>
+
+
+<revenue> 296562 </revenue>
+
+
+<epkm> 20092 </epkm>
+
+
+<load_factor> 556 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-18
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 410 </schkms>
+
+
+<effkms> 11259 </effkms>
+
+
+<revenue> 222034 </revenue>
+
+
+<epkm> 19721 </epkm>
+
+
+<load_factor> 546 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-20
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 403 </schkms>
+
+
+<effkms> 11612 </effkms>
+
+
+<revenue> 230831 </revenue>
+
+
+<epkm> 19879 </epkm>
+
+
+<load_factor> 841 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-21
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 368 </schkms>
+
+
+<effkms> 9840 </effkms>
+
+
+<revenue> 205947 </revenue>
+
+
+<epkm> 20930 </epkm>
+
+
+<load_factor> 885 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-22
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 408 </schkms>
+
+
+<effkms> 12242 </effkms>
+
+
+<revenue> 349425 </revenue>
+
+
+<epkm> 28543 </epkm>
+
+
+<load_factor> 790 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-23
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 11030 </effkms>
+
+
+<revenue> 235612 </revenue>
+
+
+<epkm> 21361 </epkm>
+
+
+<load_factor> 903 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-24
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 12360 </effkms>
+
+
+<revenue> 259833 </revenue>
+
+
+<epkm> 21022 </epkm>
+
+
+<load_factor> 582 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-25
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8126 </effkms>
+
+
+<revenue> 134691 </revenue>
+
+
+<epkm> 16575 </epkm>
+
+
+<load_factor> 701 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-26
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 595 </schkms>
+
+
+<effkms> 18045 </effkms>
+
+
+<revenue> 508712 </revenue>
+
+
+<epkm> 28191 </epkm>
+
+
+<load_factor> 780 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-27
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 478 </schkms>
+
+
+<effkms> 13514 </effkms>
+
+
+<revenue> 265243 </revenue>
+
+
+<epkm> 19627 </epkm>
+
+
+<load_factor> 543 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-28
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 11406 </effkms>
+
+
+<revenue> 202134 </revenue>
+
+
+<epkm> 17722 </epkm>
+
+
+<load_factor> 749 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-29
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 530 </schkms>
+
+
+<effkms> 15884 </effkms>
+
+
+<revenue> 348402 </revenue>
+
+
+<epkm> 21934 </epkm>
+
+
+<load_factor> 607 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-30
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7364 </effkms>
+
+
+<revenue> 162264 </revenue>
+
+
+<epkm> 22035 </epkm>
+
+
+<load_factor> 932 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-31
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 220 </schkms>
+
+
+<effkms> 6600 </effkms>
+
+
+<revenue> 137777 </revenue>
+
+
+<epkm> 20875 </epkm>
+
+
+<load_factor> 883 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-32
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 345 </schkms>
+
+
+<effkms> 10583 </effkms>
+
+
+<revenue> 182707 </revenue>
+
+
+<epkm> 17264 </epkm>
+
+
+<load_factor> 730 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-33
+
+</id><start_station> HSN </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 296 </schkms>
+
+
+<effkms> 8942 </effkms>
+
+
+<revenue> 142235 </revenue>
+
+
+<epkm> 15906 </epkm>
+
+
+<load_factor> 673 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-34
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 378 </schkms>
+
+
+<effkms> 10976 </effkms>
+
+
+<revenue> 188236 </revenue>
+
+
+<epkm> 17150 </epkm>
+
+
+<load_factor> 725 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-35
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MTM </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 599 </schkms>
+
+
+<effkms> 18569 </effkms>
+
+
+<revenue> 369512 </revenue>
+
+
+<epkm> 19899 </epkm>
+
+
+<load_factor> 454 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-36
+
+</id><start_station> MTM </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<schkms> 599 </schkms>
+
+
+<effkms> 18569 </effkms>
+
+
+<revenue> 382619 </revenue>
+
+
+<epkm> 20605 </epkm>
+
+
+<load_factor> 470 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-37
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 340 </schkms>
+
+
+<effkms> 10258 </effkms>
+
+
+<revenue> 224318 </revenue>
+
+
+<epkm> 21868 </epkm>
+
+
+<load_factor> 925 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-39
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 441 </schkms>
+
+
+<effkms> 13671 </effkms>
+
+
+<revenue> 311774 </revenue>
+
+
+<epkm> 22806 </epkm>
+
+
+<load_factor> 631 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-40
+
+</id><start_station> TPT </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 441 </schkms>
+
+
+<effkms> 13671 </effkms>
+
+
+<revenue> 299036 </revenue>
+
+
+<epkm> 21874 </epkm>
+
+
+<load_factor> 605 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-41
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 8963 </effkms>
+
+
+<revenue> 199455 </revenue>
+
+
+<epkm> 22253 </epkm>
+
+
+<load_factor> 616 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-42
+
+</id><start_station> KSH </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 10530 </effkms>
+
+
+<revenue> 225857 </revenue>
+
+
+<epkm> 21449 </epkm>
+
+
+<load_factor> 594 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-44
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 528 </schkms>
+
+
+<effkms> 16368 </effkms>
+
+
+<revenue> 368948 </revenue>
+
+
+<epkm> 22541 </epkm>
+
+
+<load_factor> 624 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-45
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 538 </schkms>
+
+
+<effkms> 17143 </effkms>
+
+
+<revenue> 464939 </revenue>
+
+
+<epkm> 27121 </epkm>
+
+
+<load_factor> 751 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-46
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 326 </schkms>
+
+
+<effkms> 9284 </effkms>
+
+
+<revenue> 119766 </revenue>
+
+
+<epkm> 12900 </epkm>
+
+
+<load_factor> 545 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-47
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 9924 </effkms>
+
+
+<revenue> 144361 </revenue>
+
+
+<epkm> 14547 </epkm>
+
+
+<load_factor> 615 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-48
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 5988 </effkms>
+
+
+<revenue> 148035 </revenue>
+
+
+<epkm> 24722 </epkm>
+
+
+<load_factor> 1045 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-49
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 292 </schkms>
+
+
+<effkms> 6090 </effkms>
+
+
+<revenue> 160902 </revenue>
+
+
+<epkm> 26421 </epkm>
+
+
+<load_factor> 1117 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-50
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 385 </schkms>
+
+
+<effkms> 9753 </effkms>
+
+
+<revenue> 202779 </revenue>
+
+
+<epkm> 20791 </epkm>
+
+
+<load_factor> 575 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-51
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 6624 </effkms>
+
+
+<revenue> 138450 </revenue>
+
+
+<epkm> 20901 </epkm>
+
+
+<load_factor> 884 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-52
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 8302 </effkms>
+
+
+<revenue> 170817 </revenue>
+
+
+<epkm> 20575 </epkm>
+
+
+<load_factor> 870 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-53
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 8796 </effkms>
+
+
+<revenue> 173912 </revenue>
+
+
+<epkm> 19772 </epkm>
+
+
+<load_factor> 836 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-54
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 10666 </effkms>
+
+
+<revenue> 181816 </revenue>
+
+
+<epkm> 17046 </epkm>
+
+
+<load_factor> 721 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-56
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 352 </schkms>
+
+
+<effkms> 10618 </effkms>
+
+
+<revenue> 133298 </revenue>
+
+
+<epkm> 12554 </epkm>
+
+
+<load_factor> 531 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-57
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 304 </schkms>
+
+
+<effkms> 9030 </effkms>
+
+
+<revenue> 143749 </revenue>
+
+
+<epkm> 15919 </epkm>
+
+
+<load_factor> 673 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-58
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 252 </schkms>
+
+
+<effkms> 7632 </effkms>
+
+
+<revenue> 143221 </revenue>
+
+
+<epkm> 18766 </epkm>
+
+
+<load_factor> 793 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-59
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 312 </schkms>
+
+
+<effkms> 9388 </effkms>
+
+
+<revenue> 131007 </revenue>
+
+
+<epkm> 13955 </epkm>
+
+
+<load_factor> 590 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-60
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 224 </schkms>
+
+
+<effkms> 7248 </effkms>
+
+
+<revenue> 151919 </revenue>
+
+
+<epkm> 20960 </epkm>
+
+
+<load_factor> 886 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-61
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 244 </schkms>
+
+
+<effkms> 6552 </effkms>
+
+
+<revenue> 120228 </revenue>
+
+
+<epkm> 18350 </epkm>
+
+
+<load_factor> 776 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-62
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 9920 </effkms>
+
+
+<revenue> 159304 </revenue>
+
+
+<epkm> 16059 </epkm>
+
+
+<load_factor> 679 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-63
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 318 </schkms>
+
+
+<effkms> 9858 </effkms>
+
+
+<revenue> 156029 </revenue>
+
+
+<epkm> 15828 </epkm>
+
+
+<load_factor> 669 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-65
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KDM </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 342 </schkms>
+
+
+<effkms> 9093 </effkms>
+
+
+<revenue> 159568 </revenue>
+
+
+<epkm> 17548 </epkm>
+
+
+<load_factor> 742 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-66
+
+</id><start_station> KDM </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 244 </schkms>
+
+
+<effkms> 6848 </effkms>
+
+
+<revenue> 145797 </revenue>
+
+
+<epkm> 21290 </epkm>
+
+
+<load_factor> 900 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-67
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> CLH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 310 </schkms>
+
+
+<effkms> 9538 </effkms>
+
+
+<revenue> 141921 </revenue>
+
+
+<epkm> 14880 </epkm>
+
+
+<load_factor> 629 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-68
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 252 </schkms>
+
+
+<effkms> 7210 </effkms>
+
+
+<revenue> 118724 </revenue>
+
+
+<epkm> 16467 </epkm>
+
+
+<load_factor> 696 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-69
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> BTP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 309 </schkms>
+
+
+<effkms> 9016 </effkms>
+
+
+<revenue> 175853 </revenue>
+
+
+<epkm> 19505 </epkm>
+
+
+<load_factor> 825 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-70
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 252 </schkms>
+
+
+<effkms> 7958 </effkms>
+
+
+<revenue> 149309 </revenue>
+
+
+<epkm> 18762 </epkm>
+
+
+<load_factor> 793 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-71
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 330 </schkms>
+
+
+<effkms> 9418 </effkms>
+
+
+<revenue> 143682 </revenue>
+
+
+<epkm> 15256 </epkm>
+
+
+<load_factor> 645 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-72
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 278 </schkms>
+
+
+<effkms> 7930 </effkms>
+
+
+<revenue> 145629 </revenue>
+
+
+<epkm> 18364 </epkm>
+
+
+<load_factor> 777 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-73
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 10780 </effkms>
+
+
+<revenue> 208672 </revenue>
+
+
+<epkm> 19357 </epkm>
+
+
+<load_factor> 818 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-74
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 8268 </effkms>
+
+
+<revenue> 140513 </revenue>
+
+
+<epkm> 16995 </epkm>
+
+
+<load_factor> 719 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-75
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 9002 </effkms>
+
+
+<revenue> 146596 </revenue>
+
+
+<epkm> 16285 </epkm>
+
+
+<load_factor> 689 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-77
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 8746 </effkms>
+
+
+<revenue> 125756 </revenue>
+
+
+<epkm> 14379 </epkm>
+
+
+<load_factor> 608 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-78
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 9541 </effkms>
+
+
+<revenue> 141752 </revenue>
+
+
+<epkm> 14857 </epkm>
+
+
+<load_factor> 628 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-79
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 278 </schkms>
+
+
+<effkms> 6632 </effkms>
+
+
+<revenue> 136875 </revenue>
+
+
+<epkm> 20639 </epkm>
+
+
+<load_factor> 873 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-80
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 278 </schkms>
+
+
+<effkms> 7094 </effkms>
+
+
+<revenue> 156047 </revenue>
+
+
+<epkm> 21997 </epkm>
+
+
+<load_factor> 930 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-81
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> CNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 316 </schkms>
+
+
+<effkms> 9064 </effkms>
+
+
+<revenue> 161476 </revenue>
+
+
+<epkm> 17815 </epkm>
+
+
+<load_factor> 753 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-83
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 275 </schkms>
+
+
+<effkms> 4003 </effkms>
+
+
+<revenue> 72525 </revenue>
+
+
+<epkm> 18118 </epkm>
+
+
+<load_factor> 766 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-84
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 285 </schkms>
+
+
+<effkms> 4940 </effkms>
+
+
+<revenue> 87457 </revenue>
+
+
+<epkm> 17704 </epkm>
+
+
+<load_factor> 749 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-83
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 492 </schkms>
+
+
+<effkms> 4656 </effkms>
+
+
+<revenue> 83692 </revenue>
+
+
+<epkm> 17975 </epkm>
+
+
+<load_factor> 760 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-84
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KTA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 443 </schkms>
+
+
+<effkms> 2381 </effkms>
+
+
+<revenue> 43226 </revenue>
+
+
+<epkm> 18155 </epkm>
+
+
+<load_factor> 768 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-85
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 357 </schkms>
+
+
+<effkms> 8700 </effkms>
+
+
+<revenue> 133021 </revenue>
+
+
+<epkm> 15290 </epkm>
+
+
+<load_factor> 647 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-86
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 384 </schkms>
+
+
+<effkms> 10602 </effkms>
+
+
+<revenue> 223310 </revenue>
+
+
+<epkm> 21063 </epkm>
+
+
+<load_factor> 891 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-87
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 300 </schkms>
+
+
+<effkms> 8152 </effkms>
+
+
+<revenue> 121608 </revenue>
+
+
+<epkm> 14918 </epkm>
+
+
+<load_factor> 631 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-88
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 262 </schkms>
+
+
+<effkms> 7246 </effkms>
+
+
+<revenue> 105343 </revenue>
+
+
+<epkm> 14538 </epkm>
+
+
+<load_factor> 615 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-89
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 318 </schkms>
+
+
+<effkms> 8882 </effkms>
+
+
+<revenue> 135163 </revenue>
+
+
+<epkm> 15218 </epkm>
+
+
+<load_factor> 643 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-90
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 272 </schkms>
+
+
+<effkms> 7386 </effkms>
+
+
+<revenue> 115682 </revenue>
+
+
+<epkm> 15662 </epkm>
+
+
+<load_factor> 662 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-91
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 293 </schkms>
+
+
+<effkms> 8417 </effkms>
+
+
+<revenue> 132292 </revenue>
+
+
+<epkm> 15717 </epkm>
+
+
+<load_factor> 665 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-93
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8120 </effkms>
+
+
+<revenue> 106536 </revenue>
+
+
+<epkm> 13120 </epkm>
+
+
+<load_factor> 555 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-94
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 234 </schkms>
+
+
+<effkms> 5924 </effkms>
+
+
+<revenue> 82310 </revenue>
+
+
+<epkm> 13894 </epkm>
+
+
+<load_factor> 587 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-95
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 309 </schkms>
+
+
+<effkms> 8857 </effkms>
+
+
+<revenue> 157432 </revenue>
+
+
+<epkm> 17775 </epkm>
+
+
+<load_factor> 752 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-97
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KSH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 9046 </effkms>
+
+
+<revenue> 186660 </revenue>
+
+
+<epkm> 20635 </epkm>
+
+
+<load_factor> 571 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-98
+
+</id><start_station> KSH </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 10002 </effkms>
+
+
+<revenue> 206756 </revenue>
+
+
+<epkm> 20671 </epkm>
+
+
+<load_factor> 572 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-99
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 294 </schkms>
+
+
+<effkms> 8150 </effkms>
+
+
+<revenue> 146680 </revenue>
+
+
+<epkm> 17998 </epkm>
+
+
+<load_factor> 761 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-100
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HUM </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 358 </schkms>
+
+
+<effkms> 10104 </effkms>
+
+
+<revenue> 148921 </revenue>
+
+
+<epkm> 14739 </epkm>
+
+
+<load_factor> 623 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-101
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 432 </schkms>
+
+
+<effkms> 11554 </effkms>
+
+
+<revenue> 293812 </revenue>
+
+
+<epkm> 25429 </epkm>
+
+
+<load_factor> 704 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-102
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> YMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 262 </schkms>
+
+
+<effkms> 7270 </effkms>
+
+
+<revenue> 120169 </revenue>
+
+
+<epkm> 16529 </epkm>
+
+
+<load_factor> 699 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-103
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 290 </schkms>
+
+
+<effkms> 8410 </effkms>
+
+
+<revenue> 120946 </revenue>
+
+
+<epkm> 14381 </epkm>
+
+
+<load_factor> 608 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-104
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 300 </schkms>
+
+
+<effkms> 8530 </effkms>
+
+
+<revenue> 108554 </revenue>
+
+
+<epkm> 12726 </epkm>
+
+
+<load_factor> 538 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-105
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 308 </schkms>
+
+
+<effkms> 8653 </effkms>
+
+
+<revenue> 178668 </revenue>
+
+
+<epkm> 20648 </epkm>
+
+
+<load_factor> 873 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-106
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> CLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 296 </schkms>
+
+
+<effkms> 8250 </effkms>
+
+
+<revenue> 134325 </revenue>
+
+
+<epkm> 16282 </epkm>
+
+
+<load_factor> 688 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-107
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 288 </schkms>
+
+
+<effkms> 6948 </effkms>
+
+
+<revenue> 128657 </revenue>
+
+
+<epkm> 18517 </epkm>
+
+
+<load_factor> 783 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-108
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 272 </schkms>
+
+
+<effkms> 7788 </effkms>
+
+
+<revenue> 131157 </revenue>
+
+
+<epkm> 16841 </epkm>
+
+
+<load_factor> 712 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-109
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> PRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 228 </schkms>
+
+
+<effkms> 6492 </effkms>
+
+
+<revenue> 118736 </revenue>
+
+
+<epkm> 18290 </epkm>
+
+
+<load_factor> 773 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-110
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8000 </effkms>
+
+
+<revenue> 97147 </revenue>
+
+
+<epkm> 12143 </epkm>
+
+
+<load_factor> 513 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-112
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 419 </schkms>
+
+
+<effkms> 9832 </effkms>
+
+
+<revenue> 208627 </revenue>
+
+
+<epkm> 21219 </epkm>
+
+
+<load_factor> 587 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-113
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 8897 </effkms>
+
+
+<revenue> 185542 </revenue>
+
+
+<epkm> 20854 </epkm>
+
+
+<load_factor> 577 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-114
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 9389 </effkms>
+
+
+<revenue> 201808 </revenue>
+
+
+<epkm> 21494 </epkm>
+
+
+<load_factor> 595 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-115
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 252 </schkms>
+
+
+<effkms> 7062 </effkms>
+
+
+<revenue> 135260 </revenue>
+
+
+<epkm> 19153 </epkm>
+
+
+<load_factor> 810 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-118
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7010 </effkms>
+
+
+<revenue> 121710 </revenue>
+
+
+<epkm> 17362 </epkm>
+
+
+<load_factor> 734 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-119
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 300 </schkms>
+
+
+<effkms> 8450 </effkms>
+
+
+<revenue> 127162 </revenue>
+
+
+<epkm> 15049 </epkm>
+
+
+<load_factor> 636 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-120
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 10288 </effkms>
+
+
+<revenue> 165588 </revenue>
+
+
+<epkm> 16095 </epkm>
+
+
+<load_factor> 681 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-125
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> SMP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 438 </schkms>
+
+
+<effkms> 12702 </effkms>
+
+
+<revenue> 316600 </revenue>
+
+
+<epkm> 24925 </epkm>
+
+
+<load_factor> 690 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-126
+
+</id><start_station> SMP </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 438 </schkms>
+
+
+<effkms> 12702 </effkms>
+
+
+<revenue> 285160 </revenue>
+
+
+<epkm> 22450 </epkm>
+
+
+<load_factor> 621 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-129
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 251 </schkms>
+
+
+<effkms> 3888 </effkms>
+
+
+<revenue> 61861 </revenue>
+
+
+<epkm> 15911 </epkm>
+
+
+<load_factor> 673 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-130
+
+</id><start_station> TNP </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 251 </schkms>
+
+
+<effkms> 4390 </effkms>
+
+
+<revenue> 75379 </revenue>
+
+
+<epkm> 17171 </epkm>
+
+
+<load_factor> 726 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-131
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 432 </schkms>
+
+
+<effkms> 10520 </effkms>
+
+
+<revenue> 221286 </revenue>
+
+
+<epkm> 21035 </epkm>
+
+
+<load_factor> 582 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-132
+
+</id><start_station> KNR </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 340 </schkms>
+
+
+<effkms> 9081 </effkms>
+
+
+<revenue> 200084 </revenue>
+
+
+<epkm> 22033 </epkm>
+
+
+<load_factor> 610 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-137
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MRC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 412 </schkms>
+
+
+<effkms> 9809 </effkms>
+
+
+<revenue> 214113 </revenue>
+
+
+<epkm> 21828 </epkm>
+
+
+<load_factor> 604 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-139
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 242 </schkms>
+
+
+<effkms> 3871 </effkms>
+
+
+<revenue> 68088 </revenue>
+
+
+<epkm> 17589 </epkm>
+
+
+<load_factor> 744 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-140
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 242 </schkms>
+
+
+<effkms> 4477 </effkms>
+
+
+<revenue> 84259 </revenue>
+
+
+<epkm> 18820 </epkm>
+
+
+<load_factor> 796 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-141
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 3837 </effkms>
+
+
+<revenue> 55297 </revenue>
+
+
+<epkm> 14412 </epkm>
+
+
+<load_factor> 609 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-142
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 282 </schkms>
+
+
+<effkms> 4657 </effkms>
+
+
+<revenue> 70106 </revenue>
+
+
+<epkm> 15054 </epkm>
+
+
+<load_factor> 637 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-143
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 6888 </effkms>
+
+
+<revenue> 137390 </revenue>
+
+
+<epkm> 19946 </epkm>
+
+
+<load_factor> 843 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HNS-144
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 356 </schkms>
+
+
+<effkms> 8894 </effkms>
+
+
+<revenue> 170910 </revenue>
+
+
+<epkm> 19216 </epkm>
+
+
+<load_factor> 813 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-3
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 12090 </effkms>
+
+
+<revenue> 273813 </revenue>
+
+
+<epkm> 22648 </epkm>
+
+
+<load_factor> 627 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-4
+
+</id><start_station> VRP </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 390 </schkms>
+
+
+<effkms> 12090 </effkms>
+
+
+<revenue> 263949 </revenue>
+
+
+<epkm> 21832 </epkm>
+
+
+<load_factor> 604 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-6
+
+</id><start_station> BNG </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 420 </schkms>
+
+
+<effkms> 13020 </effkms>
+
+
+<revenue> 234652 </revenue>
+
+
+<epkm> 18022 </epkm>
+
+
+<load_factor> 499 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-7
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 380 </schkms>
+
+
+<effkms> 10640 </effkms>
+
+
+<revenue> 205757 </revenue>
+
+
+<epkm> 19338 </epkm>
+
+
+<load_factor> 535 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-8
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 380 </schkms>
+
+
+<effkms> 10640 </effkms>
+
+
+<revenue> 202949 </revenue>
+
+
+<epkm> 19074 </epkm>
+
+
+<load_factor> 528 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-9
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 367 </schkms>
+
+
+<effkms> 11718 </effkms>
+
+
+<revenue> 220397 </revenue>
+
+
+<epkm> 18808 </epkm>
+
+
+<load_factor> 795 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-10
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 367 </schkms>
+
+
+<effkms> 11180 </effkms>
+
+
+<revenue> 201400 </revenue>
+
+
+<epkm> 18014 </epkm>
+
+
+<load_factor> 762 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-11
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HLH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 362 </schkms>
+
+
+<effkms> 10529 </effkms>
+
+
+<revenue> 168874 </revenue>
+
+
+<epkm> 16039 </epkm>
+
+
+<load_factor> 678 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-13
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MANANDVADI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 354 </schkms>
+
+
+<effkms> 10974 </effkms>
+
+
+<revenue> 223510 </revenue>
+
+
+<epkm> 20367 </epkm>
+
+
+<load_factor> 564 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-14
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> DDH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 322 </schkms>
+
+
+<effkms> 9824 </effkms>
+
+
+<revenue> 152497 </revenue>
+
+
+<epkm> 15523 </epkm>
+
+
+<load_factor> 656 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-17
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 378 </schkms>
+
+
+<effkms> 11718 </effkms>
+
+
+<revenue> 223475 </revenue>
+
+
+<epkm> 19071 </epkm>
+
+
+<load_factor> 528 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-18
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 422 </schkms>
+
+
+<effkms> 8964 </effkms>
+
+
+<revenue> 170233 </revenue>
+
+
+<epkm> 18991 </epkm>
+
+
+<load_factor> 526 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-19
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MND </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 381 </schkms>
+
+
+<effkms> 12183 </effkms>
+
+
+<revenue> 249465 </revenue>
+
+
+<epkm> 20476 </epkm>
+
+
+<load_factor> 567 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-20
+
+</id><start_station> MND </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 381 </schkms>
+
+
+<effkms> 12183 </effkms>
+
+
+<revenue> 241831 </revenue>
+
+
+<epkm> 19850 </epkm>
+
+
+<load_factor> 549 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-21
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> STM </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 423 </schkms>
+
+
+<effkms> 12815 </effkms>
+
+
+<revenue> 218613 </revenue>
+
+
+<epkm> 17059 </epkm>
+
+
+<load_factor> 721 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-22
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 348 </schkms>
+
+
+<effkms> 1366 </effkms>
+
+
+<revenue> 23194 </revenue>
+
+
+<epkm> 16980 </epkm>
+
+
+<load_factor> 718 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-23
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 210 </schkms>
+
+
+<effkms> 6377 </effkms>
+
+
+<revenue> 101598 </revenue>
+
+
+<epkm> 15932 </epkm>
+
+
+<load_factor> 674 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-25
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> LNK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 378 </schkms>
+
+
+<effkms> 11718 </effkms>
+
+
+<revenue> 216272 </revenue>
+
+
+<epkm> 18456 </epkm>
+
+
+<load_factor> 780 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-26
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HNS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 276 </schkms>
+
+
+<effkms> 6882 </effkms>
+
+
+<revenue> 133980 </revenue>
+
+
+<epkm> 19468 </epkm>
+
+
+<load_factor> 823 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-27
+
+</id><start_station> HNS </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 276 </schkms>
+
+
+<effkms> 6742 </effkms>
+
+
+<revenue> 128551 </revenue>
+
+
+<epkm> 19067 </epkm>
+
+
+<load_factor> 806 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-29
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> VRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 10044 </effkms>
+
+
+<revenue> 225760 </revenue>
+
+
+<epkm> 22477 </epkm>
+
+
+<load_factor> 950 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-30
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 449 </schkms>
+
+
+<effkms> 12304 </effkms>
+
+
+<revenue> 206428 </revenue>
+
+
+<epkm> 16777 </epkm>
+
+
+<load_factor> 709 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-31
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 418 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 304462 </revenue>
+
+
+<epkm> 23496 </epkm>
+
+
+<load_factor> 650 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-32
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 418 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 297458 </revenue>
+
+
+<epkm> 22956 </epkm>
+
+
+<load_factor> 635 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-33
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> KTH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 307 </schkms>
+
+
+<effkms> 8773 </effkms>
+
+
+<revenue> 141799 </revenue>
+
+
+<epkm> 16163 </epkm>
+
+
+<load_factor> 683 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-38
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> BCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 314 </schkms>
+
+
+<effkms> 9301 </effkms>
+
+
+<revenue> 156118 </revenue>
+
+
+<epkm> 16785 </epkm>
+
+
+<load_factor> 710 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-39
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 265 </schkms>
+
+
+<effkms> 7647 </effkms>
+
+
+<revenue> 129537 </revenue>
+
+
+<epkm> 16940 </epkm>
+
+
+<load_factor> 716 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-40
+
+</id><start_station> MYS </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 309 </schkms>
+
+
+<effkms> 7643 </effkms>
+
+
+<revenue> 121512 </revenue>
+
+
+<epkm> 15898 </epkm>
+
+
+<load_factor> 672 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-41
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GDT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 8370 </effkms>
+
+
+<revenue> 142310 </revenue>
+
+
+<epkm> 17002 </epkm>
+
+
+<load_factor> 719 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-42
+
+</id><start_station> GDT </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 7995 </effkms>
+
+
+<revenue> 130702 </revenue>
+
+
+<epkm> 16348 </epkm>
+
+
+<load_factor> 691 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-43
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> KRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 4469 </effkms>
+
+
+<revenue> 76871 </revenue>
+
+
+<epkm> 17201 </epkm>
+
+
+<load_factor> 727 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-45
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 254 </schkms>
+
+
+<effkms> 6138 </effkms>
+
+
+<revenue> 101379 </revenue>
+
+
+<epkm> 16517 </epkm>
+
+
+<load_factor> 698 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-46
+
+</id><start_station> HBG </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 207 </schkms>
+
+
+<effkms> 5964 </effkms>
+
+
+<revenue> 94581 </revenue>
+
+
+<epkm> 15859 </epkm>
+
+
+<load_factor> 671 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-47
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GMH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 307 </schkms>
+
+
+<effkms> 5761 </effkms>
+
+
+<revenue> 86144 </revenue>
+
+
+<epkm> 14953 </epkm>
+
+
+<load_factor> 632 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-48
+
+</id><start_station> GMH </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 261 </schkms>
+
+
+<effkms> 4873 </effkms>
+
+
+<revenue> 68834 </revenue>
+
+
+<epkm> 14126 </epkm>
+
+
+<load_factor> 597 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-49
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 9059 </effkms>
+
+
+<revenue> 135410 </revenue>
+
+
+<epkm> 14948 </epkm>
+
+
+<load_factor> 632 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-50
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 292 </schkms>
+
+
+<effkms> 8738 </effkms>
+
+
+<revenue> 138055 </revenue>
+
+
+<epkm> 15799 </epkm>
+
+
+<load_factor> 668 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-51
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 302 </schkms>
+
+
+<effkms> 9060 </effkms>
+
+
+<revenue> 174312 </revenue>
+
+
+<epkm> 19240 </epkm>
+
+
+<load_factor> 814 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-52
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 382 </schkms>
+
+
+<effkms> 15138 </effkms>
+
+
+<revenue> 289365 </revenue>
+
+
+<epkm> 19115 </epkm>
+
+
+<load_factor> 529 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-55
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GDTACBG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 328 </schkms>
+
+
+<effkms> 9776 </effkms>
+
+
+<revenue> 144630 </revenue>
+
+
+<epkm> 14794 </epkm>
+
+
+<load_factor> 626 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-56
+
+</id><start_station> SRG </start_station>
+
+
+<end_station> HBK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 357 </schkms>
+
+
+<effkms> 8958 </effkms>
+
+
+<revenue> 130435 </revenue>
+
+
+<epkm> 14561 </epkm>
+
+
+<load_factor> 616 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-57
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> NJD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 306 </schkms>
+
+
+<effkms> 8691 </effkms>
+
+
+<revenue> 159674 </revenue>
+
+
+<epkm> 18372 </epkm>
+
+
+<load_factor> 777 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-58
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> NDH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 351 </schkms>
+
+
+<effkms> 9559 </effkms>
+
+
+<revenue> 153377 </revenue>
+
+
+<epkm> 16045 </epkm>
+
+
+<load_factor> 678 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-59
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> TMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 265 </schkms>
+
+
+<effkms> 7099 </effkms>
+
+
+<revenue> 141917 </revenue>
+
+
+<epkm> 19991 </epkm>
+
+
+<load_factor> 845 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-60
+
+</id><start_station> TMT </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 586 </schkms>
+
+
+<effkms> 6744 </effkms>
+
+
+<revenue> 132070 </revenue>
+
+
+<epkm> 19583 </epkm>
+
+
+<load_factor> 828 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-61
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GMH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 396 </schkms>
+
+
+<effkms> 9529 </effkms>
+
+
+<revenue> 169742 </revenue>
+
+
+<epkm> 17813 </epkm>
+
+
+<load_factor> 753 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-62
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 344 </schkms>
+
+
+<effkms> 9960 </effkms>
+
+
+<revenue> 159571 </revenue>
+
+
+<epkm> 16021 </epkm>
+
+
+<load_factor> 677 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-63
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 8767 </effkms>
+
+
+<revenue> 134213 </revenue>
+
+
+<epkm> 15309 </epkm>
+
+
+<load_factor> 647 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-65
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 304 </schkms>
+
+
+<effkms> 8140 </effkms>
+
+
+<revenue> 131364 </revenue>
+
+
+<epkm> 16138 </epkm>
+
+
+<load_factor> 682 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-66
+
+</id><start_station> NJD </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 285 </schkms>
+
+
+<effkms> 8101 </effkms>
+
+
+<revenue> 129391 </revenue>
+
+
+<epkm> 15972 </epkm>
+
+
+<load_factor> 675 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-67
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 8740 </effkms>
+
+
+<revenue> 136173 </revenue>
+
+
+<epkm> 15580 </epkm>
+
+
+<load_factor> 659 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-68
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 348 </schkms>
+
+
+<effkms> 10868 </effkms>
+
+
+<revenue> 194339 </revenue>
+
+
+<epkm> 17882 </epkm>
+
+
+<load_factor> 756 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-74
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 380 </schkms>
+
+
+<effkms> 5700 </effkms>
+
+
+<revenue> 109950 </revenue>
+
+
+<epkm> 19289 </epkm>
+
+
+<load_factor> 534 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-75
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 316 </schkms>
+
+
+<effkms> 8346 </effkms>
+
+
+<revenue> 127761 </revenue>
+
+
+<epkm> 15308 </epkm>
+
+
+<load_factor> 647 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-80
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 8288 </effkms>
+
+
+<revenue> 148420 </revenue>
+
+
+<epkm> 17908 </epkm>
+
+
+<load_factor> 757 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-83
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 443 </schkms>
+
+
+<effkms> 13290 </effkms>
+
+
+<revenue> 272656 </revenue>
+
+
+<epkm> 20516 </epkm>
+
+
+<load_factor> 867 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-84
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 8746 </effkms>
+
+
+<revenue> 162215 </revenue>
+
+
+<epkm> 18547 </epkm>
+
+
+<load_factor> 513 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-85
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SGNR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 450 </schkms>
+
+
+<effkms> 13950 </effkms>
+
+
+<revenue> 282623 </revenue>
+
+
+<epkm> 20260 </epkm>
+
+
+<load_factor> 561 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-86
+
+</id><start_station> SGNR </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 450 </schkms>
+
+
+<effkms> 13950 </effkms>
+
+
+<revenue> 272160 </revenue>
+
+
+<epkm> 19510 </epkm>
+
+
+<load_factor> 540 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-88
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HSP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 448 </schkms>
+
+
+<effkms> 13888 </effkms>
+
+
+<revenue> 285550 </revenue>
+
+
+<epkm> 20561 </epkm>
+
+
+<load_factor> 569 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-89
+
+</id><start_station> HSP </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 448 </schkms>
+
+
+<effkms> 13888 </effkms>
+
+
+<revenue> 275299 </revenue>
+
+
+<epkm> 19823 </epkm>
+
+
+<load_factor> 549 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-92
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 428 </schkms>
+
+
+<effkms> 13268 </effkms>
+
+
+<revenue> 271851 </revenue>
+
+
+<epkm> 20489 </epkm>
+
+
+<load_factor> 567 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-94
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 427 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 272563 </revenue>
+
+
+<epkm> 21034 </epkm>
+
+
+<load_factor> 582 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-95
+
+</id><start_station> DVG </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 427 </schkms>
+
+
+<effkms> 12958 </effkms>
+
+
+<revenue> 262753 </revenue>
+
+
+<epkm> 20277 </epkm>
+
+
+<load_factor> 561 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-98
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 204 </schkms>
+
+
+<effkms> 6324 </effkms>
+
+
+<revenue> 192764 </revenue>
+
+
+<epkm> 30481 </epkm>
+
+
+<load_factor> 1289 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-99
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 204 </schkms>
+
+
+<effkms> 6324 </effkms>
+
+
+<revenue> 189536 </revenue>
+
+
+<epkm> 29971 </epkm>
+
+
+<load_factor> 1267 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-104
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 598 </schkms>
+
+
+<effkms> 9141 </effkms>
+
+
+<revenue> 162887 </revenue>
+
+
+<epkm> 17819 </epkm>
+
+
+<load_factor> 753 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-105
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> GDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 598 </schkms>
+
+
+<effkms> 8345 </effkms>
+
+
+<revenue> 144234 </revenue>
+
+
+<epkm> 17284 </epkm>
+
+
+<load_factor> 731 </load_factor>
+
+
+<group> C </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-106
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 216 </schkms>
+
+
+<effkms> 6696 </effkms>
+
+
+<revenue> 129784 </revenue>
+
+
+<epkm> 19382 </epkm>
+
+
+<load_factor> 820 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-107
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 216 </schkms>
+
+
+<effkms> 6642 </effkms>
+
+
+<revenue> 126944 </revenue>
+
+
+<epkm> 19112 </epkm>
+
+
+<load_factor> 808 </load_factor>
+
+
+<group> B </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-108
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 204 </schkms>
+
+
+<effkms> 6324 </effkms>
+
+
+<revenue> 196252 </revenue>
+
+
+<epkm> 31033 </epkm>
+
+
+<load_factor> 1312 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> HDK-109
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> SRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 204 </schkms>
+
+
+<effkms> 6324 </effkms>
+
+
+<revenue> 192030 </revenue>
+
+
+<epkm> 30365 </epkm>
+
+
+<load_factor> 1284 </load_factor>
+
+
+<group> A </group>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,2991 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> MLV-1
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11670 </schkms>
+
+
+<effkms> 11670 </effkms>
+
+
+<revenue> 309525 </revenue>
+
+
+<epkm> 2652.3 </epkm>
+
+
+<load_factor> 74.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12897 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-3
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11088 </schkms>
+
+
+<effkms> 11088 </effkms>
+
+
+<revenue> 242451 </revenue>
+
+
+<epkm> 2186.6 </epkm>
+
+
+<load_factor> 61.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10478 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-5
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9172 </schkms>
+
+
+<effkms> 9172 </effkms>
+
+
+<revenue> 177006 </revenue>
+
+
+<epkm> 1929.9 </epkm>
+
+
+<load_factor> 83.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13884 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-7
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 8928 </schkms>
+
+
+<effkms> 8928 </effkms>
+
+
+<revenue> 229684 </revenue>
+
+
+<epkm> 2572.6 </epkm>
+
+
+<load_factor> 72.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16423 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-8
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BDR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8106 </schkms>
+
+
+<effkms> 8106 </effkms>
+
+
+<revenue> 192929 </revenue>
+
+
+<epkm> 2380.1 </epkm>
+
+
+<load_factor> 102.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12031 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-9
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8194 </schkms>
+
+
+<effkms> 8194 </effkms>
+
+
+<revenue> 168596 </revenue>
+
+
+<epkm> 2057.6 </epkm>
+
+
+<load_factor> 88.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13534 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-10
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11464 </schkms>
+
+
+<effkms> 11464 </effkms>
+
+
+<revenue> 328162 </revenue>
+
+
+<epkm> 2862.5 </epkm>
+
+
+<load_factor> 80.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 19089 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-13
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9342 </schkms>
+
+
+<effkms> 9342 </effkms>
+
+
+<revenue> 166241 </revenue>
+
+
+<epkm> 1779.5 </epkm>
+
+
+<load_factor> 76.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14786 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-14
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8030 </schkms>
+
+
+<effkms> 8030 </effkms>
+
+
+<revenue> 129018 </revenue>
+
+
+<epkm> 1606.7 </epkm>
+
+
+<load_factor> 69.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14043 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-17
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9064 </schkms>
+
+
+<effkms> 9064 </effkms>
+
+
+<revenue> 194866 </revenue>
+
+
+<epkm> 2149.9 </epkm>
+
+
+<load_factor> 92.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15240 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-18
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 4544 </schkms>
+
+
+<effkms> 4544 </effkms>
+
+
+<revenue> 93052 </revenue>
+
+
+<epkm> 2047.8 </epkm>
+
+
+<load_factor> 57.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6257 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-19
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 4708 </schkms>
+
+
+<effkms> 4708 </effkms>
+
+
+<revenue> 107865 </revenue>
+
+
+<epkm> 2291.1 </epkm>
+
+
+<load_factor> 64.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6257 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-23
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9544 </schkms>
+
+
+<effkms> 9544 </effkms>
+
+
+<revenue> 245923 </revenue>
+
+
+<epkm> 2576.7 </epkm>
+
+
+<load_factor> 72.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9712 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-24
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6851 </schkms>
+
+
+<effkms> 6851 </effkms>
+
+
+<revenue> 153987 </revenue>
+
+
+<epkm> 2247.7 </epkm>
+
+
+<load_factor> 63.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7447 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-28
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11670 </schkms>
+
+
+<effkms> 11670 </effkms>
+
+
+<revenue> 295842 </revenue>
+
+
+<epkm> 2535.1 </epkm>
+
+
+<load_factor> 71.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14034 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-31
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11439 </schkms>
+
+
+<effkms> 11439 </effkms>
+
+
+<revenue> 231397 </revenue>
+
+
+<epkm> 2022.9 </epkm>
+
+
+<load_factor> 87.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10478 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-32
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10030 </schkms>
+
+
+<effkms> 10030 </effkms>
+
+
+<revenue> 236173 </revenue>
+
+
+<epkm> 2354.7 </epkm>
+
+
+<load_factor> 66.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11040 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-33
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7170 </schkms>
+
+
+<effkms> 7170 </effkms>
+
+
+<revenue> 130628 </revenue>
+
+
+<epkm> 1821.9 </epkm>
+
+
+<load_factor> 51.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14085 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-34
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10950 </schkms>
+
+
+<effkms> 10950 </effkms>
+
+
+<revenue> 245462 </revenue>
+
+
+<epkm> 2241.7 </epkm>
+
+
+<load_factor> 96.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9712 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-35
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6955 </schkms>
+
+
+<effkms> 6955 </effkms>
+
+
+<revenue> 151770 </revenue>
+
+
+<epkm> 2182.2 </epkm>
+
+
+<load_factor> 94.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7447 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-37
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> PRG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7488 </schkms>
+
+
+<effkms> 7488 </effkms>
+
+
+<revenue> 192337 </revenue>
+
+
+<epkm> 2568.6 </epkm>
+
+
+<load_factor> 110.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14566 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-38
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 8892 </effkms>
+
+
+<revenue> 165331 </revenue>
+
+
+<epkm> 1859.3 </epkm>
+
+
+<load_factor> 52.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14085 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-39
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BSB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8760 </schkms>
+
+
+<effkms> 8760 </effkms>
+
+
+<revenue> 166376 </revenue>
+
+
+<epkm> 1899.3 </epkm>
+
+
+<load_factor> 53.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16180 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-41
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9744 </schkms>
+
+
+<effkms> 9744 </effkms>
+
+
+<revenue> 254947 </revenue>
+
+
+<epkm> 2616.5 </epkm>
+
+
+<load_factor> 73.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15284 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-47
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13338 </schkms>
+
+
+<effkms> 13338 </effkms>
+
+
+<revenue> 320200 </revenue>
+
+
+<epkm> 2400.7 </epkm>
+
+
+<load_factor> 103.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11782 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-48
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> DBH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9148 </schkms>
+
+
+<effkms> 9148 </effkms>
+
+
+<revenue> 235493 </revenue>
+
+
+<epkm> 2574.3 </epkm>
+
+
+<load_factor> 110.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14770 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-49
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8220 </schkms>
+
+
+<effkms> 8220 </effkms>
+
+
+<revenue> 172361 </revenue>
+
+
+<epkm> 2096.8 </epkm>
+
+
+<load_factor> 90.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15288 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-50
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> HUSKR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8894 </schkms>
+
+
+<effkms> 8894 </effkms>
+
+
+<revenue> 179997 </revenue>
+
+
+<epkm> 2023.8 </epkm>
+
+
+<load_factor> 87.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21254 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-54
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8886 </schkms>
+
+
+<effkms> 8886 </effkms>
+
+
+<revenue> 173765 </revenue>
+
+
+<epkm> 1955.5 </epkm>
+
+
+<load_factor> 84.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13534 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-55
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 9120 </effkms>
+
+
+<revenue> 183941 </revenue>
+
+
+<epkm> 2016.9 </epkm>
+
+
+<load_factor> 86.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14043 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-56
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> PURIGALI </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8524 </schkms>
+
+
+<effkms> 8524 </effkms>
+
+
+<revenue> 163634 </revenue>
+
+
+<epkm> 1919.7 </epkm>
+
+
+<load_factor> 82.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14813 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-58
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7286 </schkms>
+
+
+<effkms> 7286 </effkms>
+
+
+<revenue> 159693 </revenue>
+
+
+<epkm> 2191.8 </epkm>
+
+
+<load_factor> 94.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16246 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-59
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> NTH </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7912</schkms>
+
+
+<effkms> 7912 </effkms>
+
+
+<revenue> 158963 </revenue>
+
+
+<epkm> 2009.1 </epkm>
+
+
+<load_factor> 86.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16246 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-60
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8480 </effkms>
+
+
+<revenue> 188818 </revenue>
+
+
+<epkm> 2226.6 </epkm>
+
+
+<load_factor> 95.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15240 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-61
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> TLKD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7919 </schkms>
+
+
+<effkms> 7919 </effkms>
+
+
+<revenue> 129912 </revenue>
+
+
+<epkm> 1640.5 </epkm>
+
+
+<load_factor> 70.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 13799 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-63
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SMS </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8259 </schkms>
+
+
+<effkms> 8259 </effkms>
+
+
+<revenue> 141168 </revenue>
+
+
+<epkm> 1709.3 </epkm>
+
+
+<load_factor> 73.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13799 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-64
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6845 </schkms>
+
+
+<effkms> 6845 </effkms>
+
+
+<revenue> 126153 </revenue>
+
+
+<epkm> 1843.0 </epkm>
+
+
+<load_factor> 79.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6918 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-65
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8438 </schkms>
+
+
+<effkms> 8438 </effkms>
+
+
+<revenue> 176174 </revenue>
+
+
+<epkm> 2087.9 </epkm>
+
+
+<load_factor> 89.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 17084 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-66
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9460 </schkms>
+
+
+<effkms> 9460 </effkms>
+
+
+<revenue> 161110 </revenue>
+
+
+<epkm> 1703.1 </epkm>
+
+
+<load_factor> 73.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15021 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-67
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6554 </schkms>
+
+
+<effkms> 6554 </effkms>
+
+
+<revenue> 114986 </revenue>
+
+
+<epkm> 1754.4 </epkm>
+
+
+<load_factor> 75.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12756 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-68
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8118 </schkms>
+
+
+<effkms> 8118 </effkms>
+
+
+<revenue> 135585 </revenue>
+
+
+<epkm> 1670.2 </epkm>
+
+
+<load_factor> 71.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15418 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-69
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KMD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7400 </schkms>
+
+
+<effkms> 7400 </effkms>
+
+
+<revenue> 118875 </revenue>
+
+
+<epkm> 1606.4 </epkm>
+
+
+<load_factor> 69.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15587 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-70
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BKD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7300 </schkms>
+
+
+<effkms> 7300 </effkms>
+
+
+<revenue> 123514 </revenue>
+
+
+<epkm> 1692.0 </epkm>
+
+
+<load_factor> 72.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15587 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-71
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 6567 </schkms>
+
+
+<effkms> 6567 </effkms>
+
+
+<revenue> 132459 </revenue>
+
+
+<epkm> 2017.0 </epkm>
+
+
+<load_factor> 86.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11424 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-72
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8960 </schkms>
+
+
+<effkms> 8960 </effkms>
+
+
+<revenue> 167894 </revenue>
+
+
+<epkm> 1873.8 </epkm>
+
+
+<load_factor> 52.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14624 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-73
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> HLG </start_station>
+
+
+<end_station> MTT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 8312 </effkms>
+
+
+<revenue> 185523 </revenue>
+
+
+<epkm> 2232.0 </epkm>
+
+
+<load_factor> 62.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11424 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-75
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MYS </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 10080 </effkms>
+
+
+<revenue> 232118 </revenue>
+
+
+<epkm> 2302.8 </epkm>
+
+
+<load_factor> 64.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11045 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-78
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> KKP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 11281 </effkms>
+
+
+<revenue> 278151 </revenue>
+
+
+<epkm> 2465.7 </epkm>
+
+
+<load_factor> 106.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 13515 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-79
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 13800 </effkms>
+
+
+<revenue> 319724 </revenue>
+
+
+<epkm> 2316.8 </epkm>
+
+
+<load_factor> 99.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8100 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-80
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> SRLP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 13800 </effkms>
+
+
+<revenue> 333194 </revenue>
+
+
+<epkm> 2414.4 </epkm>
+
+
+<load_factor> 104.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8100 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-83
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 7648 </effkms>
+
+
+<revenue> 160348 </revenue>
+
+
+<epkm> 2096.6 </epkm>
+
+
+<load_factor> 90.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 13107 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-84
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 8050 </effkms>
+
+
+<revenue> 182360 </revenue>
+
+
+<epkm> 2265.3 </epkm>
+
+
+<load_factor> 63.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 13213 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-85
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8058 </effkms>
+
+
+<revenue> 139813 </revenue>
+
+
+<epkm> 1735.1 </epkm>
+
+
+<load_factor> 48.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17776 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-86
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> HLG </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9606 </effkms>
+
+
+<revenue> 174732 </revenue>
+
+
+<epkm> 1819.0 </epkm>
+
+
+<load_factor> 51.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17776 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-89
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 8160 </effkms>
+
+
+<revenue> 201405 </revenue>
+
+
+<epkm> 2468.2 </epkm>
+
+
+<load_factor> 69.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10587 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-90
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 8216 </effkms>
+
+
+<revenue> 228061 </revenue>
+
+
+<epkm> 2775.8 </epkm>
+
+
+<load_factor> 78.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12246 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-91
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 8196 </effkms>
+
+
+<revenue> 234021 </revenue>
+
+
+<epkm> 2855.3 </epkm>
+
+
+<load_factor> 80.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12246 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-92
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 7884 </effkms>
+
+
+<revenue> 221042 </revenue>
+
+
+<epkm> 2803.7 </epkm>
+
+
+<load_factor> 79.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11493 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-93
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 8412 </effkms>
+
+
+<revenue> 206435 </revenue>
+
+
+<epkm> 2454.1 </epkm>
+
+
+<load_factor> 105.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11493 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-94
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 14640 </effkms>
+
+
+<revenue> 367938 </revenue>
+
+
+<epkm> 2513.2 </epkm>
+
+
+<load_factor> 108.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4528 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-95
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> ANVTI </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 14640 </effkms>
+
+
+<revenue> 294922 </revenue>
+
+
+<epkm> 2014.5 </epkm>
+
+
+<load_factor> 56.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 4528 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-100AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 11426 </effkms>
+
+
+<revenue> 271915 </revenue>
+
+
+<epkm> 2379.8 </epkm>
+
+
+<load_factor> 102.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16944 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-101AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10154 </effkms>
+
+
+<revenue> 226620 </revenue>
+
+
+<epkm> 2231.8 </epkm>
+
+
+<load_factor> 96.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15731 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-102AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 6024 </effkms>
+
+
+<revenue> 132157 </revenue>
+
+
+<epkm> 2193.8 </epkm>
+
+
+<load_factor> 61.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7552 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-16AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 11272 </effkms>
+
+
+<revenue> 309336 </revenue>
+
+
+<epkm> 2744.3 </epkm>
+
+
+<load_factor> 118.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16683 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-36AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 9830 </effkms>
+
+
+<revenue> 184332 </revenue>
+
+
+<epkm> 1875.2 </epkm>
+
+
+<load_factor> 80.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19030 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-6AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> BKD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 10208 </effkms>
+
+
+<revenue> 211164 </revenue>
+
+
+<epkm> 2068.6 </epkm>
+
+
+<load_factor> 58.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 21993 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-74AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10906 </schkms>
+
+
+<effkms> 10906 </effkms>
+
+
+<revenue> 267117 </revenue>
+
+
+<epkm> 2449.3 </epkm>
+
+
+<load_factor> 105.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16547 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-76AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms>9804 </schkms>
+
+
+<effkms> 9804 </effkms>
+
+
+<revenue> 149433 </revenue>
+
+
+<epkm> 1524.2 </epkm>
+
+
+<load_factor> 43.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 13280 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-87AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10708 </schkms>
+
+
+<effkms> 10708 </effkms>
+
+
+<revenue> 257228 </revenue>
+
+
+<epkm> 2402.2 </epkm>
+
+
+<load_factor> 67.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 18465 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MLV-88AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MLV </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10548 </schkms>
+
+
+<effkms> 10548 </effkms>
+
+
+<revenue> 199063 </revenue>
+
+
+<epkm> 1887.2 </epkm>
+
+
+<load_factor> 81.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15935 </passengers>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,3861 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> KLR-1
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 431 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13028 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 274877 </revenue>
+
+
+<epkm> 2109.9 </epkm>
+
+
+<passengers> 6672 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-2
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> GTT </end_station>
+
+
+<schkms> 290 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7360 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 85121 </revenue>
+
+
+<epkm> 1156.5 </epkm>
+
+
+<passengers> 7912 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-3
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> AGH </end_station>
+
+
+<schkms> 331 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9331 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 118447 </revenue>
+
+
+<epkm> 1269.4 </epkm>
+
+
+<passengers> 10720 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-6
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SRI </end_station>
+
+
+<schkms> 464 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14384 </effkms>
+
+
+<expected_revenue> 744000 </expected_revenue>
+
+
+<revenue> 286864 </revenue>
+
+
+<epkm> 1994.3 </epkm>
+
+
+<passengers> 2419 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-7
+
+</id><start_station> SRI </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 461 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14291 </effkms>
+
+
+<expected_revenue> 744000 </expected_revenue>
+
+
+<revenue> 239080 </revenue>
+
+
+<epkm> 1672.9 </epkm>
+
+
+<passengers> 1870 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-9
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 355 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8446 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 117709 </revenue>
+
+
+<epkm> 1393.7 </epkm>
+
+
+<passengers> 8591 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-10
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 318 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7836 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 105335 </revenue>
+
+
+<epkm> 1344.2 </epkm>
+
+
+<passengers> 6540 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-11
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 290 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8160 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 171338 </revenue>
+
+
+<epkm> 2099.7 </epkm>
+
+
+<passengers> 10886 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-12
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 366 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6490 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 97302 </revenue>
+
+
+<epkm> 1499.3 </epkm>
+
+
+<passengers> 5518 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-15
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MDL </end_station>
+
+
+<schkms> 441 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13275 </effkms>
+
+
+<expected_revenue> 232500 </expected_revenue>
+
+
+<revenue> 236249 </revenue>
+
+
+<epkm> 1779.7 </epkm>
+
+
+<passengers> 7600 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-16
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KDS </end_station>
+
+
+<schkms> 328 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9826 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 122585 </revenue>
+
+
+<epkm> 1247.6 </epkm>
+
+
+<passengers> 8703 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-17
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SGT </end_station>
+
+
+<schkms> 342 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10428 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 128153 </revenue>
+
+
+<epkm> 1228.9 </epkm>
+
+
+<passengers> 10804 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-18
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9675 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 166613 </revenue>
+
+
+<epkm> 1722.1 </epkm>
+
+
+<passengers> 8095 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-21
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9946 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 261474 </revenue>
+
+
+<epkm> 2628.9 </epkm>
+
+
+<passengers> 13211 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-22
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 302 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8578 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 134461 </revenue>
+
+
+<epkm> 1567.5 </epkm>
+
+
+<passengers> 9817 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-24
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DBH </end_station>
+
+
+<schkms> 323 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9698 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 118337 </revenue>
+
+
+<epkm> 1220.2 </epkm>
+
+
+<passengers> 9486 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-27
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> BMD </end_station>
+
+
+<schkms> 381 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 11791 </effkms>
+
+
+<expected_revenue> 775000 </expected_revenue>
+
+
+<revenue> 301699 </revenue>
+
+
+<epkm> 2558.7 </epkm>
+
+
+<passengers> 2280 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-28
+
+</id><start_station> BMD </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 384 </schkms>
+
+
+<type_of_bus> RH </type_of_bus>
+
+
+<effkms> 11884 </effkms>
+
+
+<expected_revenue> 775000 </expected_revenue>
+
+
+<revenue> 331794 </revenue>
+
+
+<epkm> 2791.9 </epkm>
+
+
+<passengers> 2360 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-29
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 356 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10470 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 179643 </revenue>
+
+
+<epkm> 1715.8 </epkm>
+
+
+<passengers> 7801 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-30
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<schkms> 316 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8418 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 88097 </revenue>
+
+
+<epkm> 1046.5 </epkm>
+
+
+<passengers> 5801 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-32
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TKL </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9368 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 150581 </revenue>
+
+
+<epkm> 1607.4 </epkm>
+
+
+<passengers> 12524 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-35
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> GTH </end_station>
+
+
+<schkms> 340 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10390 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 125358 </revenue>
+
+
+<epkm> 1206.5 </epkm>
+
+
+<passengers> 10693 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-36
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SLR </end_station>
+
+
+<schkms> 284 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8100 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 99049 </revenue>
+
+
+<epkm> 1222.8 </epkm>
+
+
+<passengers> 7774 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-37
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KOL </end_station>
+
+
+<schkms> 503 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15593 </effkms>
+
+
+<expected_revenue> 713000 </expected_revenue>
+
+
+<revenue> 273242 </revenue>
+
+
+<epkm> 1752.3 </epkm>
+
+
+<passengers> 3061 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-38
+
+</id><start_station> KOL </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 505 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15655 </effkms>
+
+
+<expected_revenue> 713000 </expected_revenue>
+
+
+<revenue> 253160 </revenue>
+
+
+<epkm> 1617.1 </epkm>
+
+
+<passengers> 4432 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-41
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 321 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9901 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 119396 </revenue>
+
+
+<epkm> 1205.9 </epkm>
+
+
+<passengers> 9134 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-42
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 334 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10034 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 118109 </revenue>
+
+
+<epkm> 1177.1 </epkm>
+
+
+<passengers> 9190 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-43
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> AGRM </end_station>
+
+
+<schkms> 462 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 13754 </effkms>
+
+
+<expected_revenue> 232500 </expected_revenue>
+
+
+<revenue> 208992 </revenue>
+
+
+<epkm> 1519.5 </epkm>
+
+
+<passengers> 8903 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-44
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DBP </end_station>
+
+
+<schkms> 350 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9468 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 182532 </revenue>
+
+
+<epkm> 1927.9 </epkm>
+
+
+<passengers> 6909 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-45
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MDR </end_station>
+
+
+<schkms> 350 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9469 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 125871 </revenue>
+
+
+<epkm> 1329.3 </epkm>
+
+
+<passengers> 10030 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-46
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<schkms> 431 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11985 </effkms>
+
+
+<expected_revenue> 294500 </expected_revenue>
+
+
+<revenue> 220303 </revenue>
+
+
+<epkm> 1838.2 </epkm>
+
+
+<passengers> 5760 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-47
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MLH </end_station>
+
+
+<schkms> 276 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7308 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 89408 </revenue>
+
+
+<epkm> 1223.4 </epkm>
+
+
+<passengers> 5494 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-51
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DSM </end_station>
+
+
+<schkms> 303 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8882 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 103321 </revenue>
+
+
+<epkm> 1163.3 </epkm>
+
+
+<passengers> 9084 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-55
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TDP </end_station>
+
+
+<schkms> 724 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 22356 </effkms>
+
+
+<expected_revenue> 527000 </expected_revenue>
+
+
+<revenue> 547161 </revenue>
+
+
+<epkm> 2447.5 </epkm>
+
+
+<passengers> 6308 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-56
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MKTP </end_station>
+
+
+<schkms> 347 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10587 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 140686 </revenue>
+
+
+<epkm> 1328.9 </epkm>
+
+
+<passengers> 9642 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-57
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 274 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7494 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 90028 </revenue>
+
+
+<epkm> 1201.3 </epkm>
+
+
+<passengers> 6614 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-58
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> JYM </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9456 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 136950 </revenue>
+
+
+<epkm> 1448.3 </epkm>
+
+
+<passengers> 10646 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-59
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 356 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10854 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 190931 </revenue>
+
+
+<epkm> 1759.1 </epkm>
+
+
+<passengers> 11000 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-63
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SRI </end_station>
+
+
+<schkms> 483 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14973 </effkms>
+
+
+<expected_revenue> 775000 </expected_revenue>
+
+
+<revenue> 293311 </revenue>
+
+
+<epkm> 1958.9 </epkm>
+
+
+<passengers> 2588 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-64
+
+</id><start_station> SRI </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 493 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15283 </effkms>
+
+
+<expected_revenue> 775000 </expected_revenue>
+
+
+<revenue> 307161 </revenue>
+
+
+<epkm> 2009.8 </epkm>
+
+
+<passengers> 2059 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-65
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> RSG </end_station>
+
+
+<schkms> 305 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9395 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 137432 </revenue>
+
+
+<epkm> 1462.8 </epkm>
+
+
+<passengers> 10929 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-72
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 672 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 20832 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 382003 </revenue>
+
+
+<epkm> 1833.7 </epkm>
+
+
+<passengers> 5890 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-73
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MDH </end_station>
+
+
+<schkms> 330 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9824 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 165843 </revenue>
+
+
+<epkm> 1688.1 </epkm>
+
+
+<passengers> 13250 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-78
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MDP </end_station>
+
+
+<schkms> 332 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9460 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 139959 </revenue>
+
+
+<epkm> 1479.5 </epkm>
+
+
+<passengers> 7692 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-80
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 336 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10416 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 141279 </revenue>
+
+
+<epkm> 1356.4 </epkm>
+
+
+<passengers> 12591 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-81
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DBP </end_station>
+
+
+<schkms> 368 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11006 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 228719 </revenue>
+
+
+<epkm> 2078.1 </epkm>
+
+
+<passengers> 8434 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-83
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 327 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9897 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 122866 </revenue>
+
+
+<epkm> 1241.4 </epkm>
+
+
+<passengers> 8659 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-85
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> RKM </end_station>
+
+
+<schkms> 342 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10516 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 156192 </revenue>
+
+
+<epkm> 1485.3 </epkm>
+
+
+<passengers> 11632 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-88
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KTH </end_station>
+
+
+<schkms> 376 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11166 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 147943 </revenue>
+
+
+<epkm> 1324.9 </epkm>
+
+
+<passengers> 9673 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-89
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 342 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10350 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 191637 </revenue>
+
+
+<epkm> 1851.6 </epkm>
+
+
+<passengers> 10662 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-90
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TKL </end_station>
+
+
+<schkms> 253 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 5073 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 53965 </revenue>
+
+
+<epkm> 1063.8 </epkm>
+
+
+<passengers> 3334 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-91
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> VKT </end_station>
+
+
+<schkms> 322 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9416 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 193835 </revenue>
+
+
+<epkm> 2058.6 </epkm>
+
+
+<passengers> 14258 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-92
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> HSP </end_station>
+
+
+<schkms> 460 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14200 </effkms>
+
+
+<expected_revenue> 744000 </expected_revenue>
+
+
+<revenue> 334428 </revenue>
+
+
+<epkm> 2355.1 </epkm>
+
+
+<passengers> 3701 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-93
+
+</id><start_station> HSP </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 463 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 14293 </effkms>
+
+
+<expected_revenue> 744000 </expected_revenue>
+
+
+<revenue> 299881 </revenue>
+
+
+<epkm> 2098.1 </epkm>
+
+
+<passengers> 1647 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-94
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 413 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12493 </effkms>
+
+
+<expected_revenue> 232500 </expected_revenue>
+
+
+<revenue> 221604 </revenue>
+
+
+<epkm> 1773.8 </epkm>
+
+
+<passengers> 9598 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-96
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> UTN </end_station>
+
+
+<schkms> 376 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11248 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 142040 </revenue>
+
+
+<epkm> 1262.8 </epkm>
+
+
+<passengers> 7978 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-97
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DSL </end_station>
+
+
+<schkms> 379 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11374 </effkms>
+
+
+<expected_revenue> 620000 </expected_revenue>
+
+
+<revenue> 232157 </revenue>
+
+
+<epkm> 2041.1 </epkm>
+
+
+<passengers> 2343 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-99
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CBP </end_station>
+
+
+<schkms> 386 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11330 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 220926 </revenue>
+
+
+<epkm> 1949.9 </epkm>
+
+
+<passengers> 9767 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-100
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PVG </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10740 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 295509 </revenue>
+
+
+<epkm> 2751.5 </epkm>
+
+
+<passengers> 10316 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-104
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> ANH </end_station>
+
+
+<schkms> 340 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10195 </effkms>
+
+
+<expected_revenue> 120000 </expected_revenue>
+
+
+<revenue> 98967 </revenue>
+
+
+<epkm> 970.7 </epkm>
+
+
+<passengers> 8686 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-106
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TPT </end_station>
+
+
+<schkms> 672 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 20832 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 381253 </revenue>
+
+
+<epkm> 1830.1 </epkm>
+
+
+<passengers> 5821 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-107
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KLG </end_station>
+
+
+<schkms> 429 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13299 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 251567 </revenue>
+
+
+<epkm> 1891.6 </epkm>
+
+
+<passengers> 7144 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-108
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SGT </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8828 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 141841 </revenue>
+
+
+<epkm> 1606.7 </epkm>
+
+
+<passengers> 10764 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-109
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TDL </end_station>
+
+
+<schkms> 324 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9537 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 138121 </revenue>
+
+
+<epkm> 1448.3 </epkm>
+
+
+<passengers> 10707 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-110
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TKL </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9160 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 114974 </revenue>
+
+
+<epkm> 1255.2 </epkm>
+
+
+<passengers> 10185 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-114
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KYL </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9904 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 113043 </revenue>
+
+
+<epkm> 1141.4 </epkm>
+
+
+<passengers> 7524 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-115
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MBL </end_station>
+
+
+<schkms> 292 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8406 </effkms>
+
+
+<expected_revenue> 124000 </expected_revenue>
+
+
+<revenue> 85286 </revenue>
+
+
+<epkm> 1014.6 </epkm>
+
+
+<passengers> 7729 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-116
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 320 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8136 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 97722 </revenue>
+
+
+<epkm> 1201.1 </epkm>
+
+
+<passengers> 7215 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-118
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<schkms> 366 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10804 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 158644 </revenue>
+
+
+<epkm> 1468.4 </epkm>
+
+
+<passengers> 4900 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-125
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> TRN </end_station>
+
+
+<schkms> 382 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 11350 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 127532 </revenue>
+
+
+<epkm> 1123.6 </epkm>
+
+
+<passengers> 6630 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-129
+
+</id><start_station> DSL </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 378 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11718 </effkms>
+
+
+<expected_revenue> 527000 </expected_revenue>
+
+
+<revenue> 190136 </revenue>
+
+
+<epkm> 1622.6 </epkm>
+
+
+<passengers> 2713 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-130
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> BRN </end_station>
+
+
+<schkms> 406 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12024 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 247081 </revenue>
+
+
+<epkm> 2054.9 </epkm>
+
+
+<passengers> 3327 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-131
+
+</id><start_station> BRN </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 406 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 12084 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 260015 </revenue>
+
+
+<epkm> 2151.7 </epkm>
+
+
+<passengers> 4152 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-132
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MMH </end_station>
+
+
+<schkms> 362 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10951 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 200660 </revenue>
+
+
+<epkm> 1832.3 </epkm>
+
+
+<passengers> 2442 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-133
+
+</id><start_station> MMH </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 362 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10946 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 229653 </revenue>
+
+
+<epkm> 2098.1 </epkm>
+
+
+<passengers> 2622 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-150
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> VJP </end_station>
+
+
+<schkms> 270 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7274 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 109409 </revenue>
+
+
+<epkm> 1504.1 </epkm>
+
+
+<passengers> 6907 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-151
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 254 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6624 </effkms>
+
+
+<expected_revenue> 139500 </expected_revenue>
+
+
+<revenue> 99262 </revenue>
+
+
+<epkm> 1498.5 </epkm>
+
+
+<passengers> 9289 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-159
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PLB </end_station>
+
+
+<schkms> 431 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13291 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 256943 </revenue>
+
+
+<epkm> 1933.2 </epkm>
+
+
+<passengers> 3276 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-160
+
+</id><start_station> PLB </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 372 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10722 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 227610 </revenue>
+
+
+<epkm> 2122.8 </epkm>
+
+
+<passengers> 3291 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-165
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 568 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 487 </effkms>
+
+
+<expected_revenue> 72000 </expected_revenue>
+
+
+<revenue> 6186 </revenue>
+
+
+<epkm> 1270.2 </epkm>
+
+
+<passengers> 363 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-167
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> HDK </end_station>
+
+
+<schkms> 368 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10209 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 178638 </revenue>
+
+
+<epkm> 1749.8 </epkm>
+
+
+<passengers> 2826 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-168
+
+</id><start_station> HDK </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 371 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 9554 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 173655 </revenue>
+
+
+<epkm> 1817.6 </epkm>
+
+
+<passengers> 2067 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-173
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> MLR </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9520 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 110377 </revenue>
+
+
+<epkm> 1159.4 </epkm>
+
+
+<passengers> 8528 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-179
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SRJ </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 8050 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 122837 </revenue>
+
+
+<epkm> 1525.9 </epkm>
+
+
+<passengers> 7677 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-180
+
+</id><start_station> SRJ </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 326 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9104 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 143488 </revenue>
+
+
+<epkm> 1576.1 </epkm>
+
+
+<passengers> 10842 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-181
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 369 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10816 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 175996 </revenue>
+
+
+<epkm> 1627.2 </epkm>
+
+
+<passengers> 8340 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-187
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KGF </end_station>
+
+
+<schkms> 312 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9516 </effkms>
+
+
+<expected_revenue> 744000 </expected_revenue>
+
+
+<revenue> 149856 </revenue>
+
+
+<epkm> 1574.8 </epkm>
+
+
+<passengers> 12424 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-188
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SGT </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9442 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 106780 </revenue>
+
+
+<epkm> 1130.9 </epkm>
+
+
+<passengers> 7938 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-209
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PVG </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11098 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 287408 </revenue>
+
+
+<epkm> 2589.7 </epkm>
+
+
+<passengers> 10916 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-210
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> DVH </end_station>
+
+
+<schkms> 346 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 10290 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 188607 </revenue>
+
+
+<epkm> 1832.9 </epkm>
+
+
+<passengers> 9521 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-213
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PVG </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11098 </effkms>
+
+
+<expected_revenue> 217000 </expected_revenue>
+
+
+<revenue> 258744 </revenue>
+
+
+<epkm> 2331.4 </epkm>
+
+
+<passengers> 10265 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-214
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PVG </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 11098 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 246189 </revenue>
+
+
+<epkm> 2218.3 </epkm>
+
+
+<passengers> 9467 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-217
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 344 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10288 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 161371 </revenue>
+
+
+<epkm> 1568.5 </epkm>
+
+
+<passengers> 12690 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-221
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 308 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 6358 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 106675 </revenue>
+
+
+<epkm> 1677.8 </epkm>
+
+
+<passengers> 4389 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-223
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10514 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 170838 </revenue>
+
+
+<epkm> 1624.9 </epkm>
+
+
+<passengers> 20531 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-224
+
+</id><start_station> TPT </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 672 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 20832 </effkms>
+
+
+<expected_revenue> 434000 </expected_revenue>
+
+
+<revenue> 362249 </revenue>
+
+
+<epkm> 1738.9 </epkm>
+
+
+<passengers> 5825 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-231
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 358 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9473 </effkms>
+
+
+<expected_revenue> 155000 </expected_revenue>
+
+
+<revenue> 145650 </revenue>
+
+
+<epkm> 1537.5 </epkm>
+
+
+<passengers> 10640 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-233
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 361 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7559 </effkms>
+
+
+<expected_revenue> 201500 </expected_revenue>
+
+
+<revenue> 94451 </revenue>
+
+
+<epkm> 1249.5 </epkm>
+
+
+<passengers> 5006 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-234
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> HDP </end_station>
+
+
+<schkms> 334 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 6475 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 112199 </revenue>
+
+
+<epkm> 1732.8 </epkm>
+
+
+<passengers> 7484 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-236
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> HSN </end_station>
+
+
+<schkms> 508 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15518 </effkms>
+
+
+<expected_revenue> 170500 </expected_revenue>
+
+
+<revenue> 307590 </revenue>
+
+
+<epkm> 1982.1 </epkm>
+
+
+<passengers> 10397 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-238
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> AKL </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 10222 </effkms>
+
+
+<expected_revenue> 341000 </expected_revenue>
+
+
+<revenue> 195699 </revenue>
+
+
+<epkm> 1914.5 </epkm>
+
+
+<passengers> 14070 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-239
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> ANH </end_station>
+
+
+<schkms> 338 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 9814 </effkms>
+
+
+<expected_revenue> 248000 </expected_revenue>
+
+
+<revenue> 131085 </revenue>
+
+
+<epkm> 1335.7 </epkm>
+
+
+<passengers> 11120 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-240
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> CNT </end_station>
+
+
+<schkms> 304 </schkms>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<effkms> 7510 </effkms>
+
+
+<expected_revenue> 186000 </expected_revenue>
+
+
+<revenue> 115772 </revenue>
+
+
+<epkm> 1541.6 </epkm>
+
+
+<passengers> 6190 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-241
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<schkms> 500 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15500 </effkms>
+
+
+<expected_revenue> 558000 </expected_revenue>
+
+
+<revenue> 262520 </revenue>
+
+
+<epkm> 1693.7 </epkm>
+
+
+<passengers> 3242 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-243
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> KOLL </end_station>
+
+
+<schkms> 503 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15593 </effkms>
+
+
+<expected_revenue> 713000 </expected_revenue>
+
+
+<revenue> 291182 </revenue>
+
+
+<epkm> 1867.4 </epkm>
+
+
+<passengers> 2050 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-244
+
+</id><start_station> KOLL </start_station>
+
+
+<end_station> KLR </end_station>
+
+
+<schkms> 506 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 15686 </effkms>
+
+
+<expected_revenue> 713000 </expected_revenue>
+
+
+<revenue> 245985 </revenue>
+
+
+<epkm> 1568.2 </epkm>
+
+
+<passengers> 2159 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+
+
+<schedule><id> KLR-245
+
+</id><start_station> KLR </start_station>
+
+
+<end_station> PNG </end_station>
+
+
+<schkms> 439 </schkms>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<effkms> 13609 </effkms>
+
+
+<expected_revenue> 310000 </expected_revenue>
+
+
+<revenue> 295842 </revenue>
+
+
+<epkm> 2173.9 </epkm>
+
+
+<passengers> 7062 </passengers>
+
+
+<group> A </group>
+
+</schedule>
+
+
+</buses>
+

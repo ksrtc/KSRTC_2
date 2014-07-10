@@ -1,0 +1,11248 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> SGR 1</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SBM </end_station>
+
+
+<distance> 342 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> AYN </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  23  </arr_hr> 
+<arr_min>  20  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> CKM </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> MDG </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> KTG </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> UJR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> DSL </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> Gundya </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 2</id>
+
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SBM </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 342 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> DSL </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> UJR </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> KTG </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> MDG </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> CKM </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  1  </arr_hr> 
+<arr_min>  55  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<distance> 313 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  13  </arr_hr> 
+<arr_min>  45  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  14  </arr_hr> 
+<arr_min>  30  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> CRP </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> KRP </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> SRP </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> MYS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> EXP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> SRP </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> KRP </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 10 </sequence_no>
+ <station_name> CRP </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 11 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 12 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  45  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 13 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 14 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 15 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> SMG Ry </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> EXP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 16 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 4</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<distance> 459 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  AYN </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> BRR </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  5  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> x </station_name> 
+<arr_hr>  13  </arr_hr> 
+<arr_min>  55  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  14  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HSKT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> CNT </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 5</id>
+
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SVP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 459 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> CNT </station_name> 
+<arr_hr>  7  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 7  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HSKT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  11  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  11  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  13  </arr_hr> 
+<arr_min>  30  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  14  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> SRKP </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 10 </sequence_no>
+ <station_name> SRB </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 6B</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BDT </station_name> 
+<arr_hr>  22  </arr_hr> 
+<arr_min>  50  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  23  </arr_hr> 
+<arr_min>  50  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  24  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  0  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  3  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 3 </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 6A</id>
+
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  14  </arr_hr> 
+<arr_min>  25  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  15  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> AYN </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 7A</id>
+
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  7  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 7  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  8  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  8  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  10  </arr_hr> 
+<arr_min>  25  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  11  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 7B</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 0 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> BRR </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  20  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  20  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  21  </arr_hr> 
+<arr_min>  55  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  22  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 8</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> TVML </end_station>
+
+
+<distance> 564 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  18  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  19  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  20  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  21  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  21  </arr_hr> 
+<arr_min>  55  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 24  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> HSR </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KGR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> UTG </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> CGM </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 9</id>
+
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> TVML </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 564 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 6 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> CGM </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> UTG </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> KGR </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HSR </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> ATB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  23  </arr_hr> 
+<arr_min>  30  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  0  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  45  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 10 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 11 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 10</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VLR </end_station>
+
+
+<distance> 563 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 2 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  16  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  17  </arr_hr> 
+<arr_min>  20  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  19  </arr_hr> 
+<arr_min>  5  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  19  </arr_hr> 
+<arr_min>  45  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> HSR </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> KGR </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 11
+</id>
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> VLR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 563 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 4 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> KGR </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HSR </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> BNG </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  22  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  0  </arr_hr> 
+<arr_min>  25  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  1  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 12</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> ULV </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> ULV </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 51 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> TGT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> IDV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> KUR </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 51 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> KUR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> IDV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> TGT </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 61 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> SRKP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> KPH </end_station>
+
+
+<distance> 10 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> KPH </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 10 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> MBS </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> MBS </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KPH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> MBS </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 13</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> MBS </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KPH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> MBS </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> MBS </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 18 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KPH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 51 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  TGT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  IDV </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 51 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KUR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  IDV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  TGT </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 61 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SPM </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> SPM </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 14</id>
+
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> PNA </end_station>
+
+
+<distance> 610 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SRS </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  TDS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> DWR </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> KTR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> BGM </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  SKN </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> NPN </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> KLP </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> STR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 15
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> PNA </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 610 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> STR </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> KLP </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> NPN </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> BGM </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> DWR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> TDJMDG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> SRS </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 6  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 16
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> PNJ </end_station>
+
+
+<distance> 306 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SGR </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  GSP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HNV </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> ANK </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> KRW </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> MDG </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> PNJ </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 306 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 7  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> KRW </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> ANK </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KMT </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HNV </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> GSP </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 18
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 19
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 21 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 21
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BJP </end_station>
+
+
+<distance> 429 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SRB </station_name> 
+<arr_hr>  7  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 7  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> AVT </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HNG </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  BKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  TDS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> DWR </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> SDT </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> RDG </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  BTK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> MDL </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> JKD </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 22
+
+</id>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BJP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 429 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> JKD </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> MDL </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> RDG </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HLKT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> SDT </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> DWR </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> SGV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  BGP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> HNG </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> MKV </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> TVD </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 23
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> RCH </end_station>
+
+
+<distance> 389 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HRP </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> ITG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> KMP </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> GVT </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> SDN </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> MNV </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 24
+</id>
+
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> RCH </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 389 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> MNV </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> SDN </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> GVT </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KMP </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> HRP </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> HNL </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 25
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SKT </end_station>
+
+
+<distance> 416 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 6 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  6  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HRP </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> ITG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  24  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> KMP </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> GVT </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> SDN </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> MNV </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 9 </sequence_no>
+ <station_name> RCH </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 5  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 26
+
+</id>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SKT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 416 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 4 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> RCH </station_name> 
+<arr_hr>  18  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 18  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> MNV </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 19  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> SDN </station_name> 
+<arr_hr>  20  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KMP </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> ITG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> HRP </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 8 </sequence_no>
+ <station_name> HNL </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 4 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 6 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 27B
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  5  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KWR </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  50  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  14  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  15  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 27A
+
+
+
+</id>
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  22  </arr_hr> 
+<arr_min>  45  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  23  </arr_hr> 
+<arr_min>  25  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  0  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KWR </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  1  </arr_hr> 
+<arr_min>  55  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 29
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KDK </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> KDK </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 45 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRKP </start_station>
+
+
+<end_station> CKR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> CKR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 100 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> KOD </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  RNB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> HRR </end_station>
+
+
+<distance> 14 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> HRR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 14 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 91 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 30
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 91 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  RTH </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> CKKR </end_station>
+
+
+<distance> 85 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  KOD </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> CKR </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 26 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> BLKI </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SLKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 45 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 31
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 59 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SRB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 32
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SRKP </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 117 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HRR </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 117 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  RNB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRKP </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BRR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Harale </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> BRR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Harale </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HNV </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KGL </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> HNV </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  JOG </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HNV </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KGL </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> HNV </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  JOG </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HSGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> HSGR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 40 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VDH </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> VDH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HSGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 20
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> HSGR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KDK </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> KDK </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> STKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KRGL </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> JOG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> TGP </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> TGP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VDH </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> VDH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> STKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SDP </end_station>
+
+
+<distance> 45 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 11 </trip_no>
+
+
+<start_station> SDP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 12 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 21 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranthe </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> NDD </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 46 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  LMK </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KGD </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 10 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> KGD </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VDH </end_station>
+
+
+<distance> 07 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> VDH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 07 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KGD </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> KGD </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> JBN </end_station>
+
+
+<distance> 27 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> JBN </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 27 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KGD </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 11 </trip_no>
+
+
+<start_station> KGD </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 12 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VDH </end_station>
+
+
+<distance> 07 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 13 </trip_no>
+
+
+<start_station> VDH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 07 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 14 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> NDD </end_station>
+
+
+<distance> 46 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  LMK </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BRR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Hiralex </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BRR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Hiralex </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> JOG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  TGP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HSG </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> KDK </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> HSG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 20 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLSGT </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SUR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SUR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HSG </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 10 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> HSG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 11 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SUR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SUR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KDK </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> KDK </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KDK </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> KDK </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 12 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HNI </end_station>
+
+
+<distance> 46 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> HNI </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 46 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 39A
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> KNR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 64 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  LMK </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRS </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRS </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SDP </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 39B
+</id>
+
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HSG </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> HSG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 19 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 10 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> KNR </end_station>
+
+
+<distance> 24 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Kavgal </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>   Arlagodu </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 40
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> KLP </end_station>
+
+
+<distance> 422 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HVR </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> DWR </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  SKN </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> NPN </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 5  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 41
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> KLP </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 422 </distance>
+
+
+<dept_hr> 21 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 6 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> NPN </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BGM </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HBL </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HVR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 4  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> HNL </station_name> 
+<arr_hr>  5  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 5  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 42B
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  7  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 7  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  9  </arr_hr> 
+<arr_min>  5  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  9  </arr_hr> 
+<arr_min>  50  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  11  </arr_hr> 
+<arr_min>  35  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  12  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 42A
+</id>
+
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 0 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> GBI </station_name> 
+<arr_hr>  18  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+<intermediate_stop2>
+ <station_name> X </station_name> 
+<arr_hr>  18  </arr_hr> 
+<arr_min>  40  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 20  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BNV </station_name> 
+<arr_hr>  20  </arr_hr> 
+<arr_min>  25  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  20  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  21  </arr_hr> 
+<arr_min>  10  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  21  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 21  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> AYN </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 43
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  CNGMLDH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLK RlyMLDH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 21 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  CNGMLDH </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 44
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLK RlyMLDH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  CNGMLDH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> CDG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 105 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLK RlyMLDH </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 72 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KMS </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 45
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 60 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> O </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  ULV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBGMTKMSR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> RNB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBGMTKMSR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HSG </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 46
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> RNB </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 615 </distance>
+
+
+<dept_hr> 5 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> O </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  RTHMSRMTK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HMLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> MTK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HMLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBGMTKMSR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> RNB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  NBG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGDK </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> Ord </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  SRB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 55 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 48
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 6 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 34 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Nisarani </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 40 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 34 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Nisarani </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 49
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKUNI </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKuni </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKUNI </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKuni </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKUNI </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKuni </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKUNI </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 50
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  GenasinaKuni </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HLBG </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> HLBG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HDB </end_station>
+
+
+<distance> 24 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> HDB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 24 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop2>
+ <station_name> SGR </station_name> 
+<arr_hr>  0  </arr_hr> 
+<arr_min>  53  </arr_min> </intermediate_stop2>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 52 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 61 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SRB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SKP </end_station>
+
+
+<distance> 61 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SRB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SKP </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<distance> 52 </distance>
+
+
+<dept_hr> 22 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 23 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 54
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 156 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> INDV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> HKR  </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 35  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> HRR </end_station>
+
+
+<distance> 14 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> HRR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> EXP </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 161 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  19  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HMSB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> AVT </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 55
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 161 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> AVT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> HMSB </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> RNB920-25 </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 6  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 160 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  KSG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> ABLR </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HKR </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> SRKP </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> SRB </station_name> 
+<arr_hr>  17  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 17  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 56
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> JOG </start_station>
+
+
+<end_station> BLR </end_station>
+
+
+<distance> 370 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SGR </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> SRB </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> SRKP </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> HKR </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 50  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> MYL </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> HDG </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 55  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 57
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> BLR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<distance> 370 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> TRG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> HSP </station_name> 
+<arr_hr>  8  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 8  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> HBH </station_name> 
+<arr_hr>  9  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 9  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> HDG </station_name> 
+<arr_hr>  10  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 10  </dept_hr>
+<dept_min> 10  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> MYL </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> RMB </station_name> 
+<arr_hr>  11  </arr_hr>
+<arr_min>  55  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 25  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> KOD </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> HLR </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> SRKP </station_name> 
+<arr_hr>  13  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 13  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> SRB </station_name> 
+<arr_hr>  14  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 14  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> SGR </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 15  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> JOG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 32 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 35A
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> STKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 7 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> JOG </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 50 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  KRGL </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> JOG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> TGP </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 50 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> TGP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> VDH </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> VDH </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 7 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> STKP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranne </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 35B
+
+
+</id>
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> SDP </end_station>
+
+
+<distance> 45 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 11 </trip_no>
+
+
+<start_station> SDP </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 35 </distance>
+
+
+<dept_hr> 19 </dept_hr>
+
+
+<dept_min> 5 </dept_min>
+
+
+<arr_hr> 20 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 12 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> STKP </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 20 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 21 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Adaranthe </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 31
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 59 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SRB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 8 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 29 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 32
+
+
+</id>
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SRKP </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 117 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  HLG </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HRR </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SRKP </end_station>
+
+
+<distance> 117 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  RNB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SRKP </start_station>
+
+
+<end_station> SRB </end_station>
+
+
+<distance> 15 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> SRB </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 15 </dept_min>
+
+
+<arr_hr> 16 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BRR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Harale </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> BRR </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 30 </distance>
+
+
+<dept_hr> 17 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 35 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Harale </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 54
+
+
+</id>
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 160 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 45 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  SRKP </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name>  HGR </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> HRR </end_station>
+
+
+<distance> 14 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> HRR </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 14 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 5 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> BNVS </end_station>
+
+
+<distance> 161 </distance>
+
+
+<dept_hr> 15 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 0 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> HRR </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  20  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  16  </arr_hr>
+<arr_min>  5  </arr_min>
+<dept_hr> 16  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name>  HMSBV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> AVT </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 55
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> BNVS </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<distance> 161 </distance>
+
+
+<dept_hr> 6 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> AVT </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> HMBV </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> RNB </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 156 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 15 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> EXP </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name>  </station_name> 
+<arr_hr>  15  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 11  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> RNB </station_name> 
+<arr_hr>  12  </arr_hr>
+<arr_min>  35  </arr_min>
+<dept_hr> 12  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop3>
+ <station_name> HKR </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 60
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 7 </dept_hr>
+
+
+<dept_min> 10 </dept_min>
+
+
+<arr_hr> 8 </arr_hr>
+
+
+<arr_min> 20 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Genisinkoni </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 2 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 3 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 9 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 9 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 4 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 25 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 5 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 10 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 10 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 6 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 7 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 11 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 11 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 8 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 9 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 12 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 12 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 10 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 11 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 13 </dept_hr>
+
+
+<dept_min> 30 </dept_min>
+
+
+<arr_hr> 13 </arr_hr>
+
+
+<arr_min> 45 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 12 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 14 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 14 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name> SGD </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> ORD </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> SLH </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop3>
+ <station_name> ORD </station_name> 
+ </intermediate_stop3> 
+
+
+<trip><trip_no> 15 </trip_no>
+
+
+<start_station> SLH </start_station>
+
+
+<end_station> SGD </end_station>
+
+
+<distance> 40 </distance>
+
+
+<dept_hr> 16 </dept_hr>
+
+
+<dept_min> 35 </dept_min>
+
+
+<arr_hr> 17 </arr_hr>
+
+
+<arr_min> 55 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 16 </trip_no>
+
+
+<start_station> SGD </start_station>
+
+
+<end_station> HBGL </end_station>
+
+
+<distance> 5 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 18 </arr_hr>
+
+
+<arr_min> 15 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+
+
+<trip><trip_no> 17 </trip_no>
+
+
+<start_station> HBGL </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 36 </distance>
+
+
+<dept_hr> 18 </dept_hr>
+
+
+<dept_min> 20 </dept_min>
+
+
+<arr_hr> 19 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> ORD </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Genisinkoni </station_name> 
+ </intermediate_stop3> 
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 61
+</id>
+
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> SGR </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 21 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> RH </type_of_bus></trip>
+<intermediate_stop3>
+ <station_name>  Aynr </station_name> 
+ </intermediate_stop3> 
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> SMG </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> BDG </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  23  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 23  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> BRR </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  1  </arr_hr>
+<arr_min>  25  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 30  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 6 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  15  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 20  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 7 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  4  </arr_hr>
+<arr_min>  50  </arr_min>
+<dept_hr> 5  </dept_hr>
+<dept_min> 0  </dept_min>
+</intermediate_stop1>
+
+</schedule>
+
+
+
+
+<schedule> <id> SGR 62
+
+</id>
+
+
+<trip><trip_no> 1 </trip_no>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> SGR </end_station>
+
+
+<distance> 349 </distance>
+
+
+<dept_hr> 21 </dept_hr>
+
+
+<dept_min> 0 </dept_min>
+
+
+<arr_hr> 5 </arr_hr>
+
+
+<arr_min> 30 </arr_min>
+
+
+<type_of_bus> RH </type_of_bus></trip>
+<intermediate_stop1>
+<sequence_no> 0 </sequence_no>
+ <station_name> TMK </station_name> 
+<arr_hr>  22  </arr_hr>
+<arr_min>  30  </arr_min>
+<dept_hr> 22  </dept_hr>
+<dept_min> 40  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 1 </sequence_no>
+ <station_name> TPT </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 0  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 2 </sequence_no>
+ <station_name> ARS </station_name> 
+<arr_hr>  0  </arr_hr>
+<arr_min>  45  </arr_min>
+<dept_hr> 1  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 3 </sequence_no>
+ <station_name> KDR </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  0  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 5  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> BRR </station_name> 
+<arr_hr>  2  </arr_hr> 
+<arr_min>  15  </arr_min> </intermediate_stop2>
+<intermediate_stop1>
+<sequence_no> 4 </sequence_no>
+ <station_name> TRK </station_name> 
+<arr_hr>  2  </arr_hr>
+<arr_min>  40  </arr_min>
+<dept_hr> 2  </dept_hr>
+<dept_min> 45  </dept_min>
+</intermediate_stop1>
+<intermediate_stop1>
+<sequence_no> 5 </sequence_no>
+ <station_name> BDT </station_name> 
+<arr_hr>  3  </arr_hr>
+<arr_min>  10  </arr_min>
+<dept_hr> 3  </dept_hr>
+<dept_min> 15  </dept_min>
+</intermediate_stop1>
+<intermediate_stop2>
+ <station_name> SMG </station_name> 
+<arr_hr>  4  </arr_hr> 
+<arr_min>  0  </arr_min> </intermediate_stop2>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,2466 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> BDT 1
+
+
+
+
+</id><start_station> BDVT_SMG </start_station>
+
+
+<end_station> MTM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 444 </schkms>
+
+
+<effkms> 12852 </effkms>
+
+
+<revenue> 244001 </revenue>
+
+
+<passengers> 6374 </passengers>
+
+
+<epkm> 1898.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 51.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 2
+
+
+
+
+</id><start_station> MTM_SMG </start_station>
+
+
+<end_station> BDVT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 444 </schkms>
+
+
+<effkms> 12852 </effkms>
+
+
+<revenue> 183330 </revenue>
+
+
+<passengers> 6374 </passengers>
+
+
+<epkm> 1426.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 38.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 3
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KLP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 442 </schkms>
+
+
+<effkms> 12961 </effkms>
+
+
+<revenue> 165152 </revenue>
+
+
+<passengers> 6401 </passengers>
+
+
+<epkm> 1274.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 34.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 4
+
+
+
+
+</id><start_station> KLP </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 442 </schkms>
+
+
+<effkms> 12961 </effkms>
+
+
+<revenue> 350557 </revenue>
+
+
+<passengers> 6401 </passengers>
+
+
+<epkm> 2704.7 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 73.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 5
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> POONA </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 665 </schkms>
+
+
+<effkms> 20615 </effkms>
+
+
+<revenue> 481402 </revenue>
+
+
+<passengers> 512 </passengers>
+
+
+<epkm> 2335.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 6
+
+
+
+
+</id><start_station> POONA </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 665 </schkms>
+
+
+<effkms> 20615 </effkms>
+
+
+<revenue> 457338 </revenue>
+
+
+<passengers> 512 </passengers>
+
+
+<epkm> 2218.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 60.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 7
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KLP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 442 </schkms>
+
+
+<effkms> 12818 </effkms>
+
+
+<revenue> 268789 </revenue>
+
+
+<passengers> 424 </passengers>
+
+
+<epkm> 2097.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 8
+
+
+
+
+</id><start_station> KLP </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 442 </schkms>
+
+
+<effkms> 12818 </effkms>
+
+
+<revenue> 265445 </revenue>
+
+
+<passengers> 424 </passengers>
+
+
+<epkm> 2070.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 56.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 9A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17820 </effkms>
+
+
+<revenue> 330173 </revenue>
+
+
+<passengers> 9025 </passengers>
+
+
+<epkm> 1852.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 10A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 301174 </effkms>
+
+
+<revenue> 6699 </revenue>
+
+
+<passengers> 1854.7 </passengers>
+
+
+<epkm> C </epkm>
+
+
+<group> 50.4 </group>
+
+
+<load_factor> 173165 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 9B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17820 </effkms>
+
+
+<revenue> 330173 </revenue>
+
+
+<passengers> 9025 </passengers>
+
+
+<epkm> 1852.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 10B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 301174 </effkms>
+
+
+<revenue> 6699 </revenue>
+
+
+<passengers> 173165 </passengers>
+
+
+<epkm>1854.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 50.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 11
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> CMBR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 475 </schkms>
+
+
+<effkms> 14725 </effkms>
+
+
+<revenue> 383969 </revenue>
+
+
+<passengers> 5009 </passengers>
+
+
+<epkm> 2607.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 70.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 12
+
+
+
+
+</id><start_station> CMBR </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 475 </schkms>
+
+
+<effkms> 14725 </effkms>
+
+
+<revenue> 377155 </revenue>
+
+
+<passengers> 5009 </passengers>
+
+
+<epkm> 2561.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 69.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 13A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KRWR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 367569 </revenue>
+
+
+<passengers> 6639 </passengers>
+
+
+<epkm> 2117.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 14A
+
+
+
+
+</id><start_station> BDT_SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17820 </effkms>
+
+
+<revenue> 353337 </revenue>
+
+
+<passengers> 9479 </passengers>
+
+
+<epkm> 1982.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 13B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KRWR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 560 </schkms>
+
+
+<effkms> 17360 </effkms>
+
+
+<revenue> 367569 </revenue>
+
+
+<passengers> 6639 </passengers>
+
+
+<epkm> 2117.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 14B
+
+
+
+
+</id><start_station> BDT_SMG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 353337 </effkms>
+
+
+<revenue> 9479 </revenue>
+
+
+<passengers> 1982.8 </passengers>
+
+
+<epkm> C </epkm>
+
+
+<group> 53.9 </group>
+
+
+<load_factor> 214434 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 16
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SKTN </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 436 </schkms>
+
+
+<effkms> 12644 </effkms>
+
+
+<revenue> 307065 </revenue>
+
+
+<passengers> 4415 </passengers>
+
+
+<epkm> 2428.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 66.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 17
+
+
+
+
+</id><start_station> SKTN </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 436 </schkms>
+
+
+<effkms> 12644 </effkms>
+
+
+<revenue> 324380 </revenue>
+
+
+<passengers> 4415 </passengers>
+
+
+<epkm> 2565.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 69.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 18A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 18414 </effkms>
+
+
+<revenue> 388473 </revenue>
+
+
+<passengers> 10771 </passengers>
+
+
+<epkm> 2109.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 19A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17680 </effkms>
+
+
+<revenue> 345025 </revenue>
+
+
+<passengers> 7599 </passengers>
+
+
+<epkm> 1951.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 20A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17466 </effkms>
+
+
+<revenue> 355879 </revenue>
+
+
+<passengers> 7715 </passengers>
+
+
+<epkm> 2037.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 55.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 18B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 18414 </effkms>
+
+
+<revenue> 388473 </revenue>
+
+
+<passengers> 10771 </passengers>
+
+
+<epkm> 2109.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 57.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 19B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17680 </effkms>
+
+
+<revenue> 345025 </revenue>
+
+
+<passengers> 7599 </passengers>
+
+
+<epkm> 1951.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 20B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 594 </schkms>
+
+
+<effkms> 17466 </effkms>
+
+
+<revenue> 355879 </revenue>
+
+
+<passengers> 7715 </passengers>
+
+
+<epkm> 2037.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 55.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 21
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNG_MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 437 </schkms>
+
+
+<effkms> 13267 </effkms>
+
+
+<revenue> 271212 </revenue>
+
+
+<passengers> 7077 </passengers>
+
+
+<epkm> 2044.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 55.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 22
+
+
+
+
+</id><start_station> MYS_BNG </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 437 </schkms>
+
+
+<effkms> 13267 </effkms>
+
+
+<revenue> 261390 </revenue>
+
+
+<passengers> 7077 </passengers>
+
+
+<epkm> 1970.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 23A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 525 </schkms>
+
+
+<effkms> 15750 </effkms>
+
+
+<revenue> 365204 </revenue>
+
+
+<passengers> 11088 </passengers>
+
+
+<epkm> 2318.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 23B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 525 </schkms>
+
+
+<effkms> 15750 </effkms>
+
+
+<revenue> 365204 </revenue>
+
+
+<passengers> 11088 </passengers>
+
+
+<epkm> 2318.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 24
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 525 </schkms>
+
+
+<effkms> 15225 </effkms>
+
+
+<revenue> 344265 </revenue>
+
+
+<passengers> 11369 </passengers>
+
+
+<epkm> 2261.2 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 61.5 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 25B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_CNY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 445 </schkms>
+
+
+<effkms> 13350 </effkms>
+
+
+<revenue> 312237 </revenue>
+
+
+<passengers> 13447 </passengers>
+
+
+<epkm> 2338.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 25A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG_CNY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 445 </schkms>
+
+
+<effkms> 13350 </effkms>
+
+
+<revenue> 312237 </revenue>
+
+
+<passengers> 13447 </passengers>
+
+
+<epkm> 2338.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 26
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SVPR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 208 </schkms>
+
+
+<effkms> 6448 </effkms>
+
+
+<revenue> 137671 </revenue>
+
+
+<passengers> 18096 </passengers>
+
+
+<epkm> 2135.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 99.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 27
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KHNL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 202 </schkms>
+
+
+<effkms> 5918 </effkms>
+
+
+<revenue> 98810 </revenue>
+
+
+<passengers> 13312 </passengers>
+
+
+<epkm> 1669.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 28
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7014 </effkms>
+
+
+<revenue> 124630 </revenue>
+
+
+<passengers> 15895 </passengers>
+
+
+<epkm> 1776.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 29
+
+
+
+
+</id><start_station> SMG </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7014 </effkms>
+
+
+<revenue> 120869 </revenue>
+
+
+<passengers> 15895 </passengers>
+
+
+<epkm> 1723.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 80.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 30
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BLK_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7220 </effkms>
+
+
+<revenue> 103468 </revenue>
+
+
+<passengers> 14964 </passengers>
+
+
+<epkm> 1433.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 66.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 31
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7080 </effkms>
+
+
+<revenue> 124534 </revenue>
+
+
+<passengers> 22305 </passengers>
+
+
+<epkm> 1759.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 32
+
+
+
+
+</id><start_station> BDT_TRK </start_station>
+
+
+<end_station> TDS_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 284 </schkms>
+
+
+<effkms> 8464 </effkms>
+
+
+<revenue> 133011 </revenue>
+
+
+<passengers> 28952 </passengers>
+
+
+<epkm> 1571.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 73.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 33
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KRK_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7195 </effkms>
+
+
+<revenue> 118986 </revenue>
+
+
+<passengers> 14301 </passengers>
+
+
+<epkm> 1653.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 34
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7064 </effkms>
+
+
+<revenue> 114783 </revenue>
+
+
+<passengers> 23201 </passengers>
+
+
+<epkm> 1624.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 75.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 35
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7160 </effkms>
+
+
+<revenue> 112807 </revenue>
+
+
+<passengers> 15700 </passengers>
+
+
+<epkm> 1575.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 73.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 36
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 6380 </effkms>
+
+
+<revenue> 104833 </revenue>
+
+
+<passengers> 15204 </passengers>
+
+
+<epkm> 1643.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 37
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> UKD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 266 </schkms>
+
+
+<effkms> 8086 </effkms>
+
+
+<revenue> 134174 </revenue>
+
+
+<passengers> 20489 </passengers>
+
+
+<epkm> 1659.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 77.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 38
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> MVNK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 206 </schkms>
+
+
+<effkms> 5888 </effkms>
+
+
+<revenue> 96732 </revenue>
+
+
+<passengers> 14022 </passengers>
+
+
+<epkm> 1642.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 39
+
+
+
+
+</id><start_station> MVNK </start_station>
+
+
+<end_station> BDT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 206 </schkms>
+
+
+<effkms> 5888 </effkms>
+
+
+<revenue> 102315 </revenue>
+
+
+<passengers> 14022 </passengers>
+
+
+<epkm> 1737.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 80.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 40
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 6720 </effkms>
+
+
+<revenue> 115701 </revenue>
+
+
+<passengers> 9912 </passengers>
+
+
+<epkm> 1721.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 80.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 41B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 272 </schkms>
+
+
+<effkms> 8104 </effkms>
+
+
+<revenue> 141383 </revenue>
+
+
+<passengers> 18149 </passengers>
+
+
+<epkm> 1744.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 41A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 272 </schkms>
+
+
+<effkms> 8104 </effkms>
+
+
+<revenue> 141383 </revenue>
+
+
+<passengers> 18149 </passengers>
+
+
+<epkm> 1744.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 42
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> RBK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 260 </schkms>
+
+
+<effkms> 7990 </effkms>
+
+
+<revenue> 74014 </revenue>
+
+
+<passengers> 15383 </passengers>
+
+
+<epkm> 926.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 43.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 43A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 236 </schkms>
+
+
+<effkms> 7254 </effkms>
+
+
+<revenue> 119929 </revenue>
+
+
+<passengers> 14324 </passengers>
+
+
+<epkm> 1653.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 44A
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TNB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 258 </schkms>
+
+
+<effkms> 7600 </effkms>
+
+
+<revenue> 118101 </revenue>
+
+
+<passengers> 18745 </passengers>
+
+
+<epkm> 1554.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 43B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> BNDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 236 </schkms>
+
+
+<effkms> 7254 </effkms>
+
+
+<revenue> 119929 </revenue>
+
+
+<passengers> 14324 </passengers>
+
+
+<epkm> 1653.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 76.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 44B
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TNB </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 258 </schkms>
+
+
+<effkms> 7600 </effkms>
+
+
+<revenue> 118101 </revenue>
+
+
+<passengers> 18745 </passengers>
+
+
+<epkm> 1554.0 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 46
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 244 </schkms>
+
+
+<effkms> 106105 </effkms>
+
+
+<revenue> 12089 </revenue>
+
+
+<passengers> 1521.0 </passengers>
+
+
+<epkm> C </epkm>
+
+
+<group> 70.7 </group>
+
+
+<load_factor> 80728 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 47
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> CNG_DVG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 320 </schkms>
+
+
+<effkms> 8840 </effkms>
+
+
+<revenue> 152088 </revenue>
+
+
+<passengers> 9875 </passengers>
+
+
+<epkm> 1720.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 46.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 48
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> KRK_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7195 </effkms>
+
+
+<revenue> 98148 </revenue>
+
+
+<passengers> 14301 </passengers>
+
+
+<epkm> 1364.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 63.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 50
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 244 </schkms>
+
+
+<effkms> 116355 </effkms>
+
+
+<revenue> 12089 </revenue>
+
+
+<passengers> 1667.9 </passengers>
+
+
+<epkm> C </epkm>
+
+
+<group> 77.6 </group>
+
+
+<load_factor> 80728 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 51
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> TDS_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 220 </schkms>
+
+
+<effkms> 6600 </effkms>
+
+
+<revenue> 111887 </revenue>
+
+
+<passengers> 14011 </passengers>
+
+
+<epkm> 1695.3 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 78.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 52
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 7168 </effkms>
+
+
+<revenue> 125926 </revenue>
+
+
+<passengers> 15193 </passengers>
+
+
+<epkm> 1756.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 53
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 240 </schkms>
+
+
+<effkms> 6920 </effkms>
+
+
+<revenue> 117635 </revenue>
+
+
+<passengers> 15924 </passengers>
+
+
+<epkm> 1699.9 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> BDT 54
+
+
+
+
+</id><start_station> BDT </start_station>
+
+
+<end_station> RBK_SMG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 260 </schkms>
+
+
+<effkms> 7990 </effkms>
+
+
+<revenue> 92111 </revenue>
+
+
+<passengers> 15383 </passengers>
+
+
+<epkm> 1152.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 53.6 </load_factor>
+
+</schedule>
+
+
+</buses>
+

@@ -1,0 +1,1218 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule> <id> HRP 1
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> MTM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 343 </schkms>
+
+
+<effkms> 10210 </effkms>
+
+
+<revenue> 193851 </revenue>
+
+
+<passengers> 7781 </passengers>
+
+
+<epkm> 1898.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 51.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 2
+
+
+
+
+</id><start_station> MTM </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 343 </schkms>
+
+
+<effkms> 10210 </effkms>
+
+
+<revenue> 193851 </revenue>
+
+
+<passengers> 7781 </passengers>
+
+
+<epkm> 1898.6 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 51.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 4
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> RCH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 379 </schkms>
+
+
+<effkms> 11262 </effkms>
+
+
+<revenue> 222294 </revenue>
+
+
+<passengers> 8837 </passengers>
+
+
+<epkm> 1973.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 5
+
+
+
+
+</id><start_station> RCH </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 379 </schkms>
+
+
+<effkms> 11262 </effkms>
+
+
+<revenue> 222294 </revenue>
+
+
+<passengers> 8837 </passengers>
+
+
+<epkm> 1973.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 53.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 6
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HSP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 11056 </effkms>
+
+
+<revenue> 260583 </revenue>
+
+
+<passengers> 8173 </passengers>
+
+
+<epkm> 2356.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 64.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 7
+
+
+
+
+</id><start_station> HSP </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 370 </schkms>
+
+
+<effkms> 11056 </effkms>
+
+
+<revenue> 260583 </revenue>
+
+
+<passengers> 8173 </passengers>
+
+
+<epkm> 2356.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 64.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 8
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> SBM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 11780 </effkms>
+
+
+<revenue> 226509 </revenue>
+
+
+<passengers> 8233 </passengers>
+
+
+<epkm> 1922.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 9
+
+
+
+
+</id><start_station> SBM </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 400 </schkms>
+
+
+<effkms> 11780 </effkms>
+
+
+<revenue> 226509 </revenue>
+
+
+<passengers> 8233 </passengers>
+
+
+<epkm> 1922.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 52.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 10
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 404 </schkms>
+
+
+<effkms> 12038 </effkms>
+
+
+<revenue> 239124 </revenue>
+
+
+<passengers> 11444 </passengers>
+
+
+<epkm> 1986.4 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 13
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HSP_SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 375 </schkms>
+
+
+<effkms> 9768 </effkms>
+
+
+<revenue> 196969 </revenue>
+
+
+<passengers> 7493 </passengers>
+
+
+<epkm> 2016.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 14
+
+
+
+
+</id><start_station> SMG_HSP </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 375 </schkms>
+
+
+<effkms> 9768 </effkms>
+
+
+<revenue> 196969 </revenue>
+
+
+<passengers> 7493 </passengers>
+
+
+<epkm> 2016.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.8 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 18
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HLV_UCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 304 </schkms>
+
+
+<effkms> 8828 </effkms>
+
+
+<revenue> 164017 </revenue>
+
+
+<passengers> 10717 </passengers>
+
+
+<epkm> 1857.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 86.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 19
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7788 </effkms>
+
+
+<revenue> 150699 </revenue>
+
+
+<passengers> 6730 </passengers>
+
+
+<epkm> 1935.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 90.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 20
+
+
+
+
+</id><start_station> DVG </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 264 </schkms>
+
+
+<effkms> 7788 </effkms>
+
+
+<revenue> 150699 </revenue>
+
+
+<passengers> 6730 </passengers>
+
+
+<epkm> 1935.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 90.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 22
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> MYLR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 270 </schkms>
+
+
+<effkms> 7166 </effkms>
+
+
+<revenue> 99731 </revenue>
+
+
+<passengers> 9941 </passengers>
+
+
+<epkm> 1391.7 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 64.7 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 23
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 267 </schkms>
+
+
+<effkms> 7752 </effkms>
+
+
+<revenue> 115105 </revenue>
+
+
+<passengers> 8069 </passengers>
+
+
+<epkm> 1484.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 24
+
+
+
+
+</id><start_station> HLV </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 267 </schkms>
+
+
+<effkms> 7752 </effkms>
+
+
+<revenue> 115105 </revenue>
+
+
+<passengers> 8069 </passengers>
+
+
+<epkm> 1484.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 69.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 26
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> UCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 310 </schkms>
+
+
+<effkms> 8810 </effkms>
+
+
+<revenue> 150719 </revenue>
+
+
+<passengers> 10264 </passengers>
+
+
+<epkm> 1710.8 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 79.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 27
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> KCK_UCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 278 </schkms>
+
+
+<effkms> 7332 </effkms>
+
+
+<revenue> 113615 </revenue>
+
+
+<passengers> 9821 </passengers>
+
+
+<epkm> 1549.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 72.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 29
+
+
+
+
+</id><start_station> HSP </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 380 </schkms>
+
+
+<effkms> 10437 </effkms>
+
+
+<revenue> 207479 </revenue>
+
+
+<passengers> 7499 </passengers>
+
+
+<epkm> 1987.9 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 54.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 30
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 258 </schkms>
+
+
+<effkms> 7852 </effkms>
+
+
+<revenue> 170660 </revenue>
+
+
+<passengers> 15839 </passengers>
+
+
+<epkm> 2173.5 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 101.1 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 32
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> MYD_DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 8435 </effkms>
+
+
+<revenue> 124974 </revenue>
+
+
+<passengers> 6820 </passengers>
+
+
+<epkm> 1481.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 68.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 33
+
+
+
+
+</id><start_station> MYD_DVG </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 298 </schkms>
+
+
+<effkms> 8435 </effkms>
+
+
+<revenue> 124974 </revenue>
+
+
+<passengers> 6820 </passengers>
+
+
+<epkm> 1481.6 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 68.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 35
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HLL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8274 </effkms>
+
+
+<revenue> 126848 </revenue>
+
+
+<passengers> 7313 </passengers>
+
+
+<epkm> 1533.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 36
+
+
+
+
+</id><start_station> HLL </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 280 </schkms>
+
+
+<effkms> 8274 </effkms>
+
+
+<revenue> 126848 </revenue>
+
+
+<passengers> 7313 </passengers>
+
+
+<epkm> 1533.1 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 71.3 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 38
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> HLV_CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 360 </schkms>
+
+
+<effkms> 9568 </effkms>
+
+
+<revenue> 199854 </revenue>
+
+
+<passengers> 14939 </passengers>
+
+
+<epkm> 2088.8 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 97.2 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 41
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> JGL_CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 324 </schkms>
+
+
+<effkms> 8916 </effkms>
+
+
+<revenue> 158396 </revenue>
+
+
+<passengers> 11445 </passengers>
+
+
+<epkm> 1776.5 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 82.6 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 48
+
+
+
+
+</id><start_station> HRP </start_station>
+
+
+<end_station> DVG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 272 </schkms>
+
+
+<effkms> 8040 </effkms>
+
+
+<revenue> 139989 </revenue>
+
+
+<passengers> 5118 </passengers>
+
+
+<epkm> 1741.2 </epkm>
+
+
+<group> C </group>
+
+
+<load_factor> 81.0 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 52
+
+
+
+
+</id><start_station> GDG </start_station>
+
+
+<end_station> HRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 332 </schkms>
+
+
+<effkms> 9477 </effkms>
+
+
+<revenue> 203468 </revenue>
+
+
+<passengers> 7575 </passengers>
+
+
+<epkm> 2147.0 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 58.4 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 53
+
+
+
+
+</id><start_station> HRP_KTR </start_station>
+
+
+<end_station> MNP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 386 </schkms>
+
+
+<effkms> 11580 </effkms>
+
+
+<revenue> 272280 </revenue>
+
+
+<passengers> 6605 </passengers>
+
+
+<epkm> 2351.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.9 </load_factor>
+
+</schedule>
+
+
+
+
+<schedule> <id> HRP 54
+
+
+
+
+</id><start_station> HRP_KTR </start_station>
+
+
+<end_station> MNP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 386 </schkms>
+
+
+<effkms> 11580 </effkms>
+
+
+<revenue> 272280 </revenue>
+
+
+<passengers> 6605 </passengers>
+
+
+<epkm> 2351.3 </epkm>
+
+
+<group> B </group>
+
+
+<load_factor> 63.9 </load_factor>
+
+</schedule>
+
+
+</buses>
+

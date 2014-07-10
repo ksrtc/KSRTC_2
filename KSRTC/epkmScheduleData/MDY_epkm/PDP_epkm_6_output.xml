@@ -1,0 +1,2025 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> PDP-1
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms>  12605 </schkms>
+
+
+<effkms> 12605 </effkms>
+
+
+<revenue> 356277 </revenue>
+
+
+<epkm> 2826.5 </epkm>
+
+
+<load_factor> 79.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8560 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-2
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> BNG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12605 </schkms>
+
+
+<effkms> 12605 </effkms>
+
+
+<revenue> 279265 </revenue>
+
+
+<epkm> 2215.5 </epkm>
+
+
+<load_factor> 62.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 6500 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-3
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MTGR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms>  9046 </schkms>
+
+
+<effkms> 9046 </effkms>
+
+
+<revenue> 203536 </revenue>
+
+
+<epkm> 2250.0 </epkm>
+
+
+<load_factor> 96.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16338 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-4
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 4032 </schkms>
+
+
+<effkms> 4032 </effkms>
+
+
+<revenue> 87612 </revenue>
+
+
+<epkm> 2172.9 </epkm>
+
+
+<load_factor> 93.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 2905 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-5
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> CNK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 8530 </effkms>
+
+
+<revenue> 195202 </revenue>
+
+
+<epkm> 2288.4 </epkm>
+
+
+<load_factor> 98.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 15886 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-6
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> CNK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8400 </schkms>
+
+
+<effkms> 8400 </effkms>
+
+
+<revenue> 145309 </revenue>
+
+
+<epkm> 1729.9 </epkm>
+
+
+<load_factor> 74.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15676 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-7
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> NRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8852 </schkms>
+
+
+<effkms> 8852 </effkms>
+
+
+<revenue> 118226 </revenue>
+
+
+<epkm> 1335.6 </epkm>
+
+
+<load_factor> 57.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 10400 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-8
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> NRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 7830 </effkms>
+
+
+<revenue> 99092 </revenue>
+
+
+<epkm> 1265.5 </epkm>
+
+
+<load_factor> 54.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12560 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-9
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 5522 </schkms>
+
+
+<effkms> 5522 </effkms>
+
+
+<revenue> 112666 </revenue>
+
+
+<epkm> 2040.3 </epkm>
+
+
+<load_factor> 57.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6200 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-10
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9240 </schkms>
+
+
+<effkms> 9240 </effkms>
+
+
+<revenue> 148928 </revenue>
+
+
+<epkm> 1611.8 </epkm>
+
+
+<load_factor> 69.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13560 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-11
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> NGHL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 4950 </schkms>
+
+
+<effkms> 4950 </effkms>
+
+
+<revenue> 81826 </revenue>
+
+
+<epkm> 1653.1 </epkm>
+
+
+<load_factor> 71.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6997 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-12
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYD </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11138 </schkms>
+
+
+<effkms> 11138 </effkms>
+
+
+<revenue> 285825 </revenue>
+
+
+<epkm> 2566.2 </epkm>
+
+
+<load_factor> 72.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9417 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-13
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11318 </schkms>
+
+
+<effkms> 11318 </effkms>
+
+
+<revenue> 320807 </revenue>
+
+
+<epkm> 2834.5 </epkm>
+
+
+<load_factor> 122.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11000 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-14
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> PTG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7157 </schkms>
+
+
+<effkms> 7157 </effkms>
+
+
+<revenue> 137656 </revenue>
+
+
+<epkm> 1923.4 </epkm>
+
+
+<load_factor> 82.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11109 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-15
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3311 </schkms>
+
+
+<effkms> 3311 </effkms>
+
+
+<revenue> 52679 </revenue>
+
+
+<epkm> 1591.0 </epkm>
+
+
+<load_factor> 44.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 4057 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-16
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9032 </schkms>
+
+
+<effkms> 9032 </effkms>
+
+
+<revenue> 169964 </revenue>
+
+
+<epkm> 1881.8 </epkm>
+
+
+<load_factor> 81.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8390 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-17
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7899 </schkms>
+
+
+<effkms> 7899 </effkms>
+
+
+<revenue> 166908 </revenue>
+
+
+<epkm> 2113.0 </epkm>
+
+
+<load_factor> 59.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5016 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-18
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11640 </schkms>
+
+
+<effkms> 11640 </effkms>
+
+
+<revenue> 285917 </revenue>
+
+
+<epkm> 2456.3 </epkm>
+
+
+<load_factor> 105.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8867 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-19
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> CBS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 4691 </schkms>
+
+
+<effkms> 4691 </effkms>
+
+
+<revenue> 72365 </revenue>
+
+
+<epkm> 1542.6 </epkm>
+
+
+<load_factor> 66.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6135 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-20
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5253 </schkms>
+
+
+<effkms> 5253 </effkms>
+
+
+<revenue> 85390 </revenue>
+
+
+<epkm> 1625.5 </epkm>
+
+
+<load_factor> 70.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8492 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-21
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7773 </schkms>
+
+
+<effkms> 7773 </effkms>
+
+
+<revenue> 112887 </revenue>
+
+
+<epkm> 1452.3 </epkm>
+
+
+<load_factor> 62.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 11853 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-24
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7361 </schkms>
+
+
+<effkms> 7361 </effkms>
+
+
+<revenue> 132048 </revenue>
+
+
+<epkm> 1793.9 </epkm>
+
+
+<load_factor> 50.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12606 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-25
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KMH </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 6769  </schkms>
+
+
+<effkms> 6769 </effkms>
+
+
+<revenue> 108732 </revenue>
+
+
+<epkm> 1606.3 </epkm>
+
+
+<load_factor> 69.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5640 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-26
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 4804 </effkms>
+
+
+<revenue> 99507 </revenue>
+
+
+<epkm> 2071.3 </epkm>
+
+
+<load_factor> 89.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7691 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-27
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7009 </schkms>
+
+
+<effkms> 7009 </effkms>
+
+
+<revenue> 113927 </revenue>
+
+
+<epkm> 1625.4 </epkm>
+
+
+<load_factor> 70.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11887 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-28
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> BNR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8101 </schkms>
+
+
+<effkms> 8101 </effkms>
+
+
+<revenue> 161062 </revenue>
+
+
+<epkm> 1988.2 </epkm>
+
+
+<load_factor> 85.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13504 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-30
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 6766 </effkms>
+
+
+<revenue> 123311 </revenue>
+
+
+<epkm> 1822.5 </epkm>
+
+
+<load_factor> 78.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9319 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-31
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7206  </schkms>
+
+
+<effkms> 7206 </effkms>
+
+
+<revenue> 147063 </revenue>
+
+
+<epkm> 2040.8 </epkm>
+
+
+<load_factor> 87.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10719 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-32
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CBS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 6655 </effkms>
+
+
+<revenue> 106639 </revenue>
+
+
+<epkm> 1602.4 </epkm>
+
+
+<load_factor> 45.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8131 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-34
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12224 </schkms>
+
+
+<effkms> 12224 </effkms>
+
+
+<revenue> 289230 </revenue>
+
+
+<epkm> 2366.1 </epkm>
+
+
+<load_factor> 66.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8599 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-35
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> AKH </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12788 </schkms>
+
+
+<effkms> 12788 </effkms>
+
+
+<revenue> 286593 </revenue>
+
+
+<epkm> 2241.1 </epkm>
+
+
+<load_factor> 63.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7974 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-36
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7406 </schkms>
+
+
+<effkms> 7406 </effkms>
+
+
+<revenue> 98983 </revenue>
+
+
+<epkm> 1336.5 </epkm>
+
+
+<load_factor> 37.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 11740 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-38
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11398 </schkms>
+
+
+<effkms> 11398 </effkms>
+
+
+<revenue> 300959 </revenue>
+
+
+<epkm> 2640.5 </epkm>
+
+
+<load_factor> 74.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8006 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-39
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> CRP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11670 </schkms>
+
+
+<effkms> 11670 </effkms>
+
+
+<revenue> 271213 </revenue>
+
+
+<epkm> 2324.0 </epkm>
+
+
+<load_factor> 65.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7409 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-41
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9028 </schkms>
+
+
+<effkms> 9028 </effkms>
+
+
+<revenue> 204799 </revenue>
+
+
+<epkm> 2268.5 </epkm>
+
+
+<load_factor> 63.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9560 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-44
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10485 </schkms>
+
+
+<effkms> 10485 </effkms>
+
+
+<revenue> 240160 </revenue>
+
+
+<epkm> 2290.5 </epkm>
+
+
+<load_factor> 64.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7646 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-45
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 590 </effkms>
+
+
+<revenue> 7418 </revenue>
+
+
+<epkm> 1257.3 </epkm>
+
+
+<load_factor> 35.4 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 300 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-49
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5630 </schkms>
+
+
+<effkms> 5630 </effkms>
+
+
+<revenue> 77670 </revenue>
+
+
+<epkm> 1379.6 </epkm>
+
+
+<load_factor> 38.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 9208 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-50
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9151 </schkms>
+
+
+<effkms> 9151 </effkms>
+
+
+<revenue> 133664 </revenue>
+
+
+<epkm> 1460.6 </epkm>
+
+
+<load_factor> 41.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14188 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-22AB
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 17322 </schkms>
+
+
+<effkms> 17322 </effkms>
+
+
+<revenue> 392766 </revenue>
+
+
+<epkm> 2267.4 </epkm>
+
+
+<load_factor> 97.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12560 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-37AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> SRP </start_station>
+
+
+<end_station> HRK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7885 </schkms>
+
+
+<effkms> 7885 </effkms>
+
+
+<revenue> 114370 </revenue>
+
+
+<epkm> 1450.5 </epkm>
+
+
+<load_factor> 40.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 9896 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-40AB
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13309 </schkms>
+
+
+<effkms> 13309 </effkms>
+
+
+<revenue> 271560 </revenue>
+
+
+<epkm> 2040.4 </epkm>
+
+
+<load_factor> 57.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15630 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-51AB
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10947 </schkms>
+
+
+<effkms> 10947 </effkms>
+
+
+<revenue> 226728 </revenue>
+
+
+<epkm> 2071.1 </epkm>
+
+
+<load_factor> 58.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9722 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-47
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10398 </schkms>
+
+
+<effkms> 10398 </effkms>
+
+
+<revenue> 288023 </revenue>
+
+
+<epkm> 2770.0 </epkm>
+
+
+<load_factor> 78.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9073 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-48
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> SMG </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11729 </schkms>
+
+
+<effkms> 11729 </effkms>
+
+
+<revenue> 238424 </revenue>
+
+
+<epkm> 2032.8 </epkm>
+
+
+<load_factor> 57.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 7686 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-52
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9672 </schkms>
+
+
+<effkms> 9672 </effkms>
+
+
+<revenue> 199817 </revenue>
+
+
+<epkm> 2065.9 </epkm>
+
+
+<load_factor> 58.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5460 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-42
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> PDP </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 906 </schkms>
+
+
+<effkms> 906 </effkms>
+
+
+<revenue> 10055 </revenue>
+
+
+<epkm> 1109.8 </epkm>
+
+
+<load_factor> 47.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 5712 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> PDP-43
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MVNK </start_station>
+
+
+<end_station> KRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 1092 </schkms>
+
+
+<effkms> 1092 </effkms>
+
+
+<revenue> 12990 </revenue>
+
+
+<epkm> 1189.6 </epkm>
+
+
+<load_factor> 51.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 4335 </passengers>
+
+</schedule>
+
+
+</buses>
+

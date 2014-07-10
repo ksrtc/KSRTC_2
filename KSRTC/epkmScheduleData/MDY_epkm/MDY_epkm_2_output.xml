@@ -1,0 +1,5301 @@
+<?xml version="1.0"?>
+
+
+
+<buses>
+
+
+
+
+<schedule><id> MDY-1
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 17674 </schkms>
+
+
+<effkms> 17674 </effkms>
+
+
+<revenue> 466487 </revenue>
+
+
+<epkm> 2639.4 </epkm>
+
+
+<load_factor> 74.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8077 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-3
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MCTC </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11160 </schkms>
+
+
+<effkms> 11160 </effkms>
+
+
+<revenue> 264706 </revenue>
+
+
+<epkm> 2371.9 </epkm>
+
+
+<load_factor> 66.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11160 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-5
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 4976 </schkms>
+
+
+<effkms> 4976 </effkms>
+
+
+<revenue> 110955 </revenue>
+
+
+<epkm> 2229.8 </epkm>
+
+
+<load_factor> 62.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 3150 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-6
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9120 </schkms>
+
+
+<effkms> 9120 </effkms>
+
+
+<revenue> 248767 </revenue>
+
+
+<epkm> 2727.7 </epkm>
+
+
+<load_factor> 76.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5489 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-7
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MNG </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 15000 </effkms>
+
+
+<revenue> 381018 </revenue>
+
+
+<epkm> 2540.1 </epkm>
+
+
+<load_factor> 71.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5816 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-8
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11760 </schkms>
+
+
+<effkms> 11760 </effkms>
+
+
+<revenue> 314214 </revenue>
+
+
+<epkm> 2671.9 </epkm>
+
+
+<load_factor> 75.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11760 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-10
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 5652 </schkms>
+
+
+<effkms> 5652 </effkms>
+
+
+<revenue> 105093 </revenue>
+
+
+<epkm> 1859.4 </epkm>
+
+
+<load_factor> 80.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11511 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-11
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7748 </schkms>
+
+
+<effkms> 7748 </effkms>
+
+
+<revenue> 193703 </revenue>
+
+
+<epkm> 2500.0 </epkm>
+
+
+<load_factor> 107.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 21145 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-12
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BSRL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7602 </schkms>
+
+
+<effkms> 7602 </effkms>
+
+
+<revenue> 178545 </revenue>
+
+
+<epkm> 2348.7 </epkm>
+
+
+<load_factor> 101.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 18633 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-15
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> GWL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8212 </schkms>
+
+
+<effkms> 8212 </effkms>
+
+
+<revenue> 131577 </revenue>
+
+
+<epkm> 1602.3 </epkm>
+
+
+<load_factor> 69.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14786 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-17
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 7412 </schkms>
+
+
+<effkms> 7412 </effkms>
+
+
+<revenue> 184435 </revenue>
+
+
+<epkm> 2488.3 </epkm>
+
+
+<load_factor> 107.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10502 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-18
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KGV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 1500 </schkms>
+
+
+<effkms> 1500 </effkms>
+
+
+<revenue> 33355 </revenue>
+
+
+<epkm> 2223.7 </epkm>
+
+
+<load_factor> 95.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 1484 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-34
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MRCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 7824 </effkms>
+
+
+<revenue> 181470 </revenue>
+
+
+<epkm> 2319.4 </epkm>
+
+
+<load_factor> 99.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 29538 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-35
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MSGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 7548 </effkms>
+
+
+<revenue> 139710 </revenue>
+
+
+<epkm> 1851.0 </epkm>
+
+
+<load_factor> 79.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12380 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-37
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MMH </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11566 </schkms>
+
+
+<effkms> 11566 </effkms>
+
+
+<revenue> 341243 </revenue>
+
+
+<epkm> 2950.4 </epkm>
+
+
+<load_factor> 83.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 12206 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-38
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MDR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10552 </schkms>
+
+
+<effkms> 10552 </effkms>
+
+
+<revenue> 197063 </revenue>
+
+
+<epkm> 1867.5 </epkm>
+
+
+<load_factor> 52.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12389 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-39
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MDR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 9450 </effkms>
+
+
+<revenue> 203907 </revenue>
+
+
+<epkm> 2157.7 </epkm>
+
+
+<load_factor> 60.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12167 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-40
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MDR </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10326 </effkms>
+
+
+<revenue> 196126 </revenue>
+
+
+<epkm> 1899.3 </epkm>
+
+
+<load_factor> 81.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11289 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-41
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KKS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10170 </effkms>
+
+
+<revenue> 269496 </revenue>
+
+
+<epkm> 2649.9 </epkm>
+
+
+<load_factor> 114.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 5482 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-42
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KKS </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 7590 </effkms>
+
+
+<revenue> 221178 </revenue>
+
+
+<epkm> 2914.1 </epkm>
+
+
+<load_factor> 125.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 1950 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-49
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HLG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 9224 </effkms>
+
+
+<revenue> 164619 </revenue>
+
+
+<epkm> 1784.7 </epkm>
+
+
+<load_factor> 76.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15370 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-51
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SBH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7652 </schkms>
+
+
+<effkms> 7652 </effkms>
+
+
+<revenue> 144886 </revenue>
+
+
+<epkm> 1893.4 </epkm>
+
+
+<load_factor> 53.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17218 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-55
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SRP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8144 </schkms>
+
+
+<effkms> 8144 </effkms>
+
+
+<revenue> 163582 </revenue>
+
+
+<epkm> 2008.6 </epkm>
+
+
+<load_factor> 86.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17216 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-56
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7568 </schkms>
+
+
+<effkms> 7568 </effkms>
+
+
+<revenue> 169746 </revenue>
+
+
+<epkm> 2242.9 </epkm>
+
+
+<load_factor> 96.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 18969 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-59
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MANANDAWADI </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10200 </schkms>
+
+
+<effkms> 10200 </effkms>
+
+
+<revenue> 287907 </revenue>
+
+
+<epkm> 2822.6 </epkm>
+
+
+<load_factor> 121.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11517 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-60
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MRGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 4502 </schkms>
+
+
+<effkms> 4502 </effkms>
+
+
+<revenue> 95635 </revenue>
+
+
+<epkm> 2124.3 </epkm>
+
+
+<load_factor> 91.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6400 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-62
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7626 </schkms>
+
+
+<effkms> 7626 </effkms>
+
+
+<revenue> 123472 </revenue>
+
+
+<epkm> 1619.1 </epkm>
+
+
+<load_factor> 69.7 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12918 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-63
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> KWD </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 7500 </effkms>
+
+
+<revenue> 129031 </revenue>
+
+
+<epkm> 1720.4 </epkm>
+
+
+<load_factor> 74.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14634 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-67
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11910 </schkms>
+
+
+<effkms> 11910 </effkms>
+
+
+<revenue> 267562 </revenue>
+
+
+<epkm> 2246.5 </epkm>
+
+
+<load_factor> 96.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11899 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-74
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KPT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9000 </schkms>
+
+
+<effkms> 9000 </effkms>
+
+
+<revenue> 164884 </revenue>
+
+
+<epkm> 1832.0 </epkm>
+
+
+<load_factor> 51.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14600 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-77
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SVP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8062 </effkms>
+
+
+<revenue> 177427 </revenue>
+
+
+<epkm> 2200.8 </epkm>
+
+
+<load_factor> 62.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14446 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-78
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 12750 </schkms>
+
+
+<effkms> 12750 </effkms>
+
+
+<revenue> 325475 </revenue>
+
+
+<epkm> 2552.7 </epkm>
+
+
+<load_factor> 72.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11474 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-79
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 2321 </effkms>
+
+
+<revenue> 67756 </revenue>
+
+
+<epkm> 2919.3 </epkm>
+
+
+<load_factor> 125.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 510 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-80
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> DSL </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 2321 </effkms>
+
+
+<revenue> 62925 </revenue>
+
+
+<epkm> 2711.1 </epkm>
+
+
+<load_factor> 116.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 250 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-84
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 10230 </effkms>
+
+
+<revenue> 364385 </revenue>
+
+
+<epkm> 3561.9 </epkm>
+
+
+<load_factor> 153.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 9596 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-85
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> DVG </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> NGM </schkms>
+
+
+<effkms> 10230 </effkms>
+
+
+<revenue> 307751 </revenue>
+
+
+<epkm> 3008.3 </epkm>
+
+
+<load_factor> 129.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8571 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-86
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CDG </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7936 </schkms>
+
+
+<effkms> 7936 </effkms>
+
+
+<revenue> 130497 </revenue>
+
+
+<epkm> 1644.4 </epkm>
+
+
+<load_factor> 70.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 22006 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-89
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 8360 </effkms>
+
+
+<revenue> 170072 </revenue>
+
+
+<epkm> 2034.4 </epkm>
+
+
+<load_factor> 87.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 17452 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-93
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KGV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 6950 </effkms>
+
+
+<revenue> 127928 </revenue>
+
+
+<epkm> 1840.7 </epkm>
+
+
+<load_factor> 79.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 21354 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-94
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KGV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 5560 </effkms>
+
+
+<revenue> 90577 </revenue>
+
+
+<epkm> 1629.1 </epkm>
+
+
+<load_factor> 45.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 13795 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-95
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KGD </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 4812 </effkms>
+
+
+<revenue> 80003 </revenue>
+
+
+<epkm> 1662.6 </epkm>
+
+
+<load_factor> 46.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12301 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-106
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> OOTY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 12180 </effkms>
+
+
+<revenue> 341515 </revenue>
+
+
+<epkm> 2803.9 </epkm>
+
+
+<load_factor> 120.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 7342 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-107
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14374 </schkms>
+
+
+<effkms> 14374 </effkms>
+
+
+<revenue> 390663 </revenue>
+
+
+<epkm> 2717.8 </epkm>
+
+
+<load_factor> 117.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 11304 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-108
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14460 </schkms>
+
+
+<effkms> 14460 </effkms>
+
+
+<revenue> 347345 </revenue>
+
+
+<epkm> 2402.1 </epkm>
+
+
+<load_factor> 103.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10801 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-110
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HJK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8850 </schkms>
+
+
+<effkms> 8850 </effkms>
+
+
+<revenue> 163128 </revenue>
+
+
+<epkm> 1843.3 </epkm>
+
+
+<load_factor> 52.0 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 25874 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-118
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 4976 </schkms>
+
+
+<effkms> 4976 </effkms>
+
+
+<revenue> 93889 </revenue>
+
+
+<epkm> 1886.8 </epkm>
+
+
+<load_factor> 81.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 6988 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-123
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BSRL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8700 </effkms>
+
+
+<revenue> 166449 </revenue>
+
+
+<epkm> 1913.2 </epkm>
+
+
+<load_factor> 82.4 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 16474 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-124
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 11700 </schkms>
+
+
+<effkms> 11700 </effkms>
+
+
+<revenue> 244693 </revenue>
+
+
+<epkm> 2091.4 </epkm>
+
+
+<load_factor> 90.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14610 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-137
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> VCF </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7580 </schkms>
+
+
+<effkms> 7580 </effkms>
+
+
+<revenue> 125887 </revenue>
+
+
+<epkm> 1660.8 </epkm>
+
+
+<load_factor> 46.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 17426 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-138
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7654 </schkms>
+
+
+<effkms> 7654 </effkms>
+
+
+<revenue> 167314 </revenue>
+
+
+<epkm> 2186.0 </epkm>
+
+
+<load_factor> 94.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18582 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-139
+
+
+
+
+</id><expected_epkm> 3547.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 9800 </schkms>
+
+
+<effkms> 9800 </effkms>
+
+
+<revenue> 163041 </revenue>
+
+
+<epkm> 1663.7 </epkm>
+
+
+<load_factor> 46.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 16960 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-140
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 7488 </schkms>
+
+
+<effkms> 7488 </effkms>
+
+
+<revenue> 252201 </revenue>
+
+
+<epkm> 3368.1 </epkm>
+
+
+<load_factor> 145.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 19680 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-143
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9080 </schkms>
+
+
+<effkms> 9080 </effkms>
+
+
+<revenue> 173101 </revenue>
+
+
+<epkm> 1906.4 </epkm>
+
+
+<load_factor> 82.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18750 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-147
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7670 </schkms>
+
+
+<effkms> 7670 </effkms>
+
+
+<revenue> 133488 </revenue>
+
+
+<epkm> 1740.4 </epkm>
+
+
+<load_factor> 75.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 12481 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-151
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 7634 </effkms>
+
+
+<revenue> 154937 </revenue>
+
+
+<epkm> 2029.6 </epkm>
+
+
+<load_factor> 57.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 13316 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-152
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CJR </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 8760 </effkms>
+
+
+<revenue> 170500 </revenue>
+
+
+<epkm> 1946.3 </epkm>
+
+
+<load_factor> 54.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 15184 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-156
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7654 </schkms>
+
+
+<effkms> 7654 </effkms>
+
+
+<revenue> 169878 </revenue>
+
+
+<epkm> 2219.5 </epkm>
+
+
+<load_factor> 62.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18790 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-158
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MIT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 5062 </effkms>
+
+
+<revenue> 113974 </revenue>
+
+
+<epkm> 2251.6 </epkm>
+
+
+<load_factor> 63.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 2824 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-161
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 12960 </effkms>
+
+
+<revenue> 327790 </revenue>
+
+
+<epkm> 2529.2 </epkm>
+
+
+<load_factor> 71.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 13258 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-162
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 218541 </revenue>
+
+
+<epkm> 2117.6 </epkm>
+
+
+<load_factor> 91.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11783 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-163
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10224 </effkms>
+
+
+<revenue> 200809 </revenue>
+
+
+<epkm> 1964.1 </epkm>
+
+
+<load_factor> 84.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11634 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-164
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 208060 </revenue>
+
+
+<epkm> 2016.1 </epkm>
+
+
+<load_factor> 86.8 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 9644 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-165
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 217363 </revenue>
+
+
+<epkm> 2106.2 </epkm>
+
+
+<load_factor> 90.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14790 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-171
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13674 </schkms>
+
+
+<effkms> 13674 </effkms>
+
+
+<revenue> 343425 </revenue>
+
+
+<epkm> 2511.5 </epkm>
+
+
+<load_factor> 108.2 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 10503 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-172
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MYS </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 13980 </effkms>
+
+
+<revenue> 302691 </revenue>
+
+
+<epkm> 2165.2 </epkm>
+
+
+<load_factor> 93.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 10096 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-177
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CKM </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 12960 </effkms>
+
+
+<revenue> 335732 </revenue>
+
+
+<epkm> 2590.5 </epkm>
+
+
+<load_factor> 111.6 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 14531 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-178
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8246  </schkms>
+
+
+<effkms> 8246 </effkms>
+
+
+<revenue> 203362 </revenue>
+
+
+<epkm> 2466.2 </epkm>
+
+
+<load_factor> 69.5 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 19513 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-179
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8604 </schkms>
+
+
+<effkms> 8604 </effkms>
+
+
+<revenue> 183972 </revenue>
+
+
+<epkm> 2138.2 </epkm>
+
+
+<load_factor> 60.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19550 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-184
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> RSPT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7272 </schkms>
+
+
+<effkms> 7272 </effkms>
+
+
+<revenue> 150458 </revenue>
+
+
+<epkm> 2069.0 </epkm>
+
+
+<load_factor> 89.1 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 14037 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-185
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8544 </schkms>
+
+
+<effkms> 8544 </effkms>
+
+
+<revenue> 222494 </revenue>
+
+
+<epkm> 2604.1 </epkm>
+
+
+<load_factor> 112.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 22909 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-186
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 8544 </schkms>
+
+
+<effkms> 8544 </effkms>
+
+
+<revenue> 224309 </revenue>
+
+
+<epkm> 2625.3 </epkm>
+
+
+<load_factor> 74.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 20012 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-187
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TMK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 7680 </schkms>
+
+
+<effkms> 7680 </effkms>
+
+
+<revenue> 201708 </revenue>
+
+
+<epkm> 2626.4 </epkm>
+
+
+<load_factor> 74.0 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 20098 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-189
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 3774 </schkms>
+
+
+<effkms> 3774 </effkms>
+
+
+<revenue> 80258 </revenue>
+
+
+<epkm> 2126.6 </epkm>
+
+
+<load_factor> 91.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 3003 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-191
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 10680 </schkms>
+
+
+<effkms> 10680 </effkms>
+
+
+<revenue> 297938 </revenue>
+
+
+<epkm> 2789.7 </epkm>
+
+
+<load_factor> 120.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8570 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-192
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MRC </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 12892 </effkms>
+
+
+<revenue> 243922 </revenue>
+
+
+<epkm> 1892.0 </epkm>
+
+
+<load_factor> 81.5 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 5204 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-120A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BSRL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 179424 </revenue>
+
+
+<epkm> 1738.6 </epkm>
+
+
+<load_factor> 74.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 20066 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-121A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> GGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8776 </effkms>
+
+
+<revenue> 151304 </revenue>
+
+
+<epkm> 1724.1 </epkm>
+
+
+<load_factor> 74.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18920 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-125A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 13389 </schkms>
+
+
+<effkms> 13389 </effkms>
+
+
+<revenue> 365015 </revenue>
+
+
+<epkm> 2726.2 </epkm>
+
+
+<load_factor> 117.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 17053 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-133A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 16980 </schkms>
+
+
+<effkms> 16980 </effkms>
+
+
+<revenue> 362610 </revenue>
+
+
+<epkm> 2135.5 </epkm>
+
+
+<load_factor> 60.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11994 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-13A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BKL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9420 </effkms>
+
+
+<revenue> 153634 </revenue>
+
+
+<epkm> 1630.9 </epkm>
+
+
+<load_factor> 70.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 20239 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-141A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 16156 </effkms>
+
+
+<revenue> 326127 </revenue>
+
+
+<epkm> 2018.6 </epkm>
+
+
+<load_factor> 86.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8655 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-142A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 9822 </effkms>
+
+
+<revenue> 222062 </revenue>
+
+
+<epkm> 2260.9 </epkm>
+
+
+<load_factor> 97.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16085 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-144A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLK </schkms>
+
+
+<effkms> 10648 </effkms>
+
+
+<revenue> 196251 </revenue>
+
+
+<epkm> 1843.1 </epkm>
+
+
+<load_factor> 51.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18765 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-14A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9972 </effkms>
+
+
+<revenue> 212725 </revenue>
+
+
+<epkm> 2133.2 </epkm>
+
+
+<load_factor> 91.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23159 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-150A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 9942 </effkms>
+
+
+<revenue> 185475 </revenue>
+
+
+<epkm> 1865.6 </epkm>
+
+
+<load_factor> 80.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19741 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-157A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 12330 </effkms>
+
+
+<revenue> 329476 </revenue>
+
+
+<epkm> 2672.1 </epkm>
+
+
+<load_factor> 115.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 19454 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-166A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10104 </schkms>
+
+
+<effkms> 10104 </effkms>
+
+
+<revenue> 192367 </revenue>
+
+
+<epkm> 1903.9 </epkm>
+
+
+<load_factor> 53.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 20411 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-16A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 10270 </effkms>
+
+
+<revenue> 166872 </revenue>
+
+
+<epkm> 1624.8 </epkm>
+
+
+<load_factor> 70.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 28265 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-20A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 10074 </effkms>
+
+
+<revenue> 160232 </revenue>
+
+
+<epkm> 1590.5 </epkm>
+
+
+<load_factor> 44.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14707 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-21A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9250 </schkms>
+
+
+<effkms> 9250 </effkms>
+
+
+<revenue> 151068 </revenue>
+
+
+<epkm> 1633.2 </epkm>
+
+
+<load_factor> 70.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15726 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-23A
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9432 </schkms>
+
+
+<effkms> 9432 </effkms>
+
+
+<revenue> 148601 </revenue>
+
+
+<epkm> 1575.5 </epkm>
+
+
+<load_factor> 67.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18852 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-27A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9586 </schkms>
+
+
+<effkms> 9586 </effkms>
+
+
+<revenue> 165296 </revenue>
+
+
+<epkm> 1724.3 </epkm>
+
+
+<load_factor> 48.6 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 21200 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-29A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 10422 </schkms>
+
+
+<effkms> 10422 </effkms>
+
+
+<revenue> 182855 </revenue>
+
+
+<epkm> 1754.5 </epkm>
+
+
+<load_factor> 49.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 24309 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-2A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CBT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 15180 </effkms>
+
+
+<revenue> 418619 </revenue>
+
+
+<epkm> 2757.7 </epkm>
+
+
+<load_factor> 77.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8905 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-44A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MRCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> 9316 </schkms>
+
+
+<effkms> 9316 </effkms>
+
+
+<revenue> 172748 </revenue>
+
+
+<epkm> 1854.3 </epkm>
+
+
+<load_factor> 52.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23109 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-47A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> 14400 </schkms>
+
+
+<effkms> 14400 </effkms>
+
+
+<revenue> 408013 </revenue>
+
+
+<epkm> 2833.4 </epkm>
+
+
+<load_factor> 79.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16470 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-61A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MDH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8688 </effkms>
+
+
+<revenue> 138905 </revenue>
+
+
+<epkm> 1598.8 </epkm>
+
+
+<load_factor> 45.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18725 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-9A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> VCF </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8712 </effkms>
+
+
+<revenue> 135401 </revenue>
+
+
+<epkm> 1554.2 </epkm>
+
+
+<load_factor> 66.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 17554 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-4A
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 14640 </effkms>
+
+
+<revenue> 270280 </revenue>
+
+
+<epkm> 1846.2 </epkm>
+
+
+<load_factor> 52.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12657 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-120B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BSRL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 10320 </effkms>
+
+
+<revenue> 179424 </revenue>
+
+
+<epkm> 1738.6 </epkm>
+
+
+<load_factor> 74.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 20066 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-121B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> GGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8776 </effkms>
+
+
+<revenue> 151304 </revenue>
+
+
+<epkm> 1724.1 </epkm>
+
+
+<load_factor> 74.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18920 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-125B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 13389 </effkms>
+
+
+<revenue> 365015 </revenue>
+
+
+<epkm> 2726.2 </epkm>
+
+
+<load_factor> 117.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 17053 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-133B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 16980 </effkms>
+
+
+<revenue> 362610 </revenue>
+
+
+<epkm> 2135.5 </epkm>
+
+
+<load_factor> 60.2 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 11994 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-13B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BKL </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9420 </effkms>
+
+
+<revenue> 153634 </revenue>
+
+
+<epkm> 1630.9 </epkm>
+
+
+<load_factor> 70.2 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 20239 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-141B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 16156 </effkms>
+
+
+<revenue> 326127 </revenue>
+
+
+<epkm> 2018.6 </epkm>
+
+
+<load_factor> 86.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 8655 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-142B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 9822 </effkms>
+
+
+<revenue> 222062 </revenue>
+
+
+<epkm> 2260.9 </epkm>
+
+
+<load_factor> 97.4 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16085 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-144B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLK </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLK </schkms>
+
+
+<effkms> 10648 </effkms>
+
+
+<revenue> 196251 </revenue>
+
+
+<epkm> 1843.1 </epkm>
+
+
+<load_factor> 51.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 18765 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-14B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> KPA </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9972 </effkms>
+
+
+<revenue> 212725 </revenue>
+
+
+<epkm> 2133.2 </epkm>
+
+
+<load_factor> 91.9 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23159 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-150B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 9942 </effkms>
+
+
+<revenue> 185475 </revenue>
+
+
+<epkm> 1865.6 </epkm>
+
+
+<load_factor> 80.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 19741 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-157B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 12330 </effkms>
+
+
+<revenue> 329476 </revenue>
+
+
+<epkm> 2672.1 </epkm>
+
+
+<load_factor> 115.1 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 19454 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-166B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MYS </schkms>
+
+
+<effkms> 10104 </effkms>
+
+
+<revenue> 192367 </revenue>
+
+
+<epkm> 1903.9 </epkm>
+
+
+<load_factor> 53.7 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 20411 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-16B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 10270 </effkms>
+
+
+<revenue> 166872 </revenue>
+
+
+<epkm> 1624.8 </epkm>
+
+
+<load_factor> 70.0 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 28265 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-20B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLV </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MLV </schkms>
+
+
+<effkms> 10074 </effkms>
+
+
+<revenue> 160232 </revenue>
+
+
+<epkm> 1590.5 </epkm>
+
+
+<load_factor> 44.8 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 14707 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-21B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MLH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9250 </effkms>
+
+
+<revenue> 151068 </revenue>
+
+
+<epkm> 1633.2 </epkm>
+
+
+<load_factor> 70.3 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 15726 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-23B
+
+
+
+
+</id><expected_epkm> 2322.000000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> PDP </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 9432 </effkms>
+
+
+<revenue> 148601 </revenue>
+
+
+<epkm> 1575.5 </epkm>
+
+
+<load_factor> 67.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18852 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-27B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MGH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9586 </effkms>
+
+
+<revenue> 165296 </revenue>
+
+
+<epkm> 1724.3 </epkm>
+
+
+<load_factor> 48.6 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 21200 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-29B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> HMT </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> PDP </schkms>
+
+
+<effkms> 10422 </effkms>
+
+
+<revenue> 182855 </revenue>
+
+
+<epkm> 1754.5 </epkm>
+
+
+<load_factor> 49.5 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 24309 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-2B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> CBT </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 15180 </effkms>
+
+
+<revenue> 418619 </revenue>
+
+
+<epkm> 2757.7 </epkm>
+
+
+<load_factor> 77.7 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 8905 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-44B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MRCH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 9316 </effkms>
+
+
+<revenue> 172748 </revenue>
+
+
+<epkm> 1854.3 </epkm>
+
+
+<load_factor> 52.3 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 23109 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-47B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> SMG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> SMG </schkms>
+
+
+<effkms> 14400 </effkms>
+
+
+<revenue> 408013 </revenue>
+
+
+<epkm> 2833.4 </epkm>
+
+
+<load_factor> 79.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 16470 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-61B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MDH </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8688 </effkms>
+
+
+<revenue> 138905 </revenue>
+
+
+<epkm> 1598.8 </epkm>
+
+
+<load_factor> 45.1 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 18725 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-9B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> VCF </end_station>
+
+
+<type_of_bus> ORD </type_of_bus>
+
+
+<schkms> MDY </schkms>
+
+
+<effkms> 8712 </effkms>
+
+
+<revenue> 135401 </revenue>
+
+
+<epkm> 1554.2 </epkm>
+
+
+<load_factor> 66.9 </load_factor>
+
+
+<group> C </group>
+
+
+<passengers> 17554 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-4B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> BNG </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> BNG </schkms>
+
+
+<effkms> 14640 </effkms>
+
+
+<revenue> 270280 </revenue>
+
+
+<epkm> 1846.2 </epkm>
+
+
+<load_factor> 52.6 </load_factor>
+
+
+<group> B </group>
+
+
+<passengers> 12657 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-19B
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> MYS </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TN </schkms>
+
+
+<effkms> 14168 </effkms>
+
+
+<revenue> 325461 </revenue>
+
+
+<epkm> 2297.2 </epkm>
+
+
+<load_factor> 69.3 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 4996 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-25
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> MDY </start_station>
+
+
+<end_station> TNP </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 1638 </effkms>
+
+
+<revenue> 43204 </revenue>
+
+
+<epkm> 2637.6 </epkm>
+
+
+<load_factor> 64.8 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 950 </passengers>
+
+</schedule>
+
+
+
+
+<schedule><id> MDY-26
+
+
+
+
+</id><expected_epkm> 3547.800000 </expected_epkm>
+
+
+<start_station> TNP </start_station>
+
+
+<end_station> MDY </end_station>
+
+
+<type_of_bus> EXP </type_of_bus>
+
+
+<schkms> TNP </schkms>
+
+
+<effkms> 1638 </effkms>
+
+
+<revenue> 43096 </revenue>
+
+
+<epkm> 2631.0 </epkm>
+
+
+<load_factor> 57.9 </load_factor>
+
+
+<group> A </group>
+
+
+<passengers> 1125 </passengers>
+
+</schedule>
+
+
+</buses>
+
